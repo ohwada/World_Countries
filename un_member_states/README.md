@@ -1,7 +1,7 @@
 UN Member States
 ===============
 
-List of Member states of the United Nations
+List of Member states of the United Nations with National Flag
 
 ![un_countries_flag](https://github.com/ohwada/World_Countries/blob/af9a8face8ebb0a96bb79d56d3088a8131b3b284/un_member_states/screenshots/un_countries_flag.png)
 

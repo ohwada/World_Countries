@@ -1,6 +1,10 @@
 National Capitals
 ===============
 
+List of National Capitals with Coordinates
+
+![capitals_coordinates](https://github.com/ohwada/World_Countries/blob/main/natinal_capitals/screenshots/capitals_coordinates.png)
+
 - List of Natinal Capitals in JSON file
 - Python program which create List in HTML form
 
