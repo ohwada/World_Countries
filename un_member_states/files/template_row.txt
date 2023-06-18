@@ -1,0 +1,6 @@
+<tr>
+<td>{flag}</td>
+<td>{flag_icon}{country}</td>
+<td>{name}</td>
+<td>{date}</td>
+</tr>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+Capitals
+</title>
+</head>
+<body>
+<h1>{body_title}</h1>
+<div>{desc}</div>
+<br/>
+
+<table style="margin: 30px">
+<thead>
+<tr>
+<th>Country/Territory</th>
+<th>City/Town</th>
+<th>Coordinate (Google_Map)</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+{rows}
+</tbody>
+</table>
+
+<h2>Reference<h2>
+{reference}
+</body>
+</html>
