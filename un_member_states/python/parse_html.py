@@ -2,11 +2,17 @@
 
 from bs4 import BeautifulSoup
 
+import re
+
 BASE_URL = "https://en.wikipedia.org"
   
 HTTPS = "https:"
 
-FORMAT_LINE = "{country}, {url_country}, {date}\n"
+COMMA = ','
+
+COMMA_HTML = '&comma;'
+
+EMPTY = ''
 
 def parse_a(data):
     if not data:
@@ -33,6 +39,23 @@ def parse_img(data):
     return [url, width, height]
 #
 
+def parse_text(data):
+    if not data:
+        return ""
+    str_data = data.text.strip()
+    ret = str_data.replace(COMMA, COMMA_HTML)
+    return ret
+#
+
+def strip_ref(data):
+    if not data:
+        return ""
+    text1 = data.text.strip()
+    text2 = text1.replace(COMMA, COMMA_HTML)
+    ret = re.sub('\[\w{1,2}\]',  EMPTY, text2)
+    return ret
+#
+
 def parse_date(data):
     if not data:
         return ""
@@ -42,6 +65,18 @@ def parse_date(data):
     date = span.string
     return date
 #
+
+def parse_orig(data):
+    if not data:
+        return ""
+    img = data.find("img")
+    if not img:
+        return ""
+    title = img.get("title")
+    return title
+#
+
+FORMAT_LINE = "{country}, {url_country}, {date}, {orig}, {notes}\n"
 
 wdata = ""
 
@@ -66,15 +101,20 @@ for row in rows:
     name = ""
     url= "" 
     if len_th_cols >= 1:
-        # print(th_cols[0])
         name, url = parse_a(th_cols[0])
         print(name)
     date= ""
     if len_td_cols >= 1:
-        print(td_cols[0])
         date = parse_date(td_cols[0])
+    orig= ""
+    if len_td_cols >= 2:
+        orig = parse_orig(td_cols[1])
 
-    line = FORMAT_LINE.format(country=name, url_country=url, date=date)
+    notes= ""
+    if len_td_cols >= 3:
+        notes = strip_ref(td_cols[2])
+
+    line = FORMAT_LINE.format(country=name, url_country=url, date=date,orig=orig, notes=notes)
     print(line)
     wdata += line;
 

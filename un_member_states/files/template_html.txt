@@ -13,10 +13,10 @@ UN Countries
 <table style="margin: 30px">
 <thead>
 <tr>
-<th>Natinal Flag</th>
 <th>Member state</th>
-<th>Ofiical Name</th>
 <th>Date of admission</th>
+<th>Original member</th>
+<th>See also</th>
 </tr>
 </thead>
 <tbody>

@@ -1,6 +1,6 @@
 <tr>
-<td>{flag}</td>
-<td>{flag_icon}{country}</td>
-<td>{name}</td>
-<td>{date}</td>
+<td>{country}</td>
+<td style="white-space:nowrap">{date}</td>
+<td>{original_member}</td>
+<td>{notes}</td>
 </tr>
