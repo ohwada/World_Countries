@@ -6,16 +6,17 @@ World Countries
 
 #### un member states
 
-- List of Member statesof the United Nations in JSON file
-- Python program which create List in HTML form
+List of Member statesof the United Nations
+
+#### un member states flag
+
+List of Member statesof the United Nations with National Flag
 
 #### sovereign states
 
-- List of Sovereign States in JSON file
-- Python program which create List in HTML form
+List of Sovereign States
 
 #### natinal capitals
 
-- List of Natinal Capitals in JSON file
-- Python program which create List in HTML form
+List of Natinal Capitals
 
