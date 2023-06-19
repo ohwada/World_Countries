@@ -1,8 +1,7 @@
 World Countries
 ===============
 
-- Data on the list of countries in the world and
-- Program to create a list in HTML format
+List of World Countries
 
 #### un member states
 
