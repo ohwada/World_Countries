@@ -24,5 +24,6 @@ Create List in HTML form from JSON file
 - parse_html.py
 - sv2json.py
 - json2html.py
+- resize_flag.py
 
 
