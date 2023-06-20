@@ -3,6 +3,8 @@ UN Member States
 
 List of Member states of the United Nations
 
+The member states of the United Nationscomprise 193 sovereign states. 
+
 ![un_countries_flag](https://github.com/ohwada/World_Countries/blob/e6f5dbb17cc90359e61f1359b257145588747129/un_member_states/screenshots/un_countries.png)
 
 - List of Member states in JSON file
