@@ -19,4 +19,7 @@ List of Sovereign States
 
 List of Natinal Capitals
 
+#### natinal capitals coordinates
+
+List of Natinal Capitals with Coordinates
 
