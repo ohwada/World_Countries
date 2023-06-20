@@ -16,7 +16,6 @@ Capitals
 <tr>
 <th>Country/Territory</th>
 <th>City/Town</th>
-<th>Coordinate (Google_Map)</th>
 <th>Notes</th>
 </tr>
 </thead>

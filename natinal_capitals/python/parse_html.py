@@ -1,22 +1,21 @@
 # parse_html.py
-
 # 2023-06-01 K.OHWADA
 
 from bs4 import BeautifulSoup
 
-import urllib.parse
+import re
 
 BASE_URL = "https://en.wikipedia.org"
   
 HTTPS = "https:"
-
-FORMAT_LINE = "{country}, {url_country}, {capital}, {url_capital}, {url_flag}, {width}, {height}, {notes}\n"
 
 COMMA = ','
 
 COMMA_HTML = '&comma;'
 
 COMMA_URL = '%2c'
+
+EMPTY = ''
 
 def parse_a(data):
     if not data:
@@ -44,25 +43,32 @@ def parse_img(data):
     return [url, width, height]
 #
  
+def strip_ref(data):
+    if not data:
+        return ""
+    text1 = data.text.strip()
+    text2 = text1.replace(COMMA, COMMA_HTML)
+    ret = re.sub('\[\w{1,2}\]',  EMPTY, text2)
+    return ret
+#
+
+FORMAT_LINE = "{country}, {url_country}, {capital}, {url_capital}, {url_flag}, {width}, {height}, {notes}\n"
+
 wdata = ""
 
 with open('List of national capitals_table.html', 'r') as f1:
      html = f1.read()
   
 soup = BeautifulSoup(html,'html.parser')
-    
-#table = soup.find_all("table")
-# print(table)
 
 rows = soup.select("table tr")
-#print(tr)
 
 for row in rows:
-    print(row)
     cols = row.find_all("td")
-    print(cols)
     len_cols = len(cols)
     print("len", len_cols)
+    if len_cols == 0:
+        continue
     country = ""
     url_country= "" 
     img_url = "" 
@@ -82,11 +88,8 @@ for row in rows:
         print(name1)
     notes = ""
     if len_cols >= 3:
-        col_notes = cols[2].text
-        if col_notes:
-            str_notes = str( col_notes )
-            notes = str_notes.replace(COMMA, COMMA_HTML)
-        print(notes)
+        notes = strip_ref(cols[2])
+
     line = FORMAT_LINE.format(country=name1, url_country=url1, capital=name0, url_capital=url0, url_flag=img_url, width =width, height= height, notes=notes)
     print(line)
     wdata += line;
