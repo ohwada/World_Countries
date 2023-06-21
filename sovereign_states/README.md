@@ -5,6 +5,8 @@ List of Sovereign States
 
 The following is a list providing an overview of sovereign states around the world with information on their status and recognition of their sovereignty. 
 
+![sovereign states](https://github.com/ohwada/World_Countries/blob/main/sovereign_states/screenshots/sovereign_states.png)
+
 - List of Sovereign States in JSON file
 - Python program which create List in HTML form
 
