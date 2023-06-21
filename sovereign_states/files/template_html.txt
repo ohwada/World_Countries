@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+Sovereign States
+</title>
+</head>
+<body>
+<h1>{body_title}</h1>
+<div>{desc}</div>
+<br/>
+
+<table style="margin: 30px">
+<thead>
+<tr>
+<th>
+Common name
+</th>
+<th>
+formal name</th>
+<th>
+Membership within the UN System
+</th>
+<th>
+Sovereignty dispute
+</th>
+<th>
+Further information on status and recognition of sovereignty
+</th>
+</tr>
+</thead>
+<tbody>
+{rows}
+</tbody>
+</table>
+
+<h2>Reference<h2>
+{reference}
+</body>
+</html>

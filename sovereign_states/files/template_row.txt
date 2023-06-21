@@ -1,0 +1,7 @@
+<tr>
+<td>{flag} {country}</td>
+<td>{formal_name}</td>
+<td>{membership}</td>
+<td>{dispute}</td>
+<td>{info}</td>
+</tr>
