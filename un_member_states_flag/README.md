@@ -20,10 +20,13 @@ and make it into a JSON format file.
 Add National Flag
 Create List in HTML form from JSON file
 
-#### Python program
+### Python program
 - parse_html.py
 - sv2json.py
 - json2html.py
 - resize_flag.py
+
+### Reference
+https://ken-ohwada.hatenadiary.org/entry/2023/06/21/142850
 
 
