@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Tokyo, Japan</name>
+ <description>
+show the Japanese Flag on Coordinates of Tokyo
+</description>
+<Style id="japan">
+<IconStyle>
+<Icon>
+<href>
+https://raw.githubusercontent.com/ohwada/World_Countries/master/un_member_states_flag/images/100px-Flag_of_Japan.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>Tokyo, Japan</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Japan">Japan</a>]]>
+</description>
+<styleUrl>#japan</styleUrl>
+<Point>
+<coordinates>
+139.692222, 35.689722, 0
+</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

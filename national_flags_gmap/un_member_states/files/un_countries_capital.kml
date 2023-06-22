@@ -1,0 +1,3871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>List of Member states of the United Nations</name>
+ <description>
+display the National Flag at the Coordinates of the Capital
+</description>
+<Style id="afghanistan">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/23px-Flag_of_the_Taliban.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="albania">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/21px-Flag_of_Albania.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="algeria">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/23px-Flag_of_Algeria.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="andorra">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/22px-Flag_of_Andorra.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="angola">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/23px-Flag_of_Angola.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="antigua_and_barbuda">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/23px-Flag_of_Antigua_and_Barbuda.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="argentina">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="armenia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/23px-Flag_of_Armenia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="australia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="austria">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="azerbaijan">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/23px-Flag_of_Azerbaijan.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="bahamas">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/23px-Flag_of_the_Bahamas.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="bahrain">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/23px-Flag_of_Bahrain.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="bangladesh">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/23px-Flag_of_Bangladesh.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="barbados">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/23px-Flag_of_Barbados.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="belarus">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/23px-Flag_of_Belarus.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="belgium">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/17px-Flag_of_Belgium.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="belize">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/23px-Flag_of_Belize.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="benin">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/23px-Flag_of_Benin.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="bhutan">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/23px-Flag_of_Bhutan.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="bolivia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/22px-Bandera_de_Bolivia_%28Estado%29.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="bosnia_and_herzegovina">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/23px-Flag_of_Bosnia_and_Herzegovina.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="botswana">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/23px-Flag_of_Botswana.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="brazil">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="brunei">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/23px-Flag_of_Brunei.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="bulgaria">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/23px-Flag_of_Bulgaria.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="burkina_faso">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/23px-Flag_of_Burkina_Faso.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="burundi">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/23px-Flag_of_Burundi.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="cambodia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/23px-Flag_of_Cambodia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="cameroon">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/23px-Flag_of_Cameroon.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="canada">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="cape_verde">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/23px-Flag_of_Cape_Verde.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="central_african_republic">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/23px-Flag_of_the_Central_African_Republic.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="chad">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/23px-Flag_of_Chad.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="chile">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="china">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="colombia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="comoros">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/23px-Flag_of_the_Comoros.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="congo">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/23px-Flag_of_the_Republic_of_the_Congo.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="democratic_republic_of_the_congo">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/20px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="costa_rica">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/23px-Flag_of_Costa_Rica_%28state%29.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="croatia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/23px-Flag_of_Croatia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="cuba">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/23px-Flag_of_Cuba.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="cyprus">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/23px-Flag_of_Cyprus.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="czechia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="c%C3%B4te_d%27ivoire">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/23px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="denmark">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="djibouti">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/23px-Flag_of_Djibouti.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="dominica">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/23px-Flag_of_Dominica.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="dominican_republic">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/23px-Flag_of_the_Dominican_Republic.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="east_timor">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/23px-Flag_of_East_Timor.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="ecuador">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/23px-Flag_of_Ecuador.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="egypt">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="el_salvador">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/23px-Flag_of_El_Salvador.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="equatorial_guinea">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/23px-Flag_of_Equatorial_Guinea.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="eritrea">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/23px-Flag_of_Eritrea.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="estonia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/23px-Flag_of_Estonia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="eswatini">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/23px-Flag_of_Eswatini.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="ethiopia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/23px-Flag_of_Ethiopia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="fiji">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/23px-Flag_of_Fiji.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="finland">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="france">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="gabon">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/20px-Flag_of_Gabon.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="gambia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/23px-Flag_of_The_Gambia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="georgia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/23px-Flag_of_Georgia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="germany">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="ghana">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/23px-Flag_of_Ghana.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="greece">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="grenada">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/23px-Flag_of_Grenada.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="guatemala">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/23px-Flag_of_Guatemala.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="guinea">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/23px-Flag_of_Guinea.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="guinea-bissau">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/23px-Flag_of_Guinea-Bissau.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="guyana">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/23px-Flag_of_Guyana.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="haiti">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/23px-Flag_of_Haiti.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="honduras">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/23px-Flag_of_Honduras.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="hungary">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="iceland">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/21px-Flag_of_Iceland.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="india">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="indonesia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="iran">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="iraq">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/23px-Flag_of_Iraq.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="ireland">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="israel">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/21px-Flag_of_Israel.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="italy">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="jamaica">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/23px-Flag_of_Jamaica.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="japan">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="jordan">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/23px-Flag_of_Jordan.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="kazakhstan">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/23px-Flag_of_Kazakhstan.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="kenya">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/23px-Flag_of_Kenya.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="kiribati">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/23px-Flag_of_Kiribati.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="kuwait">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/23px-Flag_of_Kuwait.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="kyrgyzstan">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/23px-Flag_of_Kyrgyzstan.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="laos">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/23px-Flag_of_Laos.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="latvia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/23px-Flag_of_Latvia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="lebanon">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/23px-Flag_of_Lebanon.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="lesotho">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/23px-Flag_of_Lesotho.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="liberia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/23px-Flag_of_Liberia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="libya">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/23px-Flag_of_Libya.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="liechtenstein">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/23px-Flag_of_Liechtenstein.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="lithuania">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/23px-Flag_of_Lithuania.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="luxembourg">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/23px-Flag_of_Luxembourg.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="madagascar">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/23px-Flag_of_Madagascar.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="malawi">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/23px-Flag_of_Malawi.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="malaysia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/23px-Flag_of_Malaysia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="maldives">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/23px-Flag_of_Maldives.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="mali">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/23px-Flag_of_Mali.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="malta">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/23px-Flag_of_Malta.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="marshall_islands">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/23px-Flag_of_the_Marshall_Islands.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="mauritania">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/23px-Flag_of_Mauritania.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="mauritius">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/23px-Flag_of_Mauritius.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="mexico">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="micronesia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/23px-Flag_of_the_Federated_States_of_Micronesia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="moldova">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/23px-Flag_of_Moldova.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="monaco">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/19px-Flag_of_Monaco.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="mongolia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/23px-Flag_of_Mongolia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="montenegro">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/23px-Flag_of_Montenegro.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="morocco">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="mozambique">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/23px-Flag_of_Mozambique.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="myanmar">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/23px-Flag_of_Myanmar.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="namibia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/23px-Flag_of_Namibia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="nauru">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/23px-Flag_of_Nauru.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="nepal">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/16px-Flag_of_Nepal.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="netherlands">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="new_zealand">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="nicaragua">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/23px-Flag_of_Nicaragua.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="niger">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/18px-Flag_of_Niger.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="nigeria">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/23px-Flag_of_Nigeria.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="north_korea">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/23px-Flag_of_North_Korea.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="north_macedonia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/23px-Flag_of_North_Macedonia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="norway">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="oman">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/23px-Flag_of_Oman.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pakistan">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/23px-Flag_of_Pakistan.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="palau">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/23px-Flag_of_Palau.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="panama">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/23px-Flag_of_Panama.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="papua_new_guinea">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/20px-Flag_of_Papua_New_Guinea.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="paraguay">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/23px-Flag_of_Paraguay.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="peru">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Peru_%28state%29.svg/23px-Flag_of_Peru_%28state%29.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="philippines">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/23px-Flag_of_the_Philippines.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="poland">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="portugal">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="qatar">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/23px-Flag_of_Qatar.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="romania">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="russia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="rwanda">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/23px-Flag_of_Rwanda.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="saint_kitts_and_nevis">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/23px-Flag_of_Saint_Kitts_and_Nevis.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="saint_lucia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/23px-Flag_of_Saint_Lucia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="saint_vincent_and_the_grenadines">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/23px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="samoa">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/23px-Flag_of_Samoa.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="san_marino">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/20px-Flag_of_San_Marino.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="saudi_arabia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="senegal">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/23px-Flag_of_Senegal.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="serbia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/23px-Flag_of_Serbia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="seychelles">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/23px-Flag_of_Seychelles.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="sierra_leone">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/23px-Flag_of_Sierra_Leone.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="singapore">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/23px-Flag_of_Singapore.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="slovakia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/23px-Flag_of_Slovakia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="slovenia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/23px-Flag_of_Slovenia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="solomon_islands">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/23px-Flag_of_the_Solomon_Islands.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="somalia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/23px-Flag_of_Somalia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="south_africa">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="south_korea">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="south_sudan">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/23px-Flag_of_South_Sudan.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="spain">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="sri_lanka">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/23px-Flag_of_Sri_Lanka.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="sudan">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/23px-Flag_of_Sudan.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="suriname">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="sweden">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="switzerland">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/16px-Flag_of_Switzerland_%28Pantone%29.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="syria">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/23px-Flag_of_Syria.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="s%C3%A3o_tom%C3%A9_and_pr%C3%ADncipe">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg/23px-Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="tajikistan">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/23px-Flag_of_Tajikistan.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="tanzania">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/23px-Flag_of_Tanzania.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="thailand">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="togo">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/23px-Flag_of_Togo.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="tonga">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/23px-Flag_of_Tonga.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="trinidad_and_tobago">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/23px-Flag_of_Trinidad_and_Tobago.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="tunisia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/23px-Flag_of_Tunisia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="turkey">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="turkmenistan">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/23px-Flag_of_Turkmenistan.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="tuvalu">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/23px-Flag_of_Tuvalu.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="uganda">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/23px-Flag_of_Uganda.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="ukraine">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="uae">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/23px-Flag_of_the_United_Arab_Emirates.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="uk">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="usa">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="uruguay">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="uzbekistan">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/23px-Flag_of_Uzbekistan.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="vanuatu">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/23px-Flag_of_Vanuatu.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="venezuela">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Flag_of_Venezuela_%28state%29.svg/23px-Flag_of_Venezuela_%28state%29.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="vietnam">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/23px-Flag_of_Vietnam.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="yemen">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/23px-Flag_of_Yemen.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="zambia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/23px-Flag_of_Zambia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="zimbabwe">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/23px-Flag_of_Zimbabwe.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+
+<Placemark>
+<name>Afghanistan</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Afghanistan">Afghanistan</a>]]>
+</description>
+<styleUrl>#afghanistan</styleUrl>
+<Point>
+<coordinates>
+69.178333, 34.525278, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Albania</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Albania">Albania</a>]]>
+</description>
+<styleUrl>#albania</styleUrl>
+<Point>
+<coordinates>
+19.817778, 41.328889, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Algeria</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Algeria">Algeria</a>]]>
+</description>
+<styleUrl>#algeria</styleUrl>
+<Point>
+<coordinates>
+3.058889, 36.753889, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Andorra</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Andorra">Andorra</a>]]>
+</description>
+<styleUrl>#andorra</styleUrl>
+<Point>
+<coordinates>
+1.5, 42.5, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Angola</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Angola">Angola</a>]]>
+</description>
+<styleUrl>#angola</styleUrl>
+<Point>
+<coordinates>
+13.234444, -8.838333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Antigua and Barbuda</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Antigua_and_Barbuda">Antigua and Barbuda</a>]]>
+</description>
+<styleUrl>#antigua_and_barbuda</styleUrl>
+<Point>
+<coordinates>
+-61.85, 17.116667, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Argentina</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Argentina">Argentina</a>]]>
+</description>
+<styleUrl>#argentina</styleUrl>
+<Point>
+<coordinates>
+-58.381667, -34.603333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Armenia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Armenia">Armenia</a>]]>
+</description>
+<styleUrl>#armenia</styleUrl>
+<Point>
+<coordinates>
+44.514444, 40.181389, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Australia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Australia">Australia</a>]]>
+</description>
+<styleUrl>#australia</styleUrl>
+<Point>
+<coordinates>
+149.126944, -35.293056, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Austria</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Austria">Austria</a>]]>
+</description>
+<styleUrl>#austria</styleUrl>
+<Point>
+<coordinates>
+16.366667, 48.2, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Azerbaijan</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Azerbaijan">Azerbaijan</a>]]>
+</description>
+<styleUrl>#azerbaijan</styleUrl>
+<Point>
+<coordinates>
+49.882222, 40.395278, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Bahamas</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/The_Bahamas">Bahamas</a>]]>
+</description>
+<styleUrl>#bahamas</styleUrl>
+<Point>
+<coordinates>
+-77.338611, 25.078056, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Bahrain</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Bahrain">Bahrain</a>]]>
+</description>
+<styleUrl>#bahrain</styleUrl>
+<Point>
+<coordinates>
+50.5775, 26.225, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Bangladesh</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Bangladesh">Bangladesh</a>]]>
+</description>
+<styleUrl>#bangladesh</styleUrl>
+<Point>
+<coordinates>
+90.388889, 23.763889, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Barbados</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Barbados">Barbados</a>]]>
+</description>
+<styleUrl>#barbados</styleUrl>
+<Point>
+<coordinates>
+-59.616667, 13.0975, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Belarus</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Belarus">Belarus</a>]]>
+</description>
+<styleUrl>#belarus</styleUrl>
+<Point>
+<coordinates>
+27.566667, 53.9, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Belgium</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Belgium">Belgium</a>]]>
+</description>
+<styleUrl>#belgium</styleUrl>
+<Point>
+<coordinates>
+4.3525, 50.846667, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Belize</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Belize">Belize</a>]]>
+</description>
+<styleUrl>#belize</styleUrl>
+<Point>
+<coordinates>
+-88.766944, 17.251389, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Benin</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Benin">Benin</a>]]>
+</description>
+<styleUrl>#benin</styleUrl>
+<Point>
+<coordinates>
+2.605, 6.497222, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Bhutan</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Bhutan">Bhutan</a>]]>
+</description>
+<styleUrl>#bhutan</styleUrl>
+<Point>
+<coordinates>
+89.636111, 27.472222, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Bolivia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Plurinational_State_of_Bolivia">Bolivia</a>]]>
+</description>
+<styleUrl>#bolivia</styleUrl>
+<Point>
+<coordinates>
+-68.15, -16.5, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Bosnia and Herzegovina</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina">Bosnia and Herzegovina</a>]]>
+</description>
+<styleUrl>#bosnia_and_herzegovina</styleUrl>
+<Point>
+<coordinates>
+18.413056, 43.856389, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Botswana</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Botswana">Botswana</a>]]>
+</description>
+<styleUrl>#botswana</styleUrl>
+<Point>
+<coordinates>
+25.912222, -24.658056, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Brazil</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Brazil">Brazil</a>]]>
+</description>
+<styleUrl>#brazil</styleUrl>
+<Point>
+<coordinates>
+-47.882778, -15.793889, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Brunei</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Brunei_Darussalam">Brunei</a>]]>
+</description>
+<styleUrl>#brunei</styleUrl>
+<Point>
+<coordinates>
+114.942222, 4.890278, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Bulgaria</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Bulgaria">Bulgaria</a>]]>
+</description>
+<styleUrl>#bulgaria</styleUrl>
+<Point>
+<coordinates>
+23.33, 42.7, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Burkina Faso</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Burkina_Faso">Burkina Faso</a>]]>
+</description>
+<styleUrl>#burkina_faso</styleUrl>
+<Point>
+<coordinates>
+-1.5275, 12.368611, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Burundi</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Burundi">Burundi</a>]]>
+</description>
+<styleUrl>#burundi</styleUrl>
+<Point>
+<coordinates>
+29.925, -3.428333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Cambodia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Cambodia">Cambodia</a>]]>
+</description>
+<styleUrl>#cambodia</styleUrl>
+<Point>
+<coordinates>
+104.921111, 11.569444, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Cameroon</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Cameroon">Cameroon</a>]]>
+</description>
+<styleUrl>#cameroon</styleUrl>
+<Point>
+<coordinates>
+11.516667, 3.866667, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Canada</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Canada">Canada</a>]]>
+</description>
+<styleUrl>#canada</styleUrl>
+<Point>
+<coordinates>
+-75.695, 45.424722, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Cape Verde</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Cabo_Verde">Cape Verde</a>]]>
+</description>
+<styleUrl>#cape_verde</styleUrl>
+<Point>
+<coordinates>
+-23.509, 14.918, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Central African Republic</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Central_African_Republic">Central African Republic</a>]]>
+</description>
+<styleUrl>#central_african_republic</styleUrl>
+<Point>
+<coordinates>
+18.562778, 4.373333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Chad</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Chad">Chad</a>]]>
+</description>
+<styleUrl>#chad</styleUrl>
+<Point>
+<coordinates>
+15.05, 12.11, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Chile</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Chile">Chile</a>]]>
+</description>
+<styleUrl>#chile</styleUrl>
+<Point>
+<coordinates>
+-70.666667, -33.45, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>China</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/China">China</a>]]>
+</description>
+<styleUrl>#china</styleUrl>
+<Point>
+<coordinates>
+116.3975, 39.906667, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Colombia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Colombia">Colombia</a>]]>
+</description>
+<styleUrl>#colombia</styleUrl>
+<Point>
+<coordinates>
+-74.072222, 4.711111, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Comoros</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Comoros">Comoros</a>]]>
+</description>
+<styleUrl>#comoros</styleUrl>
+<Point>
+<coordinates>
+43.256, -11.699, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Congo</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Republic_of_the_Congo">Congo</a>]]>
+</description>
+<styleUrl>#congo</styleUrl>
+<Point>
+<coordinates>
+15.271389, -4.269444, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Democratic Republic of the Congo</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo">Democratic Republic of the Congo</a>]]>
+</description>
+<styleUrl>#democratic_republic_of_the_congo</styleUrl>
+<Point>
+<coordinates>
+15.322222, -4.325, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Costa Rica</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Costa_Rica">Costa Rica</a>]]>
+</description>
+<styleUrl>#costa_rica</styleUrl>
+<Point>
+<coordinates>
+-84.08, 9.9325, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Croatia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Croatia">Croatia</a>]]>
+</description>
+<styleUrl>#croatia</styleUrl>
+<Point>
+<coordinates>
+15.9775, 45.813056, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Cuba</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Cuba">Cuba</a>]]>
+</description>
+<styleUrl>#cuba</styleUrl>
+<Point>
+<coordinates>
+-82.358889, 23.136667, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Cyprus</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Cyprus">Cyprus</a>]]>
+</description>
+<styleUrl>#cyprus</styleUrl>
+<Point>
+<coordinates>
+33.365, 35.1725, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Czechia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Czech_Republic">Czechia</a>]]>
+</description>
+<styleUrl>#czechia</styleUrl>
+<Point>
+<coordinates>
+14.421389, 50.0875, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Côte d'Ivoire</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Ivory_Coast">Côte d'Ivoire</a>]]>
+</description>
+<styleUrl>#c%C3%B4te_d%27ivoire</styleUrl>
+<Point>
+<coordinates>
+-5.274167, 6.816111, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Denmark</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Denmark">Denmark</a>]]>
+</description>
+<styleUrl>#denmark</styleUrl>
+<Point>
+<coordinates>
+12.568333, 55.676111, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Djibouti</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Djibouti">Djibouti</a>]]>
+</description>
+<styleUrl>#djibouti</styleUrl>
+<Point>
+<coordinates>
+43.145, 11.588333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Dominica</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Dominica">Dominica</a>]]>
+</description>
+<styleUrl>#dominica</styleUrl>
+<Point>
+<coordinates>
+-61.388333, 15.301389, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Dominican Republic</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Dominican_Republic">Dominican Republic</a>]]>
+</description>
+<styleUrl>#dominican_republic</styleUrl>
+<Point>
+<coordinates>
+-69.95, 18.466667, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>East Timor</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Timor-Leste">East Timor</a>]]>
+</description>
+<styleUrl>#east_timor</styleUrl>
+<Point>
+<coordinates>
+125.578333, -8.553611, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Ecuador</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Ecuador">Ecuador</a>]]>
+</description>
+<styleUrl>#ecuador</styleUrl>
+<Point>
+<coordinates>
+-78.5125, -0.22, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Egypt</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Egypt">Egypt</a>]]>
+</description>
+<styleUrl>#egypt</styleUrl>
+<Point>
+<coordinates>
+31.235833, 30.044444, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>El Salvador</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/El_Salvador">El Salvador</a>]]>
+</description>
+<styleUrl>#el_salvador</styleUrl>
+<Point>
+<coordinates>
+-89.191389, 13.698889, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Equatorial Guinea</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Equatorial_Guinea">Equatorial Guinea</a>]]>
+</description>
+<styleUrl>#equatorial_guinea</styleUrl>
+<Point>
+<coordinates>
+8.7737, 3.752064, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Eritrea</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Eritrea">Eritrea</a>]]>
+</description>
+<styleUrl>#eritrea</styleUrl>
+<Point>
+<coordinates>
+38.925, 15.322778, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Estonia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Estonia">Estonia</a>]]>
+</description>
+<styleUrl>#estonia</styleUrl>
+<Point>
+<coordinates>
+24.745278, 59.437222, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Eswatini</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Eswatini">Eswatini</a>]]>
+</description>
+<styleUrl>#eswatini</styleUrl>
+<Point>
+<coordinates>
+31.133333, -26.316667, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Ethiopia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Ethiopia">Ethiopia</a>]]>
+</description>
+<styleUrl>#ethiopia</styleUrl>
+<Point>
+<coordinates>
+38.74, 9.03, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Fiji</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Fiji">Fiji</a>]]>
+</description>
+<styleUrl>#fiji</styleUrl>
+<Point>
+<coordinates>
+178.447778, -18.129444, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Finland</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Finland">Finland</a>]]>
+</description>
+<styleUrl>#finland</styleUrl>
+<Point>
+<coordinates>
+24.9375, 60.170833, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>France</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/France">France</a>]]>
+</description>
+<styleUrl>#france</styleUrl>
+<Point>
+<coordinates>
+2.352222, 48.856667, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Gabon</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Gabon">Gabon</a>]]>
+</description>
+<styleUrl>#gabon</styleUrl>
+<Point>
+<coordinates>
+9.454167, 0.390278, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Gambia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/The_Gambia">Gambia</a>]]>
+</description>
+<styleUrl>#gambia</styleUrl>
+<Point>
+<coordinates>
+-16.5775, 13.453056, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Georgia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Georgia_(country)">Georgia</a>]]>
+</description>
+<styleUrl>#georgia</styleUrl>
+<Point>
+<coordinates>
+44.7925, 41.7225, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Germany</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Germany">Germany</a>]]>
+</description>
+<styleUrl>#germany</styleUrl>
+<Point>
+<coordinates>
+13.405, 52.52, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Ghana</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Ghana">Ghana</a>]]>
+</description>
+<styleUrl>#ghana</styleUrl>
+<Point>
+<coordinates>
+-0.2, 5.55, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Greece</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Greece">Greece</a>]]>
+</description>
+<styleUrl>#greece</styleUrl>
+<Point>
+<coordinates>
+23.728056, 37.984167, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Grenada</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Grenada">Grenada</a>]]>
+</description>
+<styleUrl>#grenada</styleUrl>
+<Point>
+<coordinates>
+-61.75, 12.05, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Guatemala</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Guatemala">Guatemala</a>]]>
+</description>
+<styleUrl>#guatemala</styleUrl>
+<Point>
+<coordinates>
+-90.535278, 14.613333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Guinea</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Guinea">Guinea</a>]]>
+</description>
+<styleUrl>#guinea</styleUrl>
+<Point>
+<coordinates>
+-13.712222, 9.509167, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Guinea-Bissau</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Guinea-Bissau">Guinea-Bissau</a>]]>
+</description>
+<styleUrl>#guinea-bissau</styleUrl>
+<Point>
+<coordinates>
+-15.566667, 11.85, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Guyana</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Guyana">Guyana</a>]]>
+</description>
+<styleUrl>#guyana</styleUrl>
+<Point>
+<coordinates>
+-58.150833, 6.805833, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Haiti</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Haiti">Haiti</a>]]>
+</description>
+<styleUrl>#haiti</styleUrl>
+<Point>
+<coordinates>
+-72.333333, 18.533333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Honduras</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Honduras">Honduras</a>]]>
+</description>
+<styleUrl>#honduras</styleUrl>
+<Point>
+<coordinates>
+-87.216667, 14.1, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Hungary</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Hungary">Hungary</a>]]>
+</description>
+<styleUrl>#hungary</styleUrl>
+<Point>
+<coordinates>
+19.051389, 47.4925, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Iceland</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Iceland">Iceland</a>]]>
+</description>
+<styleUrl>#iceland</styleUrl>
+<Point>
+<coordinates>
+-21.94, 64.146667, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>India</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/India">India</a>]]>
+</description>
+<styleUrl>#india</styleUrl>
+<Point>
+<coordinates>
+77.209006, 28.613895, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Indonesia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Indonesia">Indonesia</a>]]>
+</description>
+<styleUrl>#indonesia</styleUrl>
+<Point>
+<coordinates>
+106.8275, -6.175, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Iran</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Islamic_Republic_of_Iran">Iran</a>]]>
+</description>
+<styleUrl>#iran</styleUrl>
+<Point>
+<coordinates>
+51.388889, 35.689167, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Iraq</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Iraq">Iraq</a>]]>
+</description>
+<styleUrl>#iraq</styleUrl>
+<Point>
+<coordinates>
+44.366111, 33.315278, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Ireland</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Republic_of_Ireland">Ireland</a>]]>
+</description>
+<styleUrl>#ireland</styleUrl>
+<Point>
+<coordinates>
+-6.260278, 53.35, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Israel</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Israel">Israel</a>]]>
+</description>
+<styleUrl>#israel</styleUrl>
+<Point>
+<coordinates>
+35.216667, 31.783333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Italy</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Italy">Italy</a>]]>
+</description>
+<styleUrl>#italy</styleUrl>
+<Point>
+<coordinates>
+12.482778, 41.893333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Jamaica</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Jamaica">Jamaica</a>]]>
+</description>
+<styleUrl>#jamaica</styleUrl>
+<Point>
+<coordinates>
+-76.793056, 17.971389, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Japan</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Japan">Japan</a>]]>
+</description>
+<styleUrl>#japan</styleUrl>
+<Point>
+<coordinates>
+139.692222, 35.689722, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Jordan</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Jordan">Jordan</a>]]>
+</description>
+<styleUrl>#jordan</styleUrl>
+<Point>
+<coordinates>
+35.932778, 31.949722, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Kazakhstan</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Kazakhstan">Kazakhstan</a>]]>
+</description>
+<styleUrl>#kazakhstan</styleUrl>
+<Point>
+<coordinates>
+71.42222, 51.147222, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Kenya</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Kenya">Kenya</a>]]>
+</description>
+<styleUrl>#kenya</styleUrl>
+<Point>
+<coordinates>
+36.817222, -1.286389, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Kiribati</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Kiribati">Kiribati</a>]]>
+</description>
+<styleUrl>#kiribati</styleUrl>
+<Point>
+<coordinates>
+173.0, 1.433333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Kuwait</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Kuwait">Kuwait</a>]]>
+</description>
+<styleUrl>#kuwait</styleUrl>
+<Point>
+<coordinates>
+47.978333, 29.369722, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Kyrgyzstan</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Kyrgyzstan">Kyrgyzstan</a>]]>
+</description>
+<styleUrl>#kyrgyzstan</styleUrl>
+<Point>
+<coordinates>
+74.612222, 42.874722, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Laos</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Lao_People%27s_Democratic_Republic">Laos</a>]]>
+</description>
+<styleUrl>#laos</styleUrl>
+<Point>
+<coordinates>
+102.6, 17.966667, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Latvia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Latvia">Latvia</a>]]>
+</description>
+<styleUrl>#latvia</styleUrl>
+<Point>
+<coordinates>
+24.106389, 56.948889, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Lebanon</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Lebanon">Lebanon</a>]]>
+</description>
+<styleUrl>#lebanon</styleUrl>
+<Point>
+<coordinates>
+35.505696, 33.898316, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Lesotho</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Lesotho">Lesotho</a>]]>
+</description>
+<styleUrl>#lesotho</styleUrl>
+<Point>
+<coordinates>
+27.48, -29.31, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Liberia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Liberia">Liberia</a>]]>
+</description>
+<styleUrl>#liberia</styleUrl>
+<Point>
+<coordinates>
+-10.801389, 6.313333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Libya</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Libya">Libya</a>]]>
+</description>
+<styleUrl>#libya</styleUrl>
+<Point>
+<coordinates>
+13.191389, 32.887222, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Liechtenstein</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Liechtenstein">Liechtenstein</a>]]>
+</description>
+<styleUrl>#liechtenstein</styleUrl>
+<Point>
+<coordinates>
+9.521, 47.141, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Lithuania</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Lithuania">Lithuania</a>]]>
+</description>
+<styleUrl>#lithuania</styleUrl>
+<Point>
+<coordinates>
+25.28, 54.687222, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Luxembourg</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Luxembourg">Luxembourg</a>]]>
+</description>
+<styleUrl>#luxembourg</styleUrl>
+<Point>
+<coordinates>
+6.131944, 49.611667, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Madagascar</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Madagascar">Madagascar</a>]]>
+</description>
+<styleUrl>#madagascar</styleUrl>
+<Point>
+<coordinates>
+47.516667, -18.933333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Malawi</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Malawi">Malawi</a>]]>
+</description>
+<styleUrl>#malawi</styleUrl>
+<Point>
+<coordinates>
+33.783333, -13.983333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Malaysia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Malaysia">Malaysia</a>]]>
+</description>
+<styleUrl>#malaysia</styleUrl>
+<Point>
+<coordinates>
+101.695278, 3.147778, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Maldives</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Maldives">Maldives</a>]]>
+</description>
+<styleUrl>#maldives</styleUrl>
+<Point>
+<coordinates>
+73.508889, 4.175278, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Mali</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Mali">Mali</a>]]>
+</description>
+<styleUrl>#mali</styleUrl>
+<Point>
+<coordinates>
+-8.002778, 12.639167, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Malta</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Malta">Malta</a>]]>
+</description>
+<styleUrl>#malta</styleUrl>
+<Point>
+<coordinates>
+14.5125, 35.898333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Marshall Islands</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Marshall_Islands">Marshall Islands</a>]]>
+</description>
+<styleUrl>#marshall_islands</styleUrl>
+<Point>
+<coordinates>
+171.383333, 7.083333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Mauritania</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Mauritania">Mauritania</a>]]>
+</description>
+<styleUrl>#mauritania</styleUrl>
+<Point>
+<coordinates>
+-15.9785, 18.08581, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Mauritius</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Mauritius">Mauritius</a>]]>
+</description>
+<styleUrl>#mauritius</styleUrl>
+<Point>
+<coordinates>
+57.504167, -20.164444, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Mexico</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Mexico">Mexico</a>]]>
+</description>
+<styleUrl>#mexico</styleUrl>
+<Point>
+<coordinates>
+-99.133333, 19.433333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Micronesia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Federated_States_of_Micronesia">Micronesia</a>]]>
+</description>
+<styleUrl>#micronesia</styleUrl>
+<Point>
+<coordinates>
+158.158889, 6.917222, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Moldova</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Republic_of_Moldova">Moldova</a>]]>
+</description>
+<styleUrl>#moldova</styleUrl>
+<Point>
+<coordinates>
+28.835278, 47.022778, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Monaco</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Monaco">Monaco</a>]]>
+</description>
+<styleUrl>#monaco</styleUrl>
+<Point>
+<coordinates>
+7.419744, 43.731244, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Mongolia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Mongolia">Mongolia</a>]]>
+</description>
+<styleUrl>#mongolia</styleUrl>
+<Point>
+<coordinates>
+106.917222, 47.920278, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Montenegro</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Montenegro">Montenegro</a>]]>
+</description>
+<styleUrl>#montenegro</styleUrl>
+<Point>
+<coordinates>
+19.262892, 42.441286, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Morocco</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Morocco">Morocco</a>]]>
+</description>
+<styleUrl>#morocco</styleUrl>
+<Point>
+<coordinates>
+-6.833333, 34.033333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Mozambique</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Mozambique">Mozambique</a>]]>
+</description>
+<styleUrl>#mozambique</styleUrl>
+<Point>
+<coordinates>
+32.583333, -25.966667, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Myanmar</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Myanmar">Myanmar</a>]]>
+</description>
+<styleUrl>#myanmar</styleUrl>
+<Point>
+<coordinates>
+96.115, 19.7475, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Namibia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Namibia">Namibia</a>]]>
+</description>
+<styleUrl>#namibia</styleUrl>
+<Point>
+<coordinates>
+17.083611, -22.57, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Nauru</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Nauru">Nauru</a>]]>
+</description>
+<styleUrl>#nauru</styleUrl>
+<Point>
+<coordinates>
+166.920867, -0.5477, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Nepal</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Nepal">Nepal</a>]]>
+</description>
+<styleUrl>#nepal</styleUrl>
+<Point>
+<coordinates>
+85.324, 27.7172, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Netherlands</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Kingdom_of_the_Netherlands">Netherlands</a>]]>
+</description>
+<styleUrl>#netherlands</styleUrl>
+<Point>
+<coordinates>
+4.893611, 52.372778, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>New Zealand</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/New_Zealand">New Zealand</a>]]>
+</description>
+<styleUrl>#new_zealand</styleUrl>
+<Point>
+<coordinates>
+174.777222, -41.288889, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Nicaragua</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Nicaragua">Nicaragua</a>]]>
+</description>
+<styleUrl>#nicaragua</styleUrl>
+<Point>
+<coordinates>
+-86.251389, 12.136389, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Niger</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Niger">Niger</a>]]>
+</description>
+<styleUrl>#niger</styleUrl>
+<Point>
+<coordinates>
+2.1175, 13.515, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Nigeria</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Nigeria">Nigeria</a>]]>
+</description>
+<styleUrl>#nigeria</styleUrl>
+<Point>
+<coordinates>
+7.483333, 9.066667, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>North Korea</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Democratic_People%27s_Republic_of_Korea">North Korea</a>]]>
+</description>
+<styleUrl>#north_korea</styleUrl>
+<Point>
+<coordinates>
+125.738056, 39.019444, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>North Macedonia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/North_Macedonia">North Macedonia</a>]]>
+</description>
+<styleUrl>#north_macedonia</styleUrl>
+<Point>
+<coordinates>
+21.431667, 41.996111, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Norway</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Norway">Norway</a>]]>
+</description>
+<styleUrl>#norway</styleUrl>
+<Point>
+<coordinates>
+10.738889, 59.913333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Oman</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Oman">Oman</a>]]>
+</description>
+<styleUrl>#oman</styleUrl>
+<Point>
+<coordinates>
+58.408333, 23.588889, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Pakistan</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Pakistan">Pakistan</a>]]>
+</description>
+<styleUrl>#pakistan</styleUrl>
+<Point>
+<coordinates>
+73.063889, 33.693056, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Palau</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Palau">Palau</a>]]>
+</description>
+<styleUrl>#palau</styleUrl>
+<Point>
+<coordinates>
+134.624167, 7.500556, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Panama</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Panama">Panama</a>]]>
+</description>
+<styleUrl>#panama</styleUrl>
+<Point>
+<coordinates>
+-79.516667, 8.983333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Papua New Guinea</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Papua_New_Guinea">Papua New Guinea</a>]]>
+</description>
+<styleUrl>#papua_new_guinea</styleUrl>
+<Point>
+<coordinates>
+147.149444, -9.478889, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Paraguay</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Paraguay">Paraguay</a>]]>
+</description>
+<styleUrl>#paraguay</styleUrl>
+<Point>
+<coordinates>
+-57.633333, -25.3, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Peru</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Peru">Peru</a>]]>
+</description>
+<styleUrl>#peru</styleUrl>
+<Point>
+<coordinates>
+-77.0375, -12.06, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Philippines</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Philippines">Philippines</a>]]>
+</description>
+<styleUrl>#philippines</styleUrl>
+<Point>
+<coordinates>
+120.9772, 14.5958, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Poland</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Poland">Poland</a>]]>
+</description>
+<styleUrl>#poland</styleUrl>
+<Point>
+<coordinates>
+21.011111, 52.23, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Portugal</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Portugal">Portugal</a>]]>
+</description>
+<styleUrl>#portugal</styleUrl>
+<Point>
+<coordinates>
+-9.15, 38.725278, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Qatar</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Qatar">Qatar</a>]]>
+</description>
+<styleUrl>#qatar</styleUrl>
+<Point>
+<coordinates>
+51.533333, 25.286667, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Romania</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Romania">Romania</a>]]>
+</description>
+<styleUrl>#romania</styleUrl>
+<Point>
+<coordinates>
+26.103889, 44.4325, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Russia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Russian_Federation">Russia</a>]]>
+</description>
+<styleUrl>#russia</styleUrl>
+<Point>
+<coordinates>
+37.617222, 55.755833, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Rwanda</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Rwanda">Rwanda</a>]]>
+</description>
+<styleUrl>#rwanda</styleUrl>
+<Point>
+<coordinates>
+30.059444, -1.943889, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Saint Kitts and Nevis</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis">Saint Kitts and Nevis</a>]]>
+</description>
+<styleUrl>#saint_kitts_and_nevis</styleUrl>
+<Point>
+<coordinates>
+-62.733333, 17.3, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Saint Lucia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Saint_Lucia">Saint Lucia</a>]]>
+</description>
+<styleUrl>#saint_lucia</styleUrl>
+<Point>
+<coordinates>
+-60.983333, 14.016667, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Saint Vincent and the Grenadines</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines">Saint Vincent and the Grenadines</a>]]>
+</description>
+<styleUrl>#saint_vincent_and_the_grenadines</styleUrl>
+<Point>
+<coordinates>
+-61.225, 13.157778, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Samoa</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Samoa">Samoa</a>]]>
+</description>
+<styleUrl>#samoa</styleUrl>
+<Point>
+<coordinates>
+-171.75, -13.833333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>San Marino</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/San_Marino">San Marino</a>]]>
+</description>
+<styleUrl>#san_marino</styleUrl>
+<Point>
+<coordinates>
+12.4473, 43.9346, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Saudi Arabia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Saudi_Arabia">Saudi Arabia</a>]]>
+</description>
+<styleUrl>#saudi_arabia</styleUrl>
+<Point>
+<coordinates>
+46.716667, 24.633333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Senegal</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Senegal">Senegal</a>]]>
+</description>
+<styleUrl>#senegal</styleUrl>
+<Point>
+<coordinates>
+-17.446667, 14.692778, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Serbia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Serbia">Serbia</a>]]>
+</description>
+<styleUrl>#serbia</styleUrl>
+<Point>
+<coordinates>
+20.456944, 44.817778, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Seychelles</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Seychelles">Seychelles</a>]]>
+</description>
+<styleUrl>#seychelles</styleUrl>
+<Point>
+<coordinates>
+55.45, -4.616667, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Sierra Leone</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Sierra_Leone">Sierra Leone</a>]]>
+</description>
+<styleUrl>#sierra_leone</styleUrl>
+<Point>
+<coordinates>
+-13.234444, 8.484444, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Singapore</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Singapore">Singapore</a>]]>
+</description>
+<styleUrl>#singapore</styleUrl>
+<Point>
+<coordinates>
+103.833333, 1.283333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Slovakia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Slovakia">Slovakia</a>]]>
+</description>
+<styleUrl>#slovakia</styleUrl>
+<Point>
+<coordinates>
+17.109722, 48.143889, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Slovenia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Slovenia">Slovenia</a>]]>
+</description>
+<styleUrl>#slovenia</styleUrl>
+<Point>
+<coordinates>
+14.506111, 46.051389, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Solomon Islands</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Solomon_Islands">Solomon Islands</a>]]>
+</description>
+<styleUrl>#solomon_islands</styleUrl>
+<Point>
+<coordinates>
+159.955556, -9.431944, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Somalia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Somalia">Somalia</a>]]>
+</description>
+<styleUrl>#somalia</styleUrl>
+<Point>
+<coordinates>
+45.341944, 2.039167, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>South Africa</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/South_Africa">South Africa</a>]]>
+</description>
+<styleUrl>#south_africa</styleUrl>
+<Point>
+<coordinates>
+18.423889, -33.925278, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>South Korea</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Republic_of_Korea">South Korea</a>]]>
+</description>
+<styleUrl>#south_korea</styleUrl>
+<Point>
+<coordinates>
+126.99, 37.56, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>South Sudan</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/South_Sudan">South Sudan</a>]]>
+</description>
+<styleUrl>#south_sudan</styleUrl>
+<Point>
+<coordinates>
+31.6, 4.85, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Spain</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Spain">Spain</a>]]>
+</description>
+<styleUrl>#spain</styleUrl>
+<Point>
+<coordinates>
+-3.703333, 40.416944, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Sri Lanka</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Sri_Lanka">Sri Lanka</a>]]>
+</description>
+<styleUrl>#sri_lanka</styleUrl>
+<Point>
+<coordinates>
+79.916667, 6.916667, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Sudan</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Sudan">Sudan</a>]]>
+</description>
+<styleUrl>#sudan</styleUrl>
+<Point>
+<coordinates>
+32.5, 15.6, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Suriname</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Suriname">Suriname</a>]]>
+</description>
+<styleUrl>#suriname</styleUrl>
+<Point>
+<coordinates>
+-55.203889, 5.852222, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Sweden</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Sweden">Sweden</a>]]>
+</description>
+<styleUrl>#sweden</styleUrl>
+<Point>
+<coordinates>
+18.068611, 59.329444, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Switzerland</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Switzerland">Switzerland</a>]]>
+</description>
+<styleUrl>#switzerland</styleUrl>
+<Point>
+<coordinates>
+7.4475, 46.948056, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Syria</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Syrian_Arab_Republic">Syria</a>]]>
+</description>
+<styleUrl>#syria</styleUrl>
+<Point>
+<coordinates>
+36.291944, 33.513056, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>São Tomé and Príncipe</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe">São Tomé and Príncipe</a>]]>
+</description>
+<styleUrl>#s%C3%A3o_tom%C3%A9_and_pr%C3%ADncipe</styleUrl>
+<Point>
+<coordinates>
+6.730556, 0.336111, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Tajikistan</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Tajikistan">Tajikistan</a>]]>
+</description>
+<styleUrl>#tajikistan</styleUrl>
+<Point>
+<coordinates>
+68.78, 38.536667, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Tanzania</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/United_Republic_of_Tanzania">Tanzania</a>]]>
+</description>
+<styleUrl>#tanzania</styleUrl>
+<Point>
+<coordinates>
+35.741944, -6.173056, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Thailand</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Thailand">Thailand</a>]]>
+</description>
+<styleUrl>#thailand</styleUrl>
+<Point>
+<coordinates>
+100.494167, 13.7525, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Togo</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Togo">Togo</a>]]>
+</description>
+<styleUrl>#togo</styleUrl>
+<Point>
+<coordinates>
+1.222778, 6.131944, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Tonga</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Tonga">Tonga</a>]]>
+</description>
+<styleUrl>#tonga</styleUrl>
+<Point>
+<coordinates>
+-175.2, -21.133333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Trinidad and Tobago</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Trinidad_and_Tobago">Trinidad and Tobago</a>]]>
+</description>
+<styleUrl>#trinidad_and_tobago</styleUrl>
+<Point>
+<coordinates>
+-61.516667, 10.666667, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Tunisia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Tunisia">Tunisia</a>]]>
+</description>
+<styleUrl>#tunisia</styleUrl>
+<Point>
+<coordinates>
+10.181667, 36.806389, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Turkey</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Turkey">Turkey</a>]]>
+</description>
+<styleUrl>#turkey</styleUrl>
+<Point>
+<coordinates>
+32.85, 39.93, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Turkmenistan</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Turkmenistan">Turkmenistan</a>]]>
+</description>
+<styleUrl>#turkmenistan</styleUrl>
+<Point>
+<coordinates>
+58.38, 37.9375, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Tuvalu</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Tuvalu">Tuvalu</a>]]>
+</description>
+<styleUrl>#tuvalu</styleUrl>
+<Point>
+<coordinates>
+179.2, -8.516667, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Uganda</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Uganda">Uganda</a>]]>
+</description>
+<styleUrl>#uganda</styleUrl>
+<Point>
+<coordinates>
+32.581111, 0.313611, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Ukraine</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Ukraine">Ukraine</a>]]>
+</description>
+<styleUrl>#ukraine</styleUrl>
+<Point>
+<coordinates>
+30.523333, 50.45, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>UAE</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/United_Arab_Emirates">UAE</a>]]>
+</description>
+<styleUrl>#uae</styleUrl>
+<Point>
+<coordinates>
+54.366667, 24.466667, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>UK</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/United_Kingdom">UK</a>]]>
+</description>
+<styleUrl>#uk</styleUrl>
+<Point>
+<coordinates>
+-0.1275, 51.507222, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>USA</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/United_States">USA</a>]]>
+</description>
+<styleUrl>#usa</styleUrl>
+<Point>
+<coordinates>
+-77.016389, 38.904722, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Uruguay</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Uruguay">Uruguay</a>]]>
+</description>
+<styleUrl>#uruguay</styleUrl>
+<Point>
+<coordinates>
+-56.181944, -34.883611, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Uzbekistan</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Uzbekistan">Uzbekistan</a>]]>
+</description>
+<styleUrl>#uzbekistan</styleUrl>
+<Point>
+<coordinates>
+69.279722, 41.311111, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Vanuatu</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Vanuatu">Vanuatu</a>]]>
+</description>
+<styleUrl>#vanuatu</styleUrl>
+<Point>
+<coordinates>
+168.316667, -17.733333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Venezuela</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Bolivarian_Republic_of_Venezuela">Venezuela</a>]]>
+</description>
+<styleUrl>#venezuela</styleUrl>
+<Point>
+<coordinates>
+-66.903611, 10.480556, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Vietnam</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Viet_Nam">Vietnam</a>]]>
+</description>
+<styleUrl>#vietnam</styleUrl>
+<Point>
+<coordinates>
+105.854167, 21.028333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Yemen</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Yemen">Yemen</a>]]>
+</description>
+<styleUrl>#yemen</styleUrl>
+<Point>
+<coordinates>
+45.033333, 12.8, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Zambia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Zambia">Zambia</a>]]>
+</description>
+<styleUrl>#zambia</styleUrl>
+<Point>
+<coordinates>
+28.283333, -15.416667, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Zimbabwe</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Zimbabwe">Zimbabwe</a>]]>
+</description>
+<styleUrl>#zimbabwe</styleUrl>
+<Point>
+<coordinates>
+31.052222, -17.829167, 0
+</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>
