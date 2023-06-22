@@ -11,9 +11,9 @@ import KML file to Mymap
 
 https://www.google.com/maps/d/viewer?mid=1XR72EjoE1EWzJc4Pv2Wr06aHHOHIuUA&ll=3.892400737375411%2C0&z=2
 
-https://www.google.com/maps/d/viewer?mid=1VFroURwY3NC19qYVgHeMpb_c2vM&hl=ja&ll=-3.81666561775622e-14%2C17.82600400000001&z=1
-
 display the National Flag at the Coordinates of the Capital on Google Map
+
+![un_countries](https://github.com/ohwada/World_Countries/blob/main/national_flags_gmap/un_member_states/screenshots/un_countries_capital.png)
 
 #### Python program
 - json2kml.py
