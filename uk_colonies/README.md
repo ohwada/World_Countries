@@ -5,7 +5,7 @@ List of countries that have gained independence from the United Kingdom
 
 Below are lists of the countries and territories formerly ruled or administered by the United Kingdom or part of the British Empire (including military occupations that did not retain the pre-war central government), with their independence days. 
 
-![uk_colonies](https://github.com/ohwada/World_Countries/blob/af9a8face8ebb0a96bb79d56d3088a8131b3b284/uk_colonies/screenshots/un_colonies.png)
+![uk_colonies](https://github.com/ohwada/World_Countries/blob/main/uk_colonies/screenshots/uk_colonies.png)
 
 - List of Member states in JSON file
 - Python program which create List in HTML form
