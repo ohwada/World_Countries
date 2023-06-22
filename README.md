@@ -23,3 +23,9 @@ List of Natinal Capitals
 
 List of Natinal Capitals with Coordinates
 
+#### uk colonies
+
+List of countries that have gained independence from the United Kingdom
+
+
+

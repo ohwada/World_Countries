@@ -1,0 +1,7 @@
+<tr>
+<td>{country}</td>
+<td>{pre_name}</td>
+<td>{date}</td>
+<td>{year}</td>
+<td>{notes}</td>
+</tr>
