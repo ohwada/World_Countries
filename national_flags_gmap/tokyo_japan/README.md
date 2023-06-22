@@ -6,4 +6,5 @@ display the Japanese natinal flag at coordinates of Tokyo g on Google Map
 create KML file by hand
 
 import KML file to Mymap
-https://www.google.com/maps/d/viewer?mid=1_E8_SBiB3QfC9ZWB7MUGrTKgvGYjcZE&ll=35.68972198326695%2C139.692222&z=4
+https://www.google.com/maps/d/viewer?hl=ja&mid=11I25gVUInyl6bzg4f7xP09iBrmS3qSc&ll=35.68972199910711%2C139.692222&z=4
+
