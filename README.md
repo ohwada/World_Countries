@@ -11,6 +11,10 @@ List of Member statesof the United Nations
 
 List of Member statesof the United Nations with National Flag
 
+### un member states capital
+
+List of Member states of the United Nations with Capital National Flag Coordinates
+
 ### sovereign states
 
 List of Sovereign States
