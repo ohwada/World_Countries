@@ -38,7 +38,7 @@ placemarks = ""
 
 styles = ""
 
-with open('un_countries_capital.json') as f3:
+with open('un_members_capital.json') as f3:
     dic = json.load(f3)
     str_title = dic['title']
     list_countries = dic['countries']
@@ -64,6 +64,6 @@ with open('un_countries_capital.json') as f3:
 
 wdata = template_kml.format(name=TITLE, description=DESC, placemarks= placemarks, styles=styles)
   
-with open('un_countries_capital.kml', 'w') as f4:
+with open('un_members_capital.kml', 'w') as f4:
     f4.write(wdata)
 
