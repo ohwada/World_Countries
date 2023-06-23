@@ -35,14 +35,11 @@ def parse_filename(url):
 	return basename
 #
 
-def match_filename(name):
-	matched = re.findall('\d+px-(.*).svg.png', name)
-	return matched[0]
-#
-
-def new_filename(match, width):
-	name = FORMAT_FILENAME.format(width=width, match=match)
-	return name
+def new_filename(filename, width):
+    matched = re.findall('\d+px-(.*).svg.png', filename)
+    name = matched[0]
+    new_filename = FORMAT_FILENAME.format(width=width, match=name)
+    return new_filename
 #
 
 COUNTRY = 'Japan'
@@ -61,10 +58,7 @@ if not is_match:
 url_flag = item['url_flag']
 width = item['flag_width']
 height = item['flag_height']
-
 print(url_flag)
-print(width)
-print(height)
 
 filename = parse_filename(url_flag)
 print(filename)
@@ -74,16 +68,13 @@ data = requests.get(url_flag).content
 with open(filename ,mode='wb') as f2:
   f2.write(data)
 
-name = match_filename(filename)
-print(name)
-
-new_filename = new_filename(name, WIDTH)
-print(new_filename)
+filename_resize = new_filename(filename, WIDTH)
+print(filename_resize)
 
 img = Image.open(filename)
 
-h = int( (WIDTH * height ) / width )
-print(h)
+height_resize = int( (WIDTH * height ) / width )
 
-img_resize = img.resize((WIDTH, h))
-img_resize.save(new_filename)
+img_resize = img.resize((WIDTH, height_resize))
+
+img_resize.save(filename_resize)
