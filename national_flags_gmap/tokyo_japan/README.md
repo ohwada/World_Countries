@@ -12,3 +12,14 @@ import KML file to Mymap
 display the Japanese natinal flag at coordinates of Tokyo
 
 ![Tokyo, Japam](https://github.com/ohwada/World_Countries/blob/main/national_flags_gmap/tokyo_japan/screenshots/tokyo_japan.png)
+
+### raw file of Github
+
+Web page
+
+https://github.com/ohwada/World_Countries/blob/main/national_flags_gmap/tokyo_japan/images/100px-Flag_of_Japan.png
+
+raw file
+
+https://raw.githubusercontent.com/ohwada/World_Countries/master/national_flags_gmap/tokyo_japan/images/100px-Flag_of_Japan.png
+
