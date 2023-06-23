@@ -27,6 +27,6 @@ Create List in HTML form from JSON file
 - resize_flag.py
 
 ### Reference
-https://ken-ohwada.hatenadiary.org/entry/2023/06/21/142850
-
+- https://ken-ohwada.hatenadiary.org/entry/2023/06/21/142850  
+- https://ken-ohwada.hatenadiary.org/entry/2023/06/23/144234  
 
