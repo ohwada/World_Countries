@@ -5,7 +5,7 @@ List of Member states of the United Nations with National Flag
 
 The member states of the United Nationscomprise 193 sovereign states. 
 
-![un_countries_flag](https://github.com/ohwada/World_Countries/blob/9ce1348495a0580c2cdeb945d17f678870ac5b85/un_member_states_flag/screenshots/un_countries_flag.png)
+![un_countries_flag](https://github.com/ohwada/World_Countries/blob/9ce1348495a0580c2cdeb945d17f678870ac5b85/un_member_states_flag/screenshots/un_members_flag.png)
 
 - List of Member states in JSON file
 - Python program which create List in HTML form
@@ -27,6 +27,6 @@ Create List in HTML form from JSON file
 - resize_flag.py
 
 ### Reference
-- https://ken-ohwada.hatenadiary.org/entry/2023/06/21/142850  
-- https://ken-ohwada.hatenadiary.org/entry/2023/06/23/144234  
+https://ken-ohwada.hatenadiary.org/entry/2023/06/21/142850
+
 

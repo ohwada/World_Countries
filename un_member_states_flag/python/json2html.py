@@ -19,7 +19,7 @@ countries =[]
 
 rows=""
 
-with open('un_countries_flag.json') as f3:
+with open('un_members_flag.json') as f3:
     dic = json.load(f3)
     str_title = dic['title']
     desc = dic['desc']
@@ -51,6 +51,6 @@ html_ref = TEMPLATE_A_TAG.format(href=url_ref, name=ref)
 
 wdata = template_html.format(body_title=str_title, desc = desc, reference=html_ref, rows=rows)
   
-with open('un_countries_flag.html', 'w') as f4:
+with open('un_members_flag.html', 'w') as f4:
     f4.write(wdata)
 

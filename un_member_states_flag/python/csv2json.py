@@ -16,7 +16,7 @@ dic['url_reference'] ="https://en.wikipedia.org/wiki/Member_states_of_the_United
 
 countries=[]
 
-with open('un_countries_flag.csv') as f1:
+with open('un_members_flag.csv') as f1:
     reader = csv.reader(f1)
     for row in reader:
         d= {}
@@ -35,5 +35,5 @@ with open('un_countries_flag.csv') as f1:
 
 dic['countries'] = countries
 
-with open('un_countries_flag.json', 'wt') as f2:
+with open('un_members_flag.json', 'wt') as f2:
     json.dump(dic, f2)

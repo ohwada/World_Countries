@@ -1,5 +1,4 @@
 # parse_html.py
-
 # 2023-06-01 K.OHWADA
 
 from bs4 import BeautifulSoup

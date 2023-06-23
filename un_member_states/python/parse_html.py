@@ -118,6 +118,6 @@ for row in rows:
     print(line)
     wdata += line;
 
-with open('un_countries.csv', 'w') as f2:
+with open('un_members.csv', 'w') as f2:
      f2.write(wdata)
 

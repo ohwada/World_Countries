@@ -1,4 +1,5 @@
 # resize_flag.py
+# 2023-06-01 K.OHWADA
 
 import os
 
@@ -46,7 +47,7 @@ COUNTRY = 'Japan'
 
 WIDTH = 100
 
-with open('un_countries_flag.json') as f1:
+with open('un_members_flag.json') as f1:
     dic = json.load(f1)
     list_countries = dic['countries']
     
