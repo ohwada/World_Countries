@@ -5,7 +5,7 @@ List of Member states of the United Nations with Capital National Flag Coordinat
 
 The member states of the United Nationscomprise 193 sovereign states. 
 
-![un_countries_flag](https://github.com/ohwada/World_Countries/blob/e6f5dbb17cc90359e61f1359b257145588747129/un_member_states_capital/screenshots/un_members_capital.png)
+![un_members_flag](https://github.com/ohwada/World_Countries/blob/main/un_member_states_capital/screenshots/un_members_capital.png)
 
 - List of Member states in JSON file
 - Python program which create List in HTML form
