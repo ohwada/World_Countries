@@ -1,0 +1,9 @@
+<tr>
+<td>{country}</td>
+<td>{date}</td>
+<td>{region}</td>
+<td>{subregion}</td>
+<td style="text-align:right;">{population}</td>
+<td style="padding-left: 20px">{government}</td>
+<td>{notes}</td>
+</tr>

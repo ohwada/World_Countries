@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+Commonwealth realm
+</title>
+</head>
+<body>
+<h1>{body_title}</h1>
+<div>{desc}</div>
+<br/>
+<table style="margin: 30px">
+<thead>
+<tr>
+<th>Country</th>
+<th>First Joined</th>
+<th>UN Region</th>
+<th>UN Subregion</th>
+<th>Population</th>
+<th>System of government</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+{rows}
+</tbody>
+</table>
+
+<h2>Reference<h2>
+{reference}
+</body>
+</html>
