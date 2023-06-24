@@ -5,7 +5,7 @@ List of Member states of the Commonwealth of Nations
 
 The Commonwealth of Nations is a voluntary association of 56 sovereign states. Most of them were British colonies or dependencies of those colonies.
 
-![Commonwealth nations](https://github.com/ohwada/World_Countries/blob/e6f5dbb17cc90359e61f1359b257145588747129/commonwealth_nations/screenshots/commonwealth_nations.png)
+![Commonwealth nations](https://github.com/ohwada/World_Countries/blob/main/commonwealth_nations/screenshots/commonwealth_nations.png)
 
 - List of Member states in JSON file
 - Python program which create List in HTML form
