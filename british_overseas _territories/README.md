@@ -5,7 +5,7 @@ List of British Overseas Territories
 
 The British Overseas Territories are fourteen territories with a constitutional and historical link with the United Kingdom.
 
-![british territories](https://github.com/ohwada/World_Countries/blob/e6f5dbb17cc90359e61f1359b257145588747129/ british _overseas_territories/screenshots/ british _territories.png) 
+![british territories](https://github.com/ohwada/World_Countries/blob/e6f5dbb17cc90359e61f1359b257145588747129/ british _overseas_territories/screenshots/british _territories.png) 
 
 - List of Member states in JSON file
 - Python program which create List in HTML form
