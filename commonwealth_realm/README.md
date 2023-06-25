@@ -5,7 +5,7 @@ List of Commonwealth realm
 
 A Commonwealth realm is a sovereign state that has King of United Kingdom (Charles III) as its monarch and head of state.
 
-![Commonwealth realm](https://github.com/ohwada/World_Countries/blob/e6f5dbb17cc90359e61f1359b257145588747129/commonwealth_realm/screenshots/commonwealth realm.png)
+![Commonwealth realm](https://github.com/ohwada/World_Countries/blob/main/commonwealth_realm/screenshots/commonwealth_realm.png)
 
 - List of Member states in JSON file
 - Python program which create List in HTML form
