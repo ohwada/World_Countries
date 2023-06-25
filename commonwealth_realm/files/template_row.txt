@@ -1,0 +1,7 @@
+<tr>
+<td>{country}</td>
+<td style="text-align:right;">{population}</td>
+<td style="padding-left: 20px">{year}</td>
+<td>{governor}</td>
+<td>{prime_minister}</td>
+</tr>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+Commonwealth realm
+</title>
+</head>
+<body>
+<h1>{body_title}</h1>
+<div>{desc}</div>
+<br/>
+<table style="margin: 30px">
+<thead>
+<tr>
+<th>Country</th>
+<th>Population</th>
+<th>Year each country became a Commonwealth realm</th>
+<th>Governor general</th>
+<th>Prime minister</th>
+</tr>
+</thead>
+<tbody>
+{rows}
+</tbody>
+</table>
+
+<h2>Reference<h2>
+{reference}
+</body>
+</html>
