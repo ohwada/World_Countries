@@ -1,0 +1,13 @@
+<tr>
+<td>{flag}</td>
+<td>{arms}</td>
+<td>{teritory}</td>
+<td>{location}</td>
+<td>{motto}</td>
+<td>{area}</td>
+<td>{population}</td>
+<td>{capital}</td>
+<td>{gdp}</td>
+<td>{gdp_per_capita}</td>
+<td>{notes}</td>
+</tr>
