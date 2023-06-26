@@ -5,7 +5,7 @@ List of Member states of the Commonwealth of Nations with Capital Nationnal Flag
 
 The Commonwealth of Nations is a voluntary association of 56 sovereign states. Most of them were British colonies or dependencies of those colonies.
 
-![Commonwealth nations](https://github.com/ohwada/World_Countries/blob/e6f5dbb17cc90359e61f1359b257145588747129/commonwealth_nations_capital/screenshots/commonwealth_nations_capital.png)
+![commonwealth nations](https://github.com/ohwada/World_Countries/blob/main/commonwealth_nations_capital/screenshots/commonwealth_nations_capital.png)
 
 - List of Member states in JSON file
 - Python program which create List in HTML form
@@ -22,3 +22,5 @@ merge JSON files
 - merge_json.py
 - json2html.py
 
+### reference
+https://ken-ohwada.hatenadiary.org/entry/2023/06/26/224031
