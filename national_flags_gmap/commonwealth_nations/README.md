@@ -14,10 +14,11 @@ import KML file to Mymap
 
 display the National Flag at the Coordinates of the Capital on Google Map
 
-![commonwealth nations](https://github.com/ohwada/World_Countries/blob/main/national_flags_gmap/commonwealth_nations/screenshots/ommonwealth_nations.png)
+![commonwealth nations](https://github.com/ohwada/World_Countries/blob/main/national_flags_gmap/commonwealth_nations/screenshots/commonwealth_nations.png)
 
 #### Python program
 - json2kml.py
 
 #### Reference
 - https://github.com/ohwada/World_Countries/tree/main/commonwealth_nations
+- https://ken-ohwada.hatenadiary.org/entry/2023/06/26/224031
