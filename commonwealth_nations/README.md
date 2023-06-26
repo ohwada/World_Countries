@@ -23,3 +23,5 @@ Create List in HTML form from JSON file
 - sv2json.py
 - json2html.py
 
+### Reference
+https://ken-ohwada.hatenadiary.org/entry/2023/06/26/224031
