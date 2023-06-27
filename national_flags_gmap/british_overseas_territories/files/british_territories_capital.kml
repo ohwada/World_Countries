@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>
+British Overseas Territories
+</name>
+ <description>
+display the National Flag at the Coordinates of the Capital
+</description>
+<Style id="anguilla">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Anguilla.svg/80px-Flag_of_Anguilla.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="bermuda">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bermuda.svg/80px-Flag_of_Bermuda.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="british_antarctic_territory">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_the_British_Antarctic_Territory.svg/80px-Flag_of_the_British_Antarctic_Territory.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="british_indian_ocean_territory">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg/80px-Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="british_virgin_islands">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_British_Virgin_Islands.svg/80px-Flag_of_the_British_Virgin_Islands.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="cayman_islands">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_the_Cayman_Islands.svg/80px-Flag_of_the_Cayman_Islands.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="falkland_islands">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_Falkland_Islands.svg/80px-Flag_of_the_Falkland_Islands.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="gibraltar">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/80px-Flag_of_Gibraltar.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="montserrat">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Montserrat.svg/80px-Flag_of_Montserrat.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="pitcairn_islands">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_the_Pitcairn_Islands.svg/80px-Flag_of_the_Pitcairn_Islands.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="saint_helena%2Cascension_and_tristan_da_cunha">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/80px-Flag_of_the_United_Kingdom.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="south_georgia_and_the_south_sandwich_islands">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg/80px-Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="sovereign_base_areas_of_akrotiri_and_dhekelia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/80px-Flag_of_the_United_Kingdom.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="turks_and_caicos_islands">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg/80px-Flag_of_the_Turks_and_Caicos_Islands.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+
+<Placemark>
+<name>Anguilla</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Anguilla">Anguilla</a>]]>
+</description>
+<styleUrl>#anguilla</styleUrl>
+<Point>
+<coordinates>
+-63.051667, 18.220833, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Bermuda</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Bermuda">Bermuda</a>]]>
+</description>
+<styleUrl>#bermuda</styleUrl>
+<Point>
+<coordinates>
+-64.782, 32.293, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>British Antarctic Territory</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/British_Antarctic_Territory">British Antarctic Territory</a>]]>
+</description>
+<styleUrl>#british_antarctic_territory</styleUrl>
+<Point>
+<coordinates>
+-68.125028, -67.568783, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>British Indian Ocean Territory</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/British_Indian_Ocean_Territory">British Indian Ocean Territory</a>]]>
+</description>
+<styleUrl>#british_indian_ocean_territory</styleUrl>
+<Point>
+<coordinates>
+72.411111, -7.313333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>British Virgin Islands</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/British_Virgin_Islands">British Virgin Islands</a>]]>
+</description>
+<styleUrl>#british_virgin_islands</styleUrl>
+<Point>
+<coordinates>
+-64.623056, 18.431389, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Cayman Islands</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Cayman_Islands">Cayman Islands</a>]]>
+</description>
+<styleUrl>#cayman_islands</styleUrl>
+<Point>
+<coordinates>
+-81.3863, 19.3034, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Falkland Islands</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Falkland_Islands">Falkland Islands</a>]]>
+</description>
+<styleUrl>#falkland_islands</styleUrl>
+<Point>
+<coordinates>
+-57.850556, -51.695, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Gibraltar</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Gibraltar">Gibraltar</a>]]>
+</description>
+<styleUrl>#gibraltar</styleUrl>
+<Point>
+<coordinates>
+-5.35, 36.14, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Montserrat</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Montserrat">Montserrat</a>]]>
+</description>
+<styleUrl>#montserrat</styleUrl>
+<Point>
+<coordinates>
+-62.2158394, 16.706417, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Pitcairn Islands</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Pitcairn_Islands">Pitcairn Islands</a>]]>
+</description>
+<styleUrl>#pitcairn_islands</styleUrl>
+<Point>
+<coordinates>
+-130.1, -25.066667, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Saint Helena,Ascension and Tristan da Cunha</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Saint_Helena%2c_Ascension_and_Tristan_da_Cunha">Saint Helena,Ascension and Tristan da Cunha</a>]]>
+</description>
+<styleUrl>#saint_helena%2Cascension_and_tristan_da_cunha</styleUrl>
+<Point>
+<coordinates>
+-5.718056, -15.924444, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>South Georgia and the South Sandwich Islands</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/South_Georgia_and_the_South_Sandwich_Islands">South Georgia and the South Sandwich Islands</a>]]>
+</description>
+<styleUrl>#south_georgia_and_the_south_sandwich_islands</styleUrl>
+<Point>
+<coordinates>
+-36.495, -54.283333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Sovereign Base Areas of Akrotiri and Dhekelia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Akrotiri_and_Dhekelia">Sovereign Base Areas of Akrotiri and Dhekelia</a>]]>
+</description>
+<styleUrl>#sovereign_base_areas_of_akrotiri_and_dhekelia</styleUrl>
+<Point>
+<coordinates>
+32.8375, 34.676, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Turks and Caicos Islands</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands">Turks and Caicos Islands</a>]]>
+</description>
+<styleUrl>#turks_and_caicos_islands</styleUrl>
+<Point>
+<coordinates>
+-71.139, 21.459, 0
+</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

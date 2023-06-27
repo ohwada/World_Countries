@@ -1,0 +1,9 @@
+<Style id="{id}">
+<IconStyle>
+<Icon>
+<href>
+{href}
+</href>
+</Icon>
+</IconStyle>
+</Style>
