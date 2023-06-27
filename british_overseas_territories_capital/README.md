@@ -12,8 +12,7 @@ The British Overseas Territories are fourteen territories with a constitutional 
 
 The following Web page has List of Member states in HTML tabular form.
 
-wikipedia: British Overseas Territories
-https://en.wikipedia.org/wiki/British_Overseas_Territories
+[wikipedia: British Overseas Territories](https://en.wikipedia.org/wiki/British_Overseas_Territories)
 
 create CSV file by hand
 make a JSON format file from CSV file
