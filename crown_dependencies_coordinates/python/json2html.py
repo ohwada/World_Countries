@@ -62,9 +62,6 @@ with open('crown_dependencies_coordinates.json') as f4:
         url_flag = item['url_flag']
         flag_width = item['flag_width']
         flag_height = item['flag_height']
-        url_flag_icon = item['url_flag_icon']
-        icon_width = item['icon_width']
-        icon_height = item['icon_height']
         lat = item['lat']
         lon = item['lon']
         print('id: ', id)
@@ -74,14 +71,13 @@ with open('crown_dependencies_coordinates.json') as f4:
         row_island = FORMAT_A_TAG.format(href=url_island, name= island)
         row_capital = FORMAT_A_TAG.format(href=url_capital, name=capital)
         row_flag = FORMAT_IMG.format(src=url_flag, width=flag_width, height=flag_height)
-        row_flag_icon = FORMAT_IMG.format(src=url_flag_icon, width=icon_width, height=icon_height)
         row_coordinates = make_coordinates(lat, lon)
         row_rowspan = make_rowspan(rowspan)
 
         if group == 0:
-            row = template_row.format(teritory=row_teritory, island=row_island, capital=row_capital, flag=row_flag, flag_icon=row_flag_icon, coordinates=row_coordinates, rowspan= row_rowspan)
+            row = template_row.format(teritory=row_teritory, island=row_island, capital=row_capital, flag=row_flag, coordinates=row_coordinates, rowspan= row_rowspan)
         else:
-            row = template_row_island.format( island=row_island, capital=row_capital, flag=row_flag, flag_icon=row_flag_icon, coordinates=row_coordinates )
+            row = template_row_island.format( island=row_island, capital=row_capital, flag=row_flag,  coordinates=row_coordinates )
         print(row)
         rows +=  row
 #

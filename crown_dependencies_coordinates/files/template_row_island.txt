@@ -1,6 +1,6 @@
 <tr>
-<td align="center">{flag}</td>
-<td>{flag_icon} {island}</td>
+<td align="center" style="padding: 10px">{flag}</td>
+<td>{island}</td>
 <td>{capital}</td>
 <td>{coordinates}</td>
 </tr>
