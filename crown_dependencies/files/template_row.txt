@@ -1,0 +1,11 @@
+<tr>
+<td {rowspan}>{teritory}</td>
+<td {rowspan}>{location}</td>
+<td {rowspan}>{monarch}</td>
+<td {rowspan}>{area}</td>
+<td {rowspan} style="text-align: right;">{population}</td>
+<td  align="center">{flag}</td>
+<td  align="center">{arms}</td>
+<td>{capital}</td>
+<td>{airport}</td>
+</tr>

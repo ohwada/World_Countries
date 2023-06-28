@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+UN Countries
+</title>
+</head>
+<body>
+<h1>{body_title}</h1>
+<div>{desc}</div>
+<br/>
+<table style="margin: 30px">
+<thead>
+<tr>
+<th>Name</th>
+<th>Location</th>
+<th>Title of monarch</th>
+<th>Area</th>
+<th>Population	</th>
+<th>Island	</th>
+<th>Arms</th>
+<th>Capital</th>
+<th>Airport</th>
+</tr>
+</thead>
+<tbody>
+{rows}
+</tbody>
+</table>
+
+<h2>Reference<h2>
+{reference}
+</body>
+</html>

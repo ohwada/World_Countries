@@ -1,0 +1,6 @@
+<tr>
+<td  align="center">{flag}	</td>
+<td  align="center">{arms}</td>
+<td>{capital}</td>
+<td>{airport}</td>
+</tr>
