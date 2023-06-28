@@ -1,0 +1,7 @@
+<tr>
+<td {rowspan}>{teritory}</td>
+<td align="center" stlyle="margin:10px; ">{flag}</td>
+<td>{flag_icon} {island}</td>
+<td>{capital}</td>
+<td>{coordinates}</td>
+</tr>
