@@ -14,12 +14,12 @@ The following Web page has List of Crown Dependencies in HTML tabular form.
 
 [wikipedia:  Crown Dependencies](https://en.wikipedia.org/wiki/Crown_Dependencies)
 
-create CSV file
-add  Coordinate by hand
-and make it into a JSON format file.
-create List in HTML form from JSON file
+create CSV file  
+add  Coordinate by hand  
+and make it into a JSON format file.  
+create List in HTML form from JSON file  
 
 #### Python program
-- sv2json.py
+- csv2json.py
 - json2html.py
 
