@@ -9,7 +9,7 @@ create KML file from JSON file
 
 import KML file to Mymap
 
-[mymaps: Crown Dependencies](https://www.google.com/maps/d/viewer?mid=1ZVuJVFlWmUGb6ozsHu4cSKrixTyDBws&ll=51.435898456958114%2C-3.29600000000001&z=4
+[mymaps: Crown Dependencies](https://www.google.com/maps/d/viewer?mid=1QZhJDMkfPVLWNL8EdoULAmolxse4u1w&ll=52.65889647239251%2C-9.418019096418995&z=4)
 
 display the Flag at the Coordinates of Islands on Google Map
 

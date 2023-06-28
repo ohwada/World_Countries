@@ -49,14 +49,13 @@ with open('crown_dependencies_coordinates.json') as f3:
         lat = item['lat']
         lon = item['lon']
         url_flag = item['url_flag']
-        url_flag_icon = item['url_flag_icon']
-        print(    island)
+        print(island)
         desc = TEMPLATE_DESCRIPTION.format(url_country=url_island, country=island)
         id_island = urllib.parse.quote( island.lower().replace(SPACE, UNDERBAR) )
         style_url = TEMPLATE_STYLE_URL.format(id=id_island)
         placemark = template_placemark.format(name=island, description=desc,  lat=lat,  lon=lon, altitude=ALTITUDE,  style_url =  style_url)
         print( placemark)
-        style = template_style.format(id=id_island, href=url_flag_icon)
+        style = template_style.format(id=id_island, href=url_flag)
 
         placemarks += placemark
         styles += style
