@@ -13,7 +13,7 @@ import KML file to Mymap
 
 display the Flag at the Coordinates of Islands on Google Map
 
-![crown dependencies](https://github.com/ohwada/World_Countries/blob/main/national_flags_gmap/un_member_states/screenshots/un_members_capital.png)
+![crown dependencies](https://github.com/ohwada/World_Countries/blob/main/national_flags_gmap/crown_dependencies/scrrenshots/crown_dependencies.png)
 
 #### Python program
 - json2kml.py
