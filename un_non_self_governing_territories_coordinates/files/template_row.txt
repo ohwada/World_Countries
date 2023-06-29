@@ -1,0 +1,5 @@
+<tr>
+<td>{teritory_flag} {teritory}</td>
+<td>{admin_flag} {admin_state}</td>
+<td>{coordinates}</td>
+</tr>
