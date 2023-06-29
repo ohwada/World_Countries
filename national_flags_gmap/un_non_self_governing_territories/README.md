@@ -12,7 +12,7 @@ import KML file to Mymap
 
 display the National Flag at the Coordinates of Territories on Google Map
 
-![un_members](https://github.com/ohwada/World_Countries/blob/main/national_flags_gmap/un_member_states/screenshots/un_members_capital.png)
+![un non-self-governing territories](https://github.com/ohwada/World_Countries/blob/main/national_flags_gmap/un_non_self_governing_territories/scrrenshots/un_non_self_governing_territories.png)
 
 #### Python program
 - json2kml.py
