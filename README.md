@@ -15,6 +15,10 @@ List of Sovereign States
 
 List of Natinal Capitals
 
+### un_non_self_governing_territories
+
+United Nations List of non-self-governing Territories
+
 ### uk colonies
 
 List of countries that have gained independence from the United Kingdom

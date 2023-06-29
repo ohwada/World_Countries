@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+UN Countries
+</title>
+</head>
+<body>
+<h1>{body_title}</h1>
+<div>{desc}</div>
+<br/>
+<table style="margin: 30px">
+<thead>
+<tr>
+<th>Territory</th>
+<th>Administering state</th>
+<th>Domestic legal status</th>
+<th>Other claimant(s)</th>
+<th>Population</th>
+<th>Area</th>
+<th>Referendum(s)</th>
+<th>See also</th>
+</tr>
+</thead>
+<tbody>
+{rows}
+</tbody>
+</table>
+
+<h2>Reference<h2>
+{reference}
+</body>
+</html>

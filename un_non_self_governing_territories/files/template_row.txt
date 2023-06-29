@@ -1,0 +1,10 @@
+<tr>
+<td>{teritory_flag} {teritory}</td>
+<td>{admin_flag} {admin_state}</td>
+<td>{domestic_legal_status}</td>
+<td>{claimant}</td>
+<td>{population}</td>
+<td>{area}</td>
+<td>{referendum}</td>
+<td>{note}</td>
+</tr>
