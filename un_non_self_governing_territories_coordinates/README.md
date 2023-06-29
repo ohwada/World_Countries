@@ -3,7 +3,7 @@ UN non-self-governing Territories Coordinates
 
 United Nations List of non-self-governing Territories with Coordinates
 
-![un_countries_flag](https://github.com/ohwada/World_Countries/blob/e6f5dbb17cc90359e61f1359b257145588747129/un_member_states/screenshots/un_countries.png)
+![un non-self-governing territories coordinates](https://github.com/ohwada/World_Countries/blob/main/un_non_self_governing_territories_coordinates/acreenshots/un_non_self_governing_territories_coordinates.png)
 
 - List of Member states in JSON file
 - Python program which create List in HTML form
