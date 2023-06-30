@@ -19,4 +19,5 @@ display the Flag at the Coordinates of Islands on Google Map
 - json2kml.py
 
 #### Reference
-- https://github.com/ohwada/World_Countries/tree/main/crown_dependencies_coordinates
+- https://github.com/ohwada/World_Countries/tree/main/crown_dependencies_coordinates  
+- https://ken-ohwada.hatenadiary.org/entry/2023/06/30/153152
