@@ -1,0 +1,13 @@
+<tr>
+<td>{station}</td>
+<td>{location}</td>
+<td>{country_flag} {country}</td>
+<td>{admin}</td>
+<td>{yearest}</td>
+<td>{max_pers}</td>
+<td>{summer_pop}</td>
+<td>{winter_pop}</td>
+<td>{locode}</td>
+<td>{utc_offset}</td>
+<td>{mean_annual_temp}</td>
+</tr>
