@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>
+Research stations in Antarctica
+</name>
+ <description>
+display the National Flag at the Coordinates of Research station
+</description>
+<Style id="amundsen%E2%80%93scott_south_pole">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="arctowski">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="arrival_heights_laboratory">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="artigas">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="arturo_prat">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="belgrano_ii">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="bellingshausen">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="bharati">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="carlini">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="casey">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="comandante_ferraz">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="concordia">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="davis">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="dumont_d%27urville">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="eco-nelson">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="eduardo_frei">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="escudero">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="esperanza">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="gars">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="general_bernardo_o%27higgins">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="great_wall">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="jang_bogo">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="halley">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="king_sejong">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="maitri">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="marambio">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="mawson">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="mcmurdo">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="mirny">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="neumayer_iii">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="novolazarevskaya">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="orcadas">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="palmer">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="progress">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="rothera">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="san_mart%C3%ADn">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="sanae_iv">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="scott_base">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="showa">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="troll">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="vernadsky">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="vostok">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="zhongshan">
+<IconStyle>
+<Icon>
+<href>
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png
+</href>
+</Icon>
+</IconStyle>
+</Style>
+
+<Placemark>
+<name>Amundsen–Scott South Pole</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Amundsen%E2%80%93Scott_South_Pole_Station">Amundsen–Scott South Pole</a>]]>
+</description>
+<styleUrl>#amundsen%E2%80%93scott_south_pole</styleUrl>
+<Point>
+<coordinates>
+0.0, -90.0, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Arctowski</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Henryk_Arctowski_Polish_Antarctic_Station">Arctowski</a>]]>
+</description>
+<styleUrl>#arctowski</styleUrl>
+<Point>
+<coordinates>
+-58.473247, -62.16014, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Arrival Heights Laboratory</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Arrival_Heights_Laboratory">Arrival Heights Laboratory</a>]]>
+</description>
+<styleUrl>#arrival_heights_laboratory</styleUrl>
+<Point>
+<coordinates>
+166.662149, -77.829947, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Artigas</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Artigas_Base">Artigas</a>]]>
+</description>
+<styleUrl>#artigas</styleUrl>
+<Point>
+<coordinates>
+-58.903889, -62.184444, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Arturo Prat</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Captain_Arturo_Prat_Base">Arturo Prat</a>]]>
+</description>
+<styleUrl>#arturo_prat</styleUrl>
+<Point>
+<coordinates>
+-59.664444, -62.478889, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Belgrano II</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Belgrano_II_Base">Belgrano II</a>]]>
+</description>
+<styleUrl>#belgrano_ii</styleUrl>
+<Point>
+<coordinates>
+-34.627588, -77.873696, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Bellingshausen</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Bellingshausen_Station">Bellingshausen</a>]]>
+</description>
+<styleUrl>#bellingshausen</styleUrl>
+<Point>
+<coordinates>
+-58.960547, -62.198591, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Bharati</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Bharati_(research_station)">Bharati</a>]]>
+</description>
+<styleUrl>#bharati</styleUrl>
+<Point>
+<coordinates>
+76.187361, -69.40803, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Carlini</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Carlini_Base">Carlini</a>]]>
+</description>
+<styleUrl>#carlini</styleUrl>
+<Point>
+<coordinates>
+-58.667764, -62.238251, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Casey</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Casey_Station">Casey</a>]]>
+</description>
+<styleUrl>#casey</styleUrl>
+<Point>
+<coordinates>
+110.526613, -66.282514, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Comandante Ferraz</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Comandante_Ferraz_Antarctic_Station">Comandante Ferraz</a>]]>
+</description>
+<styleUrl>#comandante_ferraz</styleUrl>
+<Point>
+<coordinates>
+-58.391513, -62.085379, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Concordia</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Concordia_Station">Concordia</a>]]>
+</description>
+<styleUrl>#concordia</styleUrl>
+<Point>
+<coordinates>
+123.332196, -75.09978, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Davis</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Davis_Station">Davis</a>]]>
+</description>
+<styleUrl>#davis</styleUrl>
+<Point>
+<coordinates>
+77.9675, -68.576667, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Dumont d'Urville</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Dumont_d%27Urville_Station">Dumont d'Urville</a>]]>
+</description>
+<styleUrl>#dumont_d%27urville</styleUrl>
+<Point>
+<coordinates>
+140.001111, -66.662778, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Eco-Nelson</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Eco-Nelson">Eco-Nelson</a>]]>
+</description>
+<styleUrl>#eco-nelson</styleUrl>
+<Point>
+<coordinates>
+-58.982366, -62.246214, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Eduardo Frei</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Base_Presidente_Eduardo_Frei_Montalva">Eduardo Frei</a>]]>
+</description>
+<styleUrl>#eduardo_frei</styleUrl>
+<Point>
+<coordinates>
+-58.962633, -62.200233, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Escudero</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Profesor_Julio_Escudero_Base">Escudero</a>]]>
+</description>
+<styleUrl>#escudero</styleUrl>
+<Point>
+<coordinates>
+-58.962358, -62.201382, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Esperanza</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Esperanza_Base">Esperanza</a>]]>
+</description>
+<styleUrl>#esperanza</styleUrl>
+<Point>
+<coordinates>
+-56.996111, -63.398333, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>GARS</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/German_Antarctic_Receiving_Station">GARS</a>]]>
+</description>
+<styleUrl>#gars</styleUrl>
+<Point>
+<coordinates>
+-57.900953, -63.320892, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>General Bernardo O'Higgins</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Base_General_Bernardo_O%27Higgins_Riquelme">General Bernardo O'Higgins</a>]]>
+</description>
+<styleUrl>#general_bernardo_o%27higgins</styleUrl>
+<Point>
+<coordinates>
+-57.899781, -63.320951, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Great Wall</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Antarctic_Great_Wall_Station">Great Wall</a>]]>
+</description>
+<styleUrl>#great_wall</styleUrl>
+<Point>
+<coordinates>
+-58.961855, -62.216838, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Jang Bogo</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Jang_Bogo_Station">Jang Bogo</a>]]>
+</description>
+<styleUrl>#jang_bogo</styleUrl>
+<Point>
+<coordinates>
+164.228815, -74.624015, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Halley</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Halley_Research_Station">Halley</a>]]>
+</description>
+<styleUrl>#halley</styleUrl>
+<Point>
+<coordinates>
+-26.197713, -75.612501, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>King Sejong</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/King_Sejong_Station">King Sejong</a>]]>
+</description>
+<styleUrl>#king_sejong</styleUrl>
+<Point>
+<coordinates>
+-58.788256, -62.222803, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Maitri</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Maitri_(research_station)">Maitri</a>]]>
+</description>
+<styleUrl>#maitri</styleUrl>
+<Point>
+<coordinates>
+11.731944, -70.766667, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Marambio</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Marambio_Base">Marambio</a>]]>
+</description>
+<styleUrl>#marambio</styleUrl>
+<Point>
+<coordinates>
+-56.626753, -64.241014, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Mawson</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Mawson_Station">Mawson</a>]]>
+</description>
+<styleUrl>#mawson</styleUrl>
+<Point>
+<coordinates>
+62.873726, -67.602746, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>McMurdo</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/McMurdo_Station">McMurdo</a>]]>
+</description>
+<styleUrl>#mcmurdo</styleUrl>
+<Point>
+<coordinates>
+166.668235, -77.846323, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Mirny</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Mirny_Station">Mirny</a>]]>
+</description>
+<styleUrl>#mirny</styleUrl>
+<Point>
+<coordinates>
+93.009724, -66.553122, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Neumayer III</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Neumayer-Station_III">Neumayer III</a>]]>
+</description>
+<styleUrl>#neumayer_iii</styleUrl>
+<Point>
+<coordinates>
+-8.274167, -70.674444, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Novolazarevskaya</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Novolazarevskaya_Station">Novolazarevskaya</a>]]>
+</description>
+<styleUrl>#novolazarevskaya</styleUrl>
+<Point>
+<coordinates>
+11.823889, -70.776944, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Orcadas</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Orcadas_Base">Orcadas</a>]]>
+</description>
+<styleUrl>#orcadas</styleUrl>
+<Point>
+<coordinates>
+-44.737891, -60.737963, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Palmer</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Palmer_Station">Palmer</a>]]>
+</description>
+<styleUrl>#palmer</styleUrl>
+<Point>
+<coordinates>
+-64.052718, -64.77423, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Progress</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Progress_Station">Progress</a>]]>
+</description>
+<styleUrl>#progress</styleUrl>
+<Point>
+<coordinates>
+76.390278, -69.380833, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Rothera</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Rothera_Research_Station">Rothera</a>]]>
+</description>
+<styleUrl>#rothera</styleUrl>
+<Point>
+<coordinates>
+-68.125028, -67.568783, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>San Martín</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/San_Mart%C3%ADn_Base">San Martín</a>]]>
+</description>
+<styleUrl>#san_mart%C3%ADn</styleUrl>
+<Point>
+<coordinates>
+-67.101311, -68.130043, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>SANAE IV</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/SANAE_IV">SANAE IV</a>]]>
+</description>
+<styleUrl>#sanae_iv</styleUrl>
+<Point>
+<coordinates>
+-2.828611, -71.673611, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Scott Base</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Scott_Base">Scott Base</a>]]>
+</description>
+<styleUrl>#scott_base</styleUrl>
+<Point>
+<coordinates>
+166.768196, -77.849132, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Showa</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Showa_Station_(Antarctica)">Showa</a>]]>
+</description>
+<styleUrl>#showa</styleUrl>
+<Point>
+<coordinates>
+39.581836, -69.004122, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Troll</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Troll_(research_station)">Troll</a>]]>
+</description>
+<styleUrl>#troll</styleUrl>
+<Point>
+<coordinates>
+2.535138, -72.011662, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Vernadsky</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Vernadsky_Research_Base">Vernadsky</a>]]>
+</description>
+<styleUrl>#vernadsky</styleUrl>
+<Point>
+<coordinates>
+-64.257786, -65.245791, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Vostok</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Vostok_Station">Vostok</a>]]>
+</description>
+<styleUrl>#vostok</styleUrl>
+<Point>
+<coordinates>
+106.837328, -78.464422, 0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Zhongshan</name>
+<description>
+<![CDATA[<a href="https://en.wikipedia.org/wiki/Zhongshan_Station_(Antarctica)">Zhongshan</a>]]>
+</description>
+<styleUrl>#zhongshan</styleUrl>
+<Point>
+<coordinates>
+76.371652, -69.373587, 0
+</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>
