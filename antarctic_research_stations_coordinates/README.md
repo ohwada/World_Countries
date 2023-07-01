@@ -10,7 +10,7 @@ A total of 42 countries (as of October 2006),
 all signatories to the Antarctic Treaty, operate seasonal (summer) and year-round research stations on the continent.
 
 
-![antarctic research stations]()
+![antarctic research stations coordinates](https://github.com/ohwada/World_Countries/blob/main/antarctic_research_stations_coordinates/screenshots/antarctic_research_stations_coordinates.png)
 
 - List of Stations in JSON file
 - Python program which create List in HTML form
