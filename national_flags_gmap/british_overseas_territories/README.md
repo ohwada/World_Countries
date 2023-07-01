@@ -19,5 +19,5 @@ display the National Flag at the Coordinates of the Capital on Google Map
 - json2kml.py
 
 #### Reference
-- https://github.com/ohwada/World_Countries/tree/main/un_member_states
-- https://ken-ohwada.hatenadiary.org/entry/2023/06/25/115117
+- https://github.com/ohwada/World_Countries/tree/main/british_overseas_territories_capital
+- https://ken-ohwada.hatenadiary.org/entry/2023/07/01/230506
