@@ -1,12 +1,12 @@
-UK Colonies
+Countries ndependent from the UK Capital
 ===============
 
-List of countries that have gained independence from the United Kingdom
+List of countries that have gained independence from the United Kingdom with Capital
 
 Below are lists of the countries and territories formerly ruled or administered by the United Kingdom or part of the British Empire (including military occupations that did not retain the pre-war central government), with their independence days. 
 A total of 65 countries have claimed their independence from the British Empire or the United Kingdom.
 
-![uk_colonies](https://github.com/ohwada/World_Countries/blob/main/uk_colonies/screenshots/uk_colonies.png)
+![countries ndependent from the uk capital](https://github.com/ohwada/World_Countries/blob/main/countries_independent_from_uk_capital/screenshots/countries_from_uk_capital.png)
 
 - List of Member states in JSON file
 - Python program which create List in HTML form
