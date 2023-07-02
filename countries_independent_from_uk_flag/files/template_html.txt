@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+UK colonies
+</title>
+</head>
+<body>
+<h1>{body_title}</h1>
+<div>{desc}</div>
+<br/>
+<table style="margin: 30px">
+<thead>
+<tr>
+<th>Country</th>
+<th>
+Year of independence or first stage
+</th>
+<th>member of UN</th>
+ <th>member of Commonwealth nations</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+{rows}
+</tbody>
+</table>
+
+<h2>Reference<h2>
+{reference}
+</body>
+</html>
