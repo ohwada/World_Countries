@@ -23,3 +23,7 @@ List of Member states of the Commonwealth of Nations
 
 List of British Overseas Territories
 
+### countries_independent_from_uk
+
+List of Countries that have gained independence from the United Kingdom
+
