@@ -16,7 +16,7 @@ dic['url_reference'] ="https://en.wikipedia.org/wiki/List_of_countries_that_have
 
 countries=[]
 
-with open('uk_colonies.csv') as f1:
+with open('countries_from_uk.csv') as f1:
     reader = csv.reader(f1)
     for row in reader:
         d= {}
@@ -32,5 +32,5 @@ with open('uk_colonies.csv') as f1:
 
 dic['countries'] = countries
 
-with open('uk_colonies.json', 'wt') as f2:
+with open('countries_from_uk.json', 'wt') as f2:
     json.dump(dic, f2)

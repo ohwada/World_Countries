@@ -23,10 +23,6 @@ United Nations List of non-self-governing Territories
 
 List of Research stations in Antarctica
 
-### uk colonies
-
-List of countries that have gained independence from the United Kingdom
-
 ### commonwealth nations
 
 List of Member states of the Commonwealth of Nations
@@ -38,6 +34,10 @@ List of Commonwealth realm
 ### british overseas territories
 
 List of British Overseas Territories
+
+### countries_independent_from_uk
+
+List of countries that have gained independence from the United Kingdom
 
 ### national flags gmap
 
