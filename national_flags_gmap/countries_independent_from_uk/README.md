@@ -20,3 +20,4 @@ display the National Flag at the Coordinates of the Capital on Google Map
 
 #### Reference
 https://github.com/ohwada/World_Countries/tree/main/countries_independent_from_uk_capital
+- https://ken-ohwada.hatenadiary.org/entry/2023/07/02/194219
