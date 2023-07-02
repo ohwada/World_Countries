@@ -1,12 +1,12 @@
-UK Colonies
+Countries independent from UK flag
 ===============
 
-List of countries that have gained independence from the United Kingdom
+List of countries that have gained independence from the United Kingdom with National flag
 
 Below are lists of the countries and territories formerly ruled or administered by the United Kingdom or part of the British Empire (including military occupations that did not retain the pre-war central government), with their independence days. 
 A total of 65 countries have claimed their independence from the British Empire or the United Kingdom.
 
-![uk_colonies](https://github.com/ohwada/World_Countries/blob/main/uk_colonies/screenshots/uk_colonies.png)
+![countries independent from uk flag]()
 
 - List of Member states in JSON file
 - Python program which create List in HTML form
