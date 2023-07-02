@@ -1,0 +1,5 @@
+<tr>
+<td>{flag_icon} {country}</td>
+<td>{capital}</td>
+<td>{coordinates}</td>
+</tr>
