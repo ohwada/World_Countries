@@ -1,5 +1,5 @@
 <tr>
-<td>{country}</td>
+<td>{flag_icon} {country}</td>
 <td>{pre_name}</td>
 <td>{date}</td>
 <td>{year}</td>

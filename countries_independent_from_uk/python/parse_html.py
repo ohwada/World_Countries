@@ -57,7 +57,7 @@ def strip_ref(data):
     return ret
 #
 
-FORMAT_LINE = "{country}, {url_country}, {pre_name}, {date}, {year}, {notes}\n"
+FORMAT_LINE = "{country}, {url_country}, {url_flag}, {flag_width}, {flag_height}, {pre_name}, {date}, {year}, {notes}\n"
 
 wdata = ""
 
@@ -65,24 +65,23 @@ with open('List_of_countries_that_have_gained_independence_ from_the_United_King
      html = f1.read()
   
 soup = BeautifulSoup(html,'html.parser')
-    
-#table = soup.find_all("table")
-# print(table)
 
 rows = soup.select("table tr")
-#print(tr)
 
 for row in rows:
-    # print(row)
     cols = row.find_all("td")
-    # print(cols)
     len_cols = len(cols)
-    name = ""
-    url= "" 
+    if len_cols < 5:
+        continue
+    country = ''
+    url_country = ''
+    url_flag = ''
+    width = 0
+    height = 0
     if len_cols >= 1:
-        # print(th_cols[0])
-        name, url = parse_a(cols[0])
-        print(name)
+        country, url_country = parse_a(cols[0])
+        url_flag, width, height = parse_img(cols[0])
+        print(country)
     pre_name= ""
     if len_cols >= 2:
         pre_name =  strip_ref(cols[1])
@@ -96,7 +95,7 @@ for row in rows:
     if len_cols >= 5:
         notes =  strip_ref(cols[4])
 
-    line = FORMAT_LINE.format(country=name, url_country=url, pre_name=pre_name, date=date, year=year, notes=notes)
+    line = FORMAT_LINE.format(country=country, url_country=url_country,         url_flag=url_flag, flag_width=width, flag_height=height, pre_name=pre_name, date=date, year=year, notes=notes)
     print(line)
     wdata += line;
 

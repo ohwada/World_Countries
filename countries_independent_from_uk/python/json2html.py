@@ -22,6 +22,7 @@ rows=""
 with open('countries_from_uk.json') as f3:
     dic = json.load(f3)
     str_title = dic['title']
+    table_title = dic['table_title']
     desc = dic['desc']
     ref = dic['reference']
     url_ref = dic['url_reference']
@@ -31,20 +32,24 @@ with open('countries_from_uk.json') as f3:
     for item in list_countries:
         country = item['country']
         url_country = item['url_country']
+        url_flag_icon = item['url_flag_icon']
+        icon_width = item['icon_width']
+        icon_height = item['icon_height']
         pre_name = item['pre_name']
         date = item['date']
         year = item['year']
         notes = item['notes']
 
         row_country = TEMPLATE_A_TAG.format(href=url_country, name=country)
-        row = template_row.format(country=row_country, pre_name= pre_name, date=date, year=year, notes=notes)
+        row_flag = TEMPLATE_IMG.format(src=url_flag_icon, width=icon_width, height=icon_height )
+        row = template_row.format(country=row_country, flag_icon=row_flag, pre_name= pre_name, date=date, year=year, notes=notes)
         print(row)
         rows +=  row
 #
 
 html_ref = TEMPLATE_A_TAG.format(href=url_ref, name=ref)
 
-wdata = template_html.format(body_title=str_title, desc = desc, reference=html_ref, rows=rows)
+wdata = template_html.format(body_title=str_title, table_title=table_title, desc = desc, reference=html_ref, rows=rows)
   
 with open('countries_from_uk.html', 'w') as f4:
     f4.write(wdata)

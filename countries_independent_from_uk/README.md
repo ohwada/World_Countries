@@ -6,7 +6,7 @@ List of countries that have gained independence from the United Kingdom
 Below are lists of the countries and territories formerly ruled or administered by the United Kingdom or part of the British Empire (including military occupations that did not retain the pre-war central government), with their independence days. 
 A total of 65 countries have claimed their independence from the British Empire or the United Kingdom.
 
-![countries ndependent from the uk](https://github.com/ohwada/World_Countries/blob/main/countries_independent_from_uk/screenshots/countries_from_uk.png)
+![uk_colonies]()
 
 - List of  Countries in JSON file
 - Python program which create List in HTML form
@@ -24,5 +24,3 @@ Create List in HTML form from JSON file
 - sv2json.py
 - json2html.py
 
-## Refernce
-https://ken-ohwada.hatenadiary.org/entry/2023/07/02/194219
