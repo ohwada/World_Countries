@@ -1,0 +1,16 @@
+<tr>
+<td>{flag_icon} {country}</td>
+<td>
+{date_of_dominion}
+</td>
+<td>
+{date_of_adoption}
+</td>
+<td>
+{date_of_final}
+</td>
+<td>
+{final_event}
+</td>
+<td>{notes}</td>
+</tr>

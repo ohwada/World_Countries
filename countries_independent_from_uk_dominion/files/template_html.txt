@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+countries from uk dominion
+</title>
+</head>
+<body>
+<h1>{body_title}</h1>
+<div>{desc}</div>
+<h3>{table_title}</h3>
+<br/>
+<table style="margin: 30px">
+<thead>
+<tr>
+<th>Country</th>
+<th>
+Date of Dominion status
+</th>
+<th>
+Date of adoption of the Statute of Westminster
+</th>
+<th>
+Date of final relinquishment of British powers
+</th>
+<th>
+Final event in question.
+</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+{rows}
+</tbody>
+</table>
+
+<h2>Reference<h2>
+{reference}
+</body>
+</html>
