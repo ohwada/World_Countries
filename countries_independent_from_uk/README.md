@@ -1,4 +1,4 @@
-Countries ndependent from the UK
+Countries independent from UK Capital
 ===============
 
 List of countries that have gained independence from the United Kingdom
