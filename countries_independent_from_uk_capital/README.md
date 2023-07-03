@@ -1,5 +1,4 @@
 Countries ndependent from the UK Capital
-
 ===============
 
 List of countries that have gained independence from the United Kingdom
@@ -14,8 +13,7 @@ A total of 65 countries have claimed their independence from the British Empire 
 
 The following Web page has List of Member states in HTML tabular form.
 
-wikipedia: List of countries that have gained independence from the United Kingdom
-https://en.wikipedia.org/wiki/List_of_countries_that_have_gained_independence_from_the_United_Kingdom
+[wikipedia: List of countries that have gained independence from the United Kingdom](https://en.wikipedia.org/wiki/List_of_countries_that_have_gained_independence_from_the_United_Kingdom)
 
 Extract the information from Web page
 and make it into a JSON format file.
