@@ -3,12 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <title>
-UK colonies
+Countries independent from UK
 </title>
 </head>
 <body>
 <h1>{body_title}</h1>
 <div>{desc}</div>
+<h3>{table_title}</h3>
 <br/>
 <table style="margin: 30px">
 <thead>

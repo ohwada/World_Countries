@@ -24,9 +24,11 @@ countries =[]
 
 rows=""
 
-with open('countries_from_uk_flag.json') as f3:
+with open('countries_from_uk_commonwealth.json') as f3:
     dic = json.load(f3)
     str_title = dic['title']
+    table_title = dic['table_title']
+
     desc = dic['desc']
     ref = dic['reference']
     url_ref = dic['url_reference']
@@ -53,8 +55,8 @@ with open('countries_from_uk_flag.json') as f3:
 
 html_ref = TEMPLATE_A_TAG.format(href=url_ref, name=ref)
 
-wdata = template_html.format(body_title=str_title, desc = desc, reference=html_ref, rows=rows)
+wdata = template_html.format(body_title=str_title, table_title=table_title, desc = desc, reference=html_ref, rows=rows)
   
-with open('countries_from_uk_flag.html', 'w') as f4:
+with open('countries_from_uk_commonwealth.html', 'w') as f4:
     f4.write(wdata)
 
