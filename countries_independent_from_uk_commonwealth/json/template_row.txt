@@ -1,0 +1,7 @@
+<tr>
+<td>{flag_icon} {country}</td>
+<td>{year}</td>
+<td>{un_member}</td>
+ <td>{commonwealth_nations}</td>
+<td>{notes}</td>
+</tr>
