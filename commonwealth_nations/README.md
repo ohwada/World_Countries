@@ -18,6 +18,15 @@ Extract the information from Web page
 and make it into a JSON format file.
 Create List in HTML form from JSON file
 
+### Member States that are not British colonies
+
+- [Gabon](https://en.wikipedia.org/wiki/Gabon) (France) 
+- [Mozambique](https://en.wikipedia.org/wiki/Mozambique) (Portuguesa)
+- [Namibia](https://en.wikipedia.org/wiki/Namibia) (Germany)
+- [Rwanda](https://en.wikipedia.org/wiki/Rwanda) (Germany Belgium)
+- [Samoa](https://en.wikipedia.org/wiki/Samoa) (Germany)
+
+
 #### Python program
 - parse_html.py
 - sv2json.py
