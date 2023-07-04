@@ -19,3 +19,4 @@ display the National Flag at the Coordinates of Territories on Google Map
 
 #### Reference
 - https://github.com/ohwada/World_Countries/tree/main/un_non_self_governing_territories_coordinates
+- https://ken-ohwada.hatenadiary.org/entry/2023/07/04/221800
