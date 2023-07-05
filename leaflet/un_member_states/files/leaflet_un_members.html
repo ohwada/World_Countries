@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<!-- 2023-06-01 K.OHWADA  -->
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Leaflet OpenStreetMap Demo</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.0/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.3.0/dist/leaflet.js"></script>
+</head>
+ 
+<body onload="init()">
+
+<h2 align="center">Member states of the United Nations</h2>
+<div align="center">display National Flag at the Capital</div>
+<br/>
+<div id="mapid" style="height: 500px;"></div>
+
+<script>
+//set the latitude and longitude of the target you want to display on the marker and the popup name
+var markerList = [{ pos: [34.525278, 69.178333], name: "Afghanistan",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/23px-Flag_of_the_Taliban.svg.png", width: 23, height: 12 }
+, 
+{ pos: [41.328889, 19.817778], name: "Albania",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/21px-Flag_of_Albania.svg.png", width: 21, height: 15 }
+, 
+{ pos: [36.753889, 3.058889], name: "Algeria",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/23px-Flag_of_Algeria.svg.png", width: 23, height: 15 }
+, 
+{ pos: [42.5, 1.5], name: "Andorra",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/22px-Flag_of_Andorra.svg.png", width: 22, height: 15 }
+, 
+{ pos: [-8.838333, 13.234444], name: "Angola",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/23px-Flag_of_Angola.svg.png", width: 23, height: 15 }
+, 
+{ pos: [17.116667, -61.85], name: "Antigua and Barbuda",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/23px-Flag_of_Antigua_and_Barbuda.svg.png", width: 23, height: 15 }
+, 
+{ pos: [-34.603333, -58.381667], name: "Argentina",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png", width: 23, height: 14 }
+, 
+{ pos: [40.181389, 44.514444], name: "Armenia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/23px-Flag_of_Armenia.svg.png", width: 23, height: 12 }
+, 
+{ pos: [-35.293056, 149.126944], name: "Australia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png", width: 23, height: 12 }
+, 
+{ pos: [48.2, 16.366667], name: "Austria",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png", width: 23, height: 15 }
+, 
+{ pos: [40.395278, 49.882222], name: "Azerbaijan",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/23px-Flag_of_Azerbaijan.svg.png", width: 23, height: 12 }
+, 
+{ pos: [25.078056, -77.338611], name: "Bahamas",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/23px-Flag_of_the_Bahamas.svg.png", width: 23, height: 12 }
+, 
+{ pos: [26.225, 50.5775], name: "Bahrain",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/23px-Flag_of_Bahrain.svg.png", width: 23, height: 14 }
+, 
+{ pos: [23.763889, 90.388889], name: "Bangladesh",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/23px-Flag_of_Bangladesh.svg.png", width: 23, height: 14 }
+, 
+{ pos: [13.0975, -59.616667], name: "Barbados",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/23px-Flag_of_Barbados.svg.png", width: 23, height: 15 }
+, 
+{ pos: [53.9, 27.566667], name: "Belarus",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/23px-Flag_of_Belarus.svg.png", width: 23, height: 12 }
+, 
+{ pos: [50.846667, 4.3525], name: "Belgium",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/17px-Flag_of_Belgium.svg.png", width: 17, height: 15 }
+, 
+{ pos: [17.251389, -88.766944], name: "Belize",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/23px-Flag_of_Belize.svg.png", width: 23, height: 14 }
+, 
+{ pos: [6.497222, 2.605], name: "Benin",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/23px-Flag_of_Benin.svg.png", width: 23, height: 15 }
+, 
+{ pos: [27.472222, 89.636111], name: "Bhutan",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/23px-Flag_of_Bhutan.svg.png", width: 23, height: 15 }
+, 
+{ pos: [-16.5, -68.15], name: "Bolivia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/22px-Bandera_de_Bolivia_%28Estado%29.svg.png", width: 22, height: 15 }
+, 
+{ pos: [43.856389, 18.413056], name: "Bosnia and Herzegovina",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/23px-Flag_of_Bosnia_and_Herzegovina.svg.png", width: 23, height: 12 }
+, 
+{ pos: [-24.658056, 25.912222], name: "Botswana",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/23px-Flag_of_Botswana.svg.png", width: 23, height: 15 }
+, 
+{ pos: [-15.793889, -47.882778], name: "Brazil",  flag: "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png", width: 22, height: 15 }
+, 
+{ pos: [4.890278, 114.942222], name: "Brunei",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/23px-Flag_of_Brunei.svg.png", width: 23, height: 12 }
+, 
+{ pos: [42.7, 23.33], name: "Bulgaria",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/23px-Flag_of_Bulgaria.svg.png", width: 23, height: 14 }
+, 
+{ pos: [12.368611, -1.5275], name: "Burkina Faso",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/23px-Flag_of_Burkina_Faso.svg.png", width: 23, height: 15 }
+, 
+{ pos: [-3.428333, 29.925], name: "Burundi",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/23px-Flag_of_Burundi.svg.png", width: 23, height: 14 }
+, 
+{ pos: [11.569444, 104.921111], name: "Cambodia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/23px-Flag_of_Cambodia.svg.png", width: 23, height: 15 }
+, 
+{ pos: [3.866667, 11.516667], name: "Cameroon",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/23px-Flag_of_Cameroon.svg.png", width: 23, height: 15 }
+, 
+{ pos: [45.424722, -75.695], name: "Canada",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png", width: 23, height: 12 }
+, 
+{ pos: [14.918, -23.509], name: "Cape Verde",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/23px-Flag_of_Cape_Verde.svg.png", width: 23, height: 14 }
+, 
+{ pos: [4.373333, 18.562778], name: "Central African Republic",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/23px-Flag_of_the_Central_African_Republic.svg.png", width: 23, height: 15 }
+, 
+{ pos: [12.11, 15.05], name: "Chad",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/23px-Flag_of_Chad.svg.png", width: 23, height: 15 }
+, 
+{ pos: [-33.45, -70.666667], name: "Chile",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png", width: 23, height: 15 }
+, 
+{ pos: [39.906667, 116.3975], name: "China",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png", width: 23, height: 15 }
+, 
+{ pos: [4.711111, -74.072222], name: "Colombia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png", width: 23, height: 15 }
+, 
+{ pos: [-11.699, 43.256], name: "Comoros",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/23px-Flag_of_the_Comoros.svg.png", width: 23, height: 14 }
+, 
+{ pos: [-4.269444, 15.271389], name: "Congo",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/23px-Flag_of_the_Republic_of_the_Congo.svg.png", width: 23, height: 15 }
+, 
+{ pos: [-4.325, 15.322222], name: "Democratic Republic of the Congo",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/20px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png", width: 20, height: 15 }
+, 
+{ pos: [9.9325, -84.08], name: "Costa Rica",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/23px-Flag_of_Costa_Rica_%28state%29.svg.png", width: 23, height: 14 }
+, 
+{ pos: [45.813056, 15.9775], name: "Croatia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/23px-Flag_of_Croatia.svg.png", width: 23, height: 12 }
+, 
+{ pos: [23.136667, -82.358889], name: "Cuba",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/23px-Flag_of_Cuba.svg.png", width: 23, height: 12 }
+, 
+{ pos: [35.1725, 33.365], name: "Cyprus",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/23px-Flag_of_Cyprus.svg.png", width: 23, height: 15 }
+, 
+{ pos: [50.0875, 14.421389], name: "Czechia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png", width: 23, height: 15 }
+, 
+{ pos: [6.816111, -5.274167], name: "Côte d'Ivoire",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/23px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png", width: 23, height: 15 }
+, 
+{ pos: [55.676111, 12.568333], name: "Denmark",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png", width: 20, height: 15 }
+, 
+{ pos: [11.588333, 43.145], name: "Djibouti",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/23px-Flag_of_Djibouti.svg.png", width: 23, height: 15 }
+, 
+{ pos: [15.301389, -61.388333], name: "Dominica",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/23px-Flag_of_Dominica.svg.png", width: 23, height: 12 }
+, 
+{ pos: [18.466667, -69.95], name: "Dominican Republic",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/23px-Flag_of_the_Dominican_Republic.svg.png", width: 23, height: 15 }
+, 
+{ pos: [-8.553611, 125.578333], name: "East Timor",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/23px-Flag_of_East_Timor.svg.png", width: 23, height: 12 }
+, 
+{ pos: [-0.22, -78.5125], name: "Ecuador",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/23px-Flag_of_Ecuador.svg.png", width: 23, height: 15 }
+, 
+{ pos: [30.044444, 31.235833], name: "Egypt",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png", width: 23, height: 15 }
+, 
+{ pos: [13.698889, -89.191389], name: "El Salvador",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/23px-Flag_of_El_Salvador.svg.png", width: 23, height: 13 }
+, 
+{ pos: [3.752064, 8.7737], name: "Equatorial Guinea",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/23px-Flag_of_Equatorial_Guinea.svg.png", width: 23, height: 15 }
+, 
+{ pos: [15.322778, 38.925], name: "Eritrea",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/23px-Flag_of_Eritrea.svg.png", width: 23, height: 12 }
+, 
+{ pos: [59.437222, 24.745278], name: "Estonia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/23px-Flag_of_Estonia.svg.png", width: 23, height: 15 }
+, 
+{ pos: [-26.316667, 31.133333], name: "Eswatini",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/23px-Flag_of_Eswatini.svg.png", width: 23, height: 15 }
+, 
+{ pos: [9.03, 38.74], name: "Ethiopia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/23px-Flag_of_Ethiopia.svg.png", width: 23, height: 12 }
+, 
+{ pos: [-18.129444, 178.447778], name: "Fiji",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/23px-Flag_of_Fiji.svg.png", width: 23, height: 12 }
+, 
+{ pos: [60.170833, 24.9375], name: "Finland",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png", width: 23, height: 14 }
+, 
+{ pos: [48.856667, 2.352222], name: "France",  flag: "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png", width: 23, height: 15 }
+, 
+{ pos: [0.390278, 9.454167], name: "Gabon",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/20px-Flag_of_Gabon.svg.png", width: 20, height: 15 }
+, 
+{ pos: [13.453056, -16.5775], name: "Gambia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/23px-Flag_of_The_Gambia.svg.png", width: 23, height: 15 }
+, 
+{ pos: [41.7225, 44.7925], name: "Georgia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/23px-Flag_of_Georgia.svg.png", width: 23, height: 15 }
+, 
+{ pos: [52.52, 13.405], name: "Germany",  flag: "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png", width: 23, height: 14 }
+, 
+{ pos: [5.55, -0.2], name: "Ghana",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/23px-Flag_of_Ghana.svg.png", width: 23, height: 15 }
+, 
+{ pos: [37.984167, 23.728056], name: "Greece",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png", width: 23, height: 15 }
+, 
+{ pos: [12.05, -61.75], name: "Grenada",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/23px-Flag_of_Grenada.svg.png", width: 23, height: 14 }
+, 
+{ pos: [14.613333, -90.535278], name: "Guatemala",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/23px-Flag_of_Guatemala.svg.png", width: 23, height: 14 }
+, 
+{ pos: [9.509167, -13.712222], name: "Guinea",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/23px-Flag_of_Guinea.svg.png", width: 23, height: 15 }
+, 
+{ pos: [11.85, -15.566667], name: "Guinea-Bissau",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/23px-Flag_of_Guinea-Bissau.svg.png", width: 23, height: 12 }
+, 
+{ pos: [6.805833, -58.150833], name: "Guyana",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/23px-Flag_of_Guyana.svg.png", width: 23, height: 14 }
+, 
+{ pos: [18.533333, -72.333333], name: "Haiti",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/23px-Flag_of_Haiti.svg.png", width: 23, height: 14 }
+, 
+{ pos: [14.1, -87.216667], name: "Honduras",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/23px-Flag_of_Honduras.svg.png", width: 23, height: 12 }
+, 
+{ pos: [47.4925, 19.051389], name: "Hungary",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png", width: 23, height: 12 }
+, 
+{ pos: [64.146667, -21.94], name: "Iceland",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/21px-Flag_of_Iceland.svg.png", width: 21, height: 15 }
+, 
+{ pos: [28.613895, 77.209006], name: "India",  flag: "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png", width: 23, height: 15 }
+, 
+{ pos: [-6.175, 106.8275], name: "Indonesia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png", width: 23, height: 15 }
+, 
+{ pos: [35.689167, 51.388889], name: "Iran",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png", width: 23, height: 13 }
+, 
+{ pos: [33.315278, 44.366111], name: "Iraq",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/23px-Flag_of_Iraq.svg.png", width: 23, height: 15 }
+, 
+{ pos: [53.35, -6.260278], name: "Ireland",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png", width: 23, height: 12 }
+, 
+{ pos: [31.783333, 35.216667], name: "Israel",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/21px-Flag_of_Israel.svg.png", width: 21, height: 15 }
+, 
+{ pos: [41.893333, 12.482778], name: "Italy",  flag: "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png", width: 23, height: 15 }
+, 
+{ pos: [17.971389, -76.793056], name: "Jamaica",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/23px-Flag_of_Jamaica.svg.png", width: 23, height: 12 }
+, 
+{ pos: [35.689722, 139.692222], name: "Japan",  flag: "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png", width: 23, height: 15 }
+, 
+{ pos: [31.949722, 35.932778], name: "Jordan",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/23px-Flag_of_Jordan.svg.png", width: 23, height: 12 }
+, 
+{ pos: [51.147222, 71.42222], name: "Kazakhstan",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/23px-Flag_of_Kazakhstan.svg.png", width: 23, height: 12 }
+, 
+{ pos: [-1.286389, 36.817222], name: "Kenya",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/23px-Flag_of_Kenya.svg.png", width: 23, height: 15 }
+, 
+{ pos: [1.433333, 173.0], name: "Kiribati",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/23px-Flag_of_Kiribati.svg.png", width: 23, height: 12 }
+, 
+{ pos: [29.369722, 47.978333], name: "Kuwait",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/23px-Flag_of_Kuwait.svg.png", width: 23, height: 12 }
+, 
+{ pos: [42.874722, 74.612222], name: "Kyrgyzstan",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/23px-Flag_of_Kyrgyzstan.svg.png", width: 23, height: 14 }
+, 
+{ pos: [17.966667, 102.6], name: "Laos",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/23px-Flag_of_Laos.svg.png", width: 23, height: 15 }
+, 
+{ pos: [56.948889, 24.106389], name: "Latvia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/23px-Flag_of_Latvia.svg.png", width: 23, height: 12 }
+, 
+{ pos: [33.898316, 35.505696], name: "Lebanon",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/23px-Flag_of_Lebanon.svg.png", width: 23, height: 15 }
+, 
+{ pos: [-29.31, 27.48], name: "Lesotho",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/23px-Flag_of_Lesotho.svg.png", width: 23, height: 15 }
+, 
+{ pos: [6.313333, -10.801389], name: "Liberia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/23px-Flag_of_Liberia.svg.png", width: 23, height: 12 }
+, 
+{ pos: [32.887222, 13.191389], name: "Libya",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/23px-Flag_of_Libya.svg.png", width: 23, height: 12 }
+, 
+{ pos: [47.141, 9.521], name: "Liechtenstein",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/23px-Flag_of_Liechtenstein.svg.png", width: 23, height: 14 }
+, 
+{ pos: [54.687222, 25.28], name: "Lithuania",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/23px-Flag_of_Lithuania.svg.png", width: 23, height: 14 }
+, 
+{ pos: [49.611667, 6.131944], name: "Luxembourg",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/23px-Flag_of_Luxembourg.svg.png", width: 23, height: 14 }
+, 
+{ pos: [-18.933333, 47.516667], name: "Madagascar",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/23px-Flag_of_Madagascar.svg.png", width: 23, height: 15 }
+, 
+{ pos: [-13.983333, 33.783333], name: "Malawi",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/23px-Flag_of_Malawi.svg.png", width: 23, height: 15 }
+, 
+{ pos: [3.147778, 101.695278], name: "Malaysia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/23px-Flag_of_Malaysia.svg.png", width: 23, height: 12 }
+, 
+{ pos: [4.175278, 73.508889], name: "Maldives",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/23px-Flag_of_Maldives.svg.png", width: 23, height: 15 }
+, 
+{ pos: [12.639167, -8.002778], name: "Mali",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/23px-Flag_of_Mali.svg.png", width: 23, height: 15 }
+, 
+{ pos: [35.898333, 14.5125], name: "Malta",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/23px-Flag_of_Malta.svg.png", width: 23, height: 15 }
+, 
+{ pos: [7.083333, 171.383333], name: "Marshall Islands",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/23px-Flag_of_the_Marshall_Islands.svg.png", width: 23, height: 12 }
+, 
+{ pos: [18.08581, -15.9785], name: "Mauritania",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/23px-Flag_of_Mauritania.svg.png", width: 23, height: 15 }
+, 
+{ pos: [-20.164444, 57.504167], name: "Mauritius",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/23px-Flag_of_Mauritius.svg.png", width: 23, height: 15 }
+, 
+{ pos: [19.433333, -99.133333], name: "Mexico",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png", width: 23, height: 13 }
+, 
+{ pos: [6.917222, 158.158889], name: "Micronesia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/23px-Flag_of_the_Federated_States_of_Micronesia.svg.png", width: 23, height: 12 }
+, 
+{ pos: [47.022778, 28.835278], name: "Moldova",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/23px-Flag_of_Moldova.svg.png", width: 23, height: 12 }
+, 
+{ pos: [43.731244, 7.419744], name: "Monaco",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/19px-Flag_of_Monaco.svg.png", width: 19, height: 15 }
+, 
+{ pos: [47.920278, 106.917222], name: "Mongolia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/23px-Flag_of_Mongolia.svg.png", width: 23, height: 12 }
+, 
+{ pos: [42.441286, 19.262892], name: "Montenegro",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/23px-Flag_of_Montenegro.svg.png", width: 23, height: 12 }
+, 
+{ pos: [34.033333, -6.833333], name: "Morocco",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png", width: 23, height: 15 }
+, 
+{ pos: [-25.966667, 32.583333], name: "Mozambique",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/23px-Flag_of_Mozambique.svg.png", width: 23, height: 15 }
+, 
+{ pos: [19.7475, 96.115], name: "Myanmar",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/23px-Flag_of_Myanmar.svg.png", width: 23, height: 15 }
+, 
+{ pos: [-22.57, 17.083611], name: "Namibia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/23px-Flag_of_Namibia.svg.png", width: 23, height: 15 }
+, 
+{ pos: [-0.5477, 166.920867], name: "Nauru",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/23px-Flag_of_Nauru.svg.png", width: 23, height: 12 }
+, 
+{ pos: [27.7172, 85.324], name: "Nepal",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/16px-Flag_of_Nepal.svg.png", width: 16, height: 20 }
+, 
+{ pos: [52.372778, 4.893611], name: "Netherlands",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png", width: 23, height: 15 }
+, 
+{ pos: [-41.288889, 174.777222], name: "New Zealand",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png", width: 23, height: 12 }
+, 
+{ pos: [12.136389, -86.251389], name: "Nicaragua",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/23px-Flag_of_Nicaragua.svg.png", width: 23, height: 14 }
+, 
+{ pos: [13.515, 2.1175], name: "Niger",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/18px-Flag_of_Niger.svg.png", width: 18, height: 15 }
+, 
+{ pos: [9.066667, 7.483333], name: "Nigeria",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/23px-Flag_of_Nigeria.svg.png", width: 23, height: 12 }
+, 
+{ pos: [39.019444, 125.738056], name: "North Korea",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/23px-Flag_of_North_Korea.svg.png", width: 23, height: 12 }
+, 
+{ pos: [41.996111, 21.431667], name: "North Macedonia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/23px-Flag_of_North_Macedonia.svg.png", width: 23, height: 12 }
+, 
+{ pos: [59.913333, 10.738889], name: "Norway",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png", width: 21, height: 15 }
+, 
+{ pos: [23.588889, 58.408333], name: "Oman",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/23px-Flag_of_Oman.svg.png", width: 23, height: 12 }
+, 
+{ pos: [33.693056, 73.063889], name: "Pakistan",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/23px-Flag_of_Pakistan.svg.png", width: 23, height: 15 }
+, 
+{ pos: [7.500556, 134.624167], name: "Palau",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/23px-Flag_of_Palau.svg.png", width: 23, height: 14 }
+, 
+{ pos: [8.983333, -79.516667], name: "Panama",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/23px-Flag_of_Panama.svg.png", width: 23, height: 15 }
+, 
+{ pos: [-9.478889, 147.149444], name: "Papua New Guinea",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/20px-Flag_of_Papua_New_Guinea.svg.png", width: 20, height: 15 }
+, 
+{ pos: [-25.3, -57.633333], name: "Paraguay",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/23px-Flag_of_Paraguay.svg.png", width: 23, height: 13 }
+, 
+{ pos: [-12.06, -77.0375], name: "Peru",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Peru_%28state%29.svg/23px-Flag_of_Peru_%28state%29.svg.png", width: 23, height: 15 }
+, 
+{ pos: [14.5958, 120.9772], name: "Philippines",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/23px-Flag_of_the_Philippines.svg.png", width: 23, height: 12 }
+, 
+{ pos: [52.23, 21.011111], name: "Poland",  flag: "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png", width: 23, height: 14 }
+, 
+{ pos: [38.725278, -9.15], name: "Portugal",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png", width: 23, height: 15 }
+, 
+{ pos: [25.286667, 51.533333], name: "Qatar",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/23px-Flag_of_Qatar.svg.png", width: 23, height: 9 }
+, 
+{ pos: [44.4325, 26.103889], name: "Romania",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png", width: 23, height: 15 }
+, 
+{ pos: [55.755833, 37.617222], name: "Russia",  flag: "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png", width: 23, height: 15 }
+, 
+{ pos: [-1.943889, 30.059444], name: "Rwanda",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/23px-Flag_of_Rwanda.svg.png", width: 23, height: 15 }
+, 
+{ pos: [17.3, -62.733333], name: "Saint Kitts and Nevis",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/23px-Flag_of_Saint_Kitts_and_Nevis.svg.png", width: 23, height: 15 }
+, 
+{ pos: [14.016667, -60.983333], name: "Saint Lucia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/23px-Flag_of_Saint_Lucia.svg.png", width: 23, height: 12 }
+, 
+{ pos: [13.157778, -61.225], name: "Saint Vincent and the Grenadines",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/23px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png", width: 23, height: 15 }
+, 
+{ pos: [-13.833333, -171.75], name: "Samoa",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/23px-Flag_of_Samoa.svg.png", width: 23, height: 12 }
+, 
+{ pos: [43.9346, 12.4473], name: "San Marino",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/20px-Flag_of_San_Marino.svg.png", width: 20, height: 15 }
+, 
+{ pos: [24.633333, 46.716667], name: "Saudi Arabia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png", width: 23, height: 15 }
+, 
+{ pos: [14.692778, -17.446667], name: "Senegal",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/23px-Flag_of_Senegal.svg.png", width: 23, height: 15 }
+, 
+{ pos: [44.817778, 20.456944], name: "Serbia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/23px-Flag_of_Serbia.svg.png", width: 23, height: 15 }
+, 
+{ pos: [-4.616667, 55.45], name: "Seychelles",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/23px-Flag_of_Seychelles.svg.png", width: 23, height: 12 }
+, 
+{ pos: [8.484444, -13.234444], name: "Sierra Leone",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/23px-Flag_of_Sierra_Leone.svg.png", width: 23, height: 15 }
+, 
+{ pos: [1.283333, 103.833333], name: "Singapore",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/23px-Flag_of_Singapore.svg.png", width: 23, height: 15 }
+, 
+{ pos: [48.143889, 17.109722], name: "Slovakia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/23px-Flag_of_Slovakia.svg.png", width: 23, height: 15 }
+, 
+{ pos: [46.051389, 14.506111], name: "Slovenia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/23px-Flag_of_Slovenia.svg.png", width: 23, height: 12 }
+, 
+{ pos: [-9.431944, 159.955556], name: "Solomon Islands",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/23px-Flag_of_the_Solomon_Islands.svg.png", width: 23, height: 12 }
+, 
+{ pos: [2.039167, 45.341944], name: "Somalia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/23px-Flag_of_Somalia.svg.png", width: 23, height: 15 }
+, 
+{ pos: [-33.925278, 18.423889], name: "South Africa",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png", width: 23, height: 15 }
+, 
+{ pos: [37.56, 126.99], name: "South Korea",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png", width: 23, height: 15 }
+, 
+{ pos: [4.85, 31.6], name: "South Sudan",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/23px-Flag_of_South_Sudan.svg.png", width: 23, height: 12 }
+, 
+{ pos: [40.416944, -3.703333], name: "Spain",  flag: "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png", width: 23, height: 15 }
+, 
+{ pos: [6.916667, 79.916667], name: "Sri Lanka",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/23px-Flag_of_Sri_Lanka.svg.png", width: 23, height: 12 }
+, 
+{ pos: [15.6, 32.5], name: "Sudan",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/23px-Flag_of_Sudan.svg.png", width: 23, height: 12 }
+, 
+{ pos: [5.852222, -55.203889], name: "Suriname",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png", width: 23, height: 15 }
+, 
+{ pos: [59.329444, 18.068611], name: "Sweden",  flag: "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png", width: 23, height: 14 }
+, 
+{ pos: [46.948056, 7.4475], name: "Switzerland",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/16px-Flag_of_Switzerland_%28Pantone%29.svg.png", width: 16, height: 16 }
+, 
+{ pos: [33.513056, 36.291944], name: "Syria",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/23px-Flag_of_Syria.svg.png", width: 23, height: 15 }
+, 
+{ pos: [0.336111, 6.730556], name: "São Tomé and Príncipe",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg/23px-Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg.png", width: 23, height: 12 }
+, 
+{ pos: [38.536667, 68.78], name: "Tajikistan",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/23px-Flag_of_Tajikistan.svg.png", width: 23, height: 12 }
+, 
+{ pos: [-6.173056, 35.741944], name: "Tanzania",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/23px-Flag_of_Tanzania.svg.png", width: 23, height: 15 }
+, 
+{ pos: [13.7525, 100.494167], name: "Thailand",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png", width: 23, height: 15 }
+, 
+{ pos: [6.131944, 1.222778], name: "Togo",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/23px-Flag_of_Togo.svg.png", width: 23, height: 14 }
+, 
+{ pos: [-21.133333, -175.2], name: "Tonga",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/23px-Flag_of_Tonga.svg.png", width: 23, height: 12 }
+, 
+{ pos: [10.666667, -61.516667], name: "Trinidad and Tobago",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/23px-Flag_of_Trinidad_and_Tobago.svg.png", width: 23, height: 14 }
+, 
+{ pos: [36.806389, 10.181667], name: "Tunisia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/23px-Flag_of_Tunisia.svg.png", width: 23, height: 15 }
+, 
+{ pos: [39.93, 32.85], name: "Turkey",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png", width: 23, height: 15 }
+, 
+{ pos: [37.9375, 58.38], name: "Turkmenistan",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/23px-Flag_of_Turkmenistan.svg.png", width: 23, height: 15 }
+, 
+{ pos: [-8.516667, 179.2], name: "Tuvalu",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/23px-Flag_of_Tuvalu.svg.png", width: 23, height: 12 }
+, 
+{ pos: [0.313611, 32.581111], name: "Uganda",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/23px-Flag_of_Uganda.svg.png", width: 23, height: 15 }
+, 
+{ pos: [50.45, 30.523333], name: "Ukraine",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png", width: 23, height: 15 }
+, 
+{ pos: [24.466667, 54.366667], name: "UAE",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/23px-Flag_of_the_United_Arab_Emirates.svg.png", width: 23, height: 12 }
+, 
+{ pos: [51.507222, -0.1275], name: "UK",  flag: "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png", width: 23, height: 12 }
+, 
+{ pos: [38.904722, -77.016389], name: "USA",  flag: "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png", width: 23, height: 12 }
+, 
+{ pos: [-34.883611, -56.181944], name: "Uruguay",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png", width: 23, height: 15 }
+, 
+{ pos: [41.311111, 69.279722], name: "Uzbekistan",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/23px-Flag_of_Uzbekistan.svg.png", width: 23, height: 12 }
+, 
+{ pos: [-17.733333, 168.316667], name: "Vanuatu",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/23px-Flag_of_Vanuatu.svg.png", width: 23, height: 14 }
+, 
+{ pos: [10.480556, -66.903611], name: "Venezuela",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Flag_of_Venezuela_%28state%29.svg/23px-Flag_of_Venezuela_%28state%29.svg.png", width: 23, height: 15 }
+, 
+{ pos: [21.028333, 105.854167], name: "Vietnam",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/23px-Flag_of_Vietnam.svg.png", width: 23, height: 15 }
+, 
+{ pos: [12.8, 45.033333], name: "Yemen",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/23px-Flag_of_Yemen.svg.png", width: 23, height: 15 }
+, 
+{ pos: [-15.416667, 28.283333], name: "Zambia",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/23px-Flag_of_Zambia.svg.png", width: 23, height: 15 }
+, 
+{ pos: [-17.829167, 31.052222], name: "Zimbabwe",  flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/23px-Flag_of_Zimbabwe.svg.png", width: 23, height: 12 }
+];
+function init() {
+var mymap = L.map('mapid');
+
+//Tile Layer (openStreetMap)
+var os_map = new L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: "Map data © <a href='https://www.openstreetmap.org/copyright' target='_blank'>OpenStreetMap</a> contributors"
+});
+os_map.addTo(mymap);
+
+//create a box that holds the entire marker
+var bound = L.latLngBounds(markerList[0].pos, markerList[0].pos);
+
+ //add markers by setting markerList
+for (var num in markerList) {
+    var mk = markerList[num];
+    var anchor_width = mk.width/2;
+    var icon_flag = L.icon({
+        iconUrl: mk.flag, 
+		iconSize: [mk.width, mk.height],
+		iconAnchor: [anchor_width, 0],
+		popupAnchor: [0, 0],
+		});
+
+    var content = "<b>" + mk.name + "</b>"
+    var popup = L.popup().setContent(content);
+    L.marker(mk.pos, { title: mk.name, icon: icon_flag}).bindPopup(popup).addTo(mymap);
+
+//expand the box that contains the entire marker
+     bound.extend(mk.pos);
+}
+// end of for
+
+//set the map extent to include the entire marker
+    mymap.fitBounds(bound);
+
+}
+// end of function
+
+</script>
+
+</body>
+ 
+</html>

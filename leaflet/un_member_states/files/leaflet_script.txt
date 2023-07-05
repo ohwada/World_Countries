@@ -1,0 +1,37 @@
+function init() {
+var mymap = L.map('mapid');
+
+//Tile Layer (openStreetMap)
+var os_map = new L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: "Map data © <a href='https://www.openstreetmap.org/copyright' target='_blank'>OpenStreetMap</a> contributors"
+});
+os_map.addTo(mymap);
+
+//create a box that holds the entire marker
+var bound = L.latLngBounds(markerList[0].pos, markerList[0].pos);
+
+ //add markers by setting markerList
+for (var num in markerList) {
+    var mk = markerList[num];
+    var anchor_width = mk.width/2;
+    var icon_flag = L.icon({
+        iconUrl: mk.flag, 
+		iconSize: [mk.width, mk.height],
+		iconAnchor: [anchor_width, 0],
+		popupAnchor: [0, 0],
+		});
+
+    var content = "<b>" + mk.name + "</b>"
+    var popup = L.popup().setContent(content);
+    L.marker(mk.pos, { title: mk.name, icon: icon_flag}).bindPopup(popup).addTo(mymap);
+
+//expand the box that contains the entire marker
+     bound.extend(mk.pos);
+}
+// end of for
+
+//set the map extent to include the entire marker
+    mymap.fitBounds(bound);
+
+}
+// end of function

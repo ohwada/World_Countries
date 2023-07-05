@@ -1,0 +1,1 @@
+{{ pos: [{lat}, {lon}], name: "{name}",  flag: "{flag}", width: {width}, height: {height} }}
