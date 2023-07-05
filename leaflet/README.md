@@ -3,7 +3,7 @@
 
 samples of Leaflet
 
-[wikipedia: Leaflet](https://en.wikipedia.org/wiki/Leaflet_(software%29)
+[wikipedia: Leaflet](https://en.wikipedia.org/wiki/Leaflet_(software%29)  
 
 ### yokohama japan
 
