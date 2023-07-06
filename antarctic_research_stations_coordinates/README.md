@@ -1,7 +1,7 @@
- Antarctic Research stations
+ Antarctic Research stations Coordinates
 ===============
 
-List of Research stations in Antarctica
+List of Research stations in Antarctica with Coordinates
 
 the research stations of the Antarctic are constructed either on rock or on ice that is (for practical purposes) fixed in place. Many of the stations are staffed throughout the year. 
 
