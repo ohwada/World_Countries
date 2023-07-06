@@ -17,4 +17,5 @@ display the National Flag at the Coordinates of Research station  on Google Map
 - json2kml.py
 
 #### Reference
-https://github.com/ohwada/World_Countries/tree/main/antarctic_research_stations_coordinates
+- https://github.com/ohwada/World_Countries/tree/main/antarctic_research_stations_coordinates
+- https://ken-ohwada.hatenadiary.org/entry/2023/07/06/162329
