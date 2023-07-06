@@ -56,7 +56,7 @@ marker_list = FORMAT_MARKER_LIST.format(markers=markers)
 wdata = template_html.format(marker_list=marker_list, leaflet_script=leaflet_script)
   
 
-with open('leaflet_un_members.html', 'w') as f5:
+with open('leaflet_un_members_with_list.html', 'w') as f5:
     f5.write(wdata)
 #
 

@@ -12,13 +12,18 @@
 
 <h2 align="center">Member states of the United Nations</h2>
 <div align="center">display National Flag at the Capital</div>
-<br/>
+<div align="center">This HTML has Marker  List</div>
+<br/> 
 <div id="mapid" style="height: 500px;"></div>
 
 <script>
 //set the latitude and longitude of the target you want to display on the marker and the popup name
-var markerList = {marker_list};
 {leaflet_script}
+
+function get_marker_List() {{
+	var marker_list = {marker_list};
+	return marker_list; 
+}}
 </script>
 
 </body>
