@@ -9,7 +9,7 @@ samples of Leaflet
 
 display Marker at Yokohama Japan on Leaflet using OpenstreetMap Tiles
 
-### tokyo japan
+### tokyo japan flag
 
 display  at National FlagTokyo Japan on Leaflet using OpenstreetMap Tiles
 
