@@ -23,4 +23,4 @@ download using JavaScript
 
 
 ### Reference
-- https://github.com/ohwada/World_Countries/tree/main/un_member_states
+- https://github.com/ohwada/World_Countries/tree/main/un_member_states_capital'
