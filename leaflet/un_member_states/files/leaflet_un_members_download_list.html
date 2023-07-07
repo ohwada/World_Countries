@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- 2023-06-01 K.OHWADA  -->
-<html>
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <title>Leaflet OpenStreetMap Demo</title>
@@ -24,11 +24,11 @@
 function init() {
     var mymap = L.map('mapid');
 
-//Tile Layer (openStreetMap)
-    var os_map = new L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+//Tile Layer (OpenStreetMap)
+    var layer_osm = new L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: "Map data © <a href='https://www.openstreetmap.org/copyright' target='_blank'>OpenStreetMap</a> contributors"
     });
-    os_map.addTo(mymap);
+    layer_osm.addTo(mymap);
 
     download_markerlist(mymap);
 }

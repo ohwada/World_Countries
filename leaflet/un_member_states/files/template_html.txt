@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- 2023-06-01 K.OHWADA  -->
-<html>
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <title>Leaflet OpenStreetMap Demo</title>
