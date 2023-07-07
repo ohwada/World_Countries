@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <!-- 2023-06-01 K.OHWADA -->
-<html lang="ja" dir="ltr">
+<html lang="en">
 <head>
-<meta charset="utf-8">
+<meta charset="UTF-8">
 <title>Leaflet OpenStreetMap Demo</title>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" integrity="sha512Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin="" />
 <style media="screen">
@@ -27,10 +27,10 @@ var ZOOM = 4;
 var mymap = L.map('mapid').setView([lat, lon], ZOOM);
 
 //Tile Layer (openStreetMap)
-var os_map = new L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+var layer_osm = new L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: "Map data © <a href='https://www.openstreetmap.org/copyright' target='_blank'>OpenStreetMap</a> contributors"
 });
-os_map.addTo(mymap);
+layer_osm.addTo(mymap);
 
 // Icon(National fFag)
 var icon_flag = L.icon({
