@@ -13,9 +13,10 @@ UN Countries
 <table style="margin: 30px">
 <thead>
 <tr>
+<th>Flag</th>
 <th>Teritory Name</th>
 <th>Capital</th>
-<th>Coordinate<br/>(Google_Map)</th>
+<th>Coordinates<br/>(Google_Map)</th>
 </tr>
 </thead>
 <tbody>

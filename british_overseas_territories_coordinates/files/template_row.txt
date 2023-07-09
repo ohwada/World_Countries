@@ -1,5 +1,6 @@
 <tr>
-<td>{flag_icon} {country}</td>
+<td>{flag}</td>
+<td>{country}</td>
 <td>{capital}</td>
 <td>{coordinates}</td>
 </tr>

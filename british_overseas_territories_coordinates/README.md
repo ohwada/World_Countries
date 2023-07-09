@@ -1,11 +1,11 @@
-British Overseas Territories Capital
+British Overseas Territories Coordinates
 ===============
 
-List of British Overseas Territories with Capital
+List of British Overseas Territories with Coordinates
 
 The British Overseas Territories are fourteen territories with a constitutional and historical link with the United Kingdom.
 
-![ british territories capital](https://github.com/ohwada/World_Countries/blob/main/british_overseas_territories_capital/screenshots/british_teritories_capital.png)
+![ british overseas territories  coordinates](https://github.com/ohwada/World_Countries/blob/e6f5dbb17cc90359e61f1359b257145588747129/ british _overseas_territories_coordinates/screenshots/ british_overseas_territories_coordinates.png)
 
 - List of Member states in JSON file
 - Python program which create List in HTML form
@@ -21,7 +21,4 @@ create List in HTML form from JSON file
 #### Python program
 - csv2json.py
 - json2html.py
-
-### Reference
-https://ken-ohwada.hatenadiary.org/entry/2023/07/01/230506
 

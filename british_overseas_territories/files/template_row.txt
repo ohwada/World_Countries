@@ -1,7 +1,7 @@
 <tr>
-<td>{flag}</td>
-<td>{arms}</td>
-<td>{teritory}</td>
+<td align="center">{flag}</td>
+<td align="center">{arms}</td>
+<td>{territory}</td>
 <td>{location}</td>
 <td>{motto}</td>
 <td>{area}</td>
