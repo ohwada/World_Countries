@@ -22,4 +22,4 @@ display the National Flag at the Coordinates of the Capital on Google Map
 
 #### Reference
 - https://github.com/ohwada/World_Countries/tree/main/british_overseas_territories_coordinates
-- https://ken-ohwada.hatenadiary.org/entry/2023/06/25/115117
+- https://ken-ohwada.hatenadiary.org/entry/2023/07/01/230506
