@@ -24,3 +24,4 @@ download using JavaScript
 
 ### Reference
 - https://github.com/ohwada/World_Countries/tree/main/un_member_states_capital
+- https://ken-ohwada.hatenadiary.org/entry/2023/07/10/231604
