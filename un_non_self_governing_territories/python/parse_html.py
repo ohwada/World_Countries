@@ -102,7 +102,7 @@ def parse_orig(data):
     return title
 #
 
-FORMAT_LINE = '{teritory}, {url_teritory}, {url_teritory_flag}, {teritory_width}, {teritory_height}, {admin}, {url_admin}, {url_admin_flag}, {admin_width}, {admin_height}, {domestic}, {url_domestic}, {claimant}, {url_claimant}, {population}, {area}, {referendum}, {note}, {url_note} \n'
+FORMAT_LINE = '{territory}, {url_territory}, {url_territory_flag}, {territory_width}, {territory_height}, {admin}, {url_admin}, {url_admin_flag}, {admin_width}, {admin_height}, {domestic}, {url_domestic}, {claimant}, {url_claimant}, {population}, {area}, {referendum}, {note}, {url_note} \n'
 
 wdata = ""
 
@@ -124,15 +124,15 @@ for row in rows:
     cols = row.find_all('td')
     len_cols = len(cols)
     print('len: ', len_cols)
-    teritory = ''
-    url_teritory = ''
-    url_teritory_flag = ''
-    teritory_width = 0
-    teritory_height = 0
+    territory = ''
+    url_territory = ''
+    url_territory_flag = ''
+    territory_width = 0
+    territory_height = 0
     if len_cols >= 1:
-        teritory, url_teritory = parse_a_img(cols[0])
-        url_teritory_flag,  teritory_width, teritory_height = parse_img(cols[0])
-        print(teritory)
+        territory, url_territory = parse_a_img(cols[0])
+        url_territory_flag,  territory_width, territory_height = parse_img(cols[0])
+        print(territory)
     admin = ''
     url_admin = ''
     url_admin_flag = ''
@@ -163,7 +163,7 @@ for row in rows:
     if len_cols >= 8:
             note, url_note = parse_a(cols[7])
 
-    line = FORMAT_LINE.format(teritory=teritory, url_teritory=url_teritory, url_teritory_flag=url_teritory_flag, teritory_width =teritory_width, teritory_height =teritory_height, admin=admin, url_admin=url_admin, url_admin_flag=url_admin_flag, admin_width=admin_width, admin_height=admin_height, domestic=domestic, url_domestic=url_domestic, claimant=claimant, url_claimant=url_claimant, population=population, area=area, referendum=referendum, note=note, url_note=url_note)
+    line = FORMAT_LINE.format(territory=territory, url_territory=url_territory, url_territory_flag=url_territory_flag, territory_width =territory_width, territory_height =territory_height, admin=admin, url_admin=url_admin, url_admin_flag=url_admin_flag, admin_width=admin_width, admin_height=admin_height, domestic=domestic, url_domestic=url_domestic, claimant=claimant, url_claimant=url_claimant, population=population, area=area, referendum=referendum, note=note, url_note=url_note)
     print(line)
     wdata += line;
 

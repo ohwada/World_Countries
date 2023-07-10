@@ -27,7 +27,7 @@ dic['reference'] = 'wikipedia: United Nations list of non-self-governing territo
 
 dic['url_reference'] ='https://en.wikipedia.org/wiki/United_Nations_list_of_non-self-governing_territories'
 
-teritories=[]
+territories = []
 
 with open('un_non_self_governing_territories.csv') as f1:
     reader = csv.reader(f1)
@@ -36,11 +36,11 @@ with open('un_non_self_governing_territories.csv') as f1:
         if len_row < 19:
             continue
         d= {}
-        d['teritory'] = row[0].strip()
-        d['url_teritory'] = row[1].strip()
-        d['url_teritory_flag'] = row[2].strip()
-        d['teritory_width'] = int( row[3].strip() )
-        d['teritory_height'] = int( row[4].strip() )
+        d['territory'] = row[0].strip()
+        d['url_territory'] = row[1].strip()
+        d['url_territory_flag'] = row[2].strip()
+        d['territory_width'] = int( row[3].strip() )
+        d['territory_height'] = int( row[4].strip() )
         d['admin_state'] = row[5].strip()
         d['url_admin_state'] = row[6].strip()
         d['url_admin_flag'] = row[7].strip()
@@ -56,9 +56,9 @@ with open('un_non_self_governing_territories.csv') as f1:
         d['note'] = row[17].strip()
         d['url_note'] = row[18].strip()
         print(d)
-        teritories.append(d)
+        territories.append(d)
 
-dic['teritories'] = teritories
+dic['territories'] = territories
 
 with open('un_non_self_governing_territories.json', 'wt') as f2:
     json.dump(dic, f2)

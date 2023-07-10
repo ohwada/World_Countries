@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <IconStyle id="5">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_American_Samoa.svg/23px-Flag_of_American_Samoa.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9">
+            <IconStyle id="10">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Anguilla.svg/23px-Flag_of_Anguilla.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14">
+            <IconStyle id="15">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="16">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bermuda.svg/23px-Flag_of_Bermuda.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="19">
+            <IconStyle id="20">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="21">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_British_Virgin_Islands.svg/23px-Flag_of_the_British_Virgin_Islands.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="24">
+            <IconStyle id="25">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="26">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_the_Cayman_Islands.svg/23px-Flag_of_the_Cayman_Islands.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="29">
+            <IconStyle id="30">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_Falkland_Islands.svg/23px-Flag_of_the_Falkland_Islands.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34">
+            <IconStyle id="35">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/23px-Flag_of_French_Polynesia.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="39">
+            <IconStyle id="40">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="41">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/23px-Flag_of_Gibraltar.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44">
+            <IconStyle id="45">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="46">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Guam.svg/23px-Flag_of_Guam.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="49">
+            <IconStyle id="50">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="51">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Montserrat.svg/23px-Flag_of_Montserrat.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54">
+            <IconStyle id="55">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_FLNKS.svg/23px-Flag_of_FLNKS.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59">
+            <IconStyle id="60">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="61">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_the_Pitcairn_Islands.svg/23px-Flag_of_the_Pitcairn_Islands.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="64">
+            <IconStyle id="65">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="66">
+                    <href>https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="69">
+            <IconStyle id="70">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="71">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flag_of_Tokelau.svg/23px-Flag_of_Tokelau.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="74">
+            <IconStyle id="75">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="76">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg/23px-Flag_of_the_Turks_and_Caicos_Islands.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="79">
+            <IconStyle id="80">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Virgin_Islands.svg/23px-Flag_of_the_United_States_Virgin_Islands.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="84">
+            <IconStyle id="85">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Escudo_del_S%C3%A1hara_Espa%C3%B1ol.svg/13px-Escudo_del_S%C3%A1hara_Espa%C3%B1ol.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>United Nations List of non-self-governing Territories</name>
+        <description>display the Flag at the Coordinates of Territories</description>
+        <Placemark id="3">
+            <name>American Samoa</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/American_Samoa">American Samoa</a>]]></description>
+            <styleUrl>#4</styleUrl>
+            <Point id="2">
+                <coordinates>-170.7,-14.3,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8">
+            <name>Anguilla</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Anguilla">Anguilla</a>]]></description>
+            <styleUrl>#9</styleUrl>
+            <Point id="7">
+                <coordinates>-63.04899,18.22723,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>Bermuda</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Bermuda">Bermuda</a>]]></description>
+            <styleUrl>#14</styleUrl>
+            <Point id="12">
+                <coordinates>-64.74,32.32,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18">
+            <name>British Virgin Islands</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/British_Virgin_Islands">British Virgin Islands</a>]]></description>
+            <styleUrl>#19</styleUrl>
+            <Point id="17">
+                <coordinates>-64.54,18.445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>Cayman Islands</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Cayman_Islands">Cayman Islands</a>]]></description>
+            <styleUrl>#24</styleUrl>
+            <Point id="22">
+                <coordinates>-80.5,19.5,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28">
+            <name>Falkland Islands (Malvinas)</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Falkland_Islands">Falkland Islands (Malvinas)</a>]]></description>
+            <styleUrl>#29</styleUrl>
+            <Point id="27">
+                <coordinates>-59.22,-51.73,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>French Polynesia</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/French_Polynesia">French Polynesia</a>]]></description>
+            <styleUrl>#34</styleUrl>
+            <Point id="32">
+                <coordinates>-149.566667,-17.533333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="38">
+            <name>Gibraltar</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Gibraltar">Gibraltar</a>]]></description>
+            <styleUrl>#39</styleUrl>
+            <Point id="37">
+                <coordinates>-5.35,36.14,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>Guam</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Guam">Guam</a>]]></description>
+            <styleUrl>#44</styleUrl>
+            <Point id="42">
+                <coordinates>144.8,13.5,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="48">
+            <name>Montserrat</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Montserrat">Montserrat</a>]]></description>
+            <styleUrl>#49</styleUrl>
+            <Point id="47">
+                <coordinates>-62.2,16.75,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>New Caledonia</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/New_Caledonia">New Caledonia</a>]]></description>
+            <styleUrl>#54</styleUrl>
+            <Point id="52">
+                <coordinates>165.3,-21.25,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58">
+            <name>Pitcairn</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Pitcairn_Islands">Pitcairn</a>]]></description>
+            <styleUrl>#59</styleUrl>
+            <Point id="57">
+                <coordinates>-130.1,-25.066667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>Saint Helena</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Saint_Helena%2c_Ascension_and_Tristan_da_Cunha">Saint Helena</a>]]></description>
+            <styleUrl>#64</styleUrl>
+            <Point id="62">
+                <coordinates>-5.716667,-15.933333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68">
+            <name>Tokelau</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Tokelau">Tokelau</a>]]></description>
+            <styleUrl>#69</styleUrl>
+            <Point id="67">
+                <coordinates>-171.833333,-9.166667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>Turks and Caicos Islands</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands">Turks and Caicos Islands</a>]]></description>
+            <styleUrl>#74</styleUrl>
+            <Point id="72">
+                <coordinates>-71.8,21.78,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78">
+            <name>U.S. Virgin Islands</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/United_States_Virgin_Islands">U.S. Virgin Islands</a>]]></description>
+            <styleUrl>#79</styleUrl>
+            <Point id="77">
+                <coordinates>-64.9,18.34,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>Western Sahara</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Western_Sahara">Western Sahara</a>]]></description>
+            <styleUrl>#84</styleUrl>
+            <Point id="82">
+                <coordinates>-13.0,25.0,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

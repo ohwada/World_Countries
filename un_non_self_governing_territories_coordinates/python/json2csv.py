@@ -14,7 +14,7 @@ def make_a_tag(name, href):
     return ret
 #
 
-FORMAT_LINE = '{teritory}, {url_teritory},{url_teritory_flag}, {teritory_width}, {teritory_height}, {admin}, {url_admin}, {url_admin_flag}, {admin_width}, {admin_height}, {lat}, {lon} \n'
+FORMAT_LINE = '{territory}, {url_territory},{url_territory_flag}, {territory_width}, {territory_height}, {admin}, {url_admin}, {url_admin_flag}, {admin_width}, {admin_height}, {lat}, {lon} \n'
 
 wdata = ""
 
@@ -28,22 +28,22 @@ with open('un_non_self_governing_territories.json') as f3:
     desc = dic['desc']
     ref = dic['reference']
     url_ref = dic['url_reference']
-    list_teritories = dic['teritories']
+    list_territories = dic['territories']
     print(str_title)
     
-for item in list_teritories:
-    teritory = item['teritory']
-    url_teritory = item['url_teritory']
-    url_teritory_flag = item['url_teritory_flag']
-    teritory_width = item['teritory_width']
-    teritory_height = item['teritory_height']
+for item in list_territories:
+    territory = item['territory']
+    url_territory = item['url_territory']
+    url_territory_flag = item['url_territory_flag']
+    territory_width = item['territory_width']
+    territory_height = item['territory_height']
     admin = item['admin_state']
     url_admin = item['url_admin_state']
     url_admin_flag = item['url_admin_flag']
     admin_width = item['admin_width']
     admin_height = item['admin_height'] 
         
-    line = FORMAT_LINE.format(teritory=teritory, url_teritory=url_teritory, url_teritory_flag=url_teritory_flag, teritory_width =teritory_width, teritory_height =teritory_height, admin=admin, url_admin=url_admin, url_admin_flag=url_admin_flag, admin_width=admin_width, admin_height=admin_height, lat=lat, lon=lon )
+    line = FORMAT_LINE.format(territory=territory, url_territory=url_territory, url_territory_flag=url_territory_flag, territory_width =territory_width, territory_height =territory_height, admin=admin, url_admin=url_admin, url_admin_flag=url_admin_flag, admin_width=admin_width, admin_height=admin_height, lat=lat, lon=lon )
     print(line)
     wdata += line;
 #

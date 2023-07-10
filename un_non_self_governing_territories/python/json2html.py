@@ -21,7 +21,7 @@ with open('template_html.txt', 'r') as f1:
 with open('template_row.txt', 'r') as f2:
     template_row = f2.read()
 
-teritories =[]
+territories =[]
 
 rows=""
 
@@ -31,15 +31,15 @@ with open('un_non_self_governing_territories.json') as f3:
     desc = dic['desc']
     ref = dic['reference']
     url_ref = dic['url_reference']
-    list_teritories = dic['teritories']
+    list_territories = dic['territories']
     print(str_title)
     
-    for item in list_teritories:
-        teritory = item['teritory']
-        url_teritory = item['url_teritory']
-        url_teritory_flag = item['url_teritory_flag']
-        teritory_width = item['teritory_width']
-        teritory_height = item['teritory_height']
+    for item in list_territories:
+        territory = item['territory']
+        url_territory = item['url_territory']
+        url_territory_flag = item['url_territory_flag']
+        territory_width = item['territory_width']
+        territory_height = item['territory_height']
         admin_state = item['admin_state']
         url_admin_state = item['url_admin_state']
         url_admin_flag = item['url_admin_flag']
@@ -55,16 +55,16 @@ with open('un_non_self_governing_territories.json') as f3:
         note = item['note']
         url_note = item['url_note'] 
 
-        row_teritory = TEMPLATE_A_TAG.format(href=url_teritory, name= teritory)
+        row_territory = TEMPLATE_A_TAG.format(href=url_territory, name= territory)
         row_admin_state = TEMPLATE_A_TAG.format(href=url_admin_state, name=admin_state)
-        row_teritory_flag = TEMPLATE_IMG.format(src=url_teritory_flag, width=teritory_width, height=admin_height)
+        row_territory_flag = TEMPLATE_IMG.format(src=url_territory_flag, width=territory_width, height=admin_height)
         row_admin_flag = TEMPLATE_IMG.format(src=url_admin_flag, width=admin_width, height=admin_height)
         row_domestic_legal_status = TEMPLATE_A_TAG.format(href=url_domestic_legal_status, name=domestic_legal_status)
         row_claimant = make_a_tag(other_claimant, href=url_other_claimant)
 
         row_note = TEMPLATE_A_TAG.format(href=url_note, name=note)
 
-        row = template_row.format( teritory_flag=row_teritory_flag, teritory=row_teritory, admin_flag=row_admin_flag, admin_state=row_admin_state, domestic_legal_status=row_domestic_legal_status, claimant=row_claimant, population=population, area=area, referendum=referendum, note = row_note )
+        row = template_row.format( territory_flag=row_territory_flag, territory=row_territory, admin_flag=row_admin_flag, admin_state=row_admin_state, domestic_legal_status=row_domestic_legal_status, claimant=row_claimant, population=population, area=area, referendum=referendum, note = row_note )
 
         print(row)
         rows +=  row
