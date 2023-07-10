@@ -25,7 +25,7 @@ with open('template_row.txt', 'r') as f2:
 with open('template_row_island.txt', 'r') as f3:
     template_row_island = f3.read()
 
-teritories =[]
+islands =[]
 
 rows=""
 
@@ -35,15 +35,15 @@ with open('crown_dependencies.json') as f4:
     desc = dic['desc']
     ref = dic['reference']
     url_ref = dic['url_reference']
-    list_teritories = dic['teritories']
+    list_islands = dic['islands']
     print(str_title)
     
-    for item in list_teritories:
+    for item in list_islands:
         id = item['id'] 
         group = item['group']
         rowspan = item['rowspan']
-        teritory = item['teritory']
-        url_teritory = item['url_teritory']
+        territory = item['territory']
+        url_territory = item['url_territory']
         location = item['location'] 
         url_location = item['url_location'] 
         monarch = item['monarch'] 
@@ -61,7 +61,7 @@ with open('crown_dependencies.json') as f4:
         airport = item['airport'] 
         url_airport = item['url_airport'] 
 
-        row_teritory = FORMAT_A_TAG.format(href= url_teritory, name=teritory)
+        row_territory = FORMAT_A_TAG.format(href= url_territory, name=territory)
         row_location = FORMAT_A_TAG.format(href= url_location, name=location)
         row_monarch = FORMAT_A_TAG.format(href= url_monarch, name=monarch)
         row_capital = FORMAT_A_TAG.format(href= url_capital, name=capital)
@@ -71,7 +71,7 @@ with open('crown_dependencies.json') as f4:
         row_rowspan = make_rowspan(rowspan)
 
         if group == 0:
-            row = template_row.format( teritory=row_teritory, location = row_location, monarch=row_monarch, area=area, population=population, flag=row_flag, arms=row_arms, capital=row_capital, airport=row_airport, rowspan=row_rowspan)
+            row = template_row.format( territory=row_territory, location = row_location, monarch=row_monarch, area=area, population=population, flag=row_flag, arms=row_arms, capital=row_capital, airport=row_airport, rowspan=row_rowspan)
         else: 
             row = template_row_island.format( flag=row_flag, arms=row_arms, capital=row_capital, airport=row_airport )
         print(row)

@@ -102,7 +102,7 @@ for row in rows:
     id += 1
     base = 0
     rowspan = 0
-    territory =  ''
+    territory = ''
     url_territory =  ''
     location =  ''
     url_location =  ''

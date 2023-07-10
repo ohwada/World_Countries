@@ -1,67 +1,42 @@
 # json2kml.py
 # 2023-06-01 K.OHWADA
 
+import simplekml
 import json
-
 import urllib.parse
 
-TEMPLATE_A_TAG = '<a href="{href}">{name}</a>'
+FORMAT_DESCRIPTION = '<![CDATA[<a href="{href}">{name}</a>]]>'
 
-TEMPLATE_IMG = '<img src="{src}" decoding="async"  width="{width}" height="{height}" />'
+# Document
+DOC_NAME = 'Crown Dependencies'
+DOC_DESC = 'display the Flag at the Coordinates of Islands'
+FILENAME = 'crown_dependencies.kml'
 
-TEMPLATE_DESCRIPTION = '<![CDATA[<a href="{url_country}">{country}</a>]]>'
+# create kml
+kml = simplekml.Kml()
+kml.document.name = DOC_NAME
+kml.document.description = DOC_DESC
 
-TEMPLATE_STYLE_URL = '#{id}'
+with open('crown_dependencies_coordinates.json') as f1:
+    dic = json.load(f1)
+    list_islands = dic['islands']
+#
 
-TITLE = 'Crown Dependencies'
 
-DESC = 'display the Flag at the Coordinates of Islands'
+# Placemark
+for item in list_islands:
+	island = item['island']
+	url_island = item['url_island']
+	url_flag = item['url_flag']
+	lat = item['lat']
+	lon = item['lon']
+	print(island)
 
-SPACE = ' '
+	point = kml.newpoint(name = island)
+	point.coords = [(lon, lat)]
+	point.style.iconstyle.icon.href = url_flag
+	point.description =  FORMAT_DESCRIPTION.format(href=url_island, name=island)
+#
 
-UNDERBAR = '_'
-
-ALTITUDE = 0
-
-with open('template_kml.txt', 'r') as f1:
-    template_kml = f1.read()
-
-with open('template_placemark.txt', 'r') as f2:
-    template_placemark = f2.read()
-
-with open('template_style.txt', 'r') as f3:
-    template_style = f3.read()
-
-teritories =[]
-
-placemarks = ""
-
-styles = ""
-
-with open('crown_dependencies_coordinates.json') as f3:
-    dic = json.load(f3)
-    str_title = dic['title']
-    list_teritories = dic['teritories']
-    
-    for item in list_teritories:
-        island = item['island']
-        url_island = item['url_island']
-        lat = item['lat']
-        lon = item['lon']
-        url_flag = item['url_flag']
-        print(island)
-        desc = TEMPLATE_DESCRIPTION.format(url_country=url_island, country=island)
-        id_island = urllib.parse.quote( island.lower().replace(SPACE, UNDERBAR) )
-        style_url = TEMPLATE_STYLE_URL.format(id=id_island)
-        placemark = template_placemark.format(name=island, description=desc,  lat=lat,  lon=lon, altitude=ALTITUDE,  style_url =  style_url)
-        print( placemark)
-        style = template_style.format(id=id_island, href=url_flag)
-
-        placemarks += placemark
-        styles += style
-
-wdata = template_kml.format(name=TITLE, description=DESC, placemarks= placemarks, styles=styles)
-  
-with open('crown_dependencies.kml', 'w') as f4:
-    f4.write(wdata)
+kml.save(FILENAME)
 

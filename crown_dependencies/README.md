@@ -27,10 +27,8 @@ Added three parameters.
 - rowspan: table layout
 
 
-###Python program
+#### Python program
 - parse_html.py
 - sv2json.py
 - json2html.py
 
-### Reference
-https://ken-ohwada.hatenadiary.org/entry/2023/06/30/153152

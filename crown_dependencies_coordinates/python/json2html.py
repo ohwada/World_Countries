@@ -46,10 +46,10 @@ with open('crown_dependencies_coordinates.json') as f4:
     desc = dic['desc']
     ref = dic['reference']
     url_ref = dic['url_reference']
-    list_teritories = dic['teritories']
+    list_islands= dic['islands']
     print(str_title)
     
-    for item in list_teritories:
+    for item in list_islands:
         id = item['id']
         group = item['group']
         rowspan = item['rowspan']
@@ -65,8 +65,6 @@ with open('crown_dependencies_coordinates.json') as f4:
         lat = item['lat']
         lon = item['lon']
         print('id: ', id)
-        print('group: ', group)
-        print('rowspan: ', rowspan)
         row_teritory = FORMAT_A_TAG.format(href=url_teritory, name=teritory)
         row_island = FORMAT_A_TAG.format(href=url_island, name= island)
         row_capital = FORMAT_A_TAG.format(href=url_capital, name=capital)

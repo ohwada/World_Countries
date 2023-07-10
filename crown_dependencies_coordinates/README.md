@@ -19,9 +19,7 @@ add  Coordinate by hand
 and make it into a JSON format file.  
 create List in HTML form from JSON file  
 
-### Python program
+#### Python program
 - csv2json.py
 - json2html.py
 
-### Reference
-https://ken-ohwada.hatenadiary.org/entry/2023/06/30/153152

@@ -20,13 +20,13 @@ dic = {}
 
 dic['title'] = 'List of Crown Dependencies'
 
-dic['desc'] = 'The Crown Dependencies are three flag territories in the British Islands that are self-governing possessions of the British Crown'
+dic['desc'] = 'The Crown Dependencies are three flag islands in the British Islands that are self-governing possessions of the British Crown'
 
 dic['reference'] = 'wikipedia: Crown Dependencies'
 
 dic['url_reference'] = 'https://en.wikipedia.org/wiki/Crown_Dependencies'
 
-teritories=[]
+islands=[]
 
 with open('crown_dependencies.csv') as f1:
     reader = csv.reader(f1)
@@ -38,8 +38,8 @@ with open('crown_dependencies.csv') as f1:
             d['id'] = int (row[0].strip() )
             d['group'] = int (row[1].strip() )
             d['rowspan'] = int (row[2].strip() )
-            d['teritory'] = row[3].strip()
-            d['url_teritory'] = row[4].strip()
+            d['territory'] = row[3].strip()
+            d['url_territory'] = row[4].strip()
             d['location'] = row[5].strip()
             d['url_location'] = row[6].strip()
             d['monarch'] = row[7].strip()
@@ -57,9 +57,9 @@ with open('crown_dependencies.csv') as f1:
             d['airport'] = row[19].strip()
             d['url_airport'] = row[20].strip()
             print(d)
-            teritories.append(d)
+            islands.append(d)
 
-dic['teritories'] = teritories
+dic['islands'] = islands
 
 with open('crown_dependencies.json', 'wt') as f2:
     json.dump(dic, f2)
