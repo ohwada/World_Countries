@@ -7,7 +7,7 @@ create KML file using Python simplekml
 
 import KML file into [Google My Maps](https://www.google.com//intl/en/maps/about/mymaps/)
 
-![polygon](https://github.com/ohwada/World_Countries/blob/main/simplekml/polygon/screenshots/lpolygon.png)
+![polygon](https://github.com/ohwada/World_Countries/blob/main/simplekml/polygon/screenshots/polygon.png)
 
 
 ### Python
