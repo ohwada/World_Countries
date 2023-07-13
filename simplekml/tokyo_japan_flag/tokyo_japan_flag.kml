@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <IconStyle id="5">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6">
+                    <href>https://raw.githubusercontent.com/ohwada/World_Countries/master/simplekml/tokyo_japan_flag/images/100px-Flag_of_Japan.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Tokyo Japan</name>
+        <description>display the Japanese National Flag atTokyo Japan</description>
+        <Placemark id="3">
+            <name>Tokyo, Japan</name>
+            <styleUrl>#4</styleUrl>
+            <Point id="2">
+                <coordinates>139.692222,35.689722,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
