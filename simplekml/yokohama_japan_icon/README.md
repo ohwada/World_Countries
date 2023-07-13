@@ -7,6 +7,8 @@ create KML file using Python simplekml
 
 import KML file into [Google My Maps](https://www.google.com//intl/en/maps/about/mymaps/)
 
+![yokohama japan icon]()
+
 ### Python
 - yokohama_japan_icon.py
 
