@@ -23,4 +23,9 @@ display a Line between Tokyo and Osaka on Google Map
 
 display Polygon(triangle) near Tokyo on Google Map
 
+### circle
+
+display  Circle at Nissan Stadium (Yokohan]ma Japan) on Google Map
+
+
 
