@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <LineStyle id="5">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <name>linestring demo</name>
+        <description>display blue line</description>
+        <Placemark id="3">
+            <name>Tokyo to  Osaka</name>
+            <styleUrl>#4</styleUrl>
+            <LineString id="2">
+                <coordinates>139.692222,35.689722,0.0 135.50211,34.69375,0.0</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

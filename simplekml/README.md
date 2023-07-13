@@ -15,3 +15,8 @@ display  Custom Icon at Yokohama Japan on Google Map
 
 display  Japanese National Flag at Tokyo Japan on Google Map
 
+### linestring
+
+display a Line between Tokyo and Osaka on Google Map
+
+
