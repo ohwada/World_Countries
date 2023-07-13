@@ -19,4 +19,8 @@ display  Japanese National Flag at Tokyo Japan on Google Map
 
 display a Line between Tokyo and Osaka on Google Map
 
+### polygon
+
+display Polygon(triangle) near Tokyo on Google Map
+
 

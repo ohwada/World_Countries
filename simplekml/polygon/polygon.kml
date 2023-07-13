@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="12">
+            <LineStyle id="13">
+                <color>ff008000</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+            <PolyStyle id="14">
+                <color>64008000</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <name>polygon demo</name>
+        <description>display polygon</description>
+        <Placemark id="3">
+            <name>Yokohama, Saitame,  Narita</name>
+            <styleUrl>#12</styleUrl>
+            <Polygon id="2">
+                <outerBoundaryIs>
+                    <LinearRing id="6">
+                        <coordinates>139.63422,35.45033,0.0 139.6456,35.8614,0.0 140.3183,35.7767,0.0 139.63422,35.45033,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+                <innerBoundaryIs>
+                    <LinearRing id="8">
+                        <coordinates>139.703,35.53089,0.0 139.72414,35.80758,0.0 139.93106,35.72192,0.0 139.703,35.53089,0.0</coordinates>
+                    </LinearRing>
+                </innerBoundaryIs>
+            </Polygon>
+        </Placemark>
+    </Document>
+</kml>
