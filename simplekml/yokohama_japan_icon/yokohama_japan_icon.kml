@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <IconStyle id="5">
+                <colorMode>normal</colorMode>
+                <scale>3</scale>
+                <heading>0</heading>
+                <Icon id="6">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/info-i.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Yokohama Japan Icon</name>
+        <description>display Custom Icon at Yokohama Japan</description>
+        <Placemark id="3">
+            <name>Yokohama Japan</name>
+            <styleUrl>#4</styleUrl>
+            <Point id="2">
+                <coordinates>139.638056,35.444167,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
