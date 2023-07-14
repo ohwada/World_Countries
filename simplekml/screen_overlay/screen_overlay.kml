@@ -6,7 +6,7 @@
         <ScreenOverlay id="2">
             <name>Legend: Wetlands</name>
             <Icon id="3">
-                <href>https://raw.githubusercontent.com/ohwada/World_Countries/master/images/tutorials_screenoverlay.jpg</href>
+                <href>https://raw.githubusercontent.com/ohwada/World_Countries/master//simplekml/screen_overlay/images/legend_wetlands.jpg</href>
             </Icon>
             <overlayXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
             <screenXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>

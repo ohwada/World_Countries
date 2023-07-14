@@ -12,7 +12,7 @@ FILENAME = 'screen_overlay.kml'
 
 # Wetlands
 name = 'Legend: Wetlands'
-url_icon = 'https://raw.githubusercontent.com/ohwada/World_Countries/master/images/tutorials_screenoverlay.jpg'
+url_icon = 'https://raw.githubusercontent.com/ohwada/World_Countries/master//simplekml/screen_overlay/images/legend_wetlands.jpg'
 
 
 # create kml
