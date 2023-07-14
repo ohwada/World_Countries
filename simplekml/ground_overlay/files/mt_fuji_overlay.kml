@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="7">
+        <name>simplekml GroundOverlay demo</name>
+        <description>display photo at Mt.Fuji</description>
+        <GroundOverlay id="8">
+            <name>Mt Fuji</name>
+            <Icon id="9">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MtFuji_FujiCity.jpg/800px-MtFuji_FujiCity.jpg</href>
+            </Icon>
+            <LatLonBox>
+                <north>36.7106</north>
+                <south>34.910599999999995</south>
+                <east>139.83108229381085</east>
+                <west>137.62391770618913</west>
+            </LatLonBox>
+        </GroundOverlay>
+    </Document>
+</kml>

@@ -27,5 +27,9 @@ display Polygon(triangle) near Tokyo on Google Map
 
 display  Circle at Nissan Stadium (Yokohan]ma Japan) on Google Map
 
+### ground overlay
+
+display photo at Mt.Fuji in Japan on Google Earth
+
 
 
