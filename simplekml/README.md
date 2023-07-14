@@ -35,6 +35,10 @@ display photo at Mt.Fuji in Japan on Google Earth
 
 display Legend of Wetlands on Screen of Google Earth
 
+### photo overlay
+
+display Marker Balloon with Photo at Yokohama Stadium, Japan on Google Map
+
 
 
 

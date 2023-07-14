@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <name>photooverlay demo</name>
+        <description>display Photo Marker at Yokohama Stadium, Japan</description>
+        <PhotoOverlay id="2">
+            <Style id="6">
+                <IconStyle id="7">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="8">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Yokohama Stadium</name>
+            <Camera>
+                <longitude>139.6401</longitude>
+                <latitude>35.443428</latitude>
+                <altitude>50</altitude>
+                <altitudeMode>clampToGround</altitudeMode>
+            </Camera>
+            <styleUrl>#6</styleUrl>
+            <Icon id="9">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/YokohamaStadium_view_%28cropped%29.jpg/320px-YokohamaStadium_view_%28cropped%29.jpg</href>
+            </Icon>
+            <ViewVolume>
+                <leftFov>-25</leftFov>
+                <rightFov>25</rightFov>
+                <bottomFov>-15</bottomFov>
+                <topFov>15</topFov>
+                <near>1</near>
+            </ViewVolume>
+            <Point id="4">
+                <coordinates>139.6401,35.443428,0.0</coordinates>
+            </Point>
+        </PhotoOverlay>
+    </Document>
+</kml>
