@@ -7,7 +7,7 @@ create KML file using Python simplekml
 
 import KML file into Google mymaps
 
-![photo overlay]()
+![photo overlay](https://github.com/ohwada/World_Countries/blob/main/simplekml/photo_overlay/screenshots/photo_overlay.png)
 
 ### Python
 photo_overlay.py
