@@ -7,7 +7,7 @@ create KML file using Python simplekml
 
 import KML file into Google Earth
 
-![screen overlay]()
+![screen overlay](https://github.com/ohwada/World_Countries/blob/main/simplekml/screen_overlay/screenshots/screen_overlay.png)
 
 ### Python
 screen_overlay.py
