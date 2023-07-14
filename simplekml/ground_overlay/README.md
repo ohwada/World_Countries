@@ -13,7 +13,7 @@ display photo at Mt.Fuji
 
 import KML file into Google Earth
 
-![mt fuji]()
+![mt fuji](https://github.com/ohwada/World_Countries/blob/main/simplekml/ground_overlay/screenshots/mt_fuji_overlay.png)
 
 
 ### Reference
