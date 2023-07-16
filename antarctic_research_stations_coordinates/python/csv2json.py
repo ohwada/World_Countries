@@ -47,22 +47,27 @@ with open('antarctic_research_stations_coordinates.csv') as f1:
     for row in reader:
         len_row = len(row)
         print('len: ', len_row)
-        if len_row < 13:
+        if len_row < 17:
             continue
         d= {}
         d['station'] = row[0].strip()
         d['url_station'] = row[1].strip()
         d['url_station_flag'] = get_url_station_flag( row[2] )
-        d['station_width'] = int( row[3].strip() )
-        d['station_height'] = int( row[4].strip() )
+        d['station_flag_width'] = int( row[3].strip() )
+        d['station_flag_height'] = int( row[4].strip() )
         d['location'] = row[5].strip()
         d['url_location'] = row[6].strip()
         d['country'] = row[7].strip()
-        d['url_country_flag'] =  row[8].strip()
-        d['country_width'] = int( row[9].strip() )
-        d['country_height'] = int( row[10].strip() )
-        d['lat'] = float( row[11].strip() )
-        d['lon'] = float( row[12].strip() )
+        d['url_country'] = row[8].strip()
+        d['country_coop'] = int( row[9].strip() )
+        d['url_country_flag_icon'] =  row[10].strip()
+        d['country_icon_width'] = int( row[11].strip() )
+        d['country_icon_height'] = int( row[12].strip() )
+        d['url_country_flag'] =  row[13].strip()
+        d['country_flag_width'] = int( row[14].strip() )
+        d['country_flag_height'] = int( row[15].strip() )
+        d['lat'] = float( row[16].strip() )
+        d['lon'] = float( row[17].strip() )
         print(d)
         stations.append(d)
 #

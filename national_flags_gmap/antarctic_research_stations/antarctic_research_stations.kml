@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <IconStyle id="5">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6">
+                    <href>https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9">
+            <IconStyle id="10">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11">
+                    <href>https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14">
+            <IconStyle id="15">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="16">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="19">
+            <IconStyle id="20">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="21">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="24">
+            <IconStyle id="25">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="26">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="29">
+            <IconStyle id="30">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34">
+            <IconStyle id="35">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36">
+                    <href>https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="39">
+            <IconStyle id="40">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="41">
+                    <href>https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44">
+            <IconStyle id="45">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="46">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="49">
+            <IconStyle id="50">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="51">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54">
+            <IconStyle id="55">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56">
+                    <href>https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59">
+            <IconStyle id="60">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="61">
+                    <href>https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="64">
+            <IconStyle id="65">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="66">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="69">
+            <IconStyle id="70">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="71">
+                    <href>https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="74">
+            <IconStyle id="75">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="76">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="79">
+            <IconStyle id="80">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="84">
+            <IconStyle id="85">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="89">
+            <IconStyle id="90">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94">
+            <IconStyle id="95">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96">
+                    <href>https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="99">
+            <IconStyle id="100">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="101">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="104">
+            <IconStyle id="105">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="106">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="109">
+            <IconStyle id="110">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="111">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="114">
+            <IconStyle id="115">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="116">
+                    <href>https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="119">
+            <IconStyle id="120">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="121">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="124">
+            <IconStyle id="125">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="126">
+                    <href>https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="129">
+            <IconStyle id="130">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="131">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="134">
+            <IconStyle id="135">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="136">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="139">
+            <IconStyle id="140">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="141">
+                    <href>https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="144">
+            <IconStyle id="145">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="146">
+                    <href>https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="149">
+            <IconStyle id="150">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="151">
+                    <href>https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="154">
+            <IconStyle id="155">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="156">
+                    <href>https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="159">
+            <IconStyle id="160">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="161">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="164">
+            <IconStyle id="165">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="166">
+                    <href>https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="169">
+            <IconStyle id="170">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="171">
+                    <href>https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="174">
+            <IconStyle id="175">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="176">
+                    <href>https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="179">
+            <IconStyle id="180">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="181">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="184">
+            <IconStyle id="185">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="186">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="189">
+            <IconStyle id="190">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="191">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="194">
+            <IconStyle id="195">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="196">
+                    <href>https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="199">
+            <IconStyle id="200">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="201">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="204">
+            <IconStyle id="205">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="206">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="209">
+            <IconStyle id="210">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="211">
+                    <href>https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="214">
+            <IconStyle id="215">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="216">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Research stations in Antarctica</name>
+        <description>display the National Flag at the Coordinates of Research station</description>
+        <Placemark id="3">
+            <name>Amundsen–Scott South Pole</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Amundsen%E2%80%93Scott_South_Pole_Station">Amundsen–Scott South Pole</a>]]></description>
+            <styleUrl>#4</styleUrl>
+            <Point id="2">
+                <coordinates>0.0,-90.0,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8">
+            <name>Arctowski</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Henryk_Arctowski_Polish_Antarctic_Station">Arctowski</a>]]></description>
+            <styleUrl>#9</styleUrl>
+            <Point id="7">
+                <coordinates>-58.473247,-62.16014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>Arrival Heights Laboratory</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Arrival_Heights_Laboratory">Arrival Heights Laboratory</a>]]></description>
+            <styleUrl>#14</styleUrl>
+            <Point id="12">
+                <coordinates>166.662149,-77.829947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18">
+            <name>Artigas</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Artigas_Base">Artigas</a>]]></description>
+            <styleUrl>#19</styleUrl>
+            <Point id="17">
+                <coordinates>-58.903889,-62.184444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>Arturo Prat</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Captain_Arturo_Prat_Base">Arturo Prat</a>]]></description>
+            <styleUrl>#24</styleUrl>
+            <Point id="22">
+                <coordinates>-59.664444,-62.478889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28">
+            <name>Belgrano II</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Belgrano_II_Base">Belgrano II</a>]]></description>
+            <styleUrl>#29</styleUrl>
+            <Point id="27">
+                <coordinates>-34.627588,-77.873696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>Bellingshausen</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Bellingshausen_Station">Bellingshausen</a>]]></description>
+            <styleUrl>#34</styleUrl>
+            <Point id="32">
+                <coordinates>-58.960547,-62.198591,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="38">
+            <name>Bharati</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Bharati_(research_station)">Bharati</a>]]></description>
+            <styleUrl>#39</styleUrl>
+            <Point id="37">
+                <coordinates>76.187361,-69.40803,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>Carlini</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Carlini_Base">Carlini</a>]]></description>
+            <styleUrl>#44</styleUrl>
+            <Point id="42">
+                <coordinates>-58.667764,-62.238251,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="48">
+            <name>Casey</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Casey_Station">Casey</a>]]></description>
+            <styleUrl>#49</styleUrl>
+            <Point id="47">
+                <coordinates>110.526613,-66.282514,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>Comandante Ferraz</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Comandante_Ferraz_Antarctic_Station">Comandante Ferraz</a>]]></description>
+            <styleUrl>#54</styleUrl>
+            <Point id="52">
+                <coordinates>-58.391513,-62.085379,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58">
+            <name>Concordia</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Concordia_Station">Concordia</a>]]></description>
+            <styleUrl>#59</styleUrl>
+            <Point id="57">
+                <coordinates>123.332196,-75.09978,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>Davis</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Davis_Station">Davis</a>]]></description>
+            <styleUrl>#64</styleUrl>
+            <Point id="62">
+                <coordinates>77.9675,-68.576667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68">
+            <name>Dumont d'Urville</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Dumont_d%27Urville_Station">Dumont d'Urville</a>]]></description>
+            <styleUrl>#69</styleUrl>
+            <Point id="67">
+                <coordinates>140.001111,-66.662778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>Eco-Nelson</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Eco-Nelson">Eco-Nelson</a>]]></description>
+            <styleUrl>#74</styleUrl>
+            <Point id="72">
+                <coordinates>-58.982366,-62.246214,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78">
+            <name>Eduardo Frei</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Base_Presidente_Eduardo_Frei_Montalva">Eduardo Frei</a>]]></description>
+            <styleUrl>#79</styleUrl>
+            <Point id="77">
+                <coordinates>-58.962633,-62.200233,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>Escudero</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Profesor_Julio_Escudero_Base">Escudero</a>]]></description>
+            <styleUrl>#84</styleUrl>
+            <Point id="82">
+                <coordinates>-58.962358,-62.201382,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="88">
+            <name>Esperanza</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Esperanza_Base">Esperanza</a>]]></description>
+            <styleUrl>#89</styleUrl>
+            <Point id="87">
+                <coordinates>-56.996111,-63.398333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>GARS</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/German_Antarctic_Receiving_Station">GARS</a>]]></description>
+            <styleUrl>#94</styleUrl>
+            <Point id="92">
+                <coordinates>-57.900953,-63.320892,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98">
+            <name>General Bernardo O'Higgins</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Base_General_Bernardo_O%27Higgins_Riquelme">General Bernardo O'Higgins</a>]]></description>
+            <styleUrl>#99</styleUrl>
+            <Point id="97">
+                <coordinates>-57.899781,-63.320951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name>Great Wall</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Antarctic_Great_Wall_Station">Great Wall</a>]]></description>
+            <styleUrl>#104</styleUrl>
+            <Point id="102">
+                <coordinates>-58.961855,-62.216838,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="108">
+            <name>Jang Bogo</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Jang_Bogo_Station">Jang Bogo</a>]]></description>
+            <styleUrl>#109</styleUrl>
+            <Point id="107">
+                <coordinates>164.228815,-74.624015,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name>Halley</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Halley_Research_Station">Halley</a>]]></description>
+            <styleUrl>#114</styleUrl>
+            <Point id="112">
+                <coordinates>-26.197713,-75.612501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="118">
+            <name>King Sejong</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/King_Sejong_Station">King Sejong</a>]]></description>
+            <styleUrl>#119</styleUrl>
+            <Point id="117">
+                <coordinates>-58.788256,-62.222803,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>Maitri</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Maitri_(research_station)">Maitri</a>]]></description>
+            <styleUrl>#124</styleUrl>
+            <Point id="122">
+                <coordinates>11.731944,-70.766667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="128">
+            <name>Marambio</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Marambio_Base">Marambio</a>]]></description>
+            <styleUrl>#129</styleUrl>
+            <Point id="127">
+                <coordinates>-56.626753,-64.241014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="133">
+            <name>Mawson</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Mawson_Station">Mawson</a>]]></description>
+            <styleUrl>#134</styleUrl>
+            <Point id="132">
+                <coordinates>62.873726,-67.602746,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="138">
+            <name>McMurdo</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/McMurdo_Station">McMurdo</a>]]></description>
+            <styleUrl>#139</styleUrl>
+            <Point id="137">
+                <coordinates>166.668235,-77.846323,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name>Mirny</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Mirny_Station">Mirny</a>]]></description>
+            <styleUrl>#144</styleUrl>
+            <Point id="142">
+                <coordinates>93.009724,-66.553122,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="148">
+            <name>Neumayer III</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Neumayer-Station_III">Neumayer III</a>]]></description>
+            <styleUrl>#149</styleUrl>
+            <Point id="147">
+                <coordinates>-8.274167,-70.674444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="153">
+            <name>Novolazarevskaya</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Novolazarevskaya_Station">Novolazarevskaya</a>]]></description>
+            <styleUrl>#154</styleUrl>
+            <Point id="152">
+                <coordinates>11.823889,-70.776944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="158">
+            <name>Orcadas</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Orcadas_Base">Orcadas</a>]]></description>
+            <styleUrl>#159</styleUrl>
+            <Point id="157">
+                <coordinates>-44.737891,-60.737963,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="163">
+            <name>Palmer</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Palmer_Station">Palmer</a>]]></description>
+            <styleUrl>#164</styleUrl>
+            <Point id="162">
+                <coordinates>-64.052718,-64.77423,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="168">
+            <name>Progress</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Progress_Station">Progress</a>]]></description>
+            <styleUrl>#169</styleUrl>
+            <Point id="167">
+                <coordinates>76.390278,-69.380833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="173">
+            <name>Rothera</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Rothera_Research_Station">Rothera</a>]]></description>
+            <styleUrl>#174</styleUrl>
+            <Point id="172">
+                <coordinates>-68.125028,-67.568783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="178">
+            <name>San Martín</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/San_Mart%C3%ADn_Base">San Martín</a>]]></description>
+            <styleUrl>#179</styleUrl>
+            <Point id="177">
+                <coordinates>-67.101311,-68.130043,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="183">
+            <name>SANAE IV</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/SANAE_IV">SANAE IV</a>]]></description>
+            <styleUrl>#184</styleUrl>
+            <Point id="182">
+                <coordinates>-2.828611,-71.673611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="188">
+            <name>Scott Base</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Scott_Base">Scott Base</a>]]></description>
+            <styleUrl>#189</styleUrl>
+            <Point id="187">
+                <coordinates>166.768196,-77.849132,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="193">
+            <name>Showa</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Showa_Station_(Antarctica)">Showa</a>]]></description>
+            <styleUrl>#194</styleUrl>
+            <Point id="192">
+                <coordinates>39.581836,-69.004122,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="198">
+            <name>Troll</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Troll_(research_station)">Troll</a>]]></description>
+            <styleUrl>#199</styleUrl>
+            <Point id="197">
+                <coordinates>2.535138,-72.011662,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="203">
+            <name>Vernadsky</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Vernadsky_Research_Base">Vernadsky</a>]]></description>
+            <styleUrl>#204</styleUrl>
+            <Point id="202">
+                <coordinates>-64.257786,-65.245791,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="208">
+            <name>Vostok</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Vostok_Station">Vostok</a>]]></description>
+            <styleUrl>#209</styleUrl>
+            <Point id="207">
+                <coordinates>106.837328,-78.464422,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="213">
+            <name>Zhongshan</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Zhongshan_Station_(Antarctica)">Zhongshan</a>]]></description>
+            <styleUrl>#214</styleUrl>
+            <Point id="212">
+                <coordinates>76.371652,-69.373587,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

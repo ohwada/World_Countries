@@ -48,6 +48,7 @@ with open('un_members_flag.json') as f2:
         url_country = item['url_country']
         d['country'] = country
         d['url_country'] = url_country
+        d['offical_name'] = item['offical_name']
         d['url_flag_icon'] = item['url_flag_icon']
         d['icon_width'] = item['icon_width']
         d['icon_height'] = item['icon_height']
