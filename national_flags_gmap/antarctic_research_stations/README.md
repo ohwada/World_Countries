@@ -11,7 +11,7 @@ import KML file to Mymap
 
 display the National Flag at the Coordinates of Research station  on Google Map
 
-![antarctic research stations](https://github.com/ohwada/World_Countries/blob/main/national_flags_gmap/antarctic_research_stations/screenshots/antarctic_research_stations.png)
+![antarctic research stations](https://github.com/ohwada/World_Countries/blob/main/national_flags_gmap/antarctic_research_stations/screenshots/mymap_antarctic_research_stations.png)
 
 #### Python program
 - json2kml.py
