@@ -13,5 +13,6 @@ import KML file into [Google My Maps](https://www.google.com//intl/en/maps/about
 - linestring.py
 
 ### Reference
-[simplekml: Linestring Tutorial](https://simplekml.readthedocs.io/en/latest/styles.html#simplekml.IconStyle)
+- [simplekml: Linestring Tutorial](https://simplekml.readthedocs.io/en/latest/styles.html#simplekml.IconStyle)
+- https://ken-ohwada.hatenadiary.org/entry/2023/07/16/112916
 
