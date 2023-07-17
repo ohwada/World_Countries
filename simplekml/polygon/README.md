@@ -16,3 +16,4 @@ import KML file into [Google My Maps](https://www.google.com//intl/en/maps/about
 ### Reference
 - [simplekml: newpolygon](https://simplekml.readthedocs.io/en/latest/containers.html#simplekml.Document.newpolygon)
 - https://ken-ohwada.hatenadiary.org/entry/2023/07/17/104421
+
