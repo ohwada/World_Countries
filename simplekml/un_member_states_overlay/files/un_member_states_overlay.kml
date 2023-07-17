@@ -1,0 +1,2323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="3">
+        <name>Member states of the United Nations with overlay</name>
+        <description>display the National Flag at the Coordinates of the capital</description>
+        <GroundOverlay id="8">
+            <name>Afghanistan</name>
+            <Icon id="9">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/800px-Flag_of_the_Taliban.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>35.425278</north>
+                <south>34.525278</south>
+                <east>71.36312721880867</east>
+                <west>69.178333</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="15">
+            <name>Albania</name>
+            <Icon id="16">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/800px-Flag_of_Albania.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>42.606888999999995</north>
+                <south>41.328889</south>
+                <east>22.214801664325726</east>
+                <west>19.817778</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="22">
+            <name>Algeria</name>
+            <Icon id="23">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/800px-Flag_of_Algeria.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>37.950889000000004</north>
+                <south>36.753889</south>
+                <east>5.3054820443112085</east>
+                <west>3.058889</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="29">
+            <name>Andorra</name>
+            <Icon id="30">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/800px-Flag_of_Andorra.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>43.76</north>
+                <south>42.5</south>
+                <east>3.9414150688366627</east>
+                <west>1.5</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="36">
+            <name>Angola</name>
+            <Icon id="37">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/800px-Flag_of_Angola.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-7.641333</north>
+                <south>-8.838333</south>
+                <east>15.056074390671387</east>
+                <west>13.234444</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="43">
+            <name>Antigua and Barbuda</name>
+            <Icon id="44">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/800px-Flag_of_Antigua_and_Barbuda.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>18.313667</north>
+                <south>17.116667</south>
+                <east>-59.966578437013276</east>
+                <west>-61.85</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="50">
+            <name>Argentina</name>
+            <Icon id="51">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/800px-Flag_of_Argentina.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-33.478333</north>
+                <south>-34.603333</south>
+                <east>-56.194821285424645</east>
+                <west>-58.381667</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="57">
+            <name>Armenia</name>
+            <Icon id="58">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/800px-Flag_of_Armenia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>41.081389</north>
+                <south>40.181389</south>
+                <east>46.870447525294836</east>
+                <west>44.514444</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="64">
+            <name>Australia</name>
+            <Icon id="65">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/800px-Flag_of_Australia_%28converted%29.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-34.393056</north>
+                <south>-35.293056</south>
+                <east>151.3322652448297</east>
+                <west>149.126944</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="71">
+            <name>Austria</name>
+            <Icon id="72">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/800px-Flag_of_Austria.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>49.397000000000006</north>
+                <south>48.2</south>
+                <east>19.067210604914465</east>
+                <west>16.366667</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="78">
+            <name>Azerbaijan</name>
+            <Icon id="79">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/800px-Flag_of_Azerbaijan.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>41.295277999999996</north>
+                <south>40.395278</south>
+                <east>52.24569307533234</east>
+                <west>49.882222</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="85">
+            <name>Bahamas</name>
+            <Icon id="86">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/800px-Flag_of_the_Bahamas.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>25.978056</north>
+                <south>25.078056</south>
+                <east>-75.35126640786741</east>
+                <west>-77.338611</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="92">
+            <name>Bahrain</name>
+            <Icon id="93">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/800px-Flag_of_Bahrain.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>27.305</north>
+                <south>26.225</south>
+                <east>52.5840421277286</east>
+                <west>50.5775</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="99">
+            <name>Bangladesh</name>
+            <Icon id="100">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>24.843888999999997</north>
+                <south>23.763889</south>
+                <east>92.35564251155458</east>
+                <west>90.388889</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="106">
+            <name>Barbados</name>
+            <Icon id="107">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/800px-Flag_of_Barbados.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>14.2945</north>
+                <south>13.0975</south>
+                <east>-57.768590881510384</east>
+                <west>-59.616667</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="113">
+            <name>Belarus</name>
+            <Icon id="114">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/800px-Flag_of_Belarus.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>54.8</north>
+                <south>53.9</south>
+                <east>30.621675703864977</east>
+                <west>27.566667</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="120">
+            <name>Belgium</name>
+            <Icon id="121">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/886px-Flag_of_Belgium.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>52.403667</north>
+                <south>50.846667</south>
+                <east>7.203317181690503</east>
+                <west>4.3525</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="127">
+            <name>Belize</name>
+            <Icon id="128">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/800px-Flag_of_Belize.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>18.331388999999998</north>
+                <south>17.251389</south>
+                <east>-86.88215241984473</east>
+                <west>-88.766944</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="134">
+            <name>Benin</name>
+            <Icon id="135">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/800px-Flag_of_Benin.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>7.694222</north>
+                <south>6.497222</south>
+                <east>4.416635513157724</east>
+                <west>2.605</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="141">
+            <name>Bhutan</name>
+            <Icon id="142">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/800px-Flag_of_Bhutan.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>28.669221999999998</north>
+                <south>27.472222</south>
+                <east>91.6648867202976</east>
+                <west>89.636111</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="148">
+            <name>Bolivia</name>
+            <Icon id="149">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/800px-Flag_of_Bolivia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-15.276</north>
+                <south>-16.5</south>
+                <east>-66.27269195705756</east>
+                <west>-68.15</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="155">
+            <name>Bosnia and Herzegovina</name>
+            <Icon id="156">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/800px-Flag_of_Bosnia_and_Herzegovina.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>44.756389</north>
+                <south>43.856389</south>
+                <east>20.90931615315776</east>
+                <west>18.413056</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="162">
+            <name>Botswana</name>
+            <Icon id="163">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/800px-Flag_of_Botswana.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-23.461056</north>
+                <south>-24.658056</south>
+                <east>27.892825644366145</east>
+                <west>25.912222</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="169">
+            <name>Brazil</name>
+            <Icon id="170">
+                <href>https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/720px-Flag_of_Brazil.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-14.533889</north>
+                <south>-15.793889</south>
+                <east>-46.01215647936167</east>
+                <west>-47.882778</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="176">
+            <name>Brunei</name>
+            <Icon id="177">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/800px-Flag_of_Brunei.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>5.790278000000001</north>
+                <south>4.890278</south>
+                <east>116.74879834352303</east>
+                <west>114.942222</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="183">
+            <name>Bulgaria</name>
+            <Icon id="184">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/800px-Flag_of_Bulgaria.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>43.78</north>
+                <south>42.7</south>
+                <east>25.779264189171133</east>
+                <west>23.33</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="190">
+            <name>Burkina Faso</name>
+            <Icon id="191">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/800px-Flag_of_Burkina_Faso.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>13.565610999999999</north>
+                <south>12.368611</south>
+                <east>0.31527113701484133</east>
+                <west>-1.5275</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="197">
+            <name>Burundi</name>
+            <Icon id="198">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/800px-Flag_of_Burundi.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-2.3483330000000002</north>
+                <south>-3.428333</south>
+                <east>31.728227093749293</east>
+                <west>29.925</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="204">
+            <name>Cambodia</name>
+            <Icon id="205">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/800px-Flag_of_Cambodia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>12.721444</north>
+                <south>11.569444</south>
+                <east>106.75844124064139</east>
+                <west>104.921111</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="211">
+            <name>Cameroon</name>
+            <Icon id="212">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/800px-Flag_of_Cameroon.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>5.063667</north>
+                <south>3.866667</south>
+                <east>13.320773725496563</east>
+                <west>11.516667</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="218">
+            <name>Canada</name>
+            <Icon id="219">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/800px-Flag_of_Canada_%28Pantone%29.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>46.324722</north>
+                <south>45.424722</south>
+                <east>-73.13033394892769</east>
+                <west>-75.695</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="225">
+            <name>Cape Verde</name>
+            <Icon id="226">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/800px-Flag_of_Cape_Verde.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>15.971</north>
+                <south>14.918</south>
+                <east>-21.64621530953809</east>
+                <west>-23.509</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="232">
+            <name>Central African Republic</name>
+            <Icon id="233">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/800px-Flag_of_the_Central_African_Republic.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>5.570333</north>
+                <south>4.373333</south>
+                <east>20.368034272010554</east>
+                <west>18.562778</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="239">
+            <name>Chad</name>
+            <Icon id="240">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/800px-Flag_of_Chad.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>13.306999999999999</north>
+                <south>12.11</south>
+                <east>16.890967723905177</east>
+                <west>15.05</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="246">
+            <name>Chile</name>
+            <Icon id="247">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/800px-Flag_of_Chile.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-32.253</north>
+                <south>-33.45</south>
+                <east>-68.50934335940451</east>
+                <west>-70.666667</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="253">
+            <name>China</name>
+            <Icon id="254">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/800px-Flag_of_the_People%27s_Republic_of_China.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>41.103667</north>
+                <south>39.906667</south>
+                <east>118.7440288436742</east>
+                <west>116.3975</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="260">
+            <name>Colombia</name>
+            <Icon id="261">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/800px-Flag_of_Colombia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>5.908111</north>
+                <south>4.711111</south>
+                <east>-72.26612004530506</east>
+                <west>-74.072222</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="267">
+            <name>Comoros</name>
+            <Icon id="268">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/800px-Flag_of_the_Comoros.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-10.619</north>
+                <south>-11.699</south>
+                <east>45.09418582946319</east>
+                <west>43.256</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="274">
+            <name>Congo</name>
+            <Icon id="275">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/800px-Flag_of_the_Republic_of_the_Congo.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-3.072444</north>
+                <south>-4.269444</south>
+                <east>17.07639793936713</east>
+                <west>15.271389</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="281">
+            <name>Democratic Republic of the Congo</name>
+            <Icon id="282">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/800px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-2.9750000000000005</north>
+                <south>-4.325</south>
+                <east>17.127362457033712</east>
+                <west>15.322222</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="288">
+            <name>Costa Rica</name>
+            <Icon id="289">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/800px-Flag_of_Costa_Rica.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>11.0125</north>
+                <south>9.9325</south>
+                <east>-82.25261043462686</east>
+                <west>-84.08</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="295">
+            <name>Croatia</name>
+            <Icon id="296">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/800px-Flag_of_Croatia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>46.713056</north>
+                <south>45.813056</south>
+                <east>18.559990032183112</east>
+                <west>15.9775</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="302">
+            <name>Cuba</name>
+            <Icon id="303">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/800px-Flag_of_Cuba.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>24.036666999999998</north>
+                <south>23.136667</south>
+                <east>-80.40145285940672</east>
+                <west>-82.358889</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="309">
+            <name>Cyprus</name>
+            <Icon id="310">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/800px-Flag_of_Cyprus.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>36.3695</north>
+                <south>35.1725</south>
+                <east>35.56704638852821</east>
+                <west>33.365</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="316">
+            <name>Czechia</name>
+            <Icon id="317">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/800px-Flag_of_the_Czech_Republic.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>51.2845</north>
+                <south>50.0875</south>
+                <east>17.226801013564003</east>
+                <west>14.421389</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="323">
+            <name>Côte d'Ivoire</name>
+            <Icon id="324">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/800px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>8.013111</north>
+                <south>6.816111</south>
+                <east>-3.461354357192474</east>
+                <west>-5.274167</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="330">
+            <name>Denmark</name>
+            <Icon id="331">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/635px-Flag_of_Denmark.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>57.035111</north>
+                <south>55.676111</south>
+                <east>15.76055569688814</east>
+                <west>12.568333</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="337">
+            <name>Djibouti</name>
+            <Icon id="338">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/800px-Flag_of_Djibouti.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>12.785333</north>
+                <south>11.588333</south>
+                <east>44.982454349189936</east>
+                <west>43.145</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="344">
+            <name>Dominica</name>
+            <Icon id="345">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/800px-Flag_of_Dominica.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>16.201389</north>
+                <south>15.301389</south>
+                <east>-59.52217977384747</east>
+                <west>-61.388333</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="351">
+            <name>Dominican Republic</name>
+            <Icon id="352">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/800px-Flag_of_the_Dominican_Republic.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>19.663667</north>
+                <south>18.466667</south>
+                <east>-68.05228292953679</east>
+                <west>-69.95</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="358">
+            <name>East Timor</name>
+            <Icon id="359">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/800px-Flag_of_East_Timor.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-7.653611</north>
+                <south>-8.553611</south>
+                <east>127.39857936942703</east>
+                <west>125.578333</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="365">
+            <name>Ecuador</name>
+            <Icon id="366">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/800px-Flag_of_Ecuador.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>0.9769999999999999</north>
+                <south>-0.22</south>
+                <east>-76.71248673078368</east>
+                <west>-78.5125</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="372">
+            <name>Egypt</name>
+            <Icon id="373">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/800px-Flag_of_Egypt.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>31.241443999999998</north>
+                <south>30.044444</south>
+                <east>33.3152258448733</east>
+                <west>31.235833</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="379">
+            <name>El Salvador</name>
+            <Icon id="380">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/800px-Flag_of_El_Salvador.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>14.706889</north>
+                <south>13.698889</south>
+                <east>-87.33868649132425</east>
+                <west>-89.191389</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="386">
+            <name>Equatorial Guinea</name>
+            <Icon id="387">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/800px-Flag_of_Equatorial_Guinea.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>4.949064</north>
+                <south>3.752064</south>
+                <east>10.577566467752913</east>
+                <west>8.7737</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="393">
+            <name>Eritrea</name>
+            <Icon id="394">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/800px-Flag_of_Eritrea.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>16.222777999999998</north>
+                <south>15.322778</south>
+                <east>40.791343975925386</east>
+                <west>38.925</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="400">
+            <name>Estonia</name>
+            <Icon id="401">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/800px-Flag_of_Estonia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>60.580222</north>
+                <south>59.437222</south>
+                <east>28.28522540917424</east>
+                <west>24.745278</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="407">
+            <name>Eswatini</name>
+            <Icon id="408">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/800px-Flag_of_Eswatini.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-25.119667</north>
+                <south>-26.316667</south>
+                <east>33.141460324832664</east>
+                <west>31.133333</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="414">
+            <name>Ethiopia</name>
+            <Icon id="415">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/800px-Flag_of_Ethiopia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>9.93</north>
+                <south>9.03</south>
+                <east>40.562588623338506</east>
+                <west>38.74</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="421">
+            <name>Fiji</name>
+            <Icon id="422">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/800px-Flag_of_Fiji.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-17.229444</north>
+                <south>-18.129444</south>
+                <east>180.34180517775374</east>
+                <west>178.447778</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="428">
+            <name>Finland</name>
+            <Icon id="429">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/800px-Flag_of_Finland.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>61.268833</north>
+                <south>60.170833</south>
+                <east>28.556204057502562</east>
+                <west>24.9375</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="435">
+            <name>France</name>
+            <Icon id="436">
+                <href>https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/800px-Flag_of_France.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>50.053667000000004</north>
+                <south>48.856667</south>
+                <east>5.08801306714275</east>
+                <west>2.352222</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="442">
+            <name>Gabon</name>
+            <Icon id="443">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/800px-Flag_of_Gabon.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>1.740278</north>
+                <south>0.390278</south>
+                <east>11.254208759355018</east>
+                <west>9.454167</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="449">
+            <name>Gambia</name>
+            <Icon id="450">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/800px-Flag_of_The_Gambia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>14.650056</north>
+                <south>13.453056</south>
+                <east>-14.726716085076431</east>
+                <west>-16.5775</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="456">
+            <name>Georgia</name>
+            <Icon id="457">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/800px-Flag_of_Georgia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>42.9195</north>
+                <south>41.7225</south>
+                <east>47.204150234124995</east>
+                <west>44.7925</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="463">
+            <name>Germany</name>
+            <Icon id="464">
+                <href>https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/800px-Flag_of_Germany.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>53.6</north>
+                <south>52.52</south>
+                <east>16.363169222381323</east>
+                <west>13.405</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="470">
+            <name>Ghana</name>
+            <Icon id="471">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/800px-Flag_of_Ghana.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>6.747</north>
+                <south>5.55</south>
+                <east>1.6084778218280327</east>
+                <west>-0.2</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="477">
+            <name>Greece</name>
+            <Icon id="478">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/640px-Flag_of_Greece.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>39.181167</north>
+                <south>37.984167</south>
+                <east>26.011795817436507</east>
+                <west>23.728056</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="484">
+            <name>Grenada</name>
+            <Icon id="485">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/800px-Flag_of_Grenada.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>13.13</north>
+                <south>12.05</south>
+                <east>-59.90944482278471</east>
+                <west>-61.75</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="491">
+            <name>Guatemala</name>
+            <Icon id="492">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/800px-Flag_of_Guatemala.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>15.738333</north>
+                <south>14.613333</south>
+                <east>-88.67510221852721</east>
+                <west>-90.535278</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="498">
+            <name>Guinea</name>
+            <Icon id="499">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/800px-Flag_of_Guinea.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>10.706166999999999</north>
+                <south>9.509167</south>
+                <east>-11.887143934895477</east>
+                <west>-13.712222</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="505">
+            <name>Guinea-Bissau</name>
+            <Icon id="506">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/800px-Flag_of_Guinea-Bissau.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>12.75</north>
+                <south>11.85</south>
+                <east>-13.727471085871318</east>
+                <west>-15.566667</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="512">
+            <name>Guyana</name>
+            <Icon id="513">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/800px-Flag_of_Guyana.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>7.885833</north>
+                <south>6.805833</south>
+                <east>-56.33805919665018</east>
+                <west>-58.150833</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="519">
+            <name>Haiti</name>
+            <Icon id="520">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/800px-Flag_of_Haiti.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>19.613332999999997</north>
+                <south>18.533333</south>
+                <east>-70.4348769750553</east>
+                <west>-72.333333</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="526">
+            <name>Honduras</name>
+            <Icon id="527">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/800px-Flag_of_Honduras.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>15.0</north>
+                <south>14.1</south>
+                <east>-85.36075202190722</east>
+                <west>-87.216667</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="533">
+            <name>Hungary</name>
+            <Icon id="534">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/800px-Flag_of_Hungary.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>48.3925</north>
+                <south>47.4925</south>
+                <east>21.715345490708188</east>
+                <west>19.051389</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="540">
+            <name>Iceland</name>
+            <Icon id="541">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/800px-Flag_of_Iceland.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>65.442667</north>
+                <south>64.146667</south>
+                <east>-17.812212507243256</east>
+                <west>-21.94</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="547">
+            <name>India</name>
+            <Icon id="548">
+                <href>https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>29.810895</north>
+                <south>28.613895</south>
+                <east>79.25943082095172</east>
+                <west>77.209006</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="554">
+            <name>Indonesia</name>
+            <Icon id="555">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/800px-Flag_of_Indonesia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-4.978</north>
+                <south>-6.175</south>
+                <east>108.63800456023459</east>
+                <west>106.8275</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="561">
+            <name>Iran</name>
+            <Icon id="562">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/640px-Flag_of_Iran.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>36.715167</north>
+                <south>35.689167</south>
+                <east>53.605108704976004</east>
+                <west>51.388889</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="568">
+            <name>Iraq</name>
+            <Icon id="569">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/800px-Flag_of_Iraq.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>34.512278</north>
+                <south>33.315278</south>
+                <east>46.520094663552996</east>
+                <west>44.366111</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="575">
+            <name>Ireland</name>
+            <Icon id="576">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/800px-Flag_of_Ireland.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>54.25</north>
+                <south>53.35</south>
+                <east>-3.244825000829894</east>
+                <west>-6.260278</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="582">
+            <name>Israel</name>
+            <Icon id="583">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/800px-Flag_of_Israel.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>33.088333</north>
+                <south>31.783333</south>
+                <east>37.33419959916349</east>
+                <west>35.216667</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="589">
+            <name>Italy</name>
+            <Icon id="590">
+                <href>https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/800px-Flag_of_Italy.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>43.090333</north>
+                <south>41.893333</south>
+                <east>14.900867726264332</east>
+                <west>12.482778</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="596">
+            <name>Jamaica</name>
+            <Icon id="597">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/800px-Flag_of_Jamaica.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>18.871388999999997</north>
+                <south>17.971389</south>
+                <east>-74.90073079142032</east>
+                <west>-76.793056</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="603">
+            <name>Japan</name>
+            <Icon id="604">
+                <href>https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/800px-Flag_of_Japan.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>36.886722000000006</north>
+                <south>35.689722</south>
+                <east>141.90845712505708</east>
+                <west>139.692222</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="610">
+            <name>Jordan</name>
+            <Icon id="611">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/800px-Flag_of_Jordan.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>32.849722</north>
+                <south>31.949722</south>
+                <east>38.054136731423604</east>
+                <west>35.932778</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="617">
+            <name>Kazakhstan</name>
+            <Icon id="618">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/800px-Flag_of_Kazakhstan.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>52.047222</north>
+                <south>51.147222</south>
+                <east>74.29156242444245</east>
+                <west>71.42222</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="624">
+            <name>Kenya</name>
+            <Icon id="625">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/800px-Flag_of_Kenya.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-0.08938900000000016</north>
+                <south>-1.286389</south>
+                <east>38.61767576720551</east>
+                <west>36.817222</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="631">
+            <name>Kiribati</name>
+            <Icon id="632">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/800px-Flag_of_Kiribati.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>2.3333329999999997</north>
+                <south>1.433333</south>
+                <east>174.80056338425325</east>
+                <west>173.0</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="638">
+            <name>Kuwait</name>
+            <Icon id="639">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/800px-Flag_of_Kuwait.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>30.269721999999998</north>
+                <south>29.369722</south>
+                <east>50.043801209639255</east>
+                <west>47.978333</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="645">
+            <name>Kyrgyzstan</name>
+            <Icon id="646">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/800px-Flag_of_Kyrgyzstan.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>43.954722</north>
+                <south>42.874722</south>
+                <east>77.06840924535588</east>
+                <west>74.612222</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="652">
+            <name>Laos</name>
+            <Icon id="653">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/800px-Flag_of_Laos.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>19.163667</north>
+                <south>17.966667</south>
+                <east>104.49227462961247</east>
+                <west>102.6</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="659">
+            <name>Latvia</name>
+            <Icon id="660">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/800px-Flag_of_Latvia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>57.848889</north>
+                <south>56.948889</south>
+                <east>27.406797950635266</east>
+                <west>24.106389</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="666">
+            <name>Lebanon</name>
+            <Icon id="667">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/800px-Flag_of_Lebanon.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>35.095316000000004</north>
+                <south>33.898316</south>
+                <east>37.6742957707584</east>
+                <west>35.505696</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="673">
+            <name>Lesotho</name>
+            <Icon id="674">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/800px-Flag_of_Lesotho.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-28.113</north>
+                <south>-29.31</south>
+                <east>29.54425842482204</east>
+                <west>27.48</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="680">
+            <name>Liberia</name>
+            <Icon id="681">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/800px-Flag_of_Liberia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>7.258333</north>
+                <south>6.313333</south>
+                <east>-8.99040610015314</east>
+                <west>-10.801389</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="687">
+            <name>Libya</name>
+            <Icon id="688">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/800px-Flag_of_Libya.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>33.787222</north>
+                <south>32.887222</south>
+                <east>15.334907108337596</east>
+                <west>13.191389</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="694">
+            <name>Liechtenstein</name>
+            <Icon id="695">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/800px-Flag_of_Liechtenstein.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>48.221</north>
+                <south>47.141</south>
+                <east>12.1672941300917</east>
+                <west>9.521</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="701">
+            <name>Lithuania</name>
+            <Icon id="702">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/800px-Flag_of_Lithuania.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>55.767222</north>
+                <south>54.687222</south>
+                <east>28.39397337958226</east>
+                <west>25.28</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="708">
+            <name>Luxembourg</name>
+            <Icon id="709">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/800px-Flag_of_Luxembourg.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>50.691666999999995</north>
+                <south>49.611667</south>
+                <east>8.909872602852001</east>
+                <west>6.131944</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="715">
+            <name>Madagascar</name>
+            <Icon id="716">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/800px-Flag_of_Madagascar.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-17.736333000000002</north>
+                <south>-18.933333</south>
+                <east>49.41962310392487</east>
+                <west>47.516667</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="722">
+            <name>Malawi</name>
+            <Icon id="723">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/800px-Flag_of_Malawi.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-12.786333</north>
+                <south>-13.983333</south>
+                <east>35.63830307399592</east>
+                <west>33.783333</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="729">
+            <name>Malaysia</name>
+            <Icon id="730">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/800px-Flag_of_Malaysia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>4.047778</north>
+                <south>3.147778</south>
+                <east>103.49799789377823</east>
+                <west>101.695278</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="736">
+            <name>Maldives</name>
+            <Icon id="737">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/720px-Flag_of_Maldives.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>5.372278</north>
+                <south>4.175278</south>
+                <east>75.31367893916442</east>
+                <west>73.508889</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="743">
+            <name>Mali</name>
+            <Icon id="744">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/800px-Flag_of_Mali.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>13.836167</north>
+                <south>12.639167</south>
+                <east>-6.158076100191142</east>
+                <west>-8.002778</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="750">
+            <name>Malta</name>
+            <Icon id="751">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/800px-Flag_of_Malta.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>37.095333000000004</north>
+                <south>35.898333</south>
+                <east>16.734561190285103</east>
+                <west>14.5125</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="757">
+            <name>Marshall Islands</name>
+            <Icon id="758">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/800px-Flag_of_the_Marshall_Islands.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>8.028333</north>
+                <south>7.083333</south>
+                <east>173.19717652434704</east>
+                <west>171.383333</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="764">
+            <name>Mauritania</name>
+            <Icon id="765">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/800px-Flag_of_Mauritania.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>19.282809999999998</north>
+                <south>18.08581</south>
+                <east>-14.0849444282027</east>
+                <west>-15.9785</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="771">
+            <name>Mauritius</name>
+            <Icon id="772">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/800px-Flag_of_Mauritius.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-18.967444</north>
+                <south>-20.164444</south>
+                <east>59.42169799019179</east>
+                <west>57.504167</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="778">
+            <name>Mexico</name>
+            <Icon id="779">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/800px-Flag_of_Mexico.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>20.459333</north>
+                <south>19.433333</south>
+                <east>-97.22459052239212</east>
+                <west>-99.133333</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="785">
+            <name>Micronesia</name>
+            <Icon id="786">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/760px-Flag_of_the_Federated_States_of_Micronesia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>7.862222</north>
+                <south>6.917222</south>
+                <east>159.97208692997106</east>
+                <west>158.158889</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="792">
+            <name>Moldova</name>
+            <Icon id="793">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/800px-Flag_of_Moldova.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>47.922778</north>
+                <south>47.022778</south>
+                <east>31.475706413802044</east>
+                <west>28.835278</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="799">
+            <name>Monaco</name>
+            <Icon id="800">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/750px-Flag_of_Monaco.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>45.171243999999994</north>
+                <south>43.731244</south>
+                <east>9.91078216882769</east>
+                <west>7.419744</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="806">
+            <name>Mongolia</name>
+            <Icon id="807">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/800px-Flag_of_Mongolia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>48.820278</north>
+                <south>47.920278</south>
+                <east>109.60313180390963</east>
+                <west>106.917222</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="813">
+            <name>Montenegro</name>
+            <Icon id="814">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/800px-Flag_of_Montenegro.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>43.341286</north>
+                <south>42.441286</south>
+                <east>21.702017979483344</east>
+                <west>19.262892</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="820">
+            <name>Morocco</name>
+            <Icon id="821">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Morocco_%28large_stroke%29.svg/800px-Flag_of_Morocco_%28large_stroke%29.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>35.230333</north>
+                <south>34.033333</south>
+                <east>-4.661287994673518</east>
+                <west>-6.833333</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="827">
+            <name>Mozambique</name>
+            <Icon id="828">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/800px-Flag_of_Mozambique.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-24.769667000000002</north>
+                <south>-25.966667</south>
+                <east>34.58544873440508</east>
+                <west>32.583333</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="834">
+            <name>Myanmar</name>
+            <Icon id="835">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/800px-Flag_of_Myanmar.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>20.944499999999998</north>
+                <south>19.7475</south>
+                <east>98.02747096643176</east>
+                <west>96.115</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="841">
+            <name>Namibia</name>
+            <Icon id="842">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/800px-Flag_of_Namibia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-21.373</north>
+                <south>-22.57</south>
+                <east>19.03290486952008</east>
+                <west>17.083611</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="848">
+            <name>Nauru</name>
+            <Icon id="849">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/640px-Flag_of_Nauru.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>0.35229999999999995</north>
+                <south>-0.5477</south>
+                <east>168.72094924306026</east>
+                <west>166.920867</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="855">
+            <name>Nepal</name>
+            <Icon id="856">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/726px-Flag_of_Nepal.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>29.9042</north>
+                <south>27.7172</south>
+                <east>87.3573146361556</east>
+                <west>85.324</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="862">
+            <name>Netherlands</name>
+            <Icon id="863">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/800px-Flag_of_the_Netherlands.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>53.569778</north>
+                <south>52.372778</south>
+                <east>7.841910009148755</east>
+                <west>4.893611</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="869">
+            <name>New Zealand</name>
+            <Icon id="870">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/800px-Flag_of_New_Zealand.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-40.388889</north>
+                <south>-41.288889</south>
+                <east>177.17277550380237</east>
+                <west>174.777222</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="876">
+            <name>Nicaragua</name>
+            <Icon id="877">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/800px-Flag_of_Nicaragua.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>13.216389</north>
+                <south>12.136389</south>
+                <east>-84.4102391332465</east>
+                <west>-86.251389</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="883">
+            <name>Niger</name>
+            <Icon id="884">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/700px-Flag_of_Niger.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>15.054</north>
+                <south>13.515</south>
+                <east>3.968763768542311</east>
+                <west>2.1175</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="890">
+            <name>Nigeria</name>
+            <Icon id="891">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/800px-Flag_of_Nigeria.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>9.966667000000001</north>
+                <south>9.066667</south>
+                <east>9.306107378576598</east>
+                <west>7.483333</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="897">
+            <name>North Korea</name>
+            <Icon id="898">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/800px-Flag_of_North_Korea.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>39.919444</north>
+                <south>39.019444</south>
+                <east>128.0548600324182</east>
+                <west>125.738056</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="904">
+            <name>North Macedonia</name>
+            <Icon id="905">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/800px-Flag_of_North_Macedonia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>42.896111</north>
+                <south>41.996111</south>
+                <east>23.85365789721626</east>
+                <west>21.431667</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="911">
+            <name>Norway</name>
+            <Icon id="912">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/640px-Flag_of_Norway.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>61.218333</north>
+                <south>59.913333</south>
+                <east>14.32948595375888</east>
+                <west>10.738889</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="918">
+            <name>Oman</name>
+            <Icon id="919">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/800px-Flag_of_Oman.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>24.488889</north>
+                <south>23.588889</south>
+                <east>60.3724542885479</east>
+                <west>58.408333</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="925">
+            <name>Pakistan</name>
+            <Icon id="926">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/800px-Flag_of_Pakistan.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>34.890056</north>
+                <south>33.693056</south>
+                <east>75.22729499520027</east>
+                <west>73.063889</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="932">
+            <name>Palau</name>
+            <Icon id="933">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/800px-Flag_of_Palau.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>8.625556</north>
+                <south>7.500556</south>
+                <east>136.43970144858372</east>
+                <west>134.624167</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="939">
+            <name>Panama</name>
+            <Icon id="940">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/800px-Flag_of_Panama.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>10.180333</north>
+                <south>8.983333</south>
+                <east>-77.69431365792236</east>
+                <west>-79.516667</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="946">
+            <name>Papua New Guinea</name>
+            <Icon id="947">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/640px-Flag_of_Papua_New_Guinea.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-8.128889000000001</north>
+                <south>-9.478889</south>
+                <east>148.97436077965477</east>
+                <west>147.149444</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="953">
+            <name>Paraguay</name>
+            <Icon id="954">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/800px-Flag_of_Paraguay.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-24.310000000000002</north>
+                <south>-25.3</south>
+                <east>-55.64236436480692</east>
+                <west>-57.633333</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="960">
+            <name>Peru</name>
+            <Icon id="961">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/800px-Flag_of_Peru.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-10.863000000000001</north>
+                <south>-12.06</south>
+                <east>-75.19687621800816</east>
+                <west>-77.0375</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="967">
+            <name>Philippines</name>
+            <Icon id="968">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/800px-Flag_of_the_Philippines.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>15.495800000000001</north>
+                <south>14.5958</south>
+                <east>122.83722746569495</east>
+                <west>120.9772</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="974">
+            <name>Poland</name>
+            <Icon id="975">
+                <href>https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/800px-Flag_of_Poland.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>53.355</north>
+                <south>52.23</south>
+                <east>23.949918918855325</east>
+                <west>21.011111</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="981">
+            <name>Portugal</name>
+            <Icon id="982">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/640px-Flag_of_Portugal.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>39.922278000000006</north>
+                <south>38.725278</south>
+                <east>-6.842764655451097</east>
+                <west>-9.15</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="988">
+            <name>Qatar</name>
+            <Icon id="989">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/800px-Flag_of_Qatar.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>25.988667</north>
+                <south>25.286667</south>
+                <east>53.524082708557195</east>
+                <west>51.533333</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="995">
+            <name>Romania</name>
+            <Icon id="996">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/640px-Flag_of_Romania.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>45.6295</north>
+                <south>44.4325</south>
+                <east>28.624630172063704</east>
+                <west>26.103889</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1002">
+            <name>Russia</name>
+            <Icon id="1003">
+                <href>https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/800px-Flag_of_Russia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>56.952833000000005</north>
+                <south>55.755833</south>
+                <east>40.81596653534253</east>
+                <west>37.617222</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1009">
+            <name>Rwanda</name>
+            <Icon id="1010">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/800px-Flag_of_Rwanda.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-0.7468890000000001</north>
+                <south>-1.943889</south>
+                <east>31.86048045036233</east>
+                <west>30.059444</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1016">
+            <name>Saint Kitts and Nevis</name>
+            <Icon id="1017">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/800px-Flag_of_Saint_Kitts_and_Nevis.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>18.497</north>
+                <south>17.3</south>
+                <east>-60.84804403449433</east>
+                <west>-62.733333</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1023">
+            <name>Saint Lucia</name>
+            <Icon id="1024">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/800px-Flag_of_Saint_Lucia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>14.916667</north>
+                <south>14.016667</south>
+                <east>-59.1280938318417</east>
+                <west>-60.983333</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1030">
+            <name>Saint Vincent and the Grenadines</name>
+            <Icon id="1031">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/800px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>14.354778</north>
+                <south>13.157778</south>
+                <east>-59.37647039177474</east>
+                <west>-61.225</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1037">
+            <name>Samoa</name>
+            <Icon id="1038">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/800px-Flag_of_Samoa.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-12.933333</north>
+                <south>-13.833333</south>
+                <east>-169.89623209940808</east>
+                <west>-171.75</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1044">
+            <name>San Marino</name>
+            <Icon id="1045">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/800px-Flag_of_San_Marino.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>45.284600000000005</north>
+                <south>43.9346</south>
+                <east>14.946840896454411</east>
+                <west>12.4473</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1051">
+            <name>Saudi Arabia</name>
+            <Icon id="1052">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/800px-Flag_of_Saudi_Arabia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>25.830333</north>
+                <south>24.633333</south>
+                <east>48.69687858007749</east>
+                <west>46.716667</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1058">
+            <name>Senegal</name>
+            <Icon id="1059">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/800px-Flag_of_Senegal.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>15.889778</north>
+                <south>14.692778</south>
+                <east>-15.585816693846237</east>
+                <west>-17.446667</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1065">
+            <name>Serbia</name>
+            <Icon id="1066">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/800px-Flag_of_Serbia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>46.014778</north>
+                <south>44.817778</south>
+                <east>22.994470974643068</east>
+                <west>20.456944</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1072">
+            <name>Seychelles</name>
+            <Icon id="1073">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/800px-Flag_of_Seychelles.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-3.7166669999999997</north>
+                <south>-4.616667</south>
+                <east>57.25585909738976</east>
+                <west>55.45</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1079">
+            <name>Sierra Leone</name>
+            <Icon id="1080">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/800px-Flag_of_Sierra_Leone.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>9.681443999999999</north>
+                <south>8.484444</south>
+                <east>-11.414526748562466</east>
+                <west>-13.234444</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1086">
+            <name>Singapore</name>
+            <Icon id="1087">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/800px-Flag_of_Singapore.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>2.480333</north>
+                <south>1.283333</south>
+                <east>105.63378461333913</east>
+                <west>103.833333</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1093">
+            <name>Slovakia</name>
+            <Icon id="1094">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/800px-Flag_of_Slovakia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>49.340889000000004</north>
+                <south>48.143889</south>
+                <east>19.807312196841416</east>
+                <west>17.109722</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1100">
+            <name>Slovenia</name>
+            <Icon id="1101">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/800px-Flag_of_Slovenia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>46.951389</north>
+                <south>46.051389</south>
+                <east>17.09972269499126</east>
+                <west>14.506111</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1107">
+            <name>Solomon Islands</name>
+            <Icon id="1108">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/800px-Flag_of_the_Solomon_Islands.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-8.531944</north>
+                <south>-9.431944</south>
+                <east>161.78022377583144</east>
+                <west>159.955556</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1114">
+            <name>Somalia</name>
+            <Icon id="1115">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/800px-Flag_of_Somalia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>3.236167</north>
+                <south>2.039167</south>
+                <east>47.1430845966737</east>
+                <west>45.341944</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1121">
+            <name>South Africa</name>
+            <Icon id="1122">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/800px-Flag_of_South_Africa.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-32.728277999999996</north>
+                <south>-33.925278</south>
+                <east>20.593174925360234</east>
+                <west>18.423889</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1128">
+            <name>South Korea</name>
+            <Icon id="1129">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/800px-Flag_of_South_Korea.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>38.757000000000005</north>
+                <south>37.56</south>
+                <east>129.26067617573875</east>
+                <west>126.99</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1135">
+            <name>South Sudan</name>
+            <Icon id="1136">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/800px-Flag_of_South_Sudan.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>5.75</north>
+                <south>4.85</south>
+                <east>33.40646813660897</east>
+                <west>31.6</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1142">
+            <name>Spain</name>
+            <Icon id="1143">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/640px-Bandera_de_Espa%C3%B1a.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>41.613944000000004</north>
+                <south>40.416944</south>
+                <east>-1.3391010138529102</east>
+                <west>-3.703333</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1149">
+            <name>Sri Lanka</name>
+            <Icon id="1150">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>7.816667000000001</north>
+                <south>6.916667</south>
+                <east>81.72986279926278</east>
+                <west>79.916667</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1156">
+            <name>Sudan</name>
+            <Icon id="1157">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/800px-Flag_of_Sudan.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>16.5</north>
+                <south>15.6</south>
+                <east>34.368843393680336</east>
+                <west>32.5</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1163">
+            <name>Suriname</name>
+            <Icon id="1164">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/800px-Flag_of_Suriname.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>7.049222</north>
+                <south>5.852222</south>
+                <east>-53.39445858934178</east>
+                <west>-55.203889</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1170">
+            <name>Sweden</name>
+            <Icon id="1171">
+                <href>https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/800px-Flag_of_Sweden.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>60.454444</north>
+                <south>59.329444</south>
+                <east>21.59732410059317</east>
+                <west>18.068611</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1177">
+            <name>Switzerland</name>
+            <Icon id="1178">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/512px-Flag_of_Switzerland_%28Pantone%29.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>48.748056</north>
+                <south>46.948056</south>
+                <east>10.084240171771029</east>
+                <west>7.4475</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1184">
+            <name>Syria</name>
+            <Icon id="1185">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/800px-Flag_of_Syria.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>34.710056</north>
+                <south>33.513056</south>
+                <east>38.45083856713594</east>
+                <west>36.291944</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1191">
+            <name>São Tomé and Príncipe</name>
+            <Icon id="1192">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg/800px-Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>1.236111</north>
+                <south>0.336111</south>
+                <east>8.530586971976698</east>
+                <west>6.730556</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1198">
+            <name>Tajikistan</name>
+            <Icon id="1199">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/800px-Flag_of_Tajikistan.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>39.436667</north>
+                <south>38.536667</south>
+                <east>71.08117346022536</east>
+                <west>68.78</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1205">
+            <name>Tanzania</name>
+            <Icon id="1206">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/800px-Flag_of_Tanzania.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-4.976056</north>
+                <south>-6.173056</south>
+                <east>37.552441915097624</east>
+                <west>35.741944</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1212">
+            <name>Thailand</name>
+            <Icon id="1213">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/800px-Flag_of_Thailand.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>14.949499999999999</north>
+                <south>13.7525</south>
+                <east>102.34729297531737</east>
+                <west>100.494167</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1219">
+            <name>Togo</name>
+            <Icon id="1220">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/800px-Flag_of_Togo.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>7.238944</north>
+                <south>6.131944</south>
+                <east>3.0331358822344354</east>
+                <west>1.222778</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1226">
+            <name>Tonga</name>
+            <Icon id="1227">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/800px-Flag_of_Tonga.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-20.233333000000002</north>
+                <south>-21.133333</south>
+                <east>-173.2702099256674</east>
+                <west>-175.2</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1233">
+            <name>Trinidad and Tobago</name>
+            <Icon id="1234">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/800px-Flag_of_Trinidad_and_Tobago.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>11.746667</north>
+                <south>10.666667</south>
+                <east>-59.685017275324846</east>
+                <west>-61.516667</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1240">
+            <name>Tunisia</name>
+            <Icon id="1241">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/800px-Flag_of_Tunisia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>38.003389000000006</north>
+                <south>36.806389</south>
+                <east>12.429799449967513</east>
+                <west>10.181667</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1247">
+            <name>Turkey</name>
+            <Icon id="1248">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>41.127</north>
+                <south>39.93</south>
+                <east>35.19732850099281</east>
+                <west>32.85</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1254">
+            <name>Turkmenistan</name>
+            <Icon id="1255">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/800px-Flag_of_Turkmenistan.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>39.1345</north>
+                <south>37.9375</south>
+                <east>60.66228906358442</east>
+                <west>58.38</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1261">
+            <name>Tuvalu</name>
+            <Icon id="1262">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/800px-Flag_of_Tuvalu.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-7.616667</north>
+                <south>-8.516667</south>
+                <east>181.02007023362856</east>
+                <west>179.2</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1268">
+            <name>Uganda</name>
+            <Icon id="1269">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/800px-Flag_of_Uganda.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>1.510611</north>
+                <south>0.313611</south>
+                <east>34.38113796405725</east>
+                <west>32.581111</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1275">
+            <name>Ukraine</name>
+            <Icon id="1276">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/800px-Flag_of_Ukraine.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>51.647000000000006</north>
+                <south>50.45</south>
+                <east>33.35018214158643</east>
+                <west>30.523333</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1282">
+            <name>UAE</name>
+            <Icon id="1283">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/800px-Flag_of_the_United_Arab_Emirates.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>25.366667</north>
+                <south>24.466667</south>
+                <east>56.34424918719645</east>
+                <west>54.366667</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1289">
+            <name>UK</name>
+            <Icon id="1290">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/800px-Flag_of_the_United_Kingdom_%281-2%29.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>52.407222</north>
+                <south>51.507222</south>
+                <east>2.7644565711788887</east>
+                <west>-0.1275</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1296">
+            <name>USA</name>
+            <Icon id="1297">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg/800px-Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>39.849722</north>
+                <south>38.904722</south>
+                <east>-74.70333334686653</east>
+                <west>-77.016389</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1303">
+            <name>Uruguay</name>
+            <Icon id="1304">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/800px-Flag_of_Uruguay.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-33.686611</north>
+                <south>-34.883611</south>
+                <east>-53.98766631070296</east>
+                <west>-56.181944</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1310">
+            <name>Uzbekistan</name>
+            <Icon id="1311">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/800px-Flag_of_Uzbekistan.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>42.211110999999995</north>
+                <south>41.311111</south>
+                <east>71.67609188456878</east>
+                <west>69.279722</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1317">
+            <name>Vanuatu</name>
+            <Icon id="1318">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/640px-Flag_of_Vanuatu.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-16.653333</north>
+                <south>-17.733333</south>
+                <east>170.20646164607436</east>
+                <west>168.316667</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1324">
+            <name>Venezuela</name>
+            <Icon id="1325">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/800px-Flag_of_Venezuela.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>11.677556</north>
+                <south>10.480556</south>
+                <east>-65.07307155156072</east>
+                <west>-66.903611</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1331">
+            <name>Vietnam</name>
+            <Icon id="1332">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/800px-Flag_of_Vietnam.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>22.225333</north>
+                <south>21.028333</south>
+                <east>107.7825942829202</east>
+                <west>105.854167</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1338">
+            <name>Yemen</name>
+            <Icon id="1339">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/800px-Flag_of_Yemen.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>13.997</north>
+                <south>12.8</south>
+                <east>46.879204088415825</east>
+                <west>45.033333</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1345">
+            <name>Zambia</name>
+            <Icon id="1346">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/800px-Flag_of_Zambia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-14.219667000000001</north>
+                <south>-15.416667</south>
+                <east>30.15051783029219</east>
+                <west>28.283333</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="1352">
+            <name>Zimbabwe</name>
+            <Icon id="1353">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/800px-Flag_of_Zimbabwe.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-16.929167000000003</north>
+                <south>-17.829167</south>
+                <east>32.94303063328652</east>
+                <west>31.052222</west>
+            </LatLonBox>
+        </GroundOverlay>
+    </Document>
+</kml>

@@ -1,0 +1,2709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="6">
+            <LineStyle id="7">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="13">
+            <LineStyle id="14">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="20">
+            <LineStyle id="21">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="27">
+            <LineStyle id="28">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="34">
+            <LineStyle id="35">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="41">
+            <LineStyle id="42">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="48">
+            <LineStyle id="49">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="55">
+            <LineStyle id="56">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="62">
+            <LineStyle id="63">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="69">
+            <LineStyle id="70">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="76">
+            <LineStyle id="77">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="83">
+            <LineStyle id="84">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="90">
+            <LineStyle id="91">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="97">
+            <LineStyle id="98">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="104">
+            <LineStyle id="105">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="111">
+            <LineStyle id="112">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="118">
+            <LineStyle id="119">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="125">
+            <LineStyle id="126">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="132">
+            <LineStyle id="133">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="139">
+            <LineStyle id="140">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="146">
+            <LineStyle id="147">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="153">
+            <LineStyle id="154">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="160">
+            <LineStyle id="161">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="167">
+            <LineStyle id="168">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="174">
+            <LineStyle id="175">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="181">
+            <LineStyle id="182">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="188">
+            <LineStyle id="189">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="195">
+            <LineStyle id="196">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="202">
+            <LineStyle id="203">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="209">
+            <LineStyle id="210">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="216">
+            <LineStyle id="217">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="223">
+            <LineStyle id="224">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="230">
+            <LineStyle id="231">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="237">
+            <LineStyle id="238">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="244">
+            <LineStyle id="245">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="251">
+            <LineStyle id="252">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="258">
+            <LineStyle id="259">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="265">
+            <LineStyle id="266">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="272">
+            <LineStyle id="273">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="279">
+            <LineStyle id="280">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="286">
+            <LineStyle id="287">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="293">
+            <LineStyle id="294">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="300">
+            <LineStyle id="301">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="307">
+            <LineStyle id="308">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="314">
+            <LineStyle id="315">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="321">
+            <LineStyle id="322">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="328">
+            <LineStyle id="329">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="335">
+            <LineStyle id="336">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="342">
+            <LineStyle id="343">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="349">
+            <LineStyle id="350">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="356">
+            <LineStyle id="357">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="363">
+            <LineStyle id="364">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="370">
+            <LineStyle id="371">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="377">
+            <LineStyle id="378">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="384">
+            <LineStyle id="385">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="391">
+            <LineStyle id="392">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="398">
+            <LineStyle id="399">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="405">
+            <LineStyle id="406">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="412">
+            <LineStyle id="413">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="419">
+            <LineStyle id="420">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="426">
+            <LineStyle id="427">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="433">
+            <LineStyle id="434">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="440">
+            <LineStyle id="441">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="447">
+            <LineStyle id="448">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="454">
+            <LineStyle id="455">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="461">
+            <LineStyle id="462">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="468">
+            <LineStyle id="469">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="475">
+            <LineStyle id="476">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="482">
+            <LineStyle id="483">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="489">
+            <LineStyle id="490">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="496">
+            <LineStyle id="497">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="503">
+            <LineStyle id="504">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="510">
+            <LineStyle id="511">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="517">
+            <LineStyle id="518">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="524">
+            <LineStyle id="525">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="531">
+            <LineStyle id="532">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="538">
+            <LineStyle id="539">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="545">
+            <LineStyle id="546">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="552">
+            <LineStyle id="553">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="559">
+            <LineStyle id="560">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="566">
+            <LineStyle id="567">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="573">
+            <LineStyle id="574">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="580">
+            <LineStyle id="581">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="587">
+            <LineStyle id="588">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="594">
+            <LineStyle id="595">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="601">
+            <LineStyle id="602">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="608">
+            <LineStyle id="609">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="615">
+            <LineStyle id="616">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="622">
+            <LineStyle id="623">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="629">
+            <LineStyle id="630">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="636">
+            <LineStyle id="637">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="643">
+            <LineStyle id="644">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="650">
+            <LineStyle id="651">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="657">
+            <LineStyle id="658">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="664">
+            <LineStyle id="665">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="671">
+            <LineStyle id="672">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="678">
+            <LineStyle id="679">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="685">
+            <LineStyle id="686">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="692">
+            <LineStyle id="693">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="699">
+            <LineStyle id="700">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="706">
+            <LineStyle id="707">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="713">
+            <LineStyle id="714">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="720">
+            <LineStyle id="721">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="727">
+            <LineStyle id="728">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="734">
+            <LineStyle id="735">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="741">
+            <LineStyle id="742">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="748">
+            <LineStyle id="749">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="755">
+            <LineStyle id="756">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="762">
+            <LineStyle id="763">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="769">
+            <LineStyle id="770">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="776">
+            <LineStyle id="777">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="783">
+            <LineStyle id="784">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="790">
+            <LineStyle id="791">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="797">
+            <LineStyle id="798">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="804">
+            <LineStyle id="805">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="811">
+            <LineStyle id="812">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="818">
+            <LineStyle id="819">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="825">
+            <LineStyle id="826">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="832">
+            <LineStyle id="833">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="839">
+            <LineStyle id="840">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="846">
+            <LineStyle id="847">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="853">
+            <LineStyle id="854">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="860">
+            <LineStyle id="861">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="867">
+            <LineStyle id="868">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="874">
+            <LineStyle id="875">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="881">
+            <LineStyle id="882">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="888">
+            <LineStyle id="889">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="895">
+            <LineStyle id="896">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="902">
+            <LineStyle id="903">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="909">
+            <LineStyle id="910">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="916">
+            <LineStyle id="917">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="923">
+            <LineStyle id="924">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="930">
+            <LineStyle id="931">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="937">
+            <LineStyle id="938">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="944">
+            <LineStyle id="945">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="951">
+            <LineStyle id="952">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="958">
+            <LineStyle id="959">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="965">
+            <LineStyle id="966">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="972">
+            <LineStyle id="973">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="979">
+            <LineStyle id="980">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="986">
+            <LineStyle id="987">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="993">
+            <LineStyle id="994">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1000">
+            <LineStyle id="1001">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1007">
+            <LineStyle id="1008">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1014">
+            <LineStyle id="1015">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1021">
+            <LineStyle id="1022">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1028">
+            <LineStyle id="1029">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1035">
+            <LineStyle id="1036">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1042">
+            <LineStyle id="1043">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1049">
+            <LineStyle id="1050">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1056">
+            <LineStyle id="1057">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1063">
+            <LineStyle id="1064">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1070">
+            <LineStyle id="1071">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1077">
+            <LineStyle id="1078">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1084">
+            <LineStyle id="1085">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1091">
+            <LineStyle id="1092">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1098">
+            <LineStyle id="1099">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1105">
+            <LineStyle id="1106">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1112">
+            <LineStyle id="1113">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1119">
+            <LineStyle id="1120">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1126">
+            <LineStyle id="1127">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1133">
+            <LineStyle id="1134">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1140">
+            <LineStyle id="1141">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1147">
+            <LineStyle id="1148">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1154">
+            <LineStyle id="1155">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1161">
+            <LineStyle id="1162">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1168">
+            <LineStyle id="1169">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1175">
+            <LineStyle id="1176">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1182">
+            <LineStyle id="1183">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1189">
+            <LineStyle id="1190">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1196">
+            <LineStyle id="1197">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1203">
+            <LineStyle id="1204">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1210">
+            <LineStyle id="1211">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1217">
+            <LineStyle id="1218">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1224">
+            <LineStyle id="1225">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1231">
+            <LineStyle id="1232">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1238">
+            <LineStyle id="1239">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1245">
+            <LineStyle id="1246">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1252">
+            <LineStyle id="1253">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1259">
+            <LineStyle id="1260">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1266">
+            <LineStyle id="1267">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1273">
+            <LineStyle id="1274">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1280">
+            <LineStyle id="1281">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1287">
+            <LineStyle id="1288">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1294">
+            <LineStyle id="1295">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1301">
+            <LineStyle id="1302">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1308">
+            <LineStyle id="1309">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1315">
+            <LineStyle id="1316">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1322">
+            <LineStyle id="1323">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1329">
+            <LineStyle id="1330">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1336">
+            <LineStyle id="1337">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1343">
+            <LineStyle id="1344">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="1350">
+            <LineStyle id="1351">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <name>Member states of the United Nations with rectangle</name>
+        <description>display rectangle at the Coordinates of the capital</description>
+        <Placemark id="5">
+            <name>Afghanistan</name>
+            <styleUrl>#6</styleUrl>
+            <LineString id="4">
+                <coordinates>69.178333,34.525278,0.0 69.178333,35.425278,0.0 71.36312721880867,35.425278,0.0 71.36312721880867,34.525278,0.0 69.178333,34.525278,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="12">
+            <name>Albania</name>
+            <styleUrl>#13</styleUrl>
+            <LineString id="11">
+                <coordinates>19.817778,41.328889,0.0 19.817778,42.606888999999995,0.0 22.214801664325726,42.606888999999995,0.0 22.214801664325726,41.328889,0.0 19.817778,41.328889,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="19">
+            <name>Algeria</name>
+            <styleUrl>#20</styleUrl>
+            <LineString id="18">
+                <coordinates>3.058889,36.753889,0.0 3.058889,37.950889000000004,0.0 5.3054820443112085,37.950889000000004,0.0 5.3054820443112085,36.753889,0.0 3.058889,36.753889,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="26">
+            <name>Andorra</name>
+            <styleUrl>#27</styleUrl>
+            <LineString id="25">
+                <coordinates>1.5,42.5,0.0 1.5,43.76,0.0 3.9414150688366627,43.76,0.0 3.9414150688366627,42.5,0.0 1.5,42.5,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="33">
+            <name>Angola</name>
+            <styleUrl>#34</styleUrl>
+            <LineString id="32">
+                <coordinates>13.234444,-8.838333,0.0 13.234444,-7.641333,0.0 15.056074390671387,-7.641333,0.0 15.056074390671387,-8.838333,0.0 13.234444,-8.838333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="40">
+            <name>Antigua and Barbuda</name>
+            <styleUrl>#41</styleUrl>
+            <LineString id="39">
+                <coordinates>-61.85,17.116667,0.0 -61.85,18.313667,0.0 -59.966578437013276,18.313667,0.0 -59.966578437013276,17.116667,0.0 -61.85,17.116667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="47">
+            <name>Argentina</name>
+            <styleUrl>#48</styleUrl>
+            <LineString id="46">
+                <coordinates>-58.381667,-34.603333,0.0 -58.381667,-33.478333,0.0 -56.194821285424645,-33.478333,0.0 -56.194821285424645,-34.603333,0.0 -58.381667,-34.603333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="54">
+            <name>Armenia</name>
+            <styleUrl>#55</styleUrl>
+            <LineString id="53">
+                <coordinates>44.514444,40.181389,0.0 44.514444,41.081389,0.0 46.870447525294836,41.081389,0.0 46.870447525294836,40.181389,0.0 44.514444,40.181389,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="61">
+            <name>Australia</name>
+            <styleUrl>#62</styleUrl>
+            <LineString id="60">
+                <coordinates>149.126944,-35.293056,0.0 149.126944,-34.393056,0.0 151.3322652448297,-34.393056,0.0 151.3322652448297,-35.293056,0.0 149.126944,-35.293056,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="68">
+            <name>Austria</name>
+            <styleUrl>#69</styleUrl>
+            <LineString id="67">
+                <coordinates>16.366667,48.2,0.0 16.366667,49.397000000000006,0.0 19.067210604914465,49.397000000000006,0.0 19.067210604914465,48.2,0.0 16.366667,48.2,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="75">
+            <name>Azerbaijan</name>
+            <styleUrl>#76</styleUrl>
+            <LineString id="74">
+                <coordinates>49.882222,40.395278,0.0 49.882222,41.295277999999996,0.0 52.24569307533234,41.295277999999996,0.0 52.24569307533234,40.395278,0.0 49.882222,40.395278,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="82">
+            <name>Bahamas</name>
+            <styleUrl>#83</styleUrl>
+            <LineString id="81">
+                <coordinates>-77.338611,25.078056,0.0 -77.338611,25.978056,0.0 -75.35126640786741,25.978056,0.0 -75.35126640786741,25.078056,0.0 -77.338611,25.078056,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="89">
+            <name>Bahrain</name>
+            <styleUrl>#90</styleUrl>
+            <LineString id="88">
+                <coordinates>50.5775,26.225,0.0 50.5775,27.305,0.0 52.5840421277286,27.305,0.0 52.5840421277286,26.225,0.0 50.5775,26.225,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="96">
+            <name>Bangladesh</name>
+            <styleUrl>#97</styleUrl>
+            <LineString id="95">
+                <coordinates>90.388889,23.763889,0.0 90.388889,24.843888999999997,0.0 92.35564251155458,24.843888999999997,0.0 92.35564251155458,23.763889,0.0 90.388889,23.763889,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="103">
+            <name>Barbados</name>
+            <styleUrl>#104</styleUrl>
+            <LineString id="102">
+                <coordinates>-59.616667,13.0975,0.0 -59.616667,14.2945,0.0 -57.768590881510384,14.2945,0.0 -57.768590881510384,13.0975,0.0 -59.616667,13.0975,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="110">
+            <name>Belarus</name>
+            <styleUrl>#111</styleUrl>
+            <LineString id="109">
+                <coordinates>27.566667,53.9,0.0 27.566667,54.8,0.0 30.621675703864977,54.8,0.0 30.621675703864977,53.9,0.0 27.566667,53.9,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="117">
+            <name>Belgium</name>
+            <styleUrl>#118</styleUrl>
+            <LineString id="116">
+                <coordinates>4.3525,50.846667,0.0 4.3525,52.403667,0.0 7.203317181690503,52.403667,0.0 7.203317181690503,50.846667,0.0 4.3525,50.846667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="124">
+            <name>Belize</name>
+            <styleUrl>#125</styleUrl>
+            <LineString id="123">
+                <coordinates>-88.766944,17.251389,0.0 -88.766944,18.331388999999998,0.0 -86.88215241984473,18.331388999999998,0.0 -86.88215241984473,17.251389,0.0 -88.766944,17.251389,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="131">
+            <name>Benin</name>
+            <styleUrl>#132</styleUrl>
+            <LineString id="130">
+                <coordinates>2.605,6.497222,0.0 2.605,7.694222,0.0 4.416635513157724,7.694222,0.0 4.416635513157724,6.497222,0.0 2.605,6.497222,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="138">
+            <name>Bhutan</name>
+            <styleUrl>#139</styleUrl>
+            <LineString id="137">
+                <coordinates>89.636111,27.472222,0.0 89.636111,28.669221999999998,0.0 91.6648867202976,28.669221999999998,0.0 91.6648867202976,27.472222,0.0 89.636111,27.472222,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="145">
+            <name>Bolivia</name>
+            <styleUrl>#146</styleUrl>
+            <LineString id="144">
+                <coordinates>-68.15,-16.5,0.0 -68.15,-15.276,0.0 -66.27269195705756,-15.276,0.0 -66.27269195705756,-16.5,0.0 -68.15,-16.5,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="152">
+            <name>Bosnia and Herzegovina</name>
+            <styleUrl>#153</styleUrl>
+            <LineString id="151">
+                <coordinates>18.413056,43.856389,0.0 18.413056,44.756389,0.0 20.90931615315776,44.756389,0.0 20.90931615315776,43.856389,0.0 18.413056,43.856389,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="159">
+            <name>Botswana</name>
+            <styleUrl>#160</styleUrl>
+            <LineString id="158">
+                <coordinates>25.912222,-24.658056,0.0 25.912222,-23.461056,0.0 27.892825644366145,-23.461056,0.0 27.892825644366145,-24.658056,0.0 25.912222,-24.658056,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="166">
+            <name>Brazil</name>
+            <styleUrl>#167</styleUrl>
+            <LineString id="165">
+                <coordinates>-47.882778,-15.793889,0.0 -47.882778,-14.533889,0.0 -46.01215647936167,-14.533889,0.0 -46.01215647936167,-15.793889,0.0 -47.882778,-15.793889,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="173">
+            <name>Brunei</name>
+            <styleUrl>#174</styleUrl>
+            <LineString id="172">
+                <coordinates>114.942222,4.890278,0.0 114.942222,5.790278000000001,0.0 116.74879834352303,5.790278000000001,0.0 116.74879834352303,4.890278,0.0 114.942222,4.890278,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="180">
+            <name>Bulgaria</name>
+            <styleUrl>#181</styleUrl>
+            <LineString id="179">
+                <coordinates>23.33,42.7,0.0 23.33,43.78,0.0 25.779264189171133,43.78,0.0 25.779264189171133,42.7,0.0 23.33,42.7,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="187">
+            <name>Burkina Faso</name>
+            <styleUrl>#188</styleUrl>
+            <LineString id="186">
+                <coordinates>-1.5275,12.368611,0.0 -1.5275,13.565610999999999,0.0 0.31527113701484133,13.565610999999999,0.0 0.31527113701484133,12.368611,0.0 -1.5275,12.368611,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="194">
+            <name>Burundi</name>
+            <styleUrl>#195</styleUrl>
+            <LineString id="193">
+                <coordinates>29.925,-3.428333,0.0 29.925,-2.3483330000000002,0.0 31.728227093749293,-2.3483330000000002,0.0 31.728227093749293,-3.428333,0.0 29.925,-3.428333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="201">
+            <name>Cambodia</name>
+            <styleUrl>#202</styleUrl>
+            <LineString id="200">
+                <coordinates>104.921111,11.569444,0.0 104.921111,12.721444,0.0 106.75844124064139,12.721444,0.0 106.75844124064139,11.569444,0.0 104.921111,11.569444,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="208">
+            <name>Cameroon</name>
+            <styleUrl>#209</styleUrl>
+            <LineString id="207">
+                <coordinates>11.516667,3.866667,0.0 11.516667,5.063667,0.0 13.320773725496563,5.063667,0.0 13.320773725496563,3.866667,0.0 11.516667,3.866667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="215">
+            <name>Canada</name>
+            <styleUrl>#216</styleUrl>
+            <LineString id="214">
+                <coordinates>-75.695,45.424722,0.0 -75.695,46.324722,0.0 -73.13033394892769,46.324722,0.0 -73.13033394892769,45.424722,0.0 -75.695,45.424722,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="222">
+            <name>Cape Verde</name>
+            <styleUrl>#223</styleUrl>
+            <LineString id="221">
+                <coordinates>-23.509,14.918,0.0 -23.509,15.971,0.0 -21.64621530953809,15.971,0.0 -21.64621530953809,14.918,0.0 -23.509,14.918,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="229">
+            <name>Central African Republic</name>
+            <styleUrl>#230</styleUrl>
+            <LineString id="228">
+                <coordinates>18.562778,4.373333,0.0 18.562778,5.570333,0.0 20.368034272010554,5.570333,0.0 20.368034272010554,4.373333,0.0 18.562778,4.373333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="236">
+            <name>Chad</name>
+            <styleUrl>#237</styleUrl>
+            <LineString id="235">
+                <coordinates>15.05,12.11,0.0 15.05,13.306999999999999,0.0 16.890967723905177,13.306999999999999,0.0 16.890967723905177,12.11,0.0 15.05,12.11,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="243">
+            <name>Chile</name>
+            <styleUrl>#244</styleUrl>
+            <LineString id="242">
+                <coordinates>-70.666667,-33.45,0.0 -70.666667,-32.253,0.0 -68.50934335940451,-32.253,0.0 -68.50934335940451,-33.45,0.0 -70.666667,-33.45,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="250">
+            <name>China</name>
+            <styleUrl>#251</styleUrl>
+            <LineString id="249">
+                <coordinates>116.3975,39.906667,0.0 116.3975,41.103667,0.0 118.7440288436742,41.103667,0.0 118.7440288436742,39.906667,0.0 116.3975,39.906667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="257">
+            <name>Colombia</name>
+            <styleUrl>#258</styleUrl>
+            <LineString id="256">
+                <coordinates>-74.072222,4.711111,0.0 -74.072222,5.908111,0.0 -72.26612004530506,5.908111,0.0 -72.26612004530506,4.711111,0.0 -74.072222,4.711111,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="264">
+            <name>Comoros</name>
+            <styleUrl>#265</styleUrl>
+            <LineString id="263">
+                <coordinates>43.256,-11.699,0.0 43.256,-10.619,0.0 45.09418582946319,-10.619,0.0 45.09418582946319,-11.699,0.0 43.256,-11.699,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="271">
+            <name>Congo</name>
+            <styleUrl>#272</styleUrl>
+            <LineString id="270">
+                <coordinates>15.271389,-4.269444,0.0 15.271389,-3.072444,0.0 17.07639793936713,-3.072444,0.0 17.07639793936713,-4.269444,0.0 15.271389,-4.269444,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="278">
+            <name>Democratic Republic of the Congo</name>
+            <styleUrl>#279</styleUrl>
+            <LineString id="277">
+                <coordinates>15.322222,-4.325,0.0 15.322222,-2.9750000000000005,0.0 17.127362457033712,-2.9750000000000005,0.0 17.127362457033712,-4.325,0.0 15.322222,-4.325,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="285">
+            <name>Costa Rica</name>
+            <styleUrl>#286</styleUrl>
+            <LineString id="284">
+                <coordinates>-84.08,9.9325,0.0 -84.08,11.0125,0.0 -82.25261043462686,11.0125,0.0 -82.25261043462686,9.9325,0.0 -84.08,9.9325,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="292">
+            <name>Croatia</name>
+            <styleUrl>#293</styleUrl>
+            <LineString id="291">
+                <coordinates>15.9775,45.813056,0.0 15.9775,46.713056,0.0 18.559990032183112,46.713056,0.0 18.559990032183112,45.813056,0.0 15.9775,45.813056,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="299">
+            <name>Cuba</name>
+            <styleUrl>#300</styleUrl>
+            <LineString id="298">
+                <coordinates>-82.358889,23.136667,0.0 -82.358889,24.036666999999998,0.0 -80.40145285940672,24.036666999999998,0.0 -80.40145285940672,23.136667,0.0 -82.358889,23.136667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="306">
+            <name>Cyprus</name>
+            <styleUrl>#307</styleUrl>
+            <LineString id="305">
+                <coordinates>33.365,35.1725,0.0 33.365,36.3695,0.0 35.56704638852821,36.3695,0.0 35.56704638852821,35.1725,0.0 33.365,35.1725,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="313">
+            <name>Czechia</name>
+            <styleUrl>#314</styleUrl>
+            <LineString id="312">
+                <coordinates>14.421389,50.0875,0.0 14.421389,51.2845,0.0 17.226801013564003,51.2845,0.0 17.226801013564003,50.0875,0.0 14.421389,50.0875,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="320">
+            <name>Côte d'Ivoire</name>
+            <styleUrl>#321</styleUrl>
+            <LineString id="319">
+                <coordinates>-5.274167,6.816111,0.0 -5.274167,8.013111,0.0 -3.461354357192474,8.013111,0.0 -3.461354357192474,6.816111,0.0 -5.274167,6.816111,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="327">
+            <name>Denmark</name>
+            <styleUrl>#328</styleUrl>
+            <LineString id="326">
+                <coordinates>12.568333,55.676111,0.0 12.568333,57.035111,0.0 15.76055569688814,57.035111,0.0 15.76055569688814,55.676111,0.0 12.568333,55.676111,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="334">
+            <name>Djibouti</name>
+            <styleUrl>#335</styleUrl>
+            <LineString id="333">
+                <coordinates>43.145,11.588333,0.0 43.145,12.785333,0.0 44.982454349189936,12.785333,0.0 44.982454349189936,11.588333,0.0 43.145,11.588333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="341">
+            <name>Dominica</name>
+            <styleUrl>#342</styleUrl>
+            <LineString id="340">
+                <coordinates>-61.388333,15.301389,0.0 -61.388333,16.201389,0.0 -59.52217977384747,16.201389,0.0 -59.52217977384747,15.301389,0.0 -61.388333,15.301389,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="348">
+            <name>Dominican Republic</name>
+            <styleUrl>#349</styleUrl>
+            <LineString id="347">
+                <coordinates>-69.95,18.466667,0.0 -69.95,19.663667,0.0 -68.05228292953679,19.663667,0.0 -68.05228292953679,18.466667,0.0 -69.95,18.466667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="355">
+            <name>East Timor</name>
+            <styleUrl>#356</styleUrl>
+            <LineString id="354">
+                <coordinates>125.578333,-8.553611,0.0 125.578333,-7.653611,0.0 127.39857936942703,-7.653611,0.0 127.39857936942703,-8.553611,0.0 125.578333,-8.553611,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="362">
+            <name>Ecuador</name>
+            <styleUrl>#363</styleUrl>
+            <LineString id="361">
+                <coordinates>-78.5125,-0.22,0.0 -78.5125,0.9769999999999999,0.0 -76.71248673078368,0.9769999999999999,0.0 -76.71248673078368,-0.22,0.0 -78.5125,-0.22,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="369">
+            <name>Egypt</name>
+            <styleUrl>#370</styleUrl>
+            <LineString id="368">
+                <coordinates>31.235833,30.044444,0.0 31.235833,31.241443999999998,0.0 33.3152258448733,31.241443999999998,0.0 33.3152258448733,30.044444,0.0 31.235833,30.044444,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="376">
+            <name>El Salvador</name>
+            <styleUrl>#377</styleUrl>
+            <LineString id="375">
+                <coordinates>-89.191389,13.698889,0.0 -89.191389,14.706889,0.0 -87.33868649132425,14.706889,0.0 -87.33868649132425,13.698889,0.0 -89.191389,13.698889,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="383">
+            <name>Equatorial Guinea</name>
+            <styleUrl>#384</styleUrl>
+            <LineString id="382">
+                <coordinates>8.7737,3.752064,0.0 8.7737,4.949064,0.0 10.577566467752913,4.949064,0.0 10.577566467752913,3.752064,0.0 8.7737,3.752064,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="390">
+            <name>Eritrea</name>
+            <styleUrl>#391</styleUrl>
+            <LineString id="389">
+                <coordinates>38.925,15.322778,0.0 38.925,16.222777999999998,0.0 40.791343975925386,16.222777999999998,0.0 40.791343975925386,15.322778,0.0 38.925,15.322778,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="397">
+            <name>Estonia</name>
+            <styleUrl>#398</styleUrl>
+            <LineString id="396">
+                <coordinates>24.745278,59.437222,0.0 24.745278,60.580222,0.0 28.28522540917424,60.580222,0.0 28.28522540917424,59.437222,0.0 24.745278,59.437222,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="404">
+            <name>Eswatini</name>
+            <styleUrl>#405</styleUrl>
+            <LineString id="403">
+                <coordinates>31.133333,-26.316667,0.0 31.133333,-25.119667,0.0 33.141460324832664,-25.119667,0.0 33.141460324832664,-26.316667,0.0 31.133333,-26.316667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="411">
+            <name>Ethiopia</name>
+            <styleUrl>#412</styleUrl>
+            <LineString id="410">
+                <coordinates>38.74,9.03,0.0 38.74,9.93,0.0 40.562588623338506,9.93,0.0 40.562588623338506,9.03,0.0 38.74,9.03,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="418">
+            <name>Fiji</name>
+            <styleUrl>#419</styleUrl>
+            <LineString id="417">
+                <coordinates>178.447778,-18.129444,0.0 178.447778,-17.229444,0.0 180.34180517775374,-17.229444,0.0 180.34180517775374,-18.129444,0.0 178.447778,-18.129444,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="425">
+            <name>Finland</name>
+            <styleUrl>#426</styleUrl>
+            <LineString id="424">
+                <coordinates>24.9375,60.170833,0.0 24.9375,61.268833,0.0 28.556204057502562,61.268833,0.0 28.556204057502562,60.170833,0.0 24.9375,60.170833,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="432">
+            <name>France</name>
+            <styleUrl>#433</styleUrl>
+            <LineString id="431">
+                <coordinates>2.352222,48.856667,0.0 2.352222,50.053667000000004,0.0 5.08801306714275,50.053667000000004,0.0 5.08801306714275,48.856667,0.0 2.352222,48.856667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="439">
+            <name>Gabon</name>
+            <styleUrl>#440</styleUrl>
+            <LineString id="438">
+                <coordinates>9.454167,0.390278,0.0 9.454167,1.740278,0.0 11.254208759355018,1.740278,0.0 11.254208759355018,0.390278,0.0 9.454167,0.390278,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="446">
+            <name>Gambia</name>
+            <styleUrl>#447</styleUrl>
+            <LineString id="445">
+                <coordinates>-16.5775,13.453056,0.0 -16.5775,14.650056,0.0 -14.726716085076431,14.650056,0.0 -14.726716085076431,13.453056,0.0 -16.5775,13.453056,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="453">
+            <name>Georgia</name>
+            <styleUrl>#454</styleUrl>
+            <LineString id="452">
+                <coordinates>44.7925,41.7225,0.0 44.7925,42.9195,0.0 47.204150234124995,42.9195,0.0 47.204150234124995,41.7225,0.0 44.7925,41.7225,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="460">
+            <name>Germany</name>
+            <styleUrl>#461</styleUrl>
+            <LineString id="459">
+                <coordinates>13.405,52.52,0.0 13.405,53.6,0.0 16.363169222381323,53.6,0.0 16.363169222381323,52.52,0.0 13.405,52.52,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="467">
+            <name>Ghana</name>
+            <styleUrl>#468</styleUrl>
+            <LineString id="466">
+                <coordinates>-0.2,5.55,0.0 -0.2,6.747,0.0 1.6084778218280327,6.747,0.0 1.6084778218280327,5.55,0.0 -0.2,5.55,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="474">
+            <name>Greece</name>
+            <styleUrl>#475</styleUrl>
+            <LineString id="473">
+                <coordinates>23.728056,37.984167,0.0 23.728056,39.181167,0.0 26.011795817436507,39.181167,0.0 26.011795817436507,37.984167,0.0 23.728056,37.984167,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="481">
+            <name>Grenada</name>
+            <styleUrl>#482</styleUrl>
+            <LineString id="480">
+                <coordinates>-61.75,12.05,0.0 -61.75,13.13,0.0 -59.90944482278471,13.13,0.0 -59.90944482278471,12.05,0.0 -61.75,12.05,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="488">
+            <name>Guatemala</name>
+            <styleUrl>#489</styleUrl>
+            <LineString id="487">
+                <coordinates>-90.535278,14.613333,0.0 -90.535278,15.738333,0.0 -88.67510221852721,15.738333,0.0 -88.67510221852721,14.613333,0.0 -90.535278,14.613333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="495">
+            <name>Guinea</name>
+            <styleUrl>#496</styleUrl>
+            <LineString id="494">
+                <coordinates>-13.712222,9.509167,0.0 -13.712222,10.706166999999999,0.0 -11.887143934895477,10.706166999999999,0.0 -11.887143934895477,9.509167,0.0 -13.712222,9.509167,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="502">
+            <name>Guinea-Bissau</name>
+            <styleUrl>#503</styleUrl>
+            <LineString id="501">
+                <coordinates>-15.566667,11.85,0.0 -15.566667,12.75,0.0 -13.727471085871318,12.75,0.0 -13.727471085871318,11.85,0.0 -15.566667,11.85,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="509">
+            <name>Guyana</name>
+            <styleUrl>#510</styleUrl>
+            <LineString id="508">
+                <coordinates>-58.150833,6.805833,0.0 -58.150833,7.885833,0.0 -56.33805919665018,7.885833,0.0 -56.33805919665018,6.805833,0.0 -58.150833,6.805833,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="516">
+            <name>Haiti</name>
+            <styleUrl>#517</styleUrl>
+            <LineString id="515">
+                <coordinates>-72.333333,18.533333,0.0 -72.333333,19.613332999999997,0.0 -70.4348769750553,19.613332999999997,0.0 -70.4348769750553,18.533333,0.0 -72.333333,18.533333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="523">
+            <name>Honduras</name>
+            <styleUrl>#524</styleUrl>
+            <LineString id="522">
+                <coordinates>-87.216667,14.1,0.0 -87.216667,15.0,0.0 -85.36075202190722,15.0,0.0 -85.36075202190722,14.1,0.0 -87.216667,14.1,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="530">
+            <name>Hungary</name>
+            <styleUrl>#531</styleUrl>
+            <LineString id="529">
+                <coordinates>19.051389,47.4925,0.0 19.051389,48.3925,0.0 21.715345490708188,48.3925,0.0 21.715345490708188,47.4925,0.0 19.051389,47.4925,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="537">
+            <name>Iceland</name>
+            <styleUrl>#538</styleUrl>
+            <LineString id="536">
+                <coordinates>-21.94,64.146667,0.0 -21.94,65.442667,0.0 -17.812212507243256,65.442667,0.0 -17.812212507243256,64.146667,0.0 -21.94,64.146667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="544">
+            <name>India</name>
+            <styleUrl>#545</styleUrl>
+            <LineString id="543">
+                <coordinates>77.209006,28.613895,0.0 77.209006,29.810895,0.0 79.25943082095172,29.810895,0.0 79.25943082095172,28.613895,0.0 77.209006,28.613895,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="551">
+            <name>Indonesia</name>
+            <styleUrl>#552</styleUrl>
+            <LineString id="550">
+                <coordinates>106.8275,-6.175,0.0 106.8275,-4.978,0.0 108.63800456023459,-4.978,0.0 108.63800456023459,-6.175,0.0 106.8275,-6.175,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="558">
+            <name>Iran</name>
+            <styleUrl>#559</styleUrl>
+            <LineString id="557">
+                <coordinates>51.388889,35.689167,0.0 51.388889,36.715167,0.0 53.605108704976004,36.715167,0.0 53.605108704976004,35.689167,0.0 51.388889,35.689167,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="565">
+            <name>Iraq</name>
+            <styleUrl>#566</styleUrl>
+            <LineString id="564">
+                <coordinates>44.366111,33.315278,0.0 44.366111,34.512278,0.0 46.520094663552996,34.512278,0.0 46.520094663552996,33.315278,0.0 44.366111,33.315278,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="572">
+            <name>Ireland</name>
+            <styleUrl>#573</styleUrl>
+            <LineString id="571">
+                <coordinates>-6.260278,53.35,0.0 -6.260278,54.25,0.0 -3.244825000829894,54.25,0.0 -3.244825000829894,53.35,0.0 -6.260278,53.35,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="579">
+            <name>Israel</name>
+            <styleUrl>#580</styleUrl>
+            <LineString id="578">
+                <coordinates>35.216667,31.783333,0.0 35.216667,33.088333,0.0 37.33419959916349,33.088333,0.0 37.33419959916349,31.783333,0.0 35.216667,31.783333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="586">
+            <name>Italy</name>
+            <styleUrl>#587</styleUrl>
+            <LineString id="585">
+                <coordinates>12.482778,41.893333,0.0 12.482778,43.090333,0.0 14.900867726264332,43.090333,0.0 14.900867726264332,41.893333,0.0 12.482778,41.893333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="593">
+            <name>Jamaica</name>
+            <styleUrl>#594</styleUrl>
+            <LineString id="592">
+                <coordinates>-76.793056,17.971389,0.0 -76.793056,18.871388999999997,0.0 -74.90073079142032,18.871388999999997,0.0 -74.90073079142032,17.971389,0.0 -76.793056,17.971389,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="600">
+            <name>Japan</name>
+            <styleUrl>#601</styleUrl>
+            <LineString id="599">
+                <coordinates>139.692222,35.689722,0.0 139.692222,36.886722000000006,0.0 141.90845712505708,36.886722000000006,0.0 141.90845712505708,35.689722,0.0 139.692222,35.689722,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="607">
+            <name>Jordan</name>
+            <styleUrl>#608</styleUrl>
+            <LineString id="606">
+                <coordinates>35.932778,31.949722,0.0 35.932778,32.849722,0.0 38.054136731423604,32.849722,0.0 38.054136731423604,31.949722,0.0 35.932778,31.949722,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="614">
+            <name>Kazakhstan</name>
+            <styleUrl>#615</styleUrl>
+            <LineString id="613">
+                <coordinates>71.42222,51.147222,0.0 71.42222,52.047222,0.0 74.29156242444245,52.047222,0.0 74.29156242444245,51.147222,0.0 71.42222,51.147222,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="621">
+            <name>Kenya</name>
+            <styleUrl>#622</styleUrl>
+            <LineString id="620">
+                <coordinates>36.817222,-1.286389,0.0 36.817222,-0.08938900000000016,0.0 38.61767576720551,-0.08938900000000016,0.0 38.61767576720551,-1.286389,0.0 36.817222,-1.286389,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="628">
+            <name>Kiribati</name>
+            <styleUrl>#629</styleUrl>
+            <LineString id="627">
+                <coordinates>173.0,1.433333,0.0 173.0,2.3333329999999997,0.0 174.80056338425325,2.3333329999999997,0.0 174.80056338425325,1.433333,0.0 173.0,1.433333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="635">
+            <name>Kuwait</name>
+            <styleUrl>#636</styleUrl>
+            <LineString id="634">
+                <coordinates>47.978333,29.369722,0.0 47.978333,30.269721999999998,0.0 50.043801209639255,30.269721999999998,0.0 50.043801209639255,29.369722,0.0 47.978333,29.369722,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="642">
+            <name>Kyrgyzstan</name>
+            <styleUrl>#643</styleUrl>
+            <LineString id="641">
+                <coordinates>74.612222,42.874722,0.0 74.612222,43.954722,0.0 77.06840924535588,43.954722,0.0 77.06840924535588,42.874722,0.0 74.612222,42.874722,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="649">
+            <name>Laos</name>
+            <styleUrl>#650</styleUrl>
+            <LineString id="648">
+                <coordinates>102.6,17.966667,0.0 102.6,19.163667,0.0 104.49227462961247,19.163667,0.0 104.49227462961247,17.966667,0.0 102.6,17.966667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="656">
+            <name>Latvia</name>
+            <styleUrl>#657</styleUrl>
+            <LineString id="655">
+                <coordinates>24.106389,56.948889,0.0 24.106389,57.848889,0.0 27.406797950635266,57.848889,0.0 27.406797950635266,56.948889,0.0 24.106389,56.948889,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="663">
+            <name>Lebanon</name>
+            <styleUrl>#664</styleUrl>
+            <LineString id="662">
+                <coordinates>35.505696,33.898316,0.0 35.505696,35.095316000000004,0.0 37.6742957707584,35.095316000000004,0.0 37.6742957707584,33.898316,0.0 35.505696,33.898316,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="670">
+            <name>Lesotho</name>
+            <styleUrl>#671</styleUrl>
+            <LineString id="669">
+                <coordinates>27.48,-29.31,0.0 27.48,-28.113,0.0 29.54425842482204,-28.113,0.0 29.54425842482204,-29.31,0.0 27.48,-29.31,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="677">
+            <name>Liberia</name>
+            <styleUrl>#678</styleUrl>
+            <LineString id="676">
+                <coordinates>-10.801389,6.313333,0.0 -10.801389,7.258333,0.0 -8.99040610015314,7.258333,0.0 -8.99040610015314,6.313333,0.0 -10.801389,6.313333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="684">
+            <name>Libya</name>
+            <styleUrl>#685</styleUrl>
+            <LineString id="683">
+                <coordinates>13.191389,32.887222,0.0 13.191389,33.787222,0.0 15.334907108337596,33.787222,0.0 15.334907108337596,32.887222,0.0 13.191389,32.887222,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="691">
+            <name>Liechtenstein</name>
+            <styleUrl>#692</styleUrl>
+            <LineString id="690">
+                <coordinates>9.521,47.141,0.0 9.521,48.221,0.0 12.1672941300917,48.221,0.0 12.1672941300917,47.141,0.0 9.521,47.141,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="698">
+            <name>Lithuania</name>
+            <styleUrl>#699</styleUrl>
+            <LineString id="697">
+                <coordinates>25.28,54.687222,0.0 25.28,55.767222,0.0 28.39397337958226,55.767222,0.0 28.39397337958226,54.687222,0.0 25.28,54.687222,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="705">
+            <name>Luxembourg</name>
+            <styleUrl>#706</styleUrl>
+            <LineString id="704">
+                <coordinates>6.131944,49.611667,0.0 6.131944,50.691666999999995,0.0 8.909872602852001,50.691666999999995,0.0 8.909872602852001,49.611667,0.0 6.131944,49.611667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="712">
+            <name>Madagascar</name>
+            <styleUrl>#713</styleUrl>
+            <LineString id="711">
+                <coordinates>47.516667,-18.933333,0.0 47.516667,-17.736333000000002,0.0 49.41962310392487,-17.736333000000002,0.0 49.41962310392487,-18.933333,0.0 47.516667,-18.933333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="719">
+            <name>Malawi</name>
+            <styleUrl>#720</styleUrl>
+            <LineString id="718">
+                <coordinates>33.783333,-13.983333,0.0 33.783333,-12.786333,0.0 35.63830307399592,-12.786333,0.0 35.63830307399592,-13.983333,0.0 33.783333,-13.983333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="726">
+            <name>Malaysia</name>
+            <styleUrl>#727</styleUrl>
+            <LineString id="725">
+                <coordinates>101.695278,3.147778,0.0 101.695278,4.047778,0.0 103.49799789377823,4.047778,0.0 103.49799789377823,3.147778,0.0 101.695278,3.147778,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="733">
+            <name>Maldives</name>
+            <styleUrl>#734</styleUrl>
+            <LineString id="732">
+                <coordinates>73.508889,4.175278,0.0 73.508889,5.372278,0.0 75.31367893916442,5.372278,0.0 75.31367893916442,4.175278,0.0 73.508889,4.175278,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="740">
+            <name>Mali</name>
+            <styleUrl>#741</styleUrl>
+            <LineString id="739">
+                <coordinates>-8.002778,12.639167,0.0 -8.002778,13.836167,0.0 -6.158076100191142,13.836167,0.0 -6.158076100191142,12.639167,0.0 -8.002778,12.639167,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="747">
+            <name>Malta</name>
+            <styleUrl>#748</styleUrl>
+            <LineString id="746">
+                <coordinates>14.5125,35.898333,0.0 14.5125,37.095333000000004,0.0 16.734561190285103,37.095333000000004,0.0 16.734561190285103,35.898333,0.0 14.5125,35.898333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="754">
+            <name>Marshall Islands</name>
+            <styleUrl>#755</styleUrl>
+            <LineString id="753">
+                <coordinates>171.383333,7.083333,0.0 171.383333,8.028333,0.0 173.19717652434704,8.028333,0.0 173.19717652434704,7.083333,0.0 171.383333,7.083333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="761">
+            <name>Mauritania</name>
+            <styleUrl>#762</styleUrl>
+            <LineString id="760">
+                <coordinates>-15.9785,18.08581,0.0 -15.9785,19.282809999999998,0.0 -14.0849444282027,19.282809999999998,0.0 -14.0849444282027,18.08581,0.0 -15.9785,18.08581,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="768">
+            <name>Mauritius</name>
+            <styleUrl>#769</styleUrl>
+            <LineString id="767">
+                <coordinates>57.504167,-20.164444,0.0 57.504167,-18.967444,0.0 59.42169799019179,-18.967444,0.0 59.42169799019179,-20.164444,0.0 57.504167,-20.164444,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="775">
+            <name>Mexico</name>
+            <styleUrl>#776</styleUrl>
+            <LineString id="774">
+                <coordinates>-99.133333,19.433333,0.0 -99.133333,20.459333,0.0 -97.22459052239212,20.459333,0.0 -97.22459052239212,19.433333,0.0 -99.133333,19.433333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="782">
+            <name>Micronesia</name>
+            <styleUrl>#783</styleUrl>
+            <LineString id="781">
+                <coordinates>158.158889,6.917222,0.0 158.158889,7.862222,0.0 159.97208692997106,7.862222,0.0 159.97208692997106,6.917222,0.0 158.158889,6.917222,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="789">
+            <name>Moldova</name>
+            <styleUrl>#790</styleUrl>
+            <LineString id="788">
+                <coordinates>28.835278,47.022778,0.0 28.835278,47.922778,0.0 31.475706413802044,47.922778,0.0 31.475706413802044,47.022778,0.0 28.835278,47.022778,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="796">
+            <name>Monaco</name>
+            <styleUrl>#797</styleUrl>
+            <LineString id="795">
+                <coordinates>7.419744,43.731244,0.0 7.419744,45.171243999999994,0.0 9.91078216882769,45.171243999999994,0.0 9.91078216882769,43.731244,0.0 7.419744,43.731244,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="803">
+            <name>Mongolia</name>
+            <styleUrl>#804</styleUrl>
+            <LineString id="802">
+                <coordinates>106.917222,47.920278,0.0 106.917222,48.820278,0.0 109.60313180390963,48.820278,0.0 109.60313180390963,47.920278,0.0 106.917222,47.920278,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="810">
+            <name>Montenegro</name>
+            <styleUrl>#811</styleUrl>
+            <LineString id="809">
+                <coordinates>19.262892,42.441286,0.0 19.262892,43.341286,0.0 21.702017979483344,43.341286,0.0 21.702017979483344,42.441286,0.0 19.262892,42.441286,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="817">
+            <name>Morocco</name>
+            <styleUrl>#818</styleUrl>
+            <LineString id="816">
+                <coordinates>-6.833333,34.033333,0.0 -6.833333,35.230333,0.0 -4.661287994673518,35.230333,0.0 -4.661287994673518,34.033333,0.0 -6.833333,34.033333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="824">
+            <name>Mozambique</name>
+            <styleUrl>#825</styleUrl>
+            <LineString id="823">
+                <coordinates>32.583333,-25.966667,0.0 32.583333,-24.769667000000002,0.0 34.58544873440508,-24.769667000000002,0.0 34.58544873440508,-25.966667,0.0 32.583333,-25.966667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="831">
+            <name>Myanmar</name>
+            <styleUrl>#832</styleUrl>
+            <LineString id="830">
+                <coordinates>96.115,19.7475,0.0 96.115,20.944499999999998,0.0 98.02747096643176,20.944499999999998,0.0 98.02747096643176,19.7475,0.0 96.115,19.7475,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="838">
+            <name>Namibia</name>
+            <styleUrl>#839</styleUrl>
+            <LineString id="837">
+                <coordinates>17.083611,-22.57,0.0 17.083611,-21.373,0.0 19.03290486952008,-21.373,0.0 19.03290486952008,-22.57,0.0 17.083611,-22.57,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="845">
+            <name>Nauru</name>
+            <styleUrl>#846</styleUrl>
+            <LineString id="844">
+                <coordinates>166.920867,-0.5477,0.0 166.920867,0.35229999999999995,0.0 168.72094924306026,0.35229999999999995,0.0 168.72094924306026,-0.5477,0.0 166.920867,-0.5477,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="852">
+            <name>Nepal</name>
+            <styleUrl>#853</styleUrl>
+            <LineString id="851">
+                <coordinates>85.324,27.7172,0.0 85.324,29.9042,0.0 87.3573146361556,29.9042,0.0 87.3573146361556,27.7172,0.0 85.324,27.7172,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="859">
+            <name>Netherlands</name>
+            <styleUrl>#860</styleUrl>
+            <LineString id="858">
+                <coordinates>4.893611,52.372778,0.0 4.893611,53.569778,0.0 7.841910009148755,53.569778,0.0 7.841910009148755,52.372778,0.0 4.893611,52.372778,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="866">
+            <name>New Zealand</name>
+            <styleUrl>#867</styleUrl>
+            <LineString id="865">
+                <coordinates>174.777222,-41.288889,0.0 174.777222,-40.388889,0.0 177.17277550380237,-40.388889,0.0 177.17277550380237,-41.288889,0.0 174.777222,-41.288889,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="873">
+            <name>Nicaragua</name>
+            <styleUrl>#874</styleUrl>
+            <LineString id="872">
+                <coordinates>-86.251389,12.136389,0.0 -86.251389,13.216389,0.0 -84.4102391332465,13.216389,0.0 -84.4102391332465,12.136389,0.0 -86.251389,12.136389,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="880">
+            <name>Niger</name>
+            <styleUrl>#881</styleUrl>
+            <LineString id="879">
+                <coordinates>2.1175,13.515,0.0 2.1175,15.054,0.0 3.968763768542311,15.054,0.0 3.968763768542311,13.515,0.0 2.1175,13.515,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="887">
+            <name>Nigeria</name>
+            <styleUrl>#888</styleUrl>
+            <LineString id="886">
+                <coordinates>7.483333,9.066667,0.0 7.483333,9.966667000000001,0.0 9.306107378576598,9.966667000000001,0.0 9.306107378576598,9.066667,0.0 7.483333,9.066667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="894">
+            <name>North Korea</name>
+            <styleUrl>#895</styleUrl>
+            <LineString id="893">
+                <coordinates>125.738056,39.019444,0.0 125.738056,39.919444,0.0 128.0548600324182,39.919444,0.0 128.0548600324182,39.019444,0.0 125.738056,39.019444,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="901">
+            <name>North Macedonia</name>
+            <styleUrl>#902</styleUrl>
+            <LineString id="900">
+                <coordinates>21.431667,41.996111,0.0 21.431667,42.896111,0.0 23.85365789721626,42.896111,0.0 23.85365789721626,41.996111,0.0 21.431667,41.996111,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="908">
+            <name>Norway</name>
+            <styleUrl>#909</styleUrl>
+            <LineString id="907">
+                <coordinates>10.738889,59.913333,0.0 10.738889,61.218333,0.0 14.32948595375888,61.218333,0.0 14.32948595375888,59.913333,0.0 10.738889,59.913333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="915">
+            <name>Oman</name>
+            <styleUrl>#916</styleUrl>
+            <LineString id="914">
+                <coordinates>58.408333,23.588889,0.0 58.408333,24.488889,0.0 60.3724542885479,24.488889,0.0 60.3724542885479,23.588889,0.0 58.408333,23.588889,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="922">
+            <name>Pakistan</name>
+            <styleUrl>#923</styleUrl>
+            <LineString id="921">
+                <coordinates>73.063889,33.693056,0.0 73.063889,34.890056,0.0 75.22729499520027,34.890056,0.0 75.22729499520027,33.693056,0.0 73.063889,33.693056,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="929">
+            <name>Palau</name>
+            <styleUrl>#930</styleUrl>
+            <LineString id="928">
+                <coordinates>134.624167,7.500556,0.0 134.624167,8.625556,0.0 136.43970144858372,8.625556,0.0 136.43970144858372,7.500556,0.0 134.624167,7.500556,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="936">
+            <name>Panama</name>
+            <styleUrl>#937</styleUrl>
+            <LineString id="935">
+                <coordinates>-79.516667,8.983333,0.0 -79.516667,10.180333,0.0 -77.69431365792236,10.180333,0.0 -77.69431365792236,8.983333,0.0 -79.516667,8.983333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="943">
+            <name>Papua New Guinea</name>
+            <styleUrl>#944</styleUrl>
+            <LineString id="942">
+                <coordinates>147.149444,-9.478889,0.0 147.149444,-8.128889000000001,0.0 148.97436077965477,-8.128889000000001,0.0 148.97436077965477,-9.478889,0.0 147.149444,-9.478889,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="950">
+            <name>Paraguay</name>
+            <styleUrl>#951</styleUrl>
+            <LineString id="949">
+                <coordinates>-57.633333,-25.3,0.0 -57.633333,-24.310000000000002,0.0 -55.64236436480692,-24.310000000000002,0.0 -55.64236436480692,-25.3,0.0 -57.633333,-25.3,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="957">
+            <name>Peru</name>
+            <styleUrl>#958</styleUrl>
+            <LineString id="956">
+                <coordinates>-77.0375,-12.06,0.0 -77.0375,-10.863000000000001,0.0 -75.19687621800816,-10.863000000000001,0.0 -75.19687621800816,-12.06,0.0 -77.0375,-12.06,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="964">
+            <name>Philippines</name>
+            <styleUrl>#965</styleUrl>
+            <LineString id="963">
+                <coordinates>120.9772,14.5958,0.0 120.9772,15.495800000000001,0.0 122.83722746569495,15.495800000000001,0.0 122.83722746569495,14.5958,0.0 120.9772,14.5958,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="971">
+            <name>Poland</name>
+            <styleUrl>#972</styleUrl>
+            <LineString id="970">
+                <coordinates>21.011111,52.23,0.0 21.011111,53.355,0.0 23.949918918855325,53.355,0.0 23.949918918855325,52.23,0.0 21.011111,52.23,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="978">
+            <name>Portugal</name>
+            <styleUrl>#979</styleUrl>
+            <LineString id="977">
+                <coordinates>-9.15,38.725278,0.0 -9.15,39.922278000000006,0.0 -6.842764655451097,39.922278000000006,0.0 -6.842764655451097,38.725278,0.0 -9.15,38.725278,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="985">
+            <name>Qatar</name>
+            <styleUrl>#986</styleUrl>
+            <LineString id="984">
+                <coordinates>51.533333,25.286667,0.0 51.533333,25.988667,0.0 53.524082708557195,25.988667,0.0 53.524082708557195,25.286667,0.0 51.533333,25.286667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="992">
+            <name>Romania</name>
+            <styleUrl>#993</styleUrl>
+            <LineString id="991">
+                <coordinates>26.103889,44.4325,0.0 26.103889,45.6295,0.0 28.624630172063704,45.6295,0.0 28.624630172063704,44.4325,0.0 26.103889,44.4325,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="999">
+            <name>Russia</name>
+            <styleUrl>#1000</styleUrl>
+            <LineString id="998">
+                <coordinates>37.617222,55.755833,0.0 37.617222,56.952833000000005,0.0 40.81596653534253,56.952833000000005,0.0 40.81596653534253,55.755833,0.0 37.617222,55.755833,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1006">
+            <name>Rwanda</name>
+            <styleUrl>#1007</styleUrl>
+            <LineString id="1005">
+                <coordinates>30.059444,-1.943889,0.0 30.059444,-0.7468890000000001,0.0 31.86048045036233,-0.7468890000000001,0.0 31.86048045036233,-1.943889,0.0 30.059444,-1.943889,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1013">
+            <name>Saint Kitts and Nevis</name>
+            <styleUrl>#1014</styleUrl>
+            <LineString id="1012">
+                <coordinates>-62.733333,17.3,0.0 -62.733333,18.497,0.0 -60.84804403449433,18.497,0.0 -60.84804403449433,17.3,0.0 -62.733333,17.3,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1020">
+            <name>Saint Lucia</name>
+            <styleUrl>#1021</styleUrl>
+            <LineString id="1019">
+                <coordinates>-60.983333,14.016667,0.0 -60.983333,14.916667,0.0 -59.1280938318417,14.916667,0.0 -59.1280938318417,14.016667,0.0 -60.983333,14.016667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1027">
+            <name>Saint Vincent and the Grenadines</name>
+            <styleUrl>#1028</styleUrl>
+            <LineString id="1026">
+                <coordinates>-61.225,13.157778,0.0 -61.225,14.354778,0.0 -59.37647039177474,14.354778,0.0 -59.37647039177474,13.157778,0.0 -61.225,13.157778,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1034">
+            <name>Samoa</name>
+            <styleUrl>#1035</styleUrl>
+            <LineString id="1033">
+                <coordinates>-171.75,-13.833333,0.0 -171.75,-12.933333,0.0 -169.89623209940808,-12.933333,0.0 -169.89623209940808,-13.833333,0.0 -171.75,-13.833333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1041">
+            <name>San Marino</name>
+            <styleUrl>#1042</styleUrl>
+            <LineString id="1040">
+                <coordinates>12.4473,43.9346,0.0 12.4473,45.284600000000005,0.0 14.946840896454411,45.284600000000005,0.0 14.946840896454411,43.9346,0.0 12.4473,43.9346,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1048">
+            <name>Saudi Arabia</name>
+            <styleUrl>#1049</styleUrl>
+            <LineString id="1047">
+                <coordinates>46.716667,24.633333,0.0 46.716667,25.830333,0.0 48.69687858007749,25.830333,0.0 48.69687858007749,24.633333,0.0 46.716667,24.633333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1055">
+            <name>Senegal</name>
+            <styleUrl>#1056</styleUrl>
+            <LineString id="1054">
+                <coordinates>-17.446667,14.692778,0.0 -17.446667,15.889778,0.0 -15.585816693846237,15.889778,0.0 -15.585816693846237,14.692778,0.0 -17.446667,14.692778,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1062">
+            <name>Serbia</name>
+            <styleUrl>#1063</styleUrl>
+            <LineString id="1061">
+                <coordinates>20.456944,44.817778,0.0 20.456944,46.014778,0.0 22.994470974643068,46.014778,0.0 22.994470974643068,44.817778,0.0 20.456944,44.817778,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1069">
+            <name>Seychelles</name>
+            <styleUrl>#1070</styleUrl>
+            <LineString id="1068">
+                <coordinates>55.45,-4.616667,0.0 55.45,-3.7166669999999997,0.0 57.25585909738976,-3.7166669999999997,0.0 57.25585909738976,-4.616667,0.0 55.45,-4.616667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1076">
+            <name>Sierra Leone</name>
+            <styleUrl>#1077</styleUrl>
+            <LineString id="1075">
+                <coordinates>-13.234444,8.484444,0.0 -13.234444,9.681443999999999,0.0 -11.414526748562466,9.681443999999999,0.0 -11.414526748562466,8.484444,0.0 -13.234444,8.484444,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1083">
+            <name>Singapore</name>
+            <styleUrl>#1084</styleUrl>
+            <LineString id="1082">
+                <coordinates>103.833333,1.283333,0.0 103.833333,2.480333,0.0 105.63378461333913,2.480333,0.0 105.63378461333913,1.283333,0.0 103.833333,1.283333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1090">
+            <name>Slovakia</name>
+            <styleUrl>#1091</styleUrl>
+            <LineString id="1089">
+                <coordinates>17.109722,48.143889,0.0 17.109722,49.340889000000004,0.0 19.807312196841416,49.340889000000004,0.0 19.807312196841416,48.143889,0.0 17.109722,48.143889,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1097">
+            <name>Slovenia</name>
+            <styleUrl>#1098</styleUrl>
+            <LineString id="1096">
+                <coordinates>14.506111,46.051389,0.0 14.506111,46.951389,0.0 17.09972269499126,46.951389,0.0 17.09972269499126,46.051389,0.0 14.506111,46.051389,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1104">
+            <name>Solomon Islands</name>
+            <styleUrl>#1105</styleUrl>
+            <LineString id="1103">
+                <coordinates>159.955556,-9.431944,0.0 159.955556,-8.531944,0.0 161.78022377583144,-8.531944,0.0 161.78022377583144,-9.431944,0.0 159.955556,-9.431944,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1111">
+            <name>Somalia</name>
+            <styleUrl>#1112</styleUrl>
+            <LineString id="1110">
+                <coordinates>45.341944,2.039167,0.0 45.341944,3.236167,0.0 47.1430845966737,3.236167,0.0 47.1430845966737,2.039167,0.0 45.341944,2.039167,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1118">
+            <name>South Africa</name>
+            <styleUrl>#1119</styleUrl>
+            <LineString id="1117">
+                <coordinates>18.423889,-33.925278,0.0 18.423889,-32.728277999999996,0.0 20.593174925360234,-32.728277999999996,0.0 20.593174925360234,-33.925278,0.0 18.423889,-33.925278,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1125">
+            <name>South Korea</name>
+            <styleUrl>#1126</styleUrl>
+            <LineString id="1124">
+                <coordinates>126.99,37.56,0.0 126.99,38.757000000000005,0.0 129.26067617573875,38.757000000000005,0.0 129.26067617573875,37.56,0.0 126.99,37.56,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1132">
+            <name>South Sudan</name>
+            <styleUrl>#1133</styleUrl>
+            <LineString id="1131">
+                <coordinates>31.6,4.85,0.0 31.6,5.75,0.0 33.40646813660897,5.75,0.0 33.40646813660897,4.85,0.0 31.6,4.85,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1139">
+            <name>Spain</name>
+            <styleUrl>#1140</styleUrl>
+            <LineString id="1138">
+                <coordinates>-3.703333,40.416944,0.0 -3.703333,41.613944000000004,0.0 -1.3391010138529102,41.613944000000004,0.0 -1.3391010138529102,40.416944,0.0 -3.703333,40.416944,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1146">
+            <name>Sri Lanka</name>
+            <styleUrl>#1147</styleUrl>
+            <LineString id="1145">
+                <coordinates>79.916667,6.916667,0.0 79.916667,7.816667000000001,0.0 81.72986279926278,7.816667000000001,0.0 81.72986279926278,6.916667,0.0 79.916667,6.916667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1153">
+            <name>Sudan</name>
+            <styleUrl>#1154</styleUrl>
+            <LineString id="1152">
+                <coordinates>32.5,15.6,0.0 32.5,16.5,0.0 34.368843393680336,16.5,0.0 34.368843393680336,15.6,0.0 32.5,15.6,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1160">
+            <name>Suriname</name>
+            <styleUrl>#1161</styleUrl>
+            <LineString id="1159">
+                <coordinates>-55.203889,5.852222,0.0 -55.203889,7.049222,0.0 -53.39445858934178,7.049222,0.0 -53.39445858934178,5.852222,0.0 -55.203889,5.852222,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1167">
+            <name>Sweden</name>
+            <styleUrl>#1168</styleUrl>
+            <LineString id="1166">
+                <coordinates>18.068611,59.329444,0.0 18.068611,60.454444,0.0 21.59732410059317,60.454444,0.0 21.59732410059317,59.329444,0.0 18.068611,59.329444,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1174">
+            <name>Switzerland</name>
+            <styleUrl>#1175</styleUrl>
+            <LineString id="1173">
+                <coordinates>7.4475,46.948056,0.0 7.4475,48.748056,0.0 10.084240171771029,48.748056,0.0 10.084240171771029,46.948056,0.0 7.4475,46.948056,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1181">
+            <name>Syria</name>
+            <styleUrl>#1182</styleUrl>
+            <LineString id="1180">
+                <coordinates>36.291944,33.513056,0.0 36.291944,34.710056,0.0 38.45083856713594,34.710056,0.0 38.45083856713594,33.513056,0.0 36.291944,33.513056,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1188">
+            <name>São Tomé and Príncipe</name>
+            <styleUrl>#1189</styleUrl>
+            <LineString id="1187">
+                <coordinates>6.730556,0.336111,0.0 6.730556,1.236111,0.0 8.530586971976698,1.236111,0.0 8.530586971976698,0.336111,0.0 6.730556,0.336111,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1195">
+            <name>Tajikistan</name>
+            <styleUrl>#1196</styleUrl>
+            <LineString id="1194">
+                <coordinates>68.78,38.536667,0.0 68.78,39.436667,0.0 71.08117346022536,39.436667,0.0 71.08117346022536,38.536667,0.0 68.78,38.536667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1202">
+            <name>Tanzania</name>
+            <styleUrl>#1203</styleUrl>
+            <LineString id="1201">
+                <coordinates>35.741944,-6.173056,0.0 35.741944,-4.976056,0.0 37.552441915097624,-4.976056,0.0 37.552441915097624,-6.173056,0.0 35.741944,-6.173056,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1209">
+            <name>Thailand</name>
+            <styleUrl>#1210</styleUrl>
+            <LineString id="1208">
+                <coordinates>100.494167,13.7525,0.0 100.494167,14.949499999999999,0.0 102.34729297531737,14.949499999999999,0.0 102.34729297531737,13.7525,0.0 100.494167,13.7525,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1216">
+            <name>Togo</name>
+            <styleUrl>#1217</styleUrl>
+            <LineString id="1215">
+                <coordinates>1.222778,6.131944,0.0 1.222778,7.238944,0.0 3.0331358822344354,7.238944,0.0 3.0331358822344354,6.131944,0.0 1.222778,6.131944,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1223">
+            <name>Tonga</name>
+            <styleUrl>#1224</styleUrl>
+            <LineString id="1222">
+                <coordinates>-175.2,-21.133333,0.0 -175.2,-20.233333000000002,0.0 -173.2702099256674,-20.233333000000002,0.0 -173.2702099256674,-21.133333,0.0 -175.2,-21.133333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1230">
+            <name>Trinidad and Tobago</name>
+            <styleUrl>#1231</styleUrl>
+            <LineString id="1229">
+                <coordinates>-61.516667,10.666667,0.0 -61.516667,11.746667,0.0 -59.685017275324846,11.746667,0.0 -59.685017275324846,10.666667,0.0 -61.516667,10.666667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1237">
+            <name>Tunisia</name>
+            <styleUrl>#1238</styleUrl>
+            <LineString id="1236">
+                <coordinates>10.181667,36.806389,0.0 10.181667,38.003389000000006,0.0 12.429799449967513,38.003389000000006,0.0 12.429799449967513,36.806389,0.0 10.181667,36.806389,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1244">
+            <name>Turkey</name>
+            <styleUrl>#1245</styleUrl>
+            <LineString id="1243">
+                <coordinates>32.85,39.93,0.0 32.85,41.127,0.0 35.19732850099281,41.127,0.0 35.19732850099281,39.93,0.0 32.85,39.93,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1251">
+            <name>Turkmenistan</name>
+            <styleUrl>#1252</styleUrl>
+            <LineString id="1250">
+                <coordinates>58.38,37.9375,0.0 58.38,39.1345,0.0 60.66228906358442,39.1345,0.0 60.66228906358442,37.9375,0.0 58.38,37.9375,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1258">
+            <name>Tuvalu</name>
+            <styleUrl>#1259</styleUrl>
+            <LineString id="1257">
+                <coordinates>179.2,-8.516667,0.0 179.2,-7.616667,0.0 181.02007023362856,-7.616667,0.0 181.02007023362856,-8.516667,0.0 179.2,-8.516667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1265">
+            <name>Uganda</name>
+            <styleUrl>#1266</styleUrl>
+            <LineString id="1264">
+                <coordinates>32.581111,0.313611,0.0 32.581111,1.510611,0.0 34.38113796405725,1.510611,0.0 34.38113796405725,0.313611,0.0 32.581111,0.313611,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1272">
+            <name>Ukraine</name>
+            <styleUrl>#1273</styleUrl>
+            <LineString id="1271">
+                <coordinates>30.523333,50.45,0.0 30.523333,51.647000000000006,0.0 33.35018214158643,51.647000000000006,0.0 33.35018214158643,50.45,0.0 30.523333,50.45,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1279">
+            <name>UAE</name>
+            <styleUrl>#1280</styleUrl>
+            <LineString id="1278">
+                <coordinates>54.366667,24.466667,0.0 54.366667,25.366667,0.0 56.34424918719645,25.366667,0.0 56.34424918719645,24.466667,0.0 54.366667,24.466667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1286">
+            <name>UK</name>
+            <styleUrl>#1287</styleUrl>
+            <LineString id="1285">
+                <coordinates>-0.1275,51.507222,0.0 -0.1275,52.407222,0.0 2.7644565711788887,52.407222,0.0 2.7644565711788887,51.507222,0.0 -0.1275,51.507222,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1293">
+            <name>USA</name>
+            <styleUrl>#1294</styleUrl>
+            <LineString id="1292">
+                <coordinates>-77.016389,38.904722,0.0 -77.016389,39.849722,0.0 -74.70333334686653,39.849722,0.0 -74.70333334686653,38.904722,0.0 -77.016389,38.904722,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1300">
+            <name>Uruguay</name>
+            <styleUrl>#1301</styleUrl>
+            <LineString id="1299">
+                <coordinates>-56.181944,-34.883611,0.0 -56.181944,-33.686611,0.0 -53.98766631070296,-33.686611,0.0 -53.98766631070296,-34.883611,0.0 -56.181944,-34.883611,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1307">
+            <name>Uzbekistan</name>
+            <styleUrl>#1308</styleUrl>
+            <LineString id="1306">
+                <coordinates>69.279722,41.311111,0.0 69.279722,42.211110999999995,0.0 71.67609188456878,42.211110999999995,0.0 71.67609188456878,41.311111,0.0 69.279722,41.311111,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1314">
+            <name>Vanuatu</name>
+            <styleUrl>#1315</styleUrl>
+            <LineString id="1313">
+                <coordinates>168.316667,-17.733333,0.0 168.316667,-16.653333,0.0 170.20646164607436,-16.653333,0.0 170.20646164607436,-17.733333,0.0 168.316667,-17.733333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1321">
+            <name>Venezuela</name>
+            <styleUrl>#1322</styleUrl>
+            <LineString id="1320">
+                <coordinates>-66.903611,10.480556,0.0 -66.903611,11.677556,0.0 -65.07307155156072,11.677556,0.0 -65.07307155156072,10.480556,0.0 -66.903611,10.480556,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1328">
+            <name>Vietnam</name>
+            <styleUrl>#1329</styleUrl>
+            <LineString id="1327">
+                <coordinates>105.854167,21.028333,0.0 105.854167,22.225333,0.0 107.7825942829202,22.225333,0.0 107.7825942829202,21.028333,0.0 105.854167,21.028333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1335">
+            <name>Yemen</name>
+            <styleUrl>#1336</styleUrl>
+            <LineString id="1334">
+                <coordinates>45.033333,12.8,0.0 45.033333,13.997,0.0 46.879204088415825,13.997,0.0 46.879204088415825,12.8,0.0 45.033333,12.8,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1342">
+            <name>Zambia</name>
+            <styleUrl>#1343</styleUrl>
+            <LineString id="1341">
+                <coordinates>28.283333,-15.416667,0.0 28.283333,-14.219667000000001,0.0 30.15051783029219,-14.219667000000001,0.0 30.15051783029219,-15.416667,0.0 28.283333,-15.416667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1349">
+            <name>Zimbabwe</name>
+            <styleUrl>#1350</styleUrl>
+            <LineString id="1348">
+                <coordinates>31.052222,-17.829167,0.0 31.052222,-16.929167000000003,0.0 32.94303063328652,-16.929167000000003,0.0 32.94303063328652,-17.829167,0.0 31.052222,-17.829167,0.0</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>
