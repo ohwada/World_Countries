@@ -14,7 +14,7 @@ display rectangle at the capital
 
 import KML file to Google Earth
 
-![un_member states overlay]()
+![un_member states overlay](https://github.com/ohwada/World_Countries/blob/main/simplekml/un_member_states_overlay/screenshots/gearth_un_member_states_overlay.png)
 
 #### Python program
 - json2kml.py
