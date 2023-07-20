@@ -13,4 +13,5 @@ import KML file into Google mymaps
 photo_overlay.py
 
 ### Reference
-[simplekml: newphotooverlay](https://simplekml.readthedocs.io/en/latest/containers.html#simplekml.Document.newphotooverlay)
+- [simplekml: newphotooverlay](https://simplekml.readthedocs.io/en/latest/containers.html#simplekml.Document.newphotooverlay)
+- https://ken-ohwada.hatenadiary.org/entry/2023/07/20/141136
