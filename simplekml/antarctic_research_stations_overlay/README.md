@@ -14,6 +14,7 @@ display rectangle at the station
 
 import KML file to [Google Earth](https://www.google.com/intl/en/earth/)
 
+![antarctic research stations overlay](https://github.com/ohwada/World_Countries/blob/main/simplekml/antarctic_research_stations_overlay/screenshots/gearth_antarctic_research_stations_overlay.png)
 
 #### Python program
 - merge_json.py
