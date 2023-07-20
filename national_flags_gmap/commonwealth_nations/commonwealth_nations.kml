@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <IconStyle id="5">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/23px-Flag_of_Antigua_and_Barbuda.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9">
+            <IconStyle id="10">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14">
+            <IconStyle id="15">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="16">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/23px-Flag_of_the_Bahamas.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="19">
+            <IconStyle id="20">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="21">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/23px-Flag_of_Bangladesh.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="24">
+            <IconStyle id="25">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="26">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/23px-Flag_of_Barbados.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="29">
+            <IconStyle id="30">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/23px-Flag_of_Belize.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34">
+            <IconStyle id="35">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/23px-Flag_of_Botswana.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="39">
+            <IconStyle id="40">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="41">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/23px-Flag_of_Brunei.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44">
+            <IconStyle id="45">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="46">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/23px-Flag_of_Cameroon.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="49">
+            <IconStyle id="50">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="51">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54">
+            <IconStyle id="55">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/23px-Flag_of_Cyprus.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59">
+            <IconStyle id="60">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="61">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/23px-Flag_of_Dominica.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="64">
+            <IconStyle id="65">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="66">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/23px-Flag_of_Eswatini.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="69">
+            <IconStyle id="70">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="71">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/23px-Flag_of_Fiji.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="74">
+            <IconStyle id="75">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="76">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/20px-Flag_of_Gabon.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="79">
+            <IconStyle id="80">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/23px-Flag_of_The_Gambia.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="84">
+            <IconStyle id="85">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/23px-Flag_of_Ghana.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="89">
+            <IconStyle id="90">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/23px-Flag_of_Grenada.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94">
+            <IconStyle id="95">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/23px-Flag_of_Guyana.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="99">
+            <IconStyle id="100">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="101">
+                    <href>https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="104">
+            <IconStyle id="105">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="106">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/23px-Flag_of_Jamaica.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="109">
+            <IconStyle id="110">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="111">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/23px-Flag_of_Kenya.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="114">
+            <IconStyle id="115">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="116">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/23px-Flag_of_Kiribati.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="119">
+            <IconStyle id="120">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="121">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/23px-Flag_of_Lesotho.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="124">
+            <IconStyle id="125">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="126">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/23px-Flag_of_Malawi.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="129">
+            <IconStyle id="130">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="131">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/23px-Flag_of_Malaysia.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="134">
+            <IconStyle id="135">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="136">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/23px-Flag_of_Maldives.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="139">
+            <IconStyle id="140">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="141">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/23px-Flag_of_Malta.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="144">
+            <IconStyle id="145">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="146">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/23px-Flag_of_Mauritius.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="149">
+            <IconStyle id="150">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="151">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/23px-Flag_of_Mozambique.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="154">
+            <IconStyle id="155">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="156">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/23px-Flag_of_Namibia.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="159">
+            <IconStyle id="160">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="161">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/23px-Flag_of_Nauru.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="164">
+            <IconStyle id="165">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="166">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="169">
+            <IconStyle id="170">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="171">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/23px-Flag_of_Nigeria.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="174">
+            <IconStyle id="175">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="176">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/23px-Flag_of_Pakistan.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="179">
+            <IconStyle id="180">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="181">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/20px-Flag_of_Papua_New_Guinea.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="184">
+            <IconStyle id="185">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="186">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/23px-Flag_of_Rwanda.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="189">
+            <IconStyle id="190">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="191">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/23px-Flag_of_Saint_Kitts_and_Nevis.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="194">
+            <IconStyle id="195">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="196">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/23px-Flag_of_Saint_Lucia.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="199">
+            <IconStyle id="200">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="201">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/23px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="204">
+            <IconStyle id="205">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="206">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/23px-Flag_of_Samoa.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="209">
+            <IconStyle id="210">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="211">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/23px-Flag_of_Seychelles.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="214">
+            <IconStyle id="215">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="216">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/23px-Flag_of_Sierra_Leone.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="219">
+            <IconStyle id="220">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="221">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/23px-Flag_of_Singapore.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="224">
+            <IconStyle id="225">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="226">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/23px-Flag_of_the_Solomon_Islands.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="229">
+            <IconStyle id="230">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="231">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="234">
+            <IconStyle id="235">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="236">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/23px-Flag_of_Sri_Lanka.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="239">
+            <IconStyle id="240">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="241">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/23px-Flag_of_Tanzania.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="244">
+            <IconStyle id="245">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="246">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/23px-Flag_of_Togo.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="249">
+            <IconStyle id="250">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="251">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/23px-Flag_of_Tonga.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="254">
+            <IconStyle id="255">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="256">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/23px-Flag_of_Trinidad_and_Tobago.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="259">
+            <IconStyle id="260">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="261">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/23px-Flag_of_Tuvalu.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="264">
+            <IconStyle id="265">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="266">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/23px-Flag_of_Uganda.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="269">
+            <IconStyle id="270">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="271">
+                    <href>https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="274">
+            <IconStyle id="275">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="276">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/23px-Flag_of_Vanuatu.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="279">
+            <IconStyle id="280">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="281">
+                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/23px-Flag_of_Zambia.svg.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Commonwealth Nations</name>
+        <description>display the National Flag at the Coordinates of the Capital</description>
+        <Placemark id="3">
+            <name>Antigua and Barbuda</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Antigua_and_Barbuda">Antigua and Barbuda</a>]]></description>
+            <styleUrl>#4</styleUrl>
+            <Point id="2">
+                <coordinates>-61.85,17.116667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8">
+            <name>Australia</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Australia">Australia</a>]]></description>
+            <styleUrl>#9</styleUrl>
+            <Point id="7">
+                <coordinates>149.126944,-35.293056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>Bahamas</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/The_Bahamas">Bahamas</a>]]></description>
+            <styleUrl>#14</styleUrl>
+            <Point id="12">
+                <coordinates>-77.338611,25.078056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18">
+            <name>Bangladesh</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Bangladesh">Bangladesh</a>]]></description>
+            <styleUrl>#19</styleUrl>
+            <Point id="17">
+                <coordinates>90.388889,23.763889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>Barbados</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Barbados">Barbados</a>]]></description>
+            <styleUrl>#24</styleUrl>
+            <Point id="22">
+                <coordinates>-59.616667,13.0975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28">
+            <name>Belize</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Belize">Belize</a>]]></description>
+            <styleUrl>#29</styleUrl>
+            <Point id="27">
+                <coordinates>-88.766944,17.251389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>Botswana</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Botswana">Botswana</a>]]></description>
+            <styleUrl>#34</styleUrl>
+            <Point id="32">
+                <coordinates>25.912222,-24.658056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="38">
+            <name>Brunei</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Brunei">Brunei</a>]]></description>
+            <styleUrl>#39</styleUrl>
+            <Point id="37">
+                <coordinates>114.942222,4.890278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>Cameroon</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Cameroon">Cameroon</a>]]></description>
+            <styleUrl>#44</styleUrl>
+            <Point id="42">
+                <coordinates>11.516667,3.866667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="48">
+            <name>Canada</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Canada">Canada</a>]]></description>
+            <styleUrl>#49</styleUrl>
+            <Point id="47">
+                <coordinates>-75.695,45.424722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>Cyprus</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Cyprus">Cyprus</a>]]></description>
+            <styleUrl>#54</styleUrl>
+            <Point id="52">
+                <coordinates>33.365,35.1725,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58">
+            <name>Dominica</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Dominica">Dominica</a>]]></description>
+            <styleUrl>#59</styleUrl>
+            <Point id="57">
+                <coordinates>-61.388333,15.301389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>Eswatini</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Eswatini">Eswatini</a>]]></description>
+            <styleUrl>#64</styleUrl>
+            <Point id="62">
+                <coordinates>31.133333,-26.316667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68">
+            <name>Fiji</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Fiji">Fiji</a>]]></description>
+            <styleUrl>#69</styleUrl>
+            <Point id="67">
+                <coordinates>178.447778,-18.129444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>Gabon</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Gabon">Gabon</a>]]></description>
+            <styleUrl>#74</styleUrl>
+            <Point id="72">
+                <coordinates>9.454167,0.390278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78">
+            <name>Gambia</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/The_Gambia">Gambia</a>]]></description>
+            <styleUrl>#79</styleUrl>
+            <Point id="77">
+                <coordinates>-16.5775,13.453056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>Ghana</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Ghana">Ghana</a>]]></description>
+            <styleUrl>#84</styleUrl>
+            <Point id="82">
+                <coordinates>-0.2,5.55,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="88">
+            <name>Grenada</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Grenada">Grenada</a>]]></description>
+            <styleUrl>#89</styleUrl>
+            <Point id="87">
+                <coordinates>-61.75,12.05,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>Guyana</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Guyana">Guyana</a>]]></description>
+            <styleUrl>#94</styleUrl>
+            <Point id="92">
+                <coordinates>-58.150833,6.805833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98">
+            <name>India</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/India">India</a>]]></description>
+            <styleUrl>#99</styleUrl>
+            <Point id="97">
+                <coordinates>77.209006,28.613895,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name>Jamaica</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Jamaica">Jamaica</a>]]></description>
+            <styleUrl>#104</styleUrl>
+            <Point id="102">
+                <coordinates>-76.793056,17.971389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="108">
+            <name>Kenya</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Kenya">Kenya</a>]]></description>
+            <styleUrl>#109</styleUrl>
+            <Point id="107">
+                <coordinates>36.817222,-1.286389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name>Kiribati</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Kiribati">Kiribati</a>]]></description>
+            <styleUrl>#114</styleUrl>
+            <Point id="112">
+                <coordinates>173.0,1.433333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="118">
+            <name>Lesotho</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Lesotho">Lesotho</a>]]></description>
+            <styleUrl>#119</styleUrl>
+            <Point id="117">
+                <coordinates>27.48,-29.31,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>Malawi</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Malawi">Malawi</a>]]></description>
+            <styleUrl>#124</styleUrl>
+            <Point id="122">
+                <coordinates>33.783333,-13.983333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="128">
+            <name>Malaysia</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Malaysia">Malaysia</a>]]></description>
+            <styleUrl>#129</styleUrl>
+            <Point id="127">
+                <coordinates>101.695278,3.147778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="133">
+            <name>Maldives</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Maldives">Maldives</a>]]></description>
+            <styleUrl>#134</styleUrl>
+            <Point id="132">
+                <coordinates>73.508889,4.175278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="138">
+            <name>Malta</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Malta">Malta</a>]]></description>
+            <styleUrl>#139</styleUrl>
+            <Point id="137">
+                <coordinates>14.5125,35.898333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name>Mauritius</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Mauritius">Mauritius</a>]]></description>
+            <styleUrl>#144</styleUrl>
+            <Point id="142">
+                <coordinates>57.504167,-20.164444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="148">
+            <name>Mozambique</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Mozambique">Mozambique</a>]]></description>
+            <styleUrl>#149</styleUrl>
+            <Point id="147">
+                <coordinates>32.583333,-25.966667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="153">
+            <name>Namibia</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Namibia">Namibia</a>]]></description>
+            <styleUrl>#154</styleUrl>
+            <Point id="152">
+                <coordinates>17.083611,-22.57,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="158">
+            <name>Nauru</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Nauru">Nauru</a>]]></description>
+            <styleUrl>#159</styleUrl>
+            <Point id="157">
+                <coordinates>166.920867,-0.5477,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="163">
+            <name>New Zealand</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/New_Zealand">New Zealand</a>]]></description>
+            <styleUrl>#164</styleUrl>
+            <Point id="162">
+                <coordinates>174.777222,-41.288889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="168">
+            <name>Nigeria</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Nigeria">Nigeria</a>]]></description>
+            <styleUrl>#169</styleUrl>
+            <Point id="167">
+                <coordinates>7.483333,9.066667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="173">
+            <name>Pakistan</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Pakistan">Pakistan</a>]]></description>
+            <styleUrl>#174</styleUrl>
+            <Point id="172">
+                <coordinates>73.063889,33.693056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="178">
+            <name>Papua New Guinea</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Papua_New_Guinea">Papua New Guinea</a>]]></description>
+            <styleUrl>#179</styleUrl>
+            <Point id="177">
+                <coordinates>147.149444,-9.478889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="183">
+            <name>Rwanda</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Rwanda">Rwanda</a>]]></description>
+            <styleUrl>#184</styleUrl>
+            <Point id="182">
+                <coordinates>30.059444,-1.943889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="188">
+            <name>Saint Kitts and Nevis</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis">Saint Kitts and Nevis</a>]]></description>
+            <styleUrl>#189</styleUrl>
+            <Point id="187">
+                <coordinates>-62.733333,17.3,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="193">
+            <name>Saint Lucia</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Saint_Lucia">Saint Lucia</a>]]></description>
+            <styleUrl>#194</styleUrl>
+            <Point id="192">
+                <coordinates>-60.983333,14.016667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="198">
+            <name>Saint Vincent and the Grenadines</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines">Saint Vincent and the Grenadines</a>]]></description>
+            <styleUrl>#199</styleUrl>
+            <Point id="197">
+                <coordinates>-61.225,13.157778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="203">
+            <name>Samoa</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Samoa">Samoa</a>]]></description>
+            <styleUrl>#204</styleUrl>
+            <Point id="202">
+                <coordinates>-171.75,-13.833333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="208">
+            <name>Seychelles</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Seychelles">Seychelles</a>]]></description>
+            <styleUrl>#209</styleUrl>
+            <Point id="207">
+                <coordinates>55.45,-4.616667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="213">
+            <name>Sierra Leone</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Sierra_Leone">Sierra Leone</a>]]></description>
+            <styleUrl>#214</styleUrl>
+            <Point id="212">
+                <coordinates>-13.234444,8.484444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="218">
+            <name>Singapore</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Singapore">Singapore</a>]]></description>
+            <styleUrl>#219</styleUrl>
+            <Point id="217">
+                <coordinates>103.833333,1.283333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="223">
+            <name>Solomon Islands</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Solomon_Islands">Solomon Islands</a>]]></description>
+            <styleUrl>#224</styleUrl>
+            <Point id="222">
+                <coordinates>159.955556,-9.431944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="228">
+            <name>South Africa</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/South_Africa">South Africa</a>]]></description>
+            <styleUrl>#229</styleUrl>
+            <Point id="227">
+                <coordinates>18.423889,-33.925278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="233">
+            <name>Sri Lanka</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Sri_Lanka">Sri Lanka</a>]]></description>
+            <styleUrl>#234</styleUrl>
+            <Point id="232">
+                <coordinates>79.916667,6.916667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="238">
+            <name>Tanzania</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Tanzania">Tanzania</a>]]></description>
+            <styleUrl>#239</styleUrl>
+            <Point id="237">
+                <coordinates>35.741944,-6.173056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="243">
+            <name>Togo</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Togo">Togo</a>]]></description>
+            <styleUrl>#244</styleUrl>
+            <Point id="242">
+                <coordinates>1.222778,6.131944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="248">
+            <name>Tonga</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Tonga">Tonga</a>]]></description>
+            <styleUrl>#249</styleUrl>
+            <Point id="247">
+                <coordinates>-175.2,-21.133333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="253">
+            <name>Trinidad and Tobago</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Trinidad_and_Tobago">Trinidad and Tobago</a>]]></description>
+            <styleUrl>#254</styleUrl>
+            <Point id="252">
+                <coordinates>-61.516667,10.666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="258">
+            <name>Tuvalu</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Tuvalu">Tuvalu</a>]]></description>
+            <styleUrl>#259</styleUrl>
+            <Point id="257">
+                <coordinates>179.2,-8.516667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="263">
+            <name>Uganda</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Uganda">Uganda</a>]]></description>
+            <styleUrl>#264</styleUrl>
+            <Point id="262">
+                <coordinates>32.581111,0.313611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="268">
+            <name>United Kingdom</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/United_Kingdom">United Kingdom</a>]]></description>
+            <styleUrl>#269</styleUrl>
+            <Point id="267">
+                <coordinates>-0.1275,51.507222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="273">
+            <name>Vanuatu</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Vanuatu">Vanuatu</a>]]></description>
+            <styleUrl>#274</styleUrl>
+            <Point id="272">
+                <coordinates>168.316667,-17.733333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="278">
+            <name>Zambia</name>
+            <description><![CDATA[<a href="https://en.wikipedia.org/wiki/Zambia">Zambia</a>]]></description>
+            <styleUrl>#279</styleUrl>
+            <Point id="277">
+                <coordinates>28.283333,-15.416667,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
