@@ -1,0 +1,15 @@
+South Pole
+===============
+
+display  Circle at South Pole on Google Earth
+
+create KML file using Python simplekml 
+
+
+import KML file into [Google Earth](https://www.google.com/intl/en/earth/)
+
+### Python
+- south_pole.py
+
+### Reference
+ [polycircles](https://polycircles.readthedocs.io/en/latest/kmls.html)
