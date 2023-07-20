@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Web Color</title>
+<style type="text/css">
+<!--
+.box 
+{{
+width: 50px;
+height: 50px;
+border: 2px solid #ccc;
+border-radius: 5px;
+}}
+-->
+</style>
+</head>
+<body>
+<h1>{body_title}</h1>
+<div>{desc}</div>
+<br/>
+<table style="margin: 30px">
+
+<tbody>
+{rows}
+</tbody>
+</table>
+
+</body>
+</html>

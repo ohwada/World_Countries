@@ -1,0 +1,19 @@
+Web colors
+https://en.wikipedia.org/wiki/Web_colors
+
+Web colors are colors used in displaying web pages on the World Wide Web, 
+
+Colors may be specified as an RGB triplet or in hexadecimal format (a hex triplet)
+
+In some uses, hexadecimal color codes are specified with notation using a leading number sign (#).
+
+Hex triplet
+A hex triplet is a six-digit, three-byte hexadecimal number used in HTML, CSS, SVG, 
+
+The bytes represent the red, green, and blue components of the color.
+
+
+W3C
+CSS/Properties/color/keywords
+https://www.w3.org/wiki/CSS/Properties/color/keywords
+
