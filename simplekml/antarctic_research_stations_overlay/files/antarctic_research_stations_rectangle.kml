@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="8">
+            <PolyStyle id="9">
+                <color>c8ff0000</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="18">
+            <LineStyle id="19">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="25">
+            <LineStyle id="26">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="32">
+            <LineStyle id="33">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="39">
+            <LineStyle id="40">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="46">
+            <LineStyle id="47">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="53">
+            <LineStyle id="54">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="60">
+            <LineStyle id="61">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="67">
+            <LineStyle id="68">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="74">
+            <LineStyle id="75">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="81">
+            <LineStyle id="82">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="88">
+            <LineStyle id="89">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="95">
+            <LineStyle id="96">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="102">
+            <LineStyle id="103">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="109">
+            <LineStyle id="110">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="116">
+            <LineStyle id="117">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="123">
+            <LineStyle id="124">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="130">
+            <LineStyle id="131">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="137">
+            <LineStyle id="138">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="144">
+            <LineStyle id="145">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="151">
+            <LineStyle id="152">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="158">
+            <LineStyle id="159">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="165">
+            <LineStyle id="166">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="172">
+            <LineStyle id="173">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="179">
+            <LineStyle id="180">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="186">
+            <LineStyle id="187">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="193">
+            <LineStyle id="194">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="200">
+            <LineStyle id="201">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="207">
+            <LineStyle id="208">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="214">
+            <LineStyle id="215">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="221">
+            <LineStyle id="222">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="228">
+            <LineStyle id="229">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="235">
+            <LineStyle id="236">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="242">
+            <LineStyle id="243">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="249">
+            <LineStyle id="250">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="256">
+            <LineStyle id="257">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="263">
+            <LineStyle id="264">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="270">
+            <LineStyle id="271">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="277">
+            <LineStyle id="278">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="284">
+            <LineStyle id="285">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="291">
+            <LineStyle id="292">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="298">
+            <LineStyle id="299">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="305">
+            <LineStyle id="306">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Style id="312">
+            <LineStyle id="313">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <name>Research stations in Antarctica with rectangle</name>
+        <description>display rectangle at the Coordinates of Research station</description>
+        <Placemark id="5">
+            <name>South Pole</name>
+            <styleUrl>#8</styleUrl>
+            <Polygon id="4">
+                <outerBoundaryIs>
+                    <LinearRing id="6">
+                        <coordinates>0.0,-88.55234621110141,0.0 3.0884114312717683,-88.55705193932418,0.0 6.151687455560282,-88.57111746207842,0.0 9.163474681631278,-88.5943871037631,0.0 12.094871761810484,-88.62659897276517,0.0 14.91286103860742,-88.66738082354519,0.0 17.578345106170996,-88.7162431893074,0.0 20.043583070393325,-88.77256846696696,0.0 22.248754047933858,-88.83559385228747,0.0 24.117298692066313,-88.90438482906359,0.0 25.549645323682242,-88.9777941229328,0.0 26.41505333843068,-89.05439850741126,0.0 26.541996237680056,-89.13240294300036,0.0 25.70976596437551,-89.20950046775944,0.0 23.6499894829684,-89.28268512034477,0.0 20.079574664294434,-89.348056304785,0.0 14.803557324550553,-89.40076820856609,0.0 7.914701853610996,-89.43547474780786,0.0 0.0,-89.44765255497319,0.0 -7.914701853610996,-89.43547474780786,0.0 -14.803557324550553,-89.40076820856609,0.0 -20.079574664294434,-89.348056304785,0.0 -23.6499894829684,-89.28268512034477,0.0 -25.70976596437551,-89.20950046775944,0.0 -26.541996237680056,-89.13240294300036,0.0 -26.41505333843068,-89.05439850741126,0.0 -25.549645323682242,-88.9777941229328,0.0 -24.117298692066313,-88.90438482906359,0.0 -22.248754047933858,-88.83559385228747,0.0 -20.043583070393325,-88.77256846696696,0.0 -17.578345106170996,-88.7162431893074,0.0 -14.91286103860742,-88.66738082354519,0.0 -12.094871761810484,-88.62659897276517,0.0 -9.163474681631278,-88.5943871037631,0.0 -6.151687455560282,-88.57111746207842,0.0 -3.0884114312717683,-88.55705193932418,0.0 0.0,-88.55234621110141,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="17">
+            <name>Amundsen–Scott South Pole</name>
+            <styleUrl>#18</styleUrl>
+            <LineString id="16">
+                <coordinates>10.0,-88.0,0.0 10.0,-86.587,0.0 87.36501253917808,-86.587,0.0 87.36501253917808,-88.0,0.0 10.0,-88.0,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="24">
+            <name>Arctowski</name>
+            <styleUrl>#25</styleUrl>
+            <LineString id="23">
+                <coordinates>-58.473247,-62.16014,0.0 -58.473247,-60.47714,0.0 -52.69168618770341,-60.47714,0.0 -52.69168618770341,-62.16014,0.0 -58.473247,-62.16014,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="31">
+            <name>Arrival Heights Laboratory</name>
+            <styleUrl>#32</styleUrl>
+            <LineString id="30">
+                <coordinates>166.662149,-77.829947,0.0 166.662149,-76.47994700000001,0.0 179.46965375114218,-76.47994700000001,0.0 179.46965375114218,-77.829947,0.0 166.662149,-77.829947,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="38">
+            <name>Artigas</name>
+            <styleUrl>#39</styleUrl>
+            <LineString id="37">
+                <coordinates>-58.903889,-62.184444,0.0 -58.903889,-60.393444,0.0 -53.11768028158474,-60.393444,0.0 -53.11768028158474,-62.184444,0.0 -58.903889,-62.184444,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="45">
+            <name>Arturo Prat</name>
+            <styleUrl>#46</styleUrl>
+            <LineString id="44">
+                <coordinates>-59.664444,-62.478889,0.0 -59.664444,-60.687889000000006,0.0 -53.821241872092855,-60.687889000000006,0.0 -53.821241872092855,-62.478889,0.0 -59.664444,-62.478889,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="52">
+            <name>Belgrano II</name>
+            <styleUrl>#53</styleUrl>
+            <LineString id="51">
+                <coordinates>-34.627588,-77.873696,0.0 -34.627588,-76.190696,0.0 -21.774572348963698,-76.190696,0.0 -21.774572348963698,-77.873696,0.0 -34.627588,-77.873696,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="59">
+            <name>Bellingshausen</name>
+            <styleUrl>#60</styleUrl>
+            <LineString id="58">
+                <coordinates>-58.960547,-62.198591,0.0 -58.960547,-60.407591000000004,0.0 -53.17162888145672,-60.407591000000004,0.0 -53.17162888145672,-62.198591,0.0 -58.960547,-62.198591,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="66">
+            <name>Bharati</name>
+            <styleUrl>#67</styleUrl>
+            <LineString id="65">
+                <coordinates>76.187361,-69.40803,0.0 76.187361,-67.61703,0.0 83.86413020580838,-67.61703,0.0 83.86413020580838,-69.40803,0.0 76.187361,-69.40803,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="73">
+            <name>Carlini</name>
+            <styleUrl>#74</styleUrl>
+            <LineString id="72">
+                <coordinates>-58.667764,-62.238251,0.0 -58.667764,-60.555251,0.0 -52.87123486048333,-60.555251,0.0 -52.87123486048333,-62.238251,0.0 -58.667764,-62.238251,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="80">
+            <name>Casey</name>
+            <styleUrl>#81</styleUrl>
+            <LineString id="79">
+                <coordinates>110.526613,-66.282514,0.0 110.526613,-64.93251400000001,0.0 117.23923698515742,-64.93251400000001,0.0 117.23923698515742,-66.282514,0.0 110.526613,-66.282514,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="87">
+            <name>Comandante Ferraz</name>
+            <styleUrl>#88</styleUrl>
+            <LineString id="86">
+                <coordinates>-58.391513,-62.085379,0.0 -58.391513,-60.195379,0.0 -52.62419631928373,-60.195379,0.0 -52.62419631928373,-62.085379,0.0 -58.391513,-62.085379,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="94">
+            <name>Concordia</name>
+            <styleUrl>#95</styleUrl>
+            <LineString id="93">
+                <coordinates>123.332196,-75.09978,0.0 123.332196,-73.30878,0.0 133.83245543577848,-73.30878,0.0 133.83245543577848,-75.09978,0.0 123.332196,-75.09978,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="101">
+            <name>Davis</name>
+            <styleUrl>#102</styleUrl>
+            <LineString id="100">
+                <coordinates>77.9675,-68.576667,0.0 77.9675,-67.226667,0.0 85.35957741354802,-67.226667,0.0 85.35957741354802,-68.576667,0.0 77.9675,-68.576667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="108">
+            <name>Dumont d'Urville</name>
+            <styleUrl>#109</styleUrl>
+            <LineString id="107">
+                <coordinates>140.001111,-66.662778,0.0 140.001111,-64.871778,0.0 146.81684733735608,-64.871778,0.0 146.81684733735608,-66.662778,0.0 140.001111,-66.662778,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="115">
+            <name>Eco-Nelson</name>
+            <styleUrl>#116</styleUrl>
+            <LineString id="114">
+                <coordinates>-58.982366,-62.246214,0.0 -58.982366,-60.455214000000005,0.0 -53.1843059588973,-60.455214000000005,0.0 -53.1843059588973,-62.246214,0.0 -58.982366,-62.246214,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="122">
+            <name>Eduardo Frei</name>
+            <styleUrl>#123</styleUrl>
+            <LineString id="121">
+                <coordinates>-58.962633,-62.200233,0.0 -58.962633,-60.409233,0.0 -53.17340022226693,-60.409233,0.0 -53.17340022226693,-62.200233,0.0 -58.962633,-62.200233,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="129">
+            <name>Escudero</name>
+            <styleUrl>#130</styleUrl>
+            <LineString id="128">
+                <coordinates>-58.962358,-62.201382,0.0 -58.962358,-60.410382000000006,0.0 -53.172905014315,-60.410382000000006,0.0 -53.172905014315,-62.201382,0.0 -58.962358,-62.201382,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="136">
+            <name>Esperanza</name>
+            <styleUrl>#137</styleUrl>
+            <LineString id="135">
+                <coordinates>-56.996111,-63.398333,0.0 -56.996111,-61.715333,0.0 -50.966432961457286,-61.715333,0.0 -50.966432961457286,-63.398333,0.0 -56.996111,-63.398333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="143">
+            <name>GARS</name>
+            <styleUrl>#144</styleUrl>
+            <LineString id="142">
+                <coordinates>-57.900953,-63.320892,0.0 -57.900953,-61.700892,0.0 -51.88749909962415,-61.700892,0.0 -51.88749909962415,-63.320892,0.0 -57.900953,-63.320892,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="150">
+            <name>General Bernardo O'Higgins</name>
+            <styleUrl>#151</styleUrl>
+            <LineString id="149">
+                <coordinates>-57.899781,-63.320951,0.0 -57.899781,-61.529951000000004,0.0 -51.88631477634635,-61.529951000000004,0.0 -51.88631477634635,-63.320951,0.0 -57.899781,-63.320951,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="157">
+            <name>Great Wall</name>
+            <styleUrl>#158</styleUrl>
+            <LineString id="156">
+                <coordinates>-58.961855,-62.216838,0.0 -58.961855,-60.425838000000006,0.0 -53.16943798797934,-60.425838000000006,0.0 -53.16943798797934,-62.216838,0.0 -58.961855,-62.216838,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="164">
+            <name>Jang Bogo</name>
+            <styleUrl>#165</styleUrl>
+            <LineString id="163">
+                <coordinates>164.228815,-74.624015,0.0 164.228815,-72.833015,0.0 174.4116534293286,-72.833015,0.0 174.4116534293286,-74.624015,0.0 164.228815,-74.624015,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="171">
+            <name>Halley</name>
+            <styleUrl>#172</styleUrl>
+            <LineString id="170">
+                <coordinates>-26.197713,-75.612501,0.0 -26.197713,-74.262501,0.0 -15.331584011156465,-74.262501,0.0 -15.331584011156465,-75.612501,0.0 -26.197713,-75.612501,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="178">
+            <name>King Sejong</name>
+            <styleUrl>#179</styleUrl>
+            <LineString id="177">
+                <coordinates>-58.788256,-62.222803,0.0 -58.788256,-60.431803,0.0 -52.99469414403274,-60.431803,0.0 -52.99469414403274,-62.222803,0.0 -58.788256,-62.222803,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="185">
+            <name>Maitri</name>
+            <styleUrl>#186</styleUrl>
+            <LineString id="184">
+                <coordinates>11.731944,-70.766667,0.0 11.731944,-68.975667,0.0 19.92826715377602,-68.975667,0.0 19.92826715377602,-70.766667,0.0 11.731944,-70.766667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="192">
+            <name>Marambio</name>
+            <styleUrl>#193</styleUrl>
+            <LineString id="191">
+                <coordinates>-56.626753,-64.241014,0.0 -56.626753,-62.55801400000001,0.0 -50.41395090605433,-62.55801400000001,0.0 -50.41395090605433,-64.241014,0.0 -56.626753,-64.241014,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="199">
+            <name>Mawson</name>
+            <styleUrl>#200</styleUrl>
+            <LineString id="198">
+                <coordinates>62.873726,-67.602746,0.0 62.873726,-66.252746,0.0 69.95985538835012,-66.252746,0.0 69.95985538835012,-67.602746,0.0 62.873726,-67.602746,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="206">
+            <name>McMurdo</name>
+            <styleUrl>#207</styleUrl>
+            <LineString id="205">
+                <coordinates>166.668235,-77.846323,0.0 166.668235,-76.433323,0.0 179.49273659348668,-76.433323,0.0 179.49273659348668,-77.846323,0.0 166.668235,-77.846323,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="213">
+            <name>Mirny</name>
+            <styleUrl>#214</styleUrl>
+            <LineString id="212">
+                <coordinates>93.009724,-66.553122,0.0 93.009724,-64.762122,0.0 99.79537168892506,-64.762122,0.0 99.79537168892506,-66.553122,0.0 93.009724,-66.553122,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="220">
+            <name>Neumayer III</name>
+            <styleUrl>#221</styleUrl>
+            <LineString id="219">
+                <coordinates>-8.274167,-70.674444,0.0 -8.274167,-69.05444399999999,0.0 -0.1154732596665049,-69.05444399999999,0.0 -0.1154732596665049,-70.674444,0.0 -8.274167,-70.674444,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="227">
+            <name>Novolazarevskaya</name>
+            <styleUrl>#228</styleUrl>
+            <LineString id="226">
+                <coordinates>11.823889,-70.776944,0.0 11.823889,-68.985944,0.0 20.024428265157617,-68.985944,0.0 20.024428265157617,-70.776944,0.0 11.823889,-70.776944,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="234">
+            <name>Orcadas</name>
+            <styleUrl>#235</styleUrl>
+            <LineString id="233">
+                <coordinates>-44.737891,-60.737963,0.0 -44.737891,-59.054963,0.0 -39.21421059555849,-59.054963,0.0 -39.21421059555849,-60.737963,0.0 -44.737891,-60.737963,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="241">
+            <name>Palmer</name>
+            <styleUrl>#242</styleUrl>
+            <LineString id="240">
+                <coordinates>-64.052718,-64.77423,0.0 -64.052718,-63.361230000000006,0.0 -57.717459108993665,-63.361230000000006,0.0 -57.717459108993665,-64.77423,0.0 -64.052718,-64.77423,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="248">
+            <name>Progress</name>
+            <styleUrl>#249</styleUrl>
+            <LineString id="247">
+                <coordinates>76.390278,-69.380833,0.0 76.390278,-67.589833,0.0 84.05736150872055,-67.589833,0.0 84.05736150872055,-69.380833,0.0 76.390278,-69.380833,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="255">
+            <name>Rothera</name>
+            <styleUrl>#256</styleUrl>
+            <LineString id="254">
+                <coordinates>-68.125028,-67.568783,0.0 -68.125028,-66.218783,0.0 -61.04907509446556,-66.218783,0.0 -61.04907509446556,-67.568783,0.0 -68.125028,-67.568783,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="262">
+            <name>San Martín</name>
+            <styleUrl>#263</styleUrl>
+            <LineString id="261">
+                <coordinates>-67.101311,-68.130043,0.0 -67.101311,-66.44704300000001,0.0 -59.85301261243222,-66.44704300000001,0.0 -59.85301261243222,-68.130043,0.0 -67.101311,-68.130043,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="269">
+            <name>SANAE IV</name>
+            <styleUrl>#270</styleUrl>
+            <LineString id="268">
+                <coordinates>-2.828611,-71.673611,0.0 -2.828611,-69.882611,0.0 5.758363969921401,-69.882611,0.0 5.758363969921401,-71.673611,0.0 -2.828611,-71.673611,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="276">
+            <name>Scott Base</name>
+            <styleUrl>#277</styleUrl>
+            <LineString id="275">
+                <coordinates>166.768196,-77.849132,0.0 166.768196,-76.499132,0.0 179.5956177267279,-76.499132,0.0 179.5956177267279,-77.849132,0.0 166.768196,-77.849132,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="283">
+            <name>Showa</name>
+            <styleUrl>#284</styleUrl>
+            <LineString id="282">
+                <coordinates>39.581836,-69.004122,0.0 39.581836,-67.213122,0.0 47.11740420565711,-67.213122,0.0 47.11740420565711,-69.004122,0.0 39.581836,-69.004122,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="290">
+            <name>Troll</name>
+            <styleUrl>#291</styleUrl>
+            <LineString id="289">
+                <coordinates>2.535138,-72.011662,0.0 2.535138,-70.058662,0.0 11.277998533364926,-70.058662,0.0 11.277998533364926,-72.011662,0.0 2.535138,-72.011662,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="297">
+            <name>Vernadsky</name>
+            <styleUrl>#298</styleUrl>
+            <LineString id="296">
+                <coordinates>-64.257786,-65.245791,0.0 -64.257786,-63.454791,0.0 -57.80966216240852,-63.454791,0.0 -57.80966216240852,-65.245791,0.0 -64.257786,-65.245791,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="304">
+            <name>Vostok</name>
+            <styleUrl>#305</styleUrl>
+            <LineString id="303">
+                <coordinates>106.837328,-78.464422,0.0 106.837328,-76.673422,0.0 120.33892231124547,-76.673422,0.0 120.33892231124547,-78.464422,0.0 106.837328,-78.464422,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="311">
+            <name>Zhongshan</name>
+            <styleUrl>#312</styleUrl>
+            <LineString id="310">
+                <coordinates>76.371652,-69.373587,0.0 76.371652,-67.582587,0.0 84.03615939591771,-67.582587,0.0 84.03615939591771,-69.373587,0.0 76.371652,-69.373587,0.0</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

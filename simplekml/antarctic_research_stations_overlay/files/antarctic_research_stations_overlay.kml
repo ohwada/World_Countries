@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="3">
+        <Style id="14">
+            <PolyStyle id="15">
+                <color>c8ff0000</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <name>Research stations in Antarctica with overlay</name>
+        <description>display the National Flag at the Coordinates of Research station</description>
+        <Placemark id="11">
+            <name>South Pole</name>
+            <styleUrl>#14</styleUrl>
+            <Polygon id="10">
+                <outerBoundaryIs>
+                    <LinearRing id="12">
+                        <coordinates>0.0,-88.55234621110141,0.0 3.0884114312717683,-88.55705193932418,0.0 6.151687455560282,-88.57111746207842,0.0 9.163474681631278,-88.5943871037631,0.0 12.094871761810484,-88.62659897276517,0.0 14.91286103860742,-88.66738082354519,0.0 17.578345106170996,-88.7162431893074,0.0 20.043583070393325,-88.77256846696696,0.0 22.248754047933858,-88.83559385228747,0.0 24.117298692066313,-88.90438482906359,0.0 25.549645323682242,-88.9777941229328,0.0 26.41505333843068,-89.05439850741126,0.0 26.541996237680056,-89.13240294300036,0.0 25.70976596437551,-89.20950046775944,0.0 23.6499894829684,-89.28268512034477,0.0 20.079574664294434,-89.348056304785,0.0 14.803557324550553,-89.40076820856609,0.0 7.914701853610996,-89.43547474780786,0.0 0.0,-89.44765255497319,0.0 -7.914701853610996,-89.43547474780786,0.0 -14.803557324550553,-89.40076820856609,0.0 -20.079574664294434,-89.348056304785,0.0 -23.6499894829684,-89.28268512034477,0.0 -25.70976596437551,-89.20950046775944,0.0 -26.541996237680056,-89.13240294300036,0.0 -26.41505333843068,-89.05439850741126,0.0 -25.549645323682242,-88.9777941229328,0.0 -24.117298692066313,-88.90438482906359,0.0 -22.248754047933858,-88.83559385228747,0.0 -20.043583070393325,-88.77256846696696,0.0 -17.578345106170996,-88.7162431893074,0.0 -14.91286103860742,-88.66738082354519,0.0 -12.094871761810484,-88.62659897276517,0.0 -9.163474681631278,-88.5943871037631,0.0 -6.151687455560282,-88.57111746207842,0.0 -3.0884114312717683,-88.55705193932418,0.0 0.0,-88.55234621110141,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <GroundOverlay id="20">
+            <name>Amundsen–Scott South Pole</name>
+            <Icon id="21">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg/800px-Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-86.587</north>
+                <south>-88.0</south>
+                <east>87.36501253917808</east>
+                <west>10.0</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="27">
+            <name>Arctowski</name>
+            <Icon id="28">
+                <href>https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/800px-Flag_of_Poland.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-60.47714</north>
+                <south>-62.16014</south>
+                <east>-52.69168618770341</east>
+                <west>-58.473247</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="34">
+            <name>Arrival Heights Laboratory</name>
+            <Icon id="35">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/800px-Flag_of_New_Zealand.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-76.47994700000001</north>
+                <south>-77.829947</south>
+                <east>179.46965375114218</east>
+                <west>166.662149</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="41">
+            <name>Artigas</name>
+            <Icon id="42">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/800px-Flag_of_Uruguay.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-60.393444</north>
+                <south>-62.184444</south>
+                <east>-53.11768028158474</east>
+                <west>-58.903889</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="48">
+            <name>Arturo Prat</name>
+            <Icon id="49">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/800px-Flag_of_Chile.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-60.687889000000006</north>
+                <south>-62.478889</south>
+                <east>-53.821241872092855</east>
+                <west>-59.664444</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="55">
+            <name>Belgrano II</name>
+            <Icon id="56">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/800px-Flag_of_Argentina.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-76.190696</north>
+                <south>-77.873696</south>
+                <east>-21.774572348963698</east>
+                <west>-34.627588</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="62">
+            <name>Bellingshausen</name>
+            <Icon id="63">
+                <href>https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/800px-Flag_of_Russia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-60.407591000000004</north>
+                <south>-62.198591</south>
+                <east>-53.17162888145672</east>
+                <west>-58.960547</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="69">
+            <name>Bharati</name>
+            <Icon id="70">
+                <href>https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-67.61703</north>
+                <south>-69.40803</south>
+                <east>83.86413020580838</east>
+                <west>76.187361</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="76">
+            <name>Carlini</name>
+            <Icon id="77">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/800px-Flag_of_Argentina.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-60.555251</north>
+                <south>-62.238251</south>
+                <east>-52.87123486048333</east>
+                <west>-58.667764</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="83">
+            <name>Casey</name>
+            <Icon id="84">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/800px-Flag_of_Australia_%28converted%29.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-64.93251400000001</north>
+                <south>-66.282514</south>
+                <east>117.23923698515742</east>
+                <west>110.526613</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="90">
+            <name>Comandante Ferraz</name>
+            <Icon id="91">
+                <href>https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/720px-Flag_of_Brazil.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-60.195379</north>
+                <south>-62.085379</south>
+                <east>-52.62419631928373</east>
+                <west>-58.391513</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="97">
+            <name>Concordia</name>
+            <Icon id="98">
+                <href>https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/800px-Flag_of_Italy.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-73.30878</north>
+                <south>-75.09978</south>
+                <east>133.83245543577848</east>
+                <west>123.332196</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="104">
+            <name>Davis</name>
+            <Icon id="105">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/800px-Flag_of_Australia_%28converted%29.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-67.226667</north>
+                <south>-68.576667</south>
+                <east>85.35957741354802</east>
+                <west>77.9675</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="111">
+            <name>Dumont d'Urville</name>
+            <Icon id="112">
+                <href>https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/800px-Flag_of_France.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-64.871778</north>
+                <south>-66.662778</south>
+                <east>146.81684733735608</east>
+                <west>140.001111</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="118">
+            <name>Eco-Nelson</name>
+            <Icon id="119">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/800px-Flag_of_the_Czech_Republic.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-60.455214000000005</north>
+                <south>-62.246214</south>
+                <east>-53.1843059588973</east>
+                <west>-58.982366</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="125">
+            <name>Eduardo Frei</name>
+            <Icon id="126">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/800px-Flag_of_Chile.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-60.409233</north>
+                <south>-62.200233</south>
+                <east>-53.17340022226693</east>
+                <west>-58.962633</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="132">
+            <name>Escudero</name>
+            <Icon id="133">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/800px-Flag_of_Chile.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-60.410382000000006</north>
+                <south>-62.201382</south>
+                <east>-53.172905014315</east>
+                <west>-58.962358</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="139">
+            <name>Esperanza</name>
+            <Icon id="140">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/800px-Flag_of_Argentina.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-61.715333</north>
+                <south>-63.398333</south>
+                <east>-50.966432961457286</east>
+                <west>-56.996111</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="146">
+            <name>GARS</name>
+            <Icon id="147">
+                <href>https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/800px-Flag_of_Germany.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-61.700892</north>
+                <south>-63.320892</south>
+                <east>-51.88749909962415</east>
+                <west>-57.900953</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="153">
+            <name>General Bernardo O'Higgins</name>
+            <Icon id="154">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/800px-Flag_of_Chile.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-61.529951000000004</north>
+                <south>-63.320951</south>
+                <east>-51.88631477634635</east>
+                <west>-57.899781</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="160">
+            <name>Great Wall</name>
+            <Icon id="161">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/800px-Flag_of_the_People%27s_Republic_of_China.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-60.425838000000006</north>
+                <south>-62.216838</south>
+                <east>-53.16943798797934</east>
+                <west>-58.961855</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="167">
+            <name>Jang Bogo</name>
+            <Icon id="168">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/800px-Flag_of_South_Korea.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-72.833015</north>
+                <south>-74.624015</south>
+                <east>174.4116534293286</east>
+                <west>164.228815</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="174">
+            <name>Halley</name>
+            <Icon id="175">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/800px-Flag_of_the_United_Kingdom_%281-2%29.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-74.262501</north>
+                <south>-75.612501</south>
+                <east>-15.331584011156465</east>
+                <west>-26.197713</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="181">
+            <name>King Sejong</name>
+            <Icon id="182">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/800px-Flag_of_South_Korea.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-60.431803</north>
+                <south>-62.222803</south>
+                <east>-52.99469414403274</east>
+                <west>-58.788256</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="188">
+            <name>Maitri</name>
+            <Icon id="189">
+                <href>https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-68.975667</north>
+                <south>-70.766667</south>
+                <east>19.92826715377602</east>
+                <west>11.731944</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="195">
+            <name>Marambio</name>
+            <Icon id="196">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/800px-Flag_of_Argentina.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-62.55801400000001</north>
+                <south>-64.241014</south>
+                <east>-50.41395090605433</east>
+                <west>-56.626753</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="202">
+            <name>Mawson</name>
+            <Icon id="203">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/800px-Flag_of_Australia_%28converted%29.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-66.252746</north>
+                <south>-67.602746</south>
+                <east>69.95985538835012</east>
+                <west>62.873726</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="209">
+            <name>McMurdo</name>
+            <Icon id="210">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg/800px-Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-76.433323</north>
+                <south>-77.846323</south>
+                <east>179.49273659348668</east>
+                <west>166.668235</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="216">
+            <name>Mirny</name>
+            <Icon id="217">
+                <href>https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/800px-Flag_of_Russia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-64.762122</north>
+                <south>-66.553122</south>
+                <east>99.79537168892506</east>
+                <west>93.009724</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="223">
+            <name>Neumayer III</name>
+            <Icon id="224">
+                <href>https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/800px-Flag_of_Germany.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-69.05444399999999</north>
+                <south>-70.674444</south>
+                <east>-0.1154732596665049</east>
+                <west>-8.274167</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="230">
+            <name>Novolazarevskaya</name>
+            <Icon id="231">
+                <href>https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/800px-Flag_of_Russia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-68.985944</north>
+                <south>-70.776944</south>
+                <east>20.024428265157617</east>
+                <west>11.823889</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="237">
+            <name>Orcadas</name>
+            <Icon id="238">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/800px-Flag_of_Argentina.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-59.054963</north>
+                <south>-60.737963</south>
+                <east>-39.21421059555849</east>
+                <west>-44.737891</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="244">
+            <name>Palmer</name>
+            <Icon id="245">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg/800px-Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-63.361230000000006</north>
+                <south>-64.77423</south>
+                <east>-57.717459108993665</east>
+                <west>-64.052718</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="251">
+            <name>Progress</name>
+            <Icon id="252">
+                <href>https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/800px-Flag_of_Russia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-67.589833</north>
+                <south>-69.380833</south>
+                <east>84.05736150872055</east>
+                <west>76.390278</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="258">
+            <name>Rothera</name>
+            <Icon id="259">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/800px-Flag_of_the_United_Kingdom_%281-2%29.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-66.218783</north>
+                <south>-67.568783</south>
+                <east>-61.04907509446556</east>
+                <west>-68.125028</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="265">
+            <name>San Martín</name>
+            <Icon id="266">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/800px-Flag_of_Argentina.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-66.44704300000001</north>
+                <south>-68.130043</south>
+                <east>-59.85301261243222</east>
+                <west>-67.101311</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="272">
+            <name>SANAE IV</name>
+            <Icon id="273">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/800px-Flag_of_South_Africa.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-69.882611</north>
+                <south>-71.673611</south>
+                <east>5.758363969921401</east>
+                <west>-2.828611</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="279">
+            <name>Scott Base</name>
+            <Icon id="280">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/800px-Flag_of_New_Zealand.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-76.499132</north>
+                <south>-77.849132</south>
+                <east>179.5956177267279</east>
+                <west>166.768196</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="286">
+            <name>Showa</name>
+            <Icon id="287">
+                <href>https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/800px-Flag_of_Japan.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-67.213122</north>
+                <south>-69.004122</south>
+                <east>47.11740420565711</east>
+                <west>39.581836</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="293">
+            <name>Troll</name>
+            <Icon id="294">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/640px-Flag_of_Norway.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-70.058662</north>
+                <south>-72.011662</south>
+                <east>11.277998533364926</east>
+                <west>2.535138</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="300">
+            <name>Vernadsky</name>
+            <Icon id="301">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/800px-Flag_of_Ukraine.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-63.454791</north>
+                <south>-65.245791</south>
+                <east>-57.80966216240852</east>
+                <west>-64.257786</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="307">
+            <name>Vostok</name>
+            <Icon id="308">
+                <href>https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/800px-Flag_of_Russia.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-76.673422</north>
+                <south>-78.464422</south>
+                <east>120.33892231124547</east>
+                <west>106.837328</west>
+            </LatLonBox>
+        </GroundOverlay>
+        <GroundOverlay id="314">
+            <name>Zhongshan</name>
+            <Icon id="315">
+                <href>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/800px-Flag_of_the_People%27s_Republic_of_China.svg.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>-67.582587</north>
+                <south>-69.373587</south>
+                <east>84.03615939591771</east>
+                <west>76.371652</west>
+            </LatLonBox>
+        </GroundOverlay>
+    </Document>
+</kml>

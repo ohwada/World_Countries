@@ -1,0 +1,8 @@
+<tr>
+<td align="center">{station_flag}</td>
+<td>{station}</td>
+<td>{location}</td>
+<td align="center">{country_flag}</td>
+<td>{country_flag_icon} {country}</td>
+<th>{coordinates}</th>
+</tr>
