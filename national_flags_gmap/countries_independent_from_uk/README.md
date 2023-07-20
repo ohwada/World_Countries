@@ -13,7 +13,7 @@ import KML file to Mymap
 
 display the National Flag at the Coordinates of the Capital on Google Map
 
-![countries independent from uk](https://github.com/ohwada/World_Countries/blob/main/national_flags_gmap/countries_independent_from_uk/screenshots/countries_from_uk_capital.png)
+![countries independent from uk](https://github.com/ohwada/World_Countries/blob/main/national_flags_gmap/countries_independent_from_uk/screenshots/mymap_countries_from_uk_capital.png)
 
 #### Python program
 - json2kml.py
