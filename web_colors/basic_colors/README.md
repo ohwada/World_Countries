@@ -11,4 +11,6 @@ Extract the information from Web page
 and make it into a JSON format file.
 Create List in HTML form from JSON file
 
+![basic colors](https://github.com/ohwada/World_Countries/blob/main/web_colors/basic_colors/screenshots/css_basic_colors_16.png)
+
 [wikipedia: Web colors](https://en.wikipedia.org/wiki/Web_colors)
