@@ -25,4 +25,5 @@ using
 
 When one clicks on a Map that contains a ClickForMarker, a Marker is created at the pointer’s position.
 
+![latlng_popup](https://github.com/ohwada/World_Countries/blob/main/folium/examples/marker_function/screenshots/latlng_popup.png)
 

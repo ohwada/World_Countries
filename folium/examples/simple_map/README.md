@@ -13,3 +13,4 @@ Create a Map with Folium and Leaflet.js
 The default tiles are set to OpenStreetMap, 
 but Stamen Terrain, Stamen Toner, Mapbox Bright, and Mapbox Control Room, and many others tiles are built in.
 
+![simple_map](https://github.com/ohwada/World_Countries/blob/main/folium/examples/simple_map/screenshots/simple_map.png)

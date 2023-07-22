@@ -18,6 +18,9 @@ using [folium: Choropleth](https://python-visualization.github.io/folium/modules
 Python
 - choropleth_maps.py
 
+![choropleth_maps](https://github.com/ohwada/World_Countries/blob/main/folium/examples/choropleth_maps/screenshots/choropleth_maps.png)
+
+
 ### The legend
 
 The legend on the upper right is automatically generated for your values using 6 same sized bins. 

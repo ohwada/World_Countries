@@ -32,3 +32,5 @@ cloud icon
 
 (3) Some Other Location
  Red info-sign
+
+![markers2](https://github.com/ohwada/World_Countries/blob/main/folium/examples/markers/screenshots/markers2.png)

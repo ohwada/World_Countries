@@ -18,3 +18,4 @@ using
 
 Creates a Vega chart element.
 
+![vega](https://github.com/ohwada/World_Countries/blob/main/folium/examples/vega/screenshots/vega.png)

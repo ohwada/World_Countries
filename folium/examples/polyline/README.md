@@ -14,3 +14,4 @@ using
 
 Draw polyline overlays on a map.
 
+![polyline](https://github.com/ohwada/World_Countries/blob/main/folium/examples/polyline/screenshots/polyline.png)

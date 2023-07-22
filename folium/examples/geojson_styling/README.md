@@ -28,5 +28,4 @@ Unemployment_rate : Yellow Green Blue
 - colorscale3.py  
 Median_Household_Income : Pure Red 
 
-
-
+![colormap1](https://github.com/ohwada/World_Countries/blob/main/folium/examples/geojson_styling/screenshots/colormap1.png)

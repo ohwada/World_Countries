@@ -20,3 +20,5 @@ using
 
 Creates a GeoJson object for plotting into a Map.
 
+![geojson](https://github.com/ohwada/World_Countries/blob/main/folium/examples/geojson/screenshots/geojson.png)
+
