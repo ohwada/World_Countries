@@ -17,6 +17,7 @@ at [Yokohama Station](https://en.wikipedia.org/wiki/Yokohama_Station)
 display Google red Pushupin Icon 
 at [Yokohama Station](https://en.wikipedia.org/wiki/Yokohama_Station) 
 
+! [pushupin](https://github.com/ohwada/World_Countries/blob/main/folium/custom_icon/screenshots/pushupin.png)
 
 ### Local image
 
