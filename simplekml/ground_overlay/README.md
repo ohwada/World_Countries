@@ -17,5 +17,6 @@ import KML file into Google Earth
 
 
 ### Reference
-[simplekml: GroundOverlay](https://simplekml.readthedocs.io/en/latest/overlays.html#groundoverlay)
+- [simplekml: GroundOverlay](https://simplekml.readthedocs.io/en/latest/overlays.html#groundoverlay)
+- https://ken-ohwada.hatenadiary.org/entry/2023/07/22/143857
 
