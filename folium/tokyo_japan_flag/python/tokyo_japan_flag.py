@@ -12,7 +12,11 @@ lon = 139.692222
 ZOOM = 4
 
 # Icon
-url_icon = 'https://raw.githubusercontent.com/ohwada/World_Countries/master/leaflet/tokyo_japan_flag/images/40px-Flag_of_Japan.png'
+
+url_icon = 'https://raw.githubusercontent.com/ohwada/World_Countries/master/folium/tokyo_japan_flag/images/40px-Flag_of_Japan.png'
+
+# url_icon = 'https://raw.githubusercontent.com/ohwada/World_Countries/master/leaflet/tokyo_japan_flag/images/40px-Flag_of_Japan.png'
+
 width = 40
 height = 26
 
