@@ -43,7 +43,16 @@ List of countries that have gained independence from the United Kingdom
 
 display the Natinal Flag on Google Map
 
-  ### leaflet
+### leaflet
 
 samples of Leaflet
+
+### simplekml
+
+samples of simplekml
+
+### folium
+
+samples of folium
+
 
