@@ -7,6 +7,8 @@ display Japan Flag at Tokyo Japan
 
 - tokyo_japan_flag.py  
 
+![tokyo japan flag](https://github.com/ohwada/World_Countries/blob/main/folium/tokyo_japan_flag/screenshots/tokyo_japan_flag.png)
+
 ### Reference
 
 - [folium: Map](https://python-visualization.github.io/folium/modules.html#folium.folium.Map)
