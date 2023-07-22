@@ -43,4 +43,5 @@ python
 - gsi_tile.py
 tile of GSI( Geospatial Information Authority of Japan )
 
+![gsi tile](https://github.com/ohwada/World_Countries/blob/main/folium/custom_tileset/screenshots/gsi_tile.png)
 
