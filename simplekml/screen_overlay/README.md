@@ -13,4 +13,5 @@ import KML file into Google Earth
 screen_overlay.py
 
 ### Reference
-[simplekml: newscreenoverlay](https://simplekml.readthedocs.io/en/latest/containers.html#simplekml.Document.newscreenoverlay)
+- [simplekml: newscreenoverlay](https://simplekml.readthedocs.io/en/latest/containers.html#simplekml.Document.newscreenoverlay)
+- https://ken-ohwada.hatenadiary.org/entry/2023/07/23/115320
