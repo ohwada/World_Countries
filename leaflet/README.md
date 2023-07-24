@@ -21,3 +21,8 @@ display  at National FlagTokyo Japan on Leaflet using OpenstreetMap Tiles
 
 List of Member states of the United Nations
 
+### japan prefectures
+
+display shapes of Japan Prefectures from GeoJSON
+
+
