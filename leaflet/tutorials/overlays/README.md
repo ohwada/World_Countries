@@ -22,5 +22,5 @@ L.ImageOverlay is used to load and display a single image over specific bounds o
 
 
 
-![overlays]()
+![image overlays](https://github.com/ohwada/World_Countries/blob/main/leaflet/tutorials/overlays/screenshots/image_overlay.png)
 

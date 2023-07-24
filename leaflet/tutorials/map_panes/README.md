@@ -7,8 +7,4 @@ In Leaflet, map panes group layers together implicitly, without the developer kn
 
 .
 
-![quick start]()
-
-https://leafletjs.com/examples/map-panes/example.html
-
-https://leafletjs.com/examples/map-panes/eu-countries.js
+![map panes](https://github.com/ohwada/World_Countries/blob/main/leaflet/tutorials/map_panes/screenshots/eu_countries.png)

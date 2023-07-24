@@ -26,5 +26,5 @@ CRS stands for coordinate reference system, a term used by geographers to explai
 
 For example, [15, 60] represents a point in the Indian Ocean if using latitude-longitude on the earth, or the solar system Krueger-Z in our starmap.
 
-![crs simple]()
+![crs simple](https://github.com/ohwada/World_Countries/blob/main/leaflet/tutorials/non_geographical_maps/screenshots/%20crs_simple.png)
 
