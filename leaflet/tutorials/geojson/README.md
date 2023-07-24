@@ -10,5 +10,5 @@ GeoJSON is a very popular data format among many GIS technologies and services â
 
 Represents a GeoJSON object or an array of GeoJSON objects. Allows you to parse GeoJSON data and display it on the map. Extends FeatureGroup.
 
-![geoJson example]()
+![geoJson](https://github.com/ohwada/World_Countries/blob/main/leaflet/tutorials/geojson/screenshots/geojson.png)
 

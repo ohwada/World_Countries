@@ -7,4 +7,5 @@ A case study of creating a colorful interactive choropleth map of US States Popu
 News websites will love this.
 
 
-![choropleth map]()
+![choropleth map](https://github.com/ohwada/World_Countries/blob/main/leaflet/tutorials/choropleth_map/screenshots/%20choropleth%20_map.png)
+

@@ -9,6 +9,6 @@ How to extend or create non-layers.
 
 Map handlers are a new concept in Leaflet 1.0, and their function is to process DOM events from the browser (like click, dblclick or mousewheel) and change the state of the map.
 
-![ handlers]()
+![ handlers](https://github.com/ohwada/World_Countries/blob/main/leaflet/tutorials/handlers/screenshots/tilt_handler.png)
 
 

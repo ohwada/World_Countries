@@ -17,12 +17,4 @@ In this tutorial, you’ll learn how to create a fullscreen map tuned for mobile
 
 In this pretty tutorial, you’ll learn how to easily define your own icons for use by the markers you put on the map.
 
-![quick start]()
-
-https://leafletjs.com/examples/custom-icons/leaf-shadow.png
-
-https://leafletjs.com/examples/custom-icons/leaf-green.png
-
-https://leafletjs.com/examples/custom-icons/leaf-red.png
-
-https://leafletjs.com/examples/custom-icons/leaf-orange.png
+![accessible Markers](https://github.com/ohwada/World_Countries/blob/main/leaflet/tutorials/accessible_maps/screenshots/accessible_markers.png)

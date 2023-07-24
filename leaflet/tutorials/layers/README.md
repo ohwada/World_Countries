@@ -14,5 +14,5 @@ One of them is L.TileLayer.getTileUrl(). This method is called internally by L.T
 Let’s illustrate with a custom L.TileLayer that will display random kitten images from 
 [PlaceKitten](https://placekitten.com/)
 
-![layers]()
+![layers](https://github.com/ohwada/World_Countries/blob/main/leaflet/tutorials/layers/screenshots/kitten_layer.png)
 

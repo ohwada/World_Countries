@@ -19,9 +19,4 @@ Please note that this tutorial assumes you have a good grasp of:
 
 
 
-![class theory]()
-
-https://leafletjs.com/examples/extending/class-diagram.html
-
-https://leafletjs.com/examples/extending/
-class-diagram.png
+![class theory](https://github.com/ohwada/World_Countries/blob/main/leaflet/tutorials/class_theory/screenshots/class_diagram.png)
