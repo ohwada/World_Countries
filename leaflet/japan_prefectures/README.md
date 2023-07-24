@@ -7,5 +7,5 @@ display shapes of Japan Prefectures from GeoJSON
 
 [leafletjs: GeoJSON](https://leafletjs.com/reference.html#geojson)
 
-![japan prefectures]()
+![japan prefectures](https://github.com/ohwada/World_Countries/blob/main/leaflet/japan_prefectures/screenshots/japan_prefectures.png)
 
