@@ -8,5 +8,5 @@ display shapes of Shinagawa Tokyo Japan from GeoJSON
 
 [leafletjs: GeoJSON](https://leafletjs.com/reference.html#geojson)
 
-![japan city geojson]()
+![shinagawa](https://github.com/ohwada/World_Countries/blob/main/leaflet/japan_city_geojson/screenshots/shinagawa.png)
 
