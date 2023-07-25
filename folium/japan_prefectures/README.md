@@ -3,7 +3,7 @@ Japan Prefectures
 
 display Prefectures in Japan
 
-[japan prefectures](https://github.com/ohwada/World_Countries/blob/main/folium/japan_prefectures/screenshots/japan_prefectures.png)
+![japan prefectures](https://github.com/ohwada/World_Countries/blob/main/folium/japan_prefectures/screenshots/japan_prefectures.png)
 
 
 [folium: GeoJson](https://python-visualization.github.io/folium/modules.html#folium.features.GeoJson)  
