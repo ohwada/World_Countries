@@ -11,9 +11,9 @@ TITLE = 'Japan Prefectures'
 FILEPATH = 'japan_prefectures.html'
 
 FORMAT_TITLE = '<h3 align="center">{}</h3>'
-             
+ 
 name = 'prefectures'
-url_geojson = 'https://raw.githubusercontent.com/ohwada/World_Countries/master/leaflet/japan_prefectures/data/prefectures.geojson'
+url_geojson = 'https://raw.githubusercontent.com/ohwada/World_Countries/master/folium/japan_prefectures/data/prefectures.geojson'
 
 # Tokyo Japan
 name = 'Tokyo Japan'
