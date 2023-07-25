@@ -20,4 +20,5 @@ import KML file to Google Earth
 - json2kml.py
 
 #### Reference
-https://github.com/ohwada/World_Countries/tree/main/un_member_states_capital
+- https://github.com/ohwada/World_Countries/tree/main/un_member_states_capital
+- https://ken-ohwada.hatenadiary.org/entry/2023/07/25/224822
