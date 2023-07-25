@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+city code
+</title>
+</head>
+<body>
+<h1>{body_title}</h1>
+<br/>
+<table style="margin: 30px">
+<thead>
+<tr>
+<th>コード</th>
+<th>英語</th>
+<th>漢字</th>
+<th>カナ</th>
+</tr>
+</thead>
+<tbody>
+{rows}
+</tbody>
+</table>
+
+<h2>Reference<h2>
+{reference}
+</body>
+</html>

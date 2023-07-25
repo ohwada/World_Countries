@@ -1,0 +1,7 @@
+<tr>
+<td>{code}</td>
+<td>{pref_kanji}</td>
+<td>{city_kanji}</td>
+<td>{pref_kana}</td>
+<td>{city_kana}</td>
+</tr>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+city code
+</title>
+</head>
+<body>
+<h1>{body_title}</h1>
+<br/>
+<table style="margin: 30px">
+<thead>
+<tr>
+<th>団体コード</th>
+<th>都道府県名<br/>(漢字)</th>
+<th>市町村名<br/>(漢字)</th>
+<th>都道府県名<br/>(カナ)</th>
+<th>市町村名<br/>(カナ)</th>
+</tr>
+</thead>
+<tbody>
+{rows}
+</tbody>
+</table>
+
+<h2>Reference<h2>
+{reference}
+</body>
+</html>
