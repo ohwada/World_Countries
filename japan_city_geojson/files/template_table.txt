@@ -1,0 +1,14 @@
+<a name="{code}">
+<h3>{table_title}</h3>
+<table style="margin: 30px">
+<thead>
+<tr>
+<th>Code</th>
+<th>Name</th>
+<th>FilePath</th>
+</tr>
+</thead>
+<tbody>
+{rows}
+</tbody>
+</table>

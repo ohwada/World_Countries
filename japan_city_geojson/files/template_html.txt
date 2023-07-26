@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+city code
+</title>
+</head>
+<body>
+<h1>{body_title}</h1>
+<h3>Contents</h3>
+{contents}
+<br/>
+{tables}
+ 
+</body>
+</html>
