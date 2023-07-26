@@ -13,4 +13,5 @@ import KML file into [Google Earth](https://www.google.com/intl/en/earth/)
 - south_pole.py
 
 ### Reference
- [polycircles](https://polycircles.readthedocs.io/en/latest/kmls.html)
+ - [polycircles](https://polycircles.readthedocs.io/en/latest/kmls.html)
+- https://ken-ohwada.hatenadiary.org/entry/2023/07/26/143344
