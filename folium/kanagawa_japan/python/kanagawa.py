@@ -11,7 +11,7 @@ TITLE = '神奈川県の市町村'
 FILEPATH = 'kanagawa.html'
 
 # kanagawa
-CODE = '14'
+CODE_KANAGAWA = '14'
 
 FORMAT_TITLE = '<h3 align="center">{}</h3>'
 
@@ -46,7 +46,7 @@ def style_function(feature):
 #
 
       
-with open('japan_city_geocode_headline.json') as f4:
+with open('japan_city_geocode_catalog.json') as f4:
     dic = json.load(f4)
 #
 
@@ -61,7 +61,7 @@ for item1 in list_prefectures :
 	pref_kanji = item1['kanji']
 	list_cities = item1['cities']
 	print(pref_kanji)
-	if pref_code != CODE:
+	if pref_code != CODE_KANAGAWA:
 		continue
 
 	for item2 in list_cities: 
