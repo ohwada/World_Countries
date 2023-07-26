@@ -8,7 +8,7 @@ There are  only Catalog in this directory
 
 There are no Geojson files.
 
-![japan city geojson]()
+![japan city geojson](https://github.com/ohwada/World_Countries/blob/main/japan_city_geojson/screenshots/japan_city_geojson.png)
 
 ### Application Example
 
