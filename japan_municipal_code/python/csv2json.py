@@ -5,6 +5,10 @@
 import csv
 import json
 
+FILE_CSV  = 'japan_pref_code.csv'
+
+FILE_JSON = 'japan_pref_code.json'
+
 
 dic = {}
 
@@ -23,7 +27,7 @@ dic['url_reference2'] =  'https://www.soumu.go.jp/denshijiti/code.html'
 prefectures = []
 
 
-with open('japan_pref_code.csv') as f1:
+with open(FILE_CSV, 'r') as f1:
     reader = csv.reader(f1)
 
     for row in reader:
@@ -42,6 +46,7 @@ with open('japan_pref_code.csv') as f1:
 
 dic['prefectures'] = prefectures
 
-with open('japan_pref_code.json', 'wt') as f2:
-    json.dump(dic, f2)
+
+with open(FILE_JSON, 'wt',  encoding='utf-8') as f2:
+    json.dump(dic, f2, ensure_ascii=False)
 #
