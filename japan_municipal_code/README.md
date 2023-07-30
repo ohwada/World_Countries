@@ -15,5 +15,7 @@ Japan Municipal Code
 
 政令指定都市の地方公共団体コード
 
+### Japan Ordinance Designated City List
 
+政令指定都市の一覧
 
