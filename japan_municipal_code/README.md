@@ -1,4 +1,4 @@
-Japan Local Municipal Code
+Japan Municipal Code
 ===============
 
 全国地方自治体コード

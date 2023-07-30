@@ -5,6 +5,11 @@
 import csv
 import json
 
+
+FILE_CSV = 'japan_municipal_code.csv'
+
+FILE_JSON = 'japan_municipal_code.json'
+
 d= {}
 d['code'] = '団体コード'
 d['pref_kanji'] = '都道府県名 (漢字)'
@@ -14,7 +19,7 @@ d['city_kana'] =  '市区町村名 (カナ)'
 
 dic = {}
 
-dic['title'] = 'Japan Local Government Code'
+dic['title'] = 'Japan  Municipal Code'
 
 dic['title_ja'] = '全国地方公共団体コード'
 
@@ -27,7 +32,7 @@ dic['item_name_ja'] = d
 cities = []
 
 
-with open('japan_local_government_code.csv') as f1:
+with open(FILE_CSV, 'r') as f1:
     reader = csv.reader(f1)
 
     for row in reader:
@@ -47,5 +52,6 @@ with open('japan_local_government_code.csv') as f1:
 
 dic['cities'] = cities
 
-with open('japan_local_government_code.json', 'wt') as f2:
-    json.dump(dic, f2)
+with open(FILE_JSON, 'wt',  encoding='utf-8') as f2:
+    json.dump(dic, f2, ensure_ascii=False)
+

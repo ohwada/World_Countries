@@ -3,6 +3,11 @@
 
 import json
 
+FILE_JSON = 'japan_municipal_code.json'
+
+FILE_HTML = 'japan_municipal_code.html'
+
+
 FORMAT_A_TAG = '<a href="{href}">{name}</a>'
 
 
@@ -16,7 +21,7 @@ with open('template_row.txt', 'r') as f2:
 
 rows = ''
 
-with open('japan_local_government_code.json') as f3:
+with open(FILE_JSON, 'r') as f3:
     dic = json.load(f3)
     title_ja = dic['title_ja']
     ref = dic['reference']
@@ -41,7 +46,7 @@ for item in list_cities :
 
 wdata = template_html.format(body_title=title_ja, reference=html_ref, rows=rows)
   
-with open('japan_local_government_code.html', 'w') as f4:
+with open(FILE_HTML, 'wt') as f4:
     f4.write(wdata)
 #
 
