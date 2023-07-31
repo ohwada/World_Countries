@@ -45,3 +45,5 @@ tile of GSI( Geospatial Information Authority of Japan )
 
 ![gsi tile](https://github.com/ohwada/World_Countries/blob/main/folium/custom_tileset/screenshots/gsi_tile.png)
 
+### Reference
+https://ken-ohwada.hatenadiary.org/entry/2023/07/31/223113
