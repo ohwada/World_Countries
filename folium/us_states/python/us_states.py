@@ -9,6 +9,9 @@ import json
 
 TITLE = 'States of USA'
 
+FILE_HTML = 'us_states.html'
+
+
 FORMAT_TITLE = '<h3 align="center">{}</h3>'
              
 title_html = FORMAT_TITLE.format(TITLE)
@@ -28,5 +31,5 @@ folium.GeoJson(state_geo, name="us-states").add_to(map)
 # add title
 map.get_root().html.add_child(folium.Element(title_html))
 
-map.save('us_states.html')
+map.save(FILE_HTML)
 

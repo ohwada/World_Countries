@@ -11,6 +11,11 @@ import random
 
 TITLE = 'States of USA in different Colors'
 
+FILE_COLOR_JSON = 'data/web_colors_100.json'
+
+FILE_HTML = 'us_states_style.html'
+
+
 FORMAT_TITLE = '<h3 align="center">{}</h3>'
              
 title_html = FORMAT_TITLE.format(TITLE)
@@ -23,7 +28,7 @@ url = (
 state_geo = f"{url}/us-states.json"
 
 
-with open('web_colors_100.json') as f1:
+with open(FILE_COLOR_JSON, 'r') as f1:
     dic = json.load(f1)
 #
 
@@ -54,5 +59,5 @@ folium.features.GeoJsonPopup( fields=['name'], labels=False ).add_to(gjson)
 # add title
 map.get_root().html.add_child(folium.Element(title_html))
 
-map.save('us_states_style.html')
+map.save(FILE_HTML)
 
