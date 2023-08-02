@@ -17,6 +17,7 @@ city code
 <th>人口</th>
 <th>移行年月日</th>
 <th>指定政令</th>
+<th>位置座標<br/>(Google_Map)</th>
 </tr>
 </thead>
 <tbody>

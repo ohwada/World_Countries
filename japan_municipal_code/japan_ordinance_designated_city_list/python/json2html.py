@@ -8,9 +8,28 @@ FILE_JSON = 'japan_ordinance_designated_city_list.json'
 FILE_HTML = 'japan_ordinance_designated_city_list.html'
 
 
+
+
+TEMPLATE_A_TAG = '<a href="{href}">{name}</a>'
+
+TEMPLATE_GMAP ='https://www.google.com/maps/@{lat},{lon},{zoom}z'
+
+TEMPLATE_LATLON = '({lat:.1f}, {lon:.1f})'
+
 LF_HTML = '&#010;'
 
 BR = '<br/>'
+
+ZOOM = 10
+
+
+def make_coordinates(lat, lon):
+    gmap = TEMPLATE_GMAP.format(lat=lat, lon=lon, zoom=ZOOM)
+    latlon =TEMPLATE_LATLON.format( lat=lat, lon=lon )
+    atag =TEMPLATE_A_TAG.format(href=gmap, name=latlon)
+    return atag
+#
+
 
 def  replace_lf(data):
     if not data:
@@ -49,8 +68,10 @@ for item in list_cities :
     population = item['population']
     date = item['date']
     decree = replace_lf( item['decree'] )
-
-    row = template_row.format(name=name, name_ja=name_ja, population=population, date =date, decree=decree)
+    lat = item['lat']
+    lon = item['lon']
+    row_coordinates = make_coordinates(lat, lon)
+    row = template_row.format(name=name, name_ja=name_ja, population=population, date =date, decree=decree, coordinates=row_coordinates)
     print(row)
     rows +=  row
 #

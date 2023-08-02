@@ -65,7 +65,7 @@ with open(FILE_CSV, 'r') as f1:
     for row in reader:
         len_row = len(row)
         print('len: ', len_row)
-        if len_row < 5:
+        if len_row < 7:
             continue
         d= {}
         d['name_ja'] = row[0].strip()
@@ -73,7 +73,8 @@ with open(FILE_CSV, 'r') as f1:
         d['date'] = row[2].strip()
         d['decree'] = restore_hyphen( row[3] )
         d['name'] = row[4].strip()
-
+        d['lat'] = float( row[5].strip() )
+        d['lon'] = float( row[6].strip() )
         print(d)
         cities.append(d)
 #
