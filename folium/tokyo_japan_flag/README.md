@@ -14,6 +14,6 @@ display Japan Flag at Tokyo Japan
 - [folium: Map](https://python-visualization.github.io/folium/modules.html#folium.folium.Map)
 - [folium: Marker](https://python-visualization.github.io/folium/modules.html#folium.map.Marker)
 - [CustomIcon](https://python-visualization.github.io/folium/modules.html#folium.features.CustomIcon)
-
+- https://ken-ohwada.hatenadiary.org/entry/2023/08/02/143513
 
 
