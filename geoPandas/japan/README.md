@@ -4,7 +4,7 @@ Japan
 read the shapefile
 plot shapes of Japan
 
-[japan]()
+![japan](https://github.com/ohwada/World_Countries/blob/main/geoPandas/japan/screenshots/japan_color.png)
 
 ### Reference
 
