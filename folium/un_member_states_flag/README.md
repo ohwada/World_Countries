@@ -14,6 +14,7 @@ display National Flag at the Capital of member States of United Nations
 - [folium: Map](https://python-visualization.github.io/folium/modules.html#folium.folium.Map)
 - [folium: Marker](https://python-visualization.github.io/folium/modules.html#folium.map.Marker)
 - [CustomIcon](https://python-visualization.github.io/folium/modules.html#folium.features.CustomIcon)
+- https://ken-ohwada.hatenadiary.org/entry/2023/08/03/115130
 
 
 
