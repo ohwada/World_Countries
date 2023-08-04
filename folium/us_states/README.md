@@ -14,7 +14,7 @@ draw he Shapes in Blue by default
 - us_states_style.py  
 draw he Shapes in different Colors  
 
-![us states style](https://github.com/ohwada/World_Countries/blob/main/folium/us_states/screenshots/us_states_style.png)
+![us states style](https://github.com/ohwada/World_Countries/blob/main/folium/us_states/screenshots/us_states_style_popup.png)
 
 ### Reference
 
