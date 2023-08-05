@@ -1,0 +1,77 @@
+Folium とTopoJson を使って 都道府県の形を描画する
+
+
+[Folium とGeoJson を使って 都道府県の形を描画する](https://ken-ohwada.hatenadiary.org/entry/2023/08/05/105122)
+の続きです。
+
+
+[TopoJSON](https://ja.wikipedia.org/wiki/GeoJSON#TopoJSON)
+は[GeoJSON]((https://ja.wikipedia.org/wiki/GeoJSON))の拡張であり、トポロジーを記述する。
+
+
+この記事では「アメリカの州のGeoJSON」を使って
+都州の形を地図に描画する
+
+
+
+
+
+Folium のサンプルデータに
+「アメリカの州のGeoJSON」がある。
+
+[github folium : us-states.json](https://github.com/python-visualization/folium/blob/main/examples/data/us-states.json)
+
+FoliumでGeoJSONを扱うには
+[folium: GeoJson](https://python-visualization.github.io/folium/modules.html#folium.features.GeoJson)  
+を使う。
+
+GeoJSON の url を設定するだけで描画する。
+
+
+```
+state_geo = f"{url}/us-states.json"
+map = folium.Map(location=[48, -102], tiles="cartodbpositron", zoom_start=3)
+folium.GeoJson(state_geo, name="us-states").add_to(map)
+```
+
+#### 州ごとに色分けする
+
+style_function を設定する
+ランダムな色を返す
+
+
+```
+def style_function(feature):
+	len_list = len( list_colors)
+	rint = random.randint(0, (len_list -1) )
+	item = list_colors[rint]
+	color = item['hex']
+	return {
+	"fillOpacity": 0.5,
+	"weight": 2,
+	"color": "black",
+	"fillColor": color
+    }
+
+gjson = folium.GeoJson(state_geo, name="us-states", style_function=style_function).add_to(map)
+```
+
+
+#### クリックすると地名をポップアップする
+
+[GeoJsonPopup](https://python-visualization.github.io/folium/modules.html#folium.features.GeoJsonPopup)
+を使う。
+
+```
+gjson = folium.GeoJson(state_geo, name="us-states", style_function=style_function).add_to(map)
+folium.features.GeoJsonPopup( fields=['name'], labels=False ).add_to(gjson)
+```
+
+
+プログラムはGitHubに公開した。
+
+https://github.com/ohwada/World_Countries/tree/main/folium/us_states
+
+
+
+

@@ -1,0 +1,28 @@
+folium 事始め
+https://qiita.com/pork_steak/items/f551fa09794831100faa
+
+5. GeoJson/TopoJsonの読み込み
+いつもお世話になっている都道府県のGeoJsonを参照します。
+
+Data of Japan
+https://github.com/dataofjapan/land
+
+
+/japan.topojson
+https://github.com/dataofjapan/land/blob/master/japan.topojson
+
+https://raw.githubusercontent.com/dataofjapan/land/master/japan.topojson
+
+
+
+https://python-visualization.github.io/folium/modules.html#folium.features.TopoJson
+
+data ( file 、dictまたはstr. ) – プロットする TopoJSON データ。* ファイルの場合、データはファイルに読み込まれ、Leaflet の JavaScript に完全に埋め込まれます。* dict の場合、データは JSON に変換され、JavaScript に埋め込まれます。* str の場合、データはそのまま JavaScript に渡されます。
+
+https://python-visualization.github.io/folium/modules.html#folium.features.GeoJson
+
+data (file, dict or str.) – The GeoJSON data you want to plot. * If file, then data will be read in the file and fully embedded in Leaflet’s JavaScript. * If dict, then data will be converted to JSON and embedded in the JavaScript. * If str, then data will be passed to the JavaScript as-is. * If __geo_interface__ is available, the __geo_interface__ dictionary will be serialized to JSON and reprojected if to_crs is available.
+
+data ( file 、dictまたはstr. ) – プロットする GeoJSON データ。* ファイルの場合、データはファイルに読み込まれ、Leaflet の JavaScript に完全に埋め込まれます。* dict の場合、データは JSON に変換され、JavaScript に埋め込まれます。* str の場合、データはそのまま JavaScript に渡されます。* __geo_interface__が利用可能な場合、__ geo_interface__ 辞書は JSON にシリアル化され、to_crs が利用可能な場合は再投影されます。
+
+
