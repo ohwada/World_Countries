@@ -4,7 +4,7 @@ TopoJson
 plot Shape of  Prefectures in Japan
 using TopoJson
 
-![japan]()
+![japan](https://github.com/ohwada/World_Countries/blob/main/folium/topojson/screenshots/topojson_style.png)
 
 ### python
 
