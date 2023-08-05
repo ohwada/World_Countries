@@ -1,0 +1,9 @@
+<tr>
+<td>{name}</td>
+<td>{n001}</td>
+<td>{n003}</td>
+<td>{n007}</td>
+<td>{id}</td>
+<td>{filepath}</td>
+<td>{coordinates}</td>
+</tr>
