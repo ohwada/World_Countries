@@ -3,7 +3,7 @@ Japan Ordinance Designated City
 
 政令指定都市を描画する
 
-![yokohama]()
+![yokohama](https://github.com/ohwada/World_Countries/blob/main/folium/japan_ordinance_designated_city/screenshots/yokohama.png)
 
 
 ### Refrerence
