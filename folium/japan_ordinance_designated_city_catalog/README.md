@@ -3,7 +3,7 @@ Japan Ordinance Designated City Catalog
 
 政令指定都市の Toposon の一覧
 
-![designated city catalog]()
+![designated city catalog](https://github.com/ohwada/World_Countries/blob/main/folium/japan_ordinance_designated_city_catalog/screenshots/designated_cities_topojson_catalog.png)
 
 ### Refrerence
 
