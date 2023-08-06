@@ -1,0 +1,7 @@
+<tr>
+<td>{code}</td>
+<td>{en_name}</td>
+<td>{kanji_name}</td>
+<td>{kana_name}</td>
+<td>{start_date}</td>
+</tr>
