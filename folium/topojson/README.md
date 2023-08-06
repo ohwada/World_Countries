@@ -20,5 +20,5 @@ plot Prefectures in different Colors
 
 [Data of Japan](https://github.com/dataofjapan/land)  
 - [folium: TopoJson](https://python-visualization.github.io/folium/modules.html#folium.features.TopoJson)
-
+- https://ken-ohwada.hatenadiary.org/entry/2023/08/06/103459
 
