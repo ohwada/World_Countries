@@ -19,6 +19,8 @@ List of 100 Colors,exclude Black White and Gray strains from CSS Color Name 147
 
 pick 64 random colors from Web Color 100
 
+### Reference
+https://ken-ohwada.hatenadiary.org/entry/2023/08/07/133214
 
 
 
