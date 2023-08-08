@@ -3,6 +3,9 @@ Custom Popup
 
 samples of Custom Popup
 
+![popup img](https://github.com/ohwada/World_Countries/blob/main/folium/custom_popup/screenshots/popup_img.png)
+
+
 ### Ppython
 
 - popup_str.py  
