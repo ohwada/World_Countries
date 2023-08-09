@@ -1,0 +1,14 @@
+
+小笠原諸島
+https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%AC%A0%E5%8E%9F%E8%AB%B8%E5%B3%B6
+
+主要な島	
+
+父島, chichijima, https://ja.wikipedia.org/wiki/%E7%88%B6%E5%B3%B6, 27.077778, 142.216667
+母島, hahajima, https://ja.wikipedia.org/wiki/%E6%AF%8D%E5%B3%B6, 26.663889, 142.158333
+聟島, mukojima, https://ja.wikipedia.org/wiki/%E8%81%9F%E5%B3%B6, 27.681944, 142.14
+硫黄島, iwojima, https://ja.wikipedia.org/wiki/%E7%A1%AB%E9%BB%84%E5%B3%B6_(%E6%9D%B1%E4%BA%AC%E9%83%BD), 24.758056, 141.287222
+西之島, nishinoshima, https://ja.wikipedia.org/wiki/%E8%A5%BF%E4%B9%8B%E5%B3%B6, 27.246944, 140.874444
+沖ノ鳥島, okinotorishima, https://ja.wikipedia.org/wiki/%E6%B2%96%E3%83%8E%E9%B3%A5%E5%B3%B6, 20.425549, 136.081151
+南鳥島, minamitorishima, https://ja.wikipedia.org/wiki/%E5%8D%97%E9%B3%A5%E5%B3%B6, 24.286667, 153.980556
+
