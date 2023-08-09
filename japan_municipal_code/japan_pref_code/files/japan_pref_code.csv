@@ -1,51 +1,47 @@
-01, 北海道, ﾎｯｶｲﾄﾞｳ, hokkaido
-02, 青森県, ｱｵﾓﾘｹﾝ, aomori
-03, 岩手県, 	ｲﾜﾃｹﾝ, iwate
-04, 宮城県, ﾐﾔｷﾞｹﾝ, miyagi
-05, 秋田県, ｱｷﾀｹﾝ, akita
-06, 山形県, ﾔﾏｶﾞﾀｹﾝ, yamagata
-07, 福島県, 	ﾌｸｼﾏｹﾝ, fukushima
-08, 茨城県, 	ｲﾊﾞﾗｷｹﾝ, ibaraki
-09, 栃木県, 	ﾄﾁｷﾞｹﾝ, tochigi
-10, 群馬県, 	ｸﾞﾝﾏｹﾝ, gunma
-11, 埼玉県, ｻｲﾀﾏｹﾝ, saitama
-12, 千葉県, 	ﾁﾊﾞｹﾝ, chiba,
-13, 東京都, 	ﾄｳｷｮｳﾄ, tokyo
-14, 神奈川県, ｶﾅｶﾞﾜｹﾝ, kanagawa
-15, 新潟県, 	ﾆｲｶﾞﾀｹﾝ, niigata
-16, 富山県, ﾄﾔﾏｹﾝ, toyama
-17, 石川県, ｲｼｶﾜｹﾝ, ishikawa
-18, 福井県, 	ﾌｸｲｹﾝ, fukui
-19, 山梨県, ﾔﾏﾅｼｹﾝ, yamanashi
-20, 長野県, ﾅｶﾞﾉｹﾝ, nagano
-21, 岐阜県, ｷﾞﾌｹﾝ, gifu
-22, 静岡県, ｼｽﾞｵｶｹﾝ, shizuoka
-23, 愛知県, ｱｲﾁｹﾝ, aichi
-24, 三重県, ﾐｴｹﾝ, mie
-25, 滋賀県, 	ｼｶﾞｹﾝ, shiga
-26, 京都府, ｷｮｳﾄﾌ, kyoto
-27, 大阪府, ｵｵｻｶﾌ, osaka
-28, 兵庫県, ｮｳｺﾞｹﾝ, hyōgo
-29, 奈良県, ﾅﾗｹﾝ, nara
-30, 和歌山県, ﾜｶﾔﾏｹﾝ, wakayama
-31, 鳥取県, ﾄｯﾄﾘｹﾝ, tottori
-32, 島根県, ｼﾏﾈｹﾝ, shimane
-33, 岡山県, ｵｶﾔﾏｹﾝ, okayama
-34, 広島県, ﾋﾛｼﾏｹﾝ, hiroshima
-35, 山口県, ﾔﾏｸﾞﾁｹﾝ, yamaguchi
-36, 徳島県,ﾄｸｼﾏｹﾝ, tokushima
-37, 香川県, ｶｶﾞﾜｹﾝ, kagawa
-38, 愛媛県, ｴﾋﾒｹﾝ, ehime
-39, 高知県, ｺｳﾁｹﾝ, kouchi
-40, 福岡県, ﾌｸｵｶｹﾝ, fukuoka
-41, 佐賀県, ｻｶﾞｹﾝ, saga
-42, 長崎県, ﾅｶﾞｻｷｹﾝ, nagasaki
-43, 熊本県, ｸﾏﾓﾄｹﾝ, kumamoto
-44, 大分県, ｵｵｲﾀｹﾝ,ooita
-45, 宮崎県, ﾐﾔｻﾞｷｹﾝ, miyazaki
-46, 鹿児島県, ｶｺﾞｼﾏｹﾝ, kagoshima
-47, 沖縄県, ｵｷﾅﾜｹﾝ, okinawa
-
-
-
-
+01, 北海道, ﾎｯｶｲﾄﾞｳ, hokkaido, 札幌市, 43.064333, 141.346889, https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_Hokkaido_Prefecture.svg/800px-Flag_of_Hokkaido_Prefecture.svg.png, 800, 533
+02, 青森県, ｱｵﾓﾘｹﾝ, aomori, 青森市, 40.82461, 140.74056, https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Aomori_Prefecture.svg/640px-Flag_of_Aomori_Prefecture.svg.png,  640, 448 
+03, 岩手県, 	ｲﾜﾃｹﾝ, iwate, 盛岡市, 39.7035, 141.15272, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Iwate_Prefecture.svg/800px-Flag_of_Iwate_Prefecture.svg.png, 800, 533
+04, 宮城県, ﾐﾔｷﾞｹﾝ, miyagi, 仙台市, 38.26858, 140.87203, https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Miyagi_Prefecture.svg/800px-Flag_of_Miyagi_Prefecture.svg.png, 800, 533
+05, 秋田県, ｱｷﾀｹﾝ, akita, 秋田市, 39.7186, 140.1025, https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Akita_Prefecture.svg/800px-Flag_of_Akita_Prefecture.svg.png, 800, 560
+06, 山形県, ﾔﾏｶﾞﾀｹﾝ, yamagata, 山形市, 38.24044, 140.36356, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_Yamagata_Prefecture.svg/600px-Flag_of_Yamagata_Prefecture.svg.png, 600, 400
+07, 福島県, 	ﾌｸｼﾏｹﾝ, fukushima, 福島市, 37.75028, 140.46775, https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Fukushima_Prefecture.svg/800px-Flag_of_Fukushima_Prefecture.svg.png, 800,533
+08, 茨城県, 	ｲﾊﾞﾗｷｹﾝ, ibaraki, 水戸市, 36.34172, 140.44683, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Ibaraki_Prefecture.svg/800px-Flag_of_Ibaraki_Prefecture.svg.png, 800, 533
+09, 栃木県, 	ﾄﾁｷﾞｹﾝ, tochigi, 宇都宮市, 36.56556, 139.88353, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Flag_of_Tochigi_Prefecture.svg/800px-Flag_of_Tochigi_Prefecture.svg.png, 800, 560 
+10, 群馬県, 	ｸﾞﾝﾏｹﾝ, gunma, 前橋市, 36.39067, 139.06044, https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Gunma_Prefecture.svg/800px-Flag_of_Gunma_Prefecture.svg.png, 800, 533
+11, 埼玉県, ｻｲﾀﾏｹﾝ, saitama, さいたま市, 35.85717, 139.64919, https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Saitama_Prefecture.svg/800px-Flag_of_Saitama_Prefecture.svg.png, 800, 533
+12, 千葉県, 	ﾁﾊﾞｹﾝ, chiba, 千葉市, 35.60458, 140.12319, https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Chiba_Prefecture.svg/800px-Flag_of_Chiba_Prefecture.svg.png, 800, 533
+13, 東京都, 	ﾄｳｷｮｳﾄ, tokyo, 新宿区, 35.6894, 139.6917, https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Flag_of_Tokyo_Metropolis.svg/800px-Flag_of_Tokyo_Metropolis.svg.png, 800, 533
+14, 神奈川県, ｶﾅｶﾞﾜｹﾝ, kanagawa, 横浜市, 35.44775, 139.64253, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_of_Kanagawa_Prefecture.svg/800px-Flag_of_Kanagawa_Prefecture.svg.png, 800, 533
+15, 新潟県, 	ﾆｲｶﾞﾀｹﾝ, niigata, 新潟市, 37.90247, 139.02317, https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_Niigata_Prefecture.svg/800px-Flag_of_Niigata_Prefecture.svg.png, 800, 576
+16, 富山県, ﾄﾔﾏｹﾝ, toyama, 富山市, 36.69531, 137.21131, https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Flag_of_Toyama_Prefecture.svg/640px-Flag_of_Toyama_Prefecture.svg.png, 640, 427 
+17, 石川県, ｲｼｶﾜｹﾝ, ishikawa, 金沢市, 36.59461, 136.62564, https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Ishikawa_Prefecture.svg/640px-Flag_of_Ishikawa_Prefecture.svg.png,  640, 451
+18, 福井県, ﾌｸｲｹﾝ, fukui, 福井市, 36.06519, 136.22167, https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Fukui_Prefecture.svg/800px-Flag_of_Fukui_Prefecture.svg.png, 800, 533 
+19, 山梨県, ﾔﾏﾅｼｹﾝ, yamanashi, 甲府市, 35.66414, 138.56842, https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Yamanashi_Prefecture.svg/800px-Flag_of_Yamanashi_Prefecture.svg.png, 800, 560
+20, 長野県, ﾅｶﾞﾉｹﾝ, nagano, 長野市, 36.65128, 138.18094, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Nagano_Prefecture.svg/800px-Flag_of_Nagano_Prefecture.svg.png, 800, 533
+21, 岐阜県, ｷﾞﾌｹﾝ, gifu, 岐阜市, 35.39119, 136.72219, https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_Gifu_Prefecture.svg/800px-Flag_of_Gifu_Prefecture.svg.png, 800, 533
+22, 静岡県, ｼｽﾞｵｶｹﾝ, shizuoka, 静岡市, 34.97694, 138.383, https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Shizuoka_Prefecture.svg/800px-Flag_of_Shizuoka_Prefecture.svg.png, 800, 533
+23, 愛知県 , ｱｲﾁｹﾝ, aichi, 名古屋市, 35.18017, 136.90642, https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Aichi_Prefecture.svg/800px-Flag_of_Aichi_Prefecture.svg.png, 800, 560
+24, 三重県, ﾐｴｹﾝ, mie, 津市, 34.73025, 136.50867, https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Mie_Prefecture.svg/640px-Flag_of_Mie_Prefecture.svg.png, 640, 453
+25, 滋賀県, 	ｼｶﾞｹﾝ, shiga, 大津市, 35.00436, 135.8685, https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Shiga_Prefecture.svg/800px-Flag_of_Shiga_Prefecture.svg.png,800, 533
+26, 京都府, ｷｮｳﾄﾌ, kyoto, 京都市, 35.02103, 135.75558, https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Kyoto_Prefecture.svg/800px-Flag_of_Kyoto_Prefecture.svg.png, 800, 571
+27, 大阪府, ｵｵｻｶﾌ, osaka, 大阪市, 34.68633, 135.51986, https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Osaka_Prefecture.svg/800px-Flag_of_Osaka_Prefecture.svg.png, 800, 533
+28, 兵庫県, ｮｳｺﾞｹﾝ, hyōgo, 神戸市, 34.69125, 135.18308, https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_Hyogo_Prefecture.svg/640px-Flag_of_Hyogo_Prefecture.svg.png, 640, 450
+29, 奈良県, ﾅﾗｹﾝ, nara, 奈良市, 34.68519, 135.83294, https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Nara_Prefecture.svg/800px-Flag_of_Nara_Prefecture.svg.png, 800, 533
+30, 和歌山県, ﾜｶﾔﾏｹﾝ, wakayama, 和歌山市, 34.22603, 135.1675, https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Wakayama_Prefecture.svg/800px-Flag_of_Wakayama_Prefecture.svg.png, 800, 533
+31, 鳥取県, ﾄｯﾄﾘｹﾝ, tottori, 鳥取市, 35.5039, 134.2375, https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Tottori_Prefecture.svg/800px-Flag_of_Tottori_Prefecture.svg.png, 800, 533
+32, 島根県, ｼﾏﾈｹﾝ, shimane, 松江市, 35.4722, 133.0503, https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Shimane_Prefecture.svg/800px-Flag_of_Shimane_Prefecture.svg.png, 800, 533
+33, 岡山県, ｵｶﾔﾏｹﾝ, okayama, 岡山市, 34.6617, 133.9347, https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Okayama_Prefecture.svg/800px-Flag_of_Okayama_Prefecture.svg.png, 800, 533
+34, 広島県, ﾋﾛｼﾏｹﾝ, hiroshima, 広島市, 34.3964, 132.4597, https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Hiroshima_Prefecture.svg/800px-Flag_of_Hiroshima_Prefecture.svg.png, 800, 533
+35, 山口県, ﾔﾏｸﾞﾁｹﾝ, yamaguchi, 山口市, 34.1861, 131.4703, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Yamaguchi_Prefecture.svg/800px-Flag_of_Yamaguchi_Prefecture.svg.png, 800, 533
+36, 徳島県,ﾄｸｼﾏｹﾝ, tokushima, 徳島市, 34.0656, 134.5592, https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Flag_of_Tokushima_Prefecture.svg/800px-Flag_of_Tokushima_Prefecture.svg.png, 800, 560
+37, 香川県, ｶｶﾞﾜｹﾝ, kagawa, 高松市, 34.34, 134.0431, https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Kagawa_Prefecture.svg/800px-Flag_of_Kagawa_Prefecture.svg.png,800, 533	
+38, 愛媛県, ｴﾋﾒｹﾝ, ehime, 松山市, 33.8414, 132.7656, https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_Ehime_Prefecture.svg/640px-Flag_of_Ehime_Prefecture.svg.png, 640, 427
+39, 高知県, ｺｳﾁｹﾝ, kouchi, 高知市, 33.5594, 133.5308, https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Kochi_Prefecture.svg/800px-Flag_of_Kochi_Prefecture.svg.png, 800, 533
+40, 福岡県, ﾌｸｵｶｹﾝ, fukuoka, 福岡市, 33.6061, 130.4181, https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Fukuoka_Prefecture.svg/800px-Flag_of_Fukuoka_Prefecture.svg.png, 800, 560
+41, 佐賀県, ｻｶﾞｹﾝ, saga, 佐賀市, 33.2492, 130.2994, https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Flag_of_Saga_Prefecture.svg/800px-Flag_of_Saga_Prefecture.svg.png, 800, 533
+42, 長崎県, ﾅｶﾞｻｷｹﾝ, nagasaki, 長崎市, 32.7503, 129.8675, https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Nagasaki_Prefecture.svg/800px-Flag_of_Nagasaki_Prefecture.svg.png, 800, 533
+43, 熊本県, ｸﾏﾓﾄｹﾝ, kumamoto, 熊本市, 32.7897, 130.7414, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Kumamoto_Prefecture.svg/800px-Flag_of_Kumamoto_Prefecture.svg.png, 800, 533
+44, 大分県, ｵｵｲﾀｹﾝ,ooita, 大分市, 33.2381, 131.6125, https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Flag_of_Oita_Prefecture.svg/800px-Flag_of_Oita_Prefecture.svg.png, 800, 560 
+45, 宮崎県, ﾐﾔｻﾞｷｹﾝ, miyazaki, 宮崎市, 31.9108, 131.4236, https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Flag_of_Miyazaki_Prefecture.svg/800px-Flag_of_Miyazaki_Prefecture.svg.png, 800, 571
+46, 鹿児島県, ｶｺﾞｼﾏｹﾝ, kagoshima, 鹿児島市, 31.56, 130.5581, https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Flag_of_Kagoshima_Prefecture.svg/800px-Flag_of_Kagoshima_Prefecture.svg.png, 800, 533
+47, 沖縄県, ｵｷﾅﾜｹﾝ, okinawa, 那覇市, 26.2122, 127.6808, https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Okinawa_Prefecture.svg/640px-Flag_of_Okinawa_Prefecture.svg.png, 640, 427

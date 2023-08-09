@@ -7,14 +7,14 @@ import json
 
 FILE_CSV  = 'japan_pref_code.csv'
 
-FILE_JSON = 'japan_pref_code.json'
+FILE_JSON = 'japan_prefecture_code_list.json'
 
 
 dic = {}
 
-dic['title'] = 'Japan Prefectures code'
+dic['title'] = 'List of Japan Prefecture code'
 
-dic['title_ja'] = '都道府県コード'
+dic['title_ja'] = '都道府県コードの一覧'
 
 dic['reference1'] = '国土交通省 : 都道府県コード'
 
@@ -33,13 +33,19 @@ with open(FILE_CSV, 'r') as f1:
     for row in reader:
         len_row = len(row)
         print('len: ', len_row)
-        if len_row < 4:
+        if len_row < 10:
             continue
         d= {}
         d['code'] = row[0].strip()
         d['kanji'] = row[1].strip()
         d['kana'] = row[2].strip()
         d['name'] = row[3].strip() 
+        d['city'] = row[4].strip() 
+        d['lat'] = float( row[5].strip() )
+        d['lon'] = float( row[6].strip() )
+        d['url_flag'] =  row[7].strip()
+        d['flag_width'] = int( row[8].strip() )
+        d['flag_height'] = int( row[9].strip() )
         print(d)
         prefectures.append(d)
 #

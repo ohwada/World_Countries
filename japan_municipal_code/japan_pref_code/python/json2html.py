@@ -1,25 +1,51 @@
+# -*- coding: utf-8 -*-
 # json2html.py
 # 2023-06-01 K.OHWADA
 
 import json
 
+FILE_JSON = 'japan_prefecture_code_list.json'
+
+FILE_HTML  = 'japan_prefecture_code_list.html'
 
 FORMAT_REF = '<li><a href="{href}">{name}</a></li>'
 
 FORMAT_REFS = '<ul>{refs}</ul>'
 
+FORMAT_A_TAG = '<a href="{href}" target="_blank">{name}</a>'
 
-with open('template_html.txt', 'r') as f1:
+FORMAT_IMG = '<img src="{src}" decoding="async"  width="{width}" height="{height}" />'
+
+FORMAT_GMAP ='https://www.google.com/maps/@{lat},{lon},{zoom}z'
+
+FORMAT_LATLON = '({lat:.1f}, {lon:.1f})'
+
+WIDTH = 40
+
+ZOOM = 11
+
+
+def make_coordinates(lat, lon):
+    gmap = FORMAT_GMAP.format(lat=lat, lon=lon, zoom=ZOOM)
+    latlon =FORMAT_LATLON.format( lat=lat, lon=lon )
+    atag =FORMAT_A_TAG.format(href=gmap, name=latlon)
+    return atag
+#
+
+
+with open('files/template_html.txt', 'r') as f1:
     template_html = f1.read()
 #
 
-with open('template_row.txt', 'r') as f2:
+
+with open('files/template_row.txt', 'r') as f2:
     template_row = f2.read()
 #
 
+
 rows = ''
 
-with open('japan_pref_code.json') as f3:
+with open(FILE_JSON, 'r') as f3:
     dic = json.load(f3)
     str_title = dic['title']
     title_ja = dic['title_ja']
@@ -43,15 +69,23 @@ for item in list_prefectures :
     name = item['name']
     kanji = item['kanji']
     kana= item['kana']
-    row = template_row.format( code=code, name=name, kanji=kanji, kana=kana)
-
+    city = item['city']
+    lat = item['lat']
+    lon= item['lon']
+    url_flag = item['url_flag']
+    flag_width = item['flag_width']
+    flag_height = item['flag_height']
+    height = int( (WIDTH * flag_height) / flag_width )
+    row_flag = FORMAT_IMG.format(src=url_flag, width=WIDTH, height=height)
+    row_coordinates = make_coordinates(lat, lon)
+    row = template_row.format( code=code, name=name, kanji=kanji, kana=kana,  city=city, flag= row_flag, coordinates=row_coordinates)
     print(row)
     rows +=  row
 #
 
 wdata = template_html.format(body_title=title_ja, reference=html_refs, rows=rows)
   
-with open('japan_prefectures_code.html', 'w') as f4:
+with open(FILE_HTML, 'wt') as f4:
     f4.write(wdata)
 #
 
