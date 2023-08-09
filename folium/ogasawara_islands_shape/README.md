@@ -5,7 +5,7 @@ Ogasawara Islands Shape
 
 display Shape of Ogasawara islands
 
-![ogasawara islands shape]()
+![ogasawara islands shape](https://github.com/ohwada/World_Countries/blob/main/folium/ogasawara_islands_shape/screenshots/ogasawara_islands_shape.png)
 
 
 ### Python  
