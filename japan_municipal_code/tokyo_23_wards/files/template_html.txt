@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+city code
+</title>
+</head>
+<body>
+<h1>{body_title}</h1>
+<br/>
+<table style="margin: 30px">
+<thead>
+<tr>
+<th>英語名</th>
+<th>区名</th>
+<th>区旗</th>
+<th>区章</th>
+<th>推計人口</th>
+<th>面積</th>
+<th>人口密度</th>
+<th>位置座標<br/>(Google_Map)</th>
+</tr>
+</thead>
+<tbody>
+{rows}
+</tbody>
+</table>
+
+<h2>Reference<h2>
+{reference}
+</body>
+</html>

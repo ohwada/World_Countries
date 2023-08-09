@@ -1,0 +1,10 @@
+<tr>
+<td>{name_en}</td>
+<td>{ward}</td>
+<td align="center">{flag}</td>
+<td align="center">{emblem}</td>
+<td align="right">{population}</td>
+<td  align="center">{area}</td>
+<td>{density}</td>
+<td>{coordinates}</td>
+</tr>
