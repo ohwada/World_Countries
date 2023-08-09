@@ -14,7 +14,7 @@ display Flags of Japan Prefectures
 ### Reference
 
 - [国土交通省 : 都道府県コード](https://nlftp.mlit.go.jp/ksj/gml/codelist/PrefCd.html)
-
+- https://ken-ohwada.hatenadiary.org/entry/2023/08/09/141428
 
 
 
