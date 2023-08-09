@@ -12,5 +12,6 @@ There are no Geojson files.
 
 ### Application Example
 
-https://github.com/ohwada/World_Countries/tree/main/folium/kanagawa_japan
+https://github.com/ohwada/World_Countries/tree/main/folium/tokyo_23_wards_shape
+
 
