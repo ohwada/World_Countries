@@ -1,0 +1,8 @@
+<tr>
+<td>{number}</td>
+<td align="center">{flag}</td>
+<td>{name_en}</td>
+<td>{municipality}</td>
+<td>{location}</td>
+<td>{coordinates}</td>
+</tr>
