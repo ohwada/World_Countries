@@ -1,0 +1,647 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_262ff9375a226daedfd52ff8d01b2940 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+             <h3 align="center">東京23区の区旗</h3>
+             
+    
+            <div class="folium-map" id="map_262ff9375a226daedfd52ff8d01b2940" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_262ff9375a226daedfd52ff8d01b2940 = L.map(
+                "map_262ff9375a226daedfd52ff8d01b2940",
+                {
+                    center: [35.689722, 139.692222],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 12,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_78b6b1050e40ef3793438afb73f4b80f = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_262ff9375a226daedfd52ff8d01b2940);
+        
+    
+            var marker_dd6b576bf26e6d49778f29f18126ee88 = L.marker(
+                [35.69, 139.75],
+                {}
+            ).addTo(map_262ff9375a226daedfd52ff8d01b2940);
+        
+    
+        var custom_icon_95ac8219e3bd572fcd3f68c12ee0f4cc = L.icon({"iconAnchor": [17.5, 0], "iconSize": [35, 23], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Chiyoda%2C_Tokyo.svg/35px-Flag_of_Chiyoda%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_dd6b576bf26e6d49778f29f18126ee88.setIcon(custom_icon_95ac8219e3bd572fcd3f68c12ee0f4cc);
+        
+    
+        var popup_69c0d2c61c98588ae62c19adba207e31 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_86f0e3a3c6bf5ab252177d4543282c75 = $(`<div id="html_86f0e3a3c6bf5ab252177d4543282c75" style="width: 100.0%; height: 100.0%;">千代田区</div>`)[0];
+                popup_69c0d2c61c98588ae62c19adba207e31.setContent(html_86f0e3a3c6bf5ab252177d4543282c75);
+            
+        
+
+        marker_dd6b576bf26e6d49778f29f18126ee88.bindPopup(popup_69c0d2c61c98588ae62c19adba207e31)
+        ;
+
+        
+    
+    
+            var marker_9c26f884ba5d0f29fa124bdbfc730a0f = L.marker(
+                [35.666667, 139.766667],
+                {}
+            ).addTo(map_262ff9375a226daedfd52ff8d01b2940);
+        
+    
+        var custom_icon_7b470ffd48928ec2bdb401a778113b1d = L.icon({"iconAnchor": [17.5, 0], "iconSize": [35, 23], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Flag_of_Chuo%2C_Tokyo.svg/35px-Flag_of_Chuo%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_9c26f884ba5d0f29fa124bdbfc730a0f.setIcon(custom_icon_7b470ffd48928ec2bdb401a778113b1d);
+        
+    
+        var popup_b35bdc77bf4bca2596c949b928979bc1 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_b88fdf7382d2cbb29b85a9e4df9b8e9e = $(`<div id="html_b88fdf7382d2cbb29b85a9e4df9b8e9e" style="width: 100.0%; height: 100.0%;">中央区</div>`)[0];
+                popup_b35bdc77bf4bca2596c949b928979bc1.setContent(html_b88fdf7382d2cbb29b85a9e4df9b8e9e);
+            
+        
+
+        marker_9c26f884ba5d0f29fa124bdbfc730a0f.bindPopup(popup_b35bdc77bf4bca2596c949b928979bc1)
+        ;
+
+        
+    
+    
+            var marker_2cc0ade2ef74394eb7796f165a105b15 = L.marker(
+                [35.65803, 139.75153],
+                {}
+            ).addTo(map_262ff9375a226daedfd52ff8d01b2940);
+        
+    
+        var custom_icon_76752834baf34cd217562ac22a4e4f58 = L.icon({"iconAnchor": [17.5, 0], "iconSize": [35, 23], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Minato%2C_Tokyo.svg/35px-Flag_of_Minato%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_2cc0ade2ef74394eb7796f165a105b15.setIcon(custom_icon_76752834baf34cd217562ac22a4e4f58);
+        
+    
+        var popup_6c39a5150f60eb6d00c35795985cb8bc = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_269d26b4e9da7c59285d8c91b8709724 = $(`<div id="html_269d26b4e9da7c59285d8c91b8709724" style="width: 100.0%; height: 100.0%;">港区</div>`)[0];
+                popup_6c39a5150f60eb6d00c35795985cb8bc.setContent(html_269d26b4e9da7c59285d8c91b8709724);
+            
+        
+
+        marker_2cc0ade2ef74394eb7796f165a105b15.bindPopup(popup_6c39a5150f60eb6d00c35795985cb8bc)
+        ;
+
+        
+    
+    
+            var marker_fb7a8bdc0ad4b34d933d71f6eb7c37be = L.marker(
+                [35.701389, 139.709722],
+                {}
+            ).addTo(map_262ff9375a226daedfd52ff8d01b2940);
+        
+    
+        var custom_icon_3412a42de71ee8398123ea5d362af942 = L.icon({"iconAnchor": [17.5, 0], "iconSize": [35, 23], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Flag_of_Shinjuku%2C_Tokyo.svg/35px-Flag_of_Shinjuku%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_fb7a8bdc0ad4b34d933d71f6eb7c37be.setIcon(custom_icon_3412a42de71ee8398123ea5d362af942);
+        
+    
+        var popup_b73629f6a14a5f7b92f0b1db66247725 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_77df2dd0e0cb3ef01772e675721c6341 = $(`<div id="html_77df2dd0e0cb3ef01772e675721c6341" style="width: 100.0%; height: 100.0%;">新宿区</div>`)[0];
+                popup_b73629f6a14a5f7b92f0b1db66247725.setContent(html_77df2dd0e0cb3ef01772e675721c6341);
+            
+        
+
+        marker_fb7a8bdc0ad4b34d933d71f6eb7c37be.bindPopup(popup_b73629f6a14a5f7b92f0b1db66247725)
+        ;
+
+        
+    
+    
+            var marker_270af659875988f25e161fa3bbd55e37 = L.marker(
+                [35.716667, 139.75],
+                {}
+            ).addTo(map_262ff9375a226daedfd52ff8d01b2940);
+        
+    
+        var custom_icon_07ab3796c00613e31f0cb36b734bc5ff = L.icon({"iconAnchor": [17.5, 0], "iconSize": [35, 23], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_Bunkyo%2C_Tokyo.svg/35px-Flag_of_Bunkyo%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_270af659875988f25e161fa3bbd55e37.setIcon(custom_icon_07ab3796c00613e31f0cb36b734bc5ff);
+        
+    
+        var popup_0e162d21037cbdf92b890f3435825d4b = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_35954c51f3c88d289b054f9e769797ef = $(`<div id="html_35954c51f3c88d289b054f9e769797ef" style="width: 100.0%; height: 100.0%;">文京区</div>`)[0];
+                popup_0e162d21037cbdf92b890f3435825d4b.setContent(html_35954c51f3c88d289b054f9e769797ef);
+            
+        
+
+        marker_270af659875988f25e161fa3bbd55e37.bindPopup(popup_0e162d21037cbdf92b890f3435825d4b)
+        ;
+
+        
+    
+    
+            var marker_7a30f74ae319dcda656f88a45eebfef5 = L.marker(
+                [35.7125, 139.78],
+                {}
+            ).addTo(map_262ff9375a226daedfd52ff8d01b2940);
+        
+    
+        var custom_icon_510e4385b99e47cf83536cfb5a50c50b = L.icon({"iconAnchor": [17.5, 0], "iconSize": [35, 23], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Flag_of_Taito%2C_Tokyo.svg/35px-Flag_of_Taito%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_7a30f74ae319dcda656f88a45eebfef5.setIcon(custom_icon_510e4385b99e47cf83536cfb5a50c50b);
+        
+    
+        var popup_2528ac09cf42624d604003287a7cf4d5 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_7fab793080103f22966ccb02ed36f30d = $(`<div id="html_7fab793080103f22966ccb02ed36f30d" style="width: 100.0%; height: 100.0%;">台東区</div>`)[0];
+                popup_2528ac09cf42624d604003287a7cf4d5.setContent(html_7fab793080103f22966ccb02ed36f30d);
+            
+        
+
+        marker_7a30f74ae319dcda656f88a45eebfef5.bindPopup(popup_2528ac09cf42624d604003287a7cf4d5)
+        ;
+
+        
+    
+    
+            var marker_d27dd1dde723298d6372a0676e7ab857 = L.marker(
+                [35.71069, 139.8015],
+                {}
+            ).addTo(map_262ff9375a226daedfd52ff8d01b2940);
+        
+    
+        var custom_icon_fbce3a32db39435064cb8e9d08eca2e3 = L.icon({"iconAnchor": [17.5, 0], "iconSize": [35, 23], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Sumida%2C_Tokyo.svg/35px-Flag_of_Sumida%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_d27dd1dde723298d6372a0676e7ab857.setIcon(custom_icon_fbce3a32db39435064cb8e9d08eca2e3);
+        
+    
+        var popup_a39793f8790b5a64116bad3170844141 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_cfd44b0cd62bbd939e82beba498606e2 = $(`<div id="html_cfd44b0cd62bbd939e82beba498606e2" style="width: 100.0%; height: 100.0%;">墨田区</div>`)[0];
+                popup_a39793f8790b5a64116bad3170844141.setContent(html_cfd44b0cd62bbd939e82beba498606e2);
+            
+        
+
+        marker_d27dd1dde723298d6372a0676e7ab857.bindPopup(popup_a39793f8790b5a64116bad3170844141)
+        ;
+
+        
+    
+    
+            var marker_03e3d2c701bd3b1534f8ff4c858cad99 = L.marker(
+                [35.666667, 139.816667],
+                {}
+            ).addTo(map_262ff9375a226daedfd52ff8d01b2940);
+        
+    
+        var custom_icon_4477c7e118b462b3960a7d2a22ec2df5 = L.icon({"iconAnchor": [17.5, 0], "iconSize": [35, 23], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Flag_of_Koto%2C_Tokyo.svg/35px-Flag_of_Koto%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_03e3d2c701bd3b1534f8ff4c858cad99.setIcon(custom_icon_4477c7e118b462b3960a7d2a22ec2df5);
+        
+    
+        var popup_66aa9a8755454838c18f298a1155f18b = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_277217a835d25e995f982b7e89dc6640 = $(`<div id="html_277217a835d25e995f982b7e89dc6640" style="width: 100.0%; height: 100.0%;">江東区</div>`)[0];
+                popup_66aa9a8755454838c18f298a1155f18b.setContent(html_277217a835d25e995f982b7e89dc6640);
+            
+        
+
+        marker_03e3d2c701bd3b1534f8ff4c858cad99.bindPopup(popup_66aa9a8755454838c18f298a1155f18b)
+        ;
+
+        
+    
+    
+            var marker_1509b4d63308632e4897d7e97d35ea0d = L.marker(
+                [35.60917, 139.73017],
+                {}
+            ).addTo(map_262ff9375a226daedfd52ff8d01b2940);
+        
+    
+        var custom_icon_47e410a71326aa4e49e799de723ae93c = L.icon({"iconAnchor": [17.5, 0], "iconSize": [35, 23], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Shinagawa%2C_Tokyo.svg/35px-Flag_of_Shinagawa%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_1509b4d63308632e4897d7e97d35ea0d.setIcon(custom_icon_47e410a71326aa4e49e799de723ae93c);
+        
+    
+        var popup_735d23700dcf44148446fc1c5c6d0a96 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_d8adbc8565f141ab125a17e34e287de7 = $(`<div id="html_d8adbc8565f141ab125a17e34e287de7" style="width: 100.0%; height: 100.0%;">品川区</div>`)[0];
+                popup_735d23700dcf44148446fc1c5c6d0a96.setContent(html_d8adbc8565f141ab125a17e34e287de7);
+            
+        
+
+        marker_1509b4d63308632e4897d7e97d35ea0d.bindPopup(popup_735d23700dcf44148446fc1c5c6d0a96)
+        ;
+
+        
+    
+    
+            var marker_5436c255ccbc6bb69a240984a95ff420 = L.marker(
+                [35.6415, 139.69828],
+                {}
+            ).addTo(map_262ff9375a226daedfd52ff8d01b2940);
+        
+    
+        var custom_icon_4ad3e459b5dc83bb1813ce9644c3031f = L.icon({"iconAnchor": [17.5, 0], "iconSize": [35, 23], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Meguro%2C_Tokyo.svg/35px-Flag_of_Meguro%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_5436c255ccbc6bb69a240984a95ff420.setIcon(custom_icon_4ad3e459b5dc83bb1813ce9644c3031f);
+        
+    
+        var popup_46f1dfa24318af27a8ae7fc99c5edfea = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_7bccd2fb39477f65399e3205dbaa5c3d = $(`<div id="html_7bccd2fb39477f65399e3205dbaa5c3d" style="width: 100.0%; height: 100.0%;">目黒区</div>`)[0];
+                popup_46f1dfa24318af27a8ae7fc99c5edfea.setContent(html_7bccd2fb39477f65399e3205dbaa5c3d);
+            
+        
+
+        marker_5436c255ccbc6bb69a240984a95ff420.bindPopup(popup_46f1dfa24318af27a8ae7fc99c5edfea)
+        ;
+
+        
+    
+    
+            var marker_c8169624afae06d5c89ece196d200f9a = L.marker(
+                [35.561389, 139.716111],
+                {}
+            ).addTo(map_262ff9375a226daedfd52ff8d01b2940);
+        
+    
+        var custom_icon_062ab1925005a541546c5f12c12db8ba = L.icon({"iconAnchor": [17.5, 0], "iconSize": [35, 23], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Ota%2C_Tokyo.svg/35px-Flag_of_Ota%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_c8169624afae06d5c89ece196d200f9a.setIcon(custom_icon_062ab1925005a541546c5f12c12db8ba);
+        
+    
+        var popup_3a65b099c15c2fe1c4824380614cb8b8 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_81d620eda8bd54ff95974608fb93adf4 = $(`<div id="html_81d620eda8bd54ff95974608fb93adf4" style="width: 100.0%; height: 100.0%;">大田区</div>`)[0];
+                popup_3a65b099c15c2fe1c4824380614cb8b8.setContent(html_81d620eda8bd54ff95974608fb93adf4);
+            
+        
+
+        marker_c8169624afae06d5c89ece196d200f9a.bindPopup(popup_3a65b099c15c2fe1c4824380614cb8b8)
+        ;
+
+        
+    
+    
+            var marker_1104b7fdc128c7cef33ce4d2b0b1c8fd = L.marker(
+                [35.64656, 139.65322],
+                {}
+            ).addTo(map_262ff9375a226daedfd52ff8d01b2940);
+        
+    
+        var custom_icon_da61f8080056be5c0e2a43ea1ee188dd = L.icon({"iconAnchor": [17.5, 0], "iconSize": [35, 23], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flag_of_Setagaya%2C_Tokyo.svg/35px-Flag_of_Setagaya%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_1104b7fdc128c7cef33ce4d2b0b1c8fd.setIcon(custom_icon_da61f8080056be5c0e2a43ea1ee188dd);
+        
+    
+        var popup_758aad3645ac38120878106dc9fb7ff7 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_ba1c5dee27c484623dcb786fe51dff9b = $(`<div id="html_ba1c5dee27c484623dcb786fe51dff9b" style="width: 100.0%; height: 100.0%;">世田谷区</div>`)[0];
+                popup_758aad3645ac38120878106dc9fb7ff7.setContent(html_ba1c5dee27c484623dcb786fe51dff9b);
+            
+        
+
+        marker_1104b7fdc128c7cef33ce4d2b0b1c8fd.bindPopup(popup_758aad3645ac38120878106dc9fb7ff7)
+        ;
+
+        
+    
+    
+            var marker_d11c18fcef1307466876f495d5a24186 = L.marker(
+                [35.66367, 139.69772],
+                {}
+            ).addTo(map_262ff9375a226daedfd52ff8d01b2940);
+        
+    
+        var custom_icon_bccfec1fe27fd16cc922478e619f1251 = L.icon({"iconAnchor": [17.5, 0], "iconSize": [35, 23], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Shibuya%2C_Tokyo.svg/35px-Flag_of_Shibuya%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_d11c18fcef1307466876f495d5a24186.setIcon(custom_icon_bccfec1fe27fd16cc922478e619f1251);
+        
+    
+        var popup_a3de322c4dbb33481b289232c409db6c = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_f9776d3cdc3a93675b69a9639fa2577b = $(`<div id="html_f9776d3cdc3a93675b69a9639fa2577b" style="width: 100.0%; height: 100.0%;">渋谷区</div>`)[0];
+                popup_a3de322c4dbb33481b289232c409db6c.setContent(html_f9776d3cdc3a93675b69a9639fa2577b);
+            
+        
+
+        marker_d11c18fcef1307466876f495d5a24186.bindPopup(popup_a3de322c4dbb33481b289232c409db6c)
+        ;
+
+        
+    
+    
+            var marker_f385f394b6122dfe1866f6dac5476778 = L.marker(
+                [35.70728, 139.66375],
+                {}
+            ).addTo(map_262ff9375a226daedfd52ff8d01b2940);
+        
+    
+        var custom_icon_80fca5439e7483aab59c2c33ee58e22b = L.icon({"iconAnchor": [17.5, 0], "iconSize": [35, 23], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Nakano%2C_Tokyo.svg/35px-Flag_of_Nakano%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_f385f394b6122dfe1866f6dac5476778.setIcon(custom_icon_80fca5439e7483aab59c2c33ee58e22b);
+        
+    
+        var popup_4e259c6616916ec8b08a677a85b19641 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_af0d7ee7591265ccf352d8b6e69cda92 = $(`<div id="html_af0d7ee7591265ccf352d8b6e69cda92" style="width: 100.0%; height: 100.0%;">中野区</div>`)[0];
+                popup_4e259c6616916ec8b08a677a85b19641.setContent(html_af0d7ee7591265ccf352d8b6e69cda92);
+            
+        
+
+        marker_f385f394b6122dfe1866f6dac5476778.bindPopup(popup_4e259c6616916ec8b08a677a85b19641)
+        ;
+
+        
+    
+    
+            var marker_744911d87b2ce930ce977c3b5c7053c6 = L.marker(
+                [35.6994, 139.6364],
+                {}
+            ).addTo(map_262ff9375a226daedfd52ff8d01b2940);
+        
+    
+        var custom_icon_fa53aca069782aa5741ae93f3ff63316 = L.icon({"iconAnchor": [17.5, 0], "iconSize": [35, 23], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_of_Suginami%2C_Tokyo.svg/35px-Flag_of_Suginami%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_744911d87b2ce930ce977c3b5c7053c6.setIcon(custom_icon_fa53aca069782aa5741ae93f3ff63316);
+        
+    
+        var popup_e21148ba0f053f445772bf1e4d813841 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_a78add4f75990885ddb13600eafb37f2 = $(`<div id="html_a78add4f75990885ddb13600eafb37f2" style="width: 100.0%; height: 100.0%;">杉並区</div>`)[0];
+                popup_e21148ba0f053f445772bf1e4d813841.setContent(html_a78add4f75990885ddb13600eafb37f2);
+            
+        
+
+        marker_744911d87b2ce930ce977c3b5c7053c6.bindPopup(popup_e21148ba0f053f445772bf1e4d813841)
+        ;
+
+        
+    
+    
+            var marker_5908552de0108be3321e61e7a8db1821 = L.marker(
+                [35.7261, 139.7167],
+                {}
+            ).addTo(map_262ff9375a226daedfd52ff8d01b2940);
+        
+    
+        var custom_icon_8c0d9e80dd547556102b380ea6a517c1 = L.icon({"iconAnchor": [17.5, 0], "iconSize": [35, 23], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Toshima%2C_Tokyo.svg/35px-Flag_of_Toshima%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_5908552de0108be3321e61e7a8db1821.setIcon(custom_icon_8c0d9e80dd547556102b380ea6a517c1);
+        
+    
+        var popup_fcc9d60e406a1bf9125ea1c5a3996eab = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_ed8628caef6d1101d0643f3f07014896 = $(`<div id="html_ed8628caef6d1101d0643f3f07014896" style="width: 100.0%; height: 100.0%;">豊島区</div>`)[0];
+                popup_fcc9d60e406a1bf9125ea1c5a3996eab.setContent(html_ed8628caef6d1101d0643f3f07014896);
+            
+        
+
+        marker_5908552de0108be3321e61e7a8db1821.bindPopup(popup_fcc9d60e406a1bf9125ea1c5a3996eab)
+        ;
+
+        
+    
+    
+            var marker_5f1cc605a8090606d4898c573d7e993d = L.marker(
+                [35.75281, 139.73356],
+                {}
+            ).addTo(map_262ff9375a226daedfd52ff8d01b2940);
+        
+    
+        var custom_icon_6cb5e43ba8a4f880239468284c291e74 = L.icon({"iconAnchor": [17.5, 0], "iconSize": [35, 23], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Kita%2C_Tokyo.svg/35px-Flag_of_Kita%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_5f1cc605a8090606d4898c573d7e993d.setIcon(custom_icon_6cb5e43ba8a4f880239468284c291e74);
+        
+    
+        var popup_dcb5fb21827041f78804facaec5e4c53 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_90d11106f5cbee916cf10dc444542b79 = $(`<div id="html_90d11106f5cbee916cf10dc444542b79" style="width: 100.0%; height: 100.0%;">北区</div>`)[0];
+                popup_dcb5fb21827041f78804facaec5e4c53.setContent(html_90d11106f5cbee916cf10dc444542b79);
+            
+        
+
+        marker_5f1cc605a8090606d4898c573d7e993d.bindPopup(popup_dcb5fb21827041f78804facaec5e4c53)
+        ;
+
+        
+    
+    
+            var marker_8c98e777d7f3c59f0e50aeeeb7925aff = L.marker(
+                [35.73611, 139.78339],
+                {}
+            ).addTo(map_262ff9375a226daedfd52ff8d01b2940);
+        
+    
+        var custom_icon_c0e0a7a39e64e5d9b6d67537393ee614 = L.icon({"iconAnchor": [17.5, 0], "iconSize": [35, 23], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Arakawa%2C_Tokyo.svg/35px-Flag_of_Arakawa%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_8c98e777d7f3c59f0e50aeeeb7925aff.setIcon(custom_icon_c0e0a7a39e64e5d9b6d67537393ee614);
+        
+    
+        var popup_ea90b122ab0c877a11cffe8e929948a6 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_1ffb4625313de50252d4040c0079de35 = $(`<div id="html_1ffb4625313de50252d4040c0079de35" style="width: 100.0%; height: 100.0%;">荒川区</div>`)[0];
+                popup_ea90b122ab0c877a11cffe8e929948a6.setContent(html_1ffb4625313de50252d4040c0079de35);
+            
+        
+
+        marker_8c98e777d7f3c59f0e50aeeeb7925aff.bindPopup(popup_ea90b122ab0c877a11cffe8e929948a6)
+        ;
+
+        
+    
+    
+            var marker_b0db0d622a0460b278e3150b6f8f5e2d = L.marker(
+                [35.75119, 139.70928],
+                {}
+            ).addTo(map_262ff9375a226daedfd52ff8d01b2940);
+        
+    
+        var custom_icon_34a1f55f5353293dab92c23fc3b1ff35 = L.icon({"iconAnchor": [17.5, 0], "iconSize": [35, 23], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Flag_of_Itabashi%2C_Tokyo.svg/35px-Flag_of_Itabashi%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_b0db0d622a0460b278e3150b6f8f5e2d.setIcon(custom_icon_34a1f55f5353293dab92c23fc3b1ff35);
+        
+    
+        var popup_0bf52a0338c2c871d42996c67833bd92 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_976a9b839556c75c939d63b48cb1050b = $(`<div id="html_976a9b839556c75c939d63b48cb1050b" style="width: 100.0%; height: 100.0%;">板橋区</div>`)[0];
+                popup_0bf52a0338c2c871d42996c67833bd92.setContent(html_976a9b839556c75c939d63b48cb1050b);
+            
+        
+
+        marker_b0db0d622a0460b278e3150b6f8f5e2d.bindPopup(popup_0bf52a0338c2c871d42996c67833bd92)
+        ;
+
+        
+    
+    
+            var marker_e419a7b5a56a94c9ff1b46f7b5e58e02 = L.marker(
+                [35.73553, 139.65169],
+                {}
+            ).addTo(map_262ff9375a226daedfd52ff8d01b2940);
+        
+    
+        var custom_icon_6cdb5013c38782b3a3636507a3aab1f9 = L.icon({"iconAnchor": [17.5, 0], "iconSize": [35, 23], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_Nerima%2C_Tokyo.svg/35px-Flag_of_Nerima%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_e419a7b5a56a94c9ff1b46f7b5e58e02.setIcon(custom_icon_6cdb5013c38782b3a3636507a3aab1f9);
+        
+    
+        var popup_c37303d78a020c9c07d2e277741e06d2 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_1f91c1d8cc035e0b29f41f2b28984563 = $(`<div id="html_1f91c1d8cc035e0b29f41f2b28984563" style="width: 100.0%; height: 100.0%;">練馬区</div>`)[0];
+                popup_c37303d78a020c9c07d2e277741e06d2.setContent(html_1f91c1d8cc035e0b29f41f2b28984563);
+            
+        
+
+        marker_e419a7b5a56a94c9ff1b46f7b5e58e02.bindPopup(popup_c37303d78a020c9c07d2e277741e06d2)
+        ;
+
+        
+    
+    
+            var marker_50de780b9b71f78d84a7632620da80ea = L.marker(
+                [35.77494, 139.80436],
+                {}
+            ).addTo(map_262ff9375a226daedfd52ff8d01b2940);
+        
+    
+        var custom_icon_cfba8f90f452f7a61dc449a3162ca12d = L.icon({"iconAnchor": [17.5, 0], "iconSize": [35, 23], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Adachi%2C_Tokyo.svg/35px-Flag_of_Adachi%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_50de780b9b71f78d84a7632620da80ea.setIcon(custom_icon_cfba8f90f452f7a61dc449a3162ca12d);
+        
+    
+        var popup_85e1e9acc1f40c8372c57d15e2972fc7 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_4bdbfd7f449ed30180972020add030b0 = $(`<div id="html_4bdbfd7f449ed30180972020add030b0" style="width: 100.0%; height: 100.0%;">足立区</div>`)[0];
+                popup_85e1e9acc1f40c8372c57d15e2972fc7.setContent(html_4bdbfd7f449ed30180972020add030b0);
+            
+        
+
+        marker_50de780b9b71f78d84a7632620da80ea.bindPopup(popup_85e1e9acc1f40c8372c57d15e2972fc7)
+        ;
+
+        
+    
+    
+            var marker_d27462211c1c13be736e70f58d92bded = L.marker(
+                [35.74344, 139.84717],
+                {}
+            ).addTo(map_262ff9375a226daedfd52ff8d01b2940);
+        
+    
+        var custom_icon_b3e32ef93d22caaa00753e25a39b6bdf = L.icon({"iconAnchor": [17.5, 0], "iconSize": [35, 23], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Katsushika-ku%2C_Tokyo.svg/35px-Flag_of_Katsushika-ku%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_d27462211c1c13be736e70f58d92bded.setIcon(custom_icon_b3e32ef93d22caaa00753e25a39b6bdf);
+        
+    
+        var popup_46950cbf735f442369b0bb25cd3df775 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_f300d5bbc824d9d4700b9b350f674cef = $(`<div id="html_f300d5bbc824d9d4700b9b350f674cef" style="width: 100.0%; height: 100.0%;">葛飾区</div>`)[0];
+                popup_46950cbf735f442369b0bb25cd3df775.setContent(html_f300d5bbc824d9d4700b9b350f674cef);
+            
+        
+
+        marker_d27462211c1c13be736e70f58d92bded.bindPopup(popup_46950cbf735f442369b0bb25cd3df775)
+        ;
+
+        
+    
+    
+            var marker_1a2a574ce192d1d2b1320240a7f61e81 = L.marker(
+                [35.70664, 139.86828],
+                {}
+            ).addTo(map_262ff9375a226daedfd52ff8d01b2940);
+        
+    
+        var custom_icon_212510d0dc3cd853bdc5a5357170f8d4 = L.icon({"iconAnchor": [17.5, 0], "iconSize": [35, 23], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_Edogawa%2C_Tokyo.svg/35px-Flag_of_Edogawa%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_1a2a574ce192d1d2b1320240a7f61e81.setIcon(custom_icon_212510d0dc3cd853bdc5a5357170f8d4);
+        
+    
+        var popup_e5309866ac5b64ad91a01a9c299b7e29 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_c15cc7d226380f73dce8aa0fbff6f71c = $(`<div id="html_c15cc7d226380f73dce8aa0fbff6f71c" style="width: 100.0%; height: 100.0%;">江戸川区</div>`)[0];
+                popup_e5309866ac5b64ad91a01a9c299b7e29.setContent(html_c15cc7d226380f73dce8aa0fbff6f71c);
+            
+        
+
+        marker_1a2a574ce192d1d2b1320240a7f61e81.bindPopup(popup_e5309866ac5b64ad91a01a9c299b7e29)
+        ;
+
+        
+    
+</script>
+</html>
