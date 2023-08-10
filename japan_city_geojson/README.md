@@ -15,3 +15,6 @@ There are no Geojson files.
 https://github.com/ohwada/World_Countries/tree/main/folium/tokyo_23_wards_shape
 
 
+### Reference
+
+- https://ken-ohwada.hatenadiary.org/entry/2023/08/10/143123
