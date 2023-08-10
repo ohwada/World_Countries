@@ -9,7 +9,7 @@ import random
 import urllib.parse
 
 
-TITLE = '東京23区'
+TITLE = '東京23区 外形 付き'
 
 URL_TOKYO_WARDS = 'https://geoshape.ex.nii.ac.jp/city/topojson/latest/13100.topojson'
 
@@ -21,7 +21,7 @@ FILE_CATALOG = 'data/japan_city_geojson_catalog.json'
 
 FILE_COLOR = 'data/web_colors_100.json'
 
-FILE_HTML = 'tokyo_23_wards_shape.html'
+FILE_HTML = 'tokyo_23_wards_shape_with_outline.html'
 
 TOKYO = '東京都'
 

@@ -5,17 +5,20 @@ Tokyo 23 wards Shape
 
 plot Shape of Tokyo 23 wards
 
-![tokyo 23 wards](https://github.com/ohwada/World_Countries/blob/main/folium/tokyo_23_wards_shape/screenshots/tokyo_23_wards_shape.png)
+![tokyo 23 wards]()
 
 ### Python  
 
-- tokyo.py
+- plot_tokyo.py
 geoData for 2020  
-shinjyuku in the center    
-- tokyo_2020.py
+Tokyo 23 wards 
+shinjyuku in the center 
+- plot_tokyo_outline.py  
+Tokyo 23 wards with outline     
+- plot_tokyo_2020.py
 geoData for 2020  
 Umi-no-mori in the center  
-- tokyo_2023.py  
+- plot_tokyo_2023.py  
 geoData for 2023  
 Umi-no-mori in the center  
 
