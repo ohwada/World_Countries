@@ -1,0 +1,7 @@
+<tr>
+<td>{code}</td>
+<td>{name_en}</td>
+<td>{name_ja}</td>
+<td>{filepath}</td>
+<td>{coordinates}</td>
+</tr>
