@@ -45,14 +45,16 @@ with open(FILE_CSV, 'r') as f1:
     for row in reader:
         len_row = len(row)
         print('len: ', len_row)
-        if len_row < 5:
+        if len_row < 7:
             continue
         d= {}
         d['name_ja'] = row[0].strip()
         d['name_en'] = row[1].strip()
-        d['url_wikipedia'] = row[2].strip()
+        d['url_island'] = row[2].strip()
         d['lat'] = float( row[3].strip() )
         d['lon'] = float( row[4].strip() )
+        d['population'] = restore_comma( row[5] )
+        d['area'] = row[6].strip()
         print(d)
         islands.append(d)
 #

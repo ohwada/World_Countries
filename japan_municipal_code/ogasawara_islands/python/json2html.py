@@ -50,13 +50,15 @@ list_slands = dic['islands']
 
 for item in list_slands :
     name_ja = item['name_ja']
-    url_wikipedia = item['url_wikipedia']
+    url_island = item['url_island']
     name_en = item['name_en']
+    population = item['population']
+    area = item['area']
     lat = item['lat']
     lon = item['lon']
-    row_island = FORMAT_A_TAG.format(href=url_wikipedia, name=name_ja)
+    row_island = FORMAT_A_TAG.format(href=url_island, name=name_ja)
     row_coordinates = make_coordinates(lat, lon)
-    row = template_row.format(name_en=name_en, island=row_island, coordinates=row_coordinates)
+    row = template_row.format(name_en=name_en, island=row_island,     population=population, area=area, coordinates=row_coordinates)
     print(row)
     rows +=  row
 #
