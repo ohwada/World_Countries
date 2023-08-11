@@ -6,6 +6,9 @@ Japan Prefectures Shape
 1つの Pythonプログラムで
 47都道府県分の htmlファイル (Leaflet プログラム)を生成する。
 
+![japan prefectures shape](https://github.com/ohwada/World_Countries/blob/main/geojson/folium/japan_prefectures_shape/screenshots/tokyo.png)
 
-[47都道府県のポリゴンデータ](https://japonyol.net/editor/article/47-prefectures-geojson.html)
+### Reference
+
+- [47都道府県のポリゴンデータ](https://japonyol.net/editor/article/47-prefectures-geojson.html)
 
