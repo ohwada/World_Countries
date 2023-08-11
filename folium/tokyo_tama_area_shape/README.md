@@ -5,7 +5,7 @@ Tokyo Tama area Shape
 
 plot Shape of cities in Tokyo Tama area
 
-![tokyo tama area shape]()
+![tokyo tama area shape](https://github.com/ohwada/World_Countries/blob/main/folium/tokyo_tama_area_shape/screenshots/tokyo_tama_area_shape.png)
 
 ### Python  
 
