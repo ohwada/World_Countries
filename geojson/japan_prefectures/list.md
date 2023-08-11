@@ -1,0 +1,51 @@
+### 都道府県の GeoJson の一覧
+
+ | コード | 英語名 | 県名 | ファイル | 
+ | --- | --- | --- | --- | 
+ | 01 | hokkaido | 北海道 | [hokkaido.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/hokkaido.geojson) | 
+ | 02 | aomori | 青森県 | [aomori.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/aomori.geojson) | 
+ | 03 | iwate | 岩手県 | [iwate.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/iwate.geojson) | 
+ | 04 | miyagi | 宮城県 | [miyagi.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/miyagi.geojson) | 
+ | 05 | akita | 秋田県 | [akita.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/akita.geojson) | 
+ | 06 | yamagata | 山形県 | [yamagata.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/yamagata.geojson) | 
+ | 07 | fukushima | 福島県 | [fukushima.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/fukushima.geojson) | 
+ | 08 | ibaraki | 茨城県 | [ibaraki.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/ibaraki.geojson) | 
+ | 09 | tochigi | 栃木県 | [tochigi.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/tochigi.geojson) | 
+ | 10 | gunma | 群馬県 | [gunma.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/gunma.geojson) | 
+ | 11 | saitama | 埼玉県 | [saitama.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/saitama.geojson) | 
+ | 12 | chiba | 千葉県 | [chiba.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/chiba.geojson) | 
+ | 13 | tokyo | 東京都 | [tokyo.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/tokyo.geojson) | 
+ | 14 | kanagawa | 神奈川県 | [kanagawa.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/kanagawa.geojson) | 
+ | 15 | niigata | 新潟県 | [niigata.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/niigata.geojson) | 
+ | 16 | toyama | 富山県 | [toyama.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/toyama.geojson) | 
+ | 17 | ishikawa | 石川県 | [ishikawa.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/ishikawa.geojson) | 
+ | 18 | fukui | 福井県 | [fukui.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/fukui.geojson) | 
+ | 19 | yamanashi | 山梨県 | [yamanashi.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/yamanashi.geojson) | 
+ | 20 | nagano | 長野県 | [nagano.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/nagano.geojson) | 
+ | 21 | gifu | 岐阜県 | [gifu.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/gifu.geojson) | 
+ | 22 | shizuoka | 静岡県 | [shizuoka.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/shizuoka.geojson) | 
+ | 23 | aichi | 愛知県 | [aichi.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/aichi.geojson) | 
+ | 24 | mie | 三重県 | [mie.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/mie.geojson) | 
+ | 25 | shiga | 滋賀県 | [shiga.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/shiga.geojson) | 
+ | 26 | kyoto | 京都府 | [kyoto.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/kyoto.geojson) | 
+ | 27 | osaka | 大阪府 | [osaka.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/osaka.geojson) | 
+ | 28 | hyōgo | 兵庫県 | [hyōgo.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/hyōgo.geojson) | 
+ | 29 | nara | 奈良県 | [nara.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/nara.geojson) | 
+ | 30 | wakayama | 和歌山県 | [wakayama.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/wakayama.geojson) | 
+ | 31 | tottori | 鳥取県 | [tottori.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/tottori.geojson) | 
+ | 32 | shimane | 島根県 | [shimane.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/shimane.geojson) | 
+ | 33 | okayama | 岡山県 | [okayama.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/okayama.geojson) | 
+ | 34 | hiroshima | 広島県 | [hiroshima.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/hiroshima.geojson) | 
+ | 35 | yamaguchi | 山口県 | [yamaguchi.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/yamaguchi.geojson) | 
+ | 36 | tokushima | 徳島県 | [tokushima.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/tokushima.geojson) | 
+ | 37 | kagawa | 香川県 | [kagawa.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/kagawa.geojson) | 
+ | 38 | ehime | 愛媛県 | [ehime.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/ehime.geojson) | 
+ | 39 | kouchi | 高知県 | [kouchi.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/kouchi.geojson) | 
+ | 40 | fukuoka | 福岡県 | [fukuoka.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/fukuoka.geojson) | 
+ | 41 | saga | 佐賀県 | [saga.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/saga.geojson) | 
+ | 42 | nagasaki | 長崎県 | [nagasaki.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/nagasaki.geojson) | 
+ | 43 | kumamoto | 熊本県 | [kumamoto.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/kumamoto.geojson) | 
+ | 44 | ooita | 大分県 | [ooita.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/ooita.geojson) | 
+ | 45 | miyazaki | 宮崎県 | [miyazaki.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/miyazaki.geojson) | 
+ | 46 | kagoshima | 鹿児島県 | [kagoshima.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/kagoshima.geojson) | 
+ | 47 | okinawa | 沖縄県 | [okinawa.geojson]( https:/github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/okinawa.geojson) | 

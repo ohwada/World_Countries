@@ -101,13 +101,15 @@ for item2 in list_prefectures :
 	pref_code = item2['code']
 	pref_kanji = item2['kanji']
 	list_cities = item2['cities']
-	print(pref_kanji)
+	print(pref_kanji)# In Tokyo ?
+# In Tokyo ?
 	if pref_kanji != TOKYO:
 		continue
 	for item3  in list_cities: 
 		name = item3['N03_004']
 		filepath = item3['filepath']
-		url_geojson = urllib.parse.urljoin(url_raw_base, filepath)
+		url_geojson = urllib.parse.urljoin(url_raw_base, filepath)Tokyo 23 Wards
+# in Tokyo 23 Wards ?
 		if name in wards:
 			print(name)
 			gjson = folium.GeoJson( url_geojson,
