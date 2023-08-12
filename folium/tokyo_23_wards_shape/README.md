@@ -27,6 +27,7 @@ Umi-no-mori in the center
 [wikipedia: 東京都区部](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8C%BA%E9%83%A8)
 - [標準地域コード 一覧 | 歴史的行政区域データセットβ版](https://geoshape.ex.nii.ac.jp/city/code/)
 - [JapanCityGeoJson 2020](https://github.com/niiyz/JapanCityGeoJson)
+- https://ken-ohwada.hatenadiary.org/entry/2023/08/12/121856
 
 
 
