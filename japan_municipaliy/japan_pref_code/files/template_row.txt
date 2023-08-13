@@ -1,9 +1,5 @@
 <tr>
 <td>{code}</td>
-<td alien="center">{flag}</td>
-<td>{name}</td>
-<td>{kanji}</td>
-<td>{kana}</td>
-<td>{city}</td>
-<td>{coordinates}</td>
+<td>{name_en}</td>
+<td>{name_ja}</td>
 </tr>
