@@ -5,6 +5,8 @@ Tokyo 23 wards Flag
 
 display Flag Tokyo 23 wards
 
+![tokyo 23 wards flag](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/folium/tokyo_23_wards_flag/screenshots/tokyo_23_wards_flag.png)
+
 ### Python  
 
 - tokyo.py  

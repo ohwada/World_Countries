@@ -5,7 +5,7 @@ Tokyo 23 wards Shape
 
 plot Shape of Tokyo 23 wards
 
-![tokyo 23 wards]()
+![tokyo 23 wards](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/folium/tokyo_23_wards_shape/screenshots/tokyo_23_wards_shape.png)
 
 ### Python  
 
