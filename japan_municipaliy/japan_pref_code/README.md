@@ -6,7 +6,7 @@ Japan Pref Code
 JIS X 0401 により、
 各都道府県に概ね北東から南西へ、01から47までの符号が割り振られている。
 
-![japan pref code](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/japan_pref_code/screenshots/japan_pref_code_list.png)
+![japan pref code](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/japan_pref_code/screenshots/japan_prefecture_code_list.png)
 
 ### Reference 
 
