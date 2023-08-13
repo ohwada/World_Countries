@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+japan prefecture
+</title>
+</head>
+<body>
+<h2>{body_title}</h2>
+<table style="margin: 30px">
+<thead>
+<tr>
+<th>コード</th>
+<th>県旗</th>
+<th>英語名</th>
+<th>都道府県</th>
+<th>県庁所在地<br/>(市)</th>
+<th>位置座標<br/>(Google_Map)</th>
+</tr>
+</thead>
+<tbody>
+{rows}
+</tbody>
+</table>
+
+<h2>Reference<h2>
+{reference}
+</body>
+</html>

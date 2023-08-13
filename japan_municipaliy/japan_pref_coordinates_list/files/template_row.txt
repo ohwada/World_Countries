@@ -1,0 +1,8 @@
+<tr>
+<td>{code}</td>
+<td>{flag}</td>
+<td>{name_en}</td>
+<td>{icon} {pref}</td>
+<td>{capital}</td>
+<td>{coordinates}</td>
+</tr>
