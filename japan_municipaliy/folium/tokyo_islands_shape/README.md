@@ -5,7 +5,7 @@ Tokyo Islands Shape
 
 plot Shape of Tokyo islands
 
-![tokyo islands]()
+![tokyo islands](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/folium/tokyo_islands_shape/screenshots/toyo_islands_shape.png)
 
 ### Python  
 
