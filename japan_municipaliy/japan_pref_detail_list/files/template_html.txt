@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+city code
+</title>
+</head>
+<body>
+<h2>{body_title}</h2>
+<table style="margin: 30px">
+<thead>
+<tr>
+<th>JIS番号</th>
+<th>都道府県</th>
+<th>読み</th>
+<th>県旗	都道府県庁所在地</th>
+<th>最大都市</th>
+<th>旗</th>
+<th>地方<th>
+<th>人口<br/>(人)</th>
+<th>面積<br/>(km2)</th>
+<th>人口密度<br/>(km2)</th>
+<th>市町村数</th>
+<th>国会定数<br/>衆 / 参</th>
+</tr>
+</thead>
+<tbody>
+{rows}
+</tbody>
+</table>
+
+<h2>Reference<h2>
+{reference}
+</body>
+</html>

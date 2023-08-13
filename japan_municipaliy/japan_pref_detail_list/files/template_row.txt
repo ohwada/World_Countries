@@ -1,0 +1,14 @@
+<tr>
+<td>{code}</td>
+<td>{pref}</td>
+<td>{yomi}</td>
+<td>{capital}</td>
+<td>{largest}</td>
+<td>{flag}</td>
+<td>{region}<td>
+<td>{population}</td>
+<td>{area}</td>
+<td>{density}</td>
+<td>{number_of_cities}</td>
+<td>{diet}</td>
+</tr>
