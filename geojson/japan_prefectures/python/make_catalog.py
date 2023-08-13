@@ -6,7 +6,7 @@ import os
 import json
 
 
-FILE_LIST = 'data/japan_prefecture_code_list.json'
+FILE_LIST = 'data/japan_prefecture_coordinates_list.json'
 
 FILE_OUTPUT = 'japan_prefecture_geojson_catalog.json'
 
@@ -26,12 +26,12 @@ def find_pref(pref_code, name_ja):
 	matched = None
 	for item in list_prefectures:
 		code = item['code']
-		kanji = item['kanji']
+		name_pref = item['name_pref']
 		if code == pref_code:
 			is_match = True
 			matched = item
 			break
-		if kanji == name_ja:
+		if name_pref == name_ja:
 			is_match = True
 			matched = item
 			break
@@ -67,7 +67,7 @@ for  filename in files:
 	is_match, matched = item =find_pref(pref_code, name_ja)
 	if is_match:
 		code = matched['code']
-		name_en = matched['name']
+		name_en = matched['name_en']
 		lat = matched['lat']
 		lon = matched['lon']
 	d = {}
@@ -84,11 +84,11 @@ sort_prefectures = []
 
 for item2 in list_prefectures:
 		code2 = item2['code']
-		kanji = item2['kanji']
+		name_pref = item2['name_pref']
 		for item3 in prefectures:
 			code3 = item3['code']
 			name_ja = item3['name_ja']
-			if (code2 == code3) or (kanji == name_ja):
+			if (code2 == code3) or (name_pref == name_ja):
 				sort_prefectures.append(item3)
 #				
 

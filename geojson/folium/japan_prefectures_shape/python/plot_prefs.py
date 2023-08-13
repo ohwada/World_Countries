@@ -8,7 +8,7 @@ import json
 import urllib.parse
 
 
-FILE_LIST = 'data/japan_prefecture_code_list.json'
+FILE_LIST = 'data/japan_prefecture_coordinates_list.json'
 
 
 FILE_CATALOG = 'data/japan_prefecture_geojson_catalog.json'
@@ -45,8 +45,8 @@ def find_pref(pref_code, name_ja):
 	marker = None
 	for item in list_prefectures1:
 		code =item['code']
-		kanji =item['kanji']
-		city = item['city']
+		name_pref =item['name_pref']
+		name_city = item['name_capital_city']
 		url_flag = item['url_flag']
 		flag_width = item['flag_width']
 		flag_height = item['flag_height']
@@ -55,11 +55,11 @@ def find_pref(pref_code, name_ja):
 		if code == pref_code:
 			is_match = True
 			break
-		if kanji == name_ja:
+		if name_pref == name_ja:
 			is_match = True
 			break
 	if is_match:
-		popup_title = FORMAT_POPUP_TITLE.format(pref=kanji, city=city)
+		popup_title = FORMAT_POPUP_TITLE.format(pref=name_pref, city=name_city)
 		height = int( (ICON_WIDTH * flag_height) / flag_width )
 		icon = CustomIcon(
         icon_image =  url_flag,
