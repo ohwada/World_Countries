@@ -8,7 +8,7 @@ import json
 
 TITLE = '都道府県の県旗'
 
-FILE_LIST = 'data/japan_prefecture_code_list.json'
+FILE_LIST = 'data/japan_prefecture_coordinates_list.json'
 
 FILE_HTML = 'japan_prefectures_flag.html'
 
@@ -45,8 +45,8 @@ map = folium.Map(location=[lat_center, lon_center], zoom_start=ZOOM)
 
 # contries
 for item in list_prefectures:
-    pref_name = item['kanji']
-    city_name = item['city']
+    pref_name = item['name_pref']
+    city_name = item['name_capital_city']
     url_flag = item['url_flag']
     flag_width = item['flag_width']
     flag_height = item['flag_height']
