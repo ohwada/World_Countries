@@ -5,7 +5,7 @@ Japan Pref detail List
 
  List of Japan prefectures detail
 
-![japan pref detail list]()
+![japan pref detail list](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/japan_pref_detail_list/screenshots/japan_prefecture_detail_list.png)
 
 ### Reference
 

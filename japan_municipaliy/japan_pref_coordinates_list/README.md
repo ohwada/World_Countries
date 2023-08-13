@@ -5,7 +5,7 @@ Japan Pref coordinates List
 
  List of Japan prefectures coordinates
 
-![japan pref coordinates list]()
+![japan pref coordinates list](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/japan_pref_coordinates_list/screenshots/japan_prefecture_coordinates_list.png)
 
 ### Reference
 

@@ -5,7 +5,8 @@ Japan Prefectures Flag
 
 display Flags of Japan Prefectures
 
-[japan prefectures flag](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/folium/japan_prefectures_flag/screenshots/japan_prefectures_flag.png)
+![japan prefectures flag](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/folium/japan_prefectures_flag/screenshots/japan_prefectures_flag.png)
+
 
 ### Python  
 
