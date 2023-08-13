@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# tokyo.py
+# tokyo_tama.py
 # 2023-06-01 K.OHWADA
 
 import folium
@@ -11,20 +11,11 @@ import urllib.parse
 
 TITLE = '東京多摩地域の市町村'
 
-desc = '赤: 東京都の外形 緑: 多摩西部の外形 青: 多摩東部の外形 黄色: 東京23区'
-
 FILE_LIST = 'data/tokyo_tama_area_list.json'
 
 FILE_CATALOG = 'data/japan_city_geojson_catalog.json'
 
 URL_TOKYO = 'https://raw.githubusercontent.com/ohwada/World_Countries/main/geojson/japan_prefectures/geojson/tokyo.geojson'
-
-URL_TOKYO_TAMA_EAST = 'https://geoshape.ex.nii.ac.jp/jma/resource/AreaForecastLocalE/20190125/351.geojson'
-
-URL_TOKYO_TAMA_WEST = 'https://geoshape.ex.nii.ac.jp/jma/resource/AreaForecastLocalE/20190125/352.geojson'
-
-URL_TOKYO_23_WARDS = 'https://geoshape.ex.nii.ac.jp/jma/resource/AreaForecastLocalE/20190125/350.geojson'
-
 
 FILE_COLOR = 'data/web_colors_100.json'
 
@@ -33,8 +24,7 @@ FILE_HTML = 'tokyo_tama_area_shape.html'
 TOKYO = '東京都'
 
 
-FORMAT_TITLE = '<h3 align="center">{body_title}</h3><div align="center">{desc}</div>'
-
+FORMAT_TITLE = '<h3 align="center">{body_title}</h3>'
 
 
 # Tokyo Tama city
@@ -138,19 +128,7 @@ map = folium.Map(location=[lat, lon], tiles="cartodbpositron", zoom_start= ZOOM 
 
 # GeoJson
 folium.GeoJson( URL_TOKYO,
-style_function=style_function_red).add_to(map)
-
-
-gjson1 = folium.GeoJson( URL_TOKYO_23_WARDS,
 style_function=style_function_yellow).add_to(map)
-folium.features.GeoJsonPopup( fields=['name'], labels=False ).add_to(gjson1)
-
-folium.GeoJson( URL_TOKYO_TAMA_WEST,
-style_function=style_function_green).add_to(map)
-
-folium.GeoJson( URL_TOKYO_TAMA_EAST,
-style_function=style_function_blue).add_to(map)
-
 
 
 for item2 in list_prefectures :
@@ -173,7 +151,7 @@ for item2 in list_prefectures :
 
 
 # add title
-title_html = FORMAT_TITLE.format(body_title=TITLE, desc =desc)
+title_html = FORMAT_TITLE.format(body_title=TITLE)
 map.get_root().html.add_child(folium.Element(title_html))
 
 
