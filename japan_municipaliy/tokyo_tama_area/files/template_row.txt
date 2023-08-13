@@ -1,0 +1,13 @@
+<tr>
+<td>{number}</td>
+<td>{code}</td>
+<td>{name_en}</td>
+<td width="{city_width}">{city}</td>
+<td align="center">{flag}</td>
+<td>{population}</td>
+<td>{area}</td>
+<td>{density}</td>
+<td>{revenue}</td>
+<td>{established}</td>
+<td>{coordinates}</td>
+</tr>
