@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_1e754e7b3273e38c114f509cd8d17fc7 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+             <h3 align="center">東京都島嶼部の自治体の旗</h3>
+             
+    
+            <div class="folium-map" id="map_1e754e7b3273e38c114f509cd8d17fc7" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_1e754e7b3273e38c114f509cd8d17fc7 = L.map(
+                "map_1e754e7b3273e38c114f509cd8d17fc7",
+                {
+                    center: [34.08008, 139.55908],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 8,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_1dd0ff899d3e86c93994e6e4b49d8b66 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_1e754e7b3273e38c114f509cd8d17fc7);
+        
+    
+            var marker_682c0e061fe52515c2629b83ae344345 = L.marker(
+                [34.75014, 139.3555],
+                {}
+            ).addTo(map_1e754e7b3273e38c114f509cd8d17fc7);
+        
+    
+        var custom_icon_477b10f5236cdd77a2683ec429d3e8ca = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Oshima%2C_Tokyo.svg/50px-Flag_of_Oshima%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_682c0e061fe52515c2629b83ae344345.setIcon(custom_icon_477b10f5236cdd77a2683ec429d3e8ca);
+        
+    
+        var popup_898d2bd11ea35ca454c507725e604ce1 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_cab128ad654e9da9211a2ddc37330459 = $(`<div id="html_cab128ad654e9da9211a2ddc37330459" style="width: 100.0%; height: 100.0%;">大島町</div>`)[0];
+                popup_898d2bd11ea35ca454c507725e604ce1.setContent(html_cab128ad654e9da9211a2ddc37330459);
+            
+        
+
+        marker_682c0e061fe52515c2629b83ae344345.bindPopup(popup_898d2bd11ea35ca454c507725e604ce1)
+        ;
+
+        
+    
+    
+            var marker_ceabf9db3f4a6df7643097ecf224a3b1 = L.marker(
+                [34.52914, 139.28192],
+                {}
+            ).addTo(map_1e754e7b3273e38c114f509cd8d17fc7);
+        
+    
+        var custom_icon_9726deca7f9b055c431cae837f4ac7fb = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Toshima_Village%2C_Tokyo.svg/50px-Flag_of_Toshima_Village%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_ceabf9db3f4a6df7643097ecf224a3b1.setIcon(custom_icon_9726deca7f9b055c431cae837f4ac7fb);
+        
+    
+        var popup_5b0f19035bd146cd82a88263522ab366 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_53d5a1c39e64153230bf14c67db65479 = $(`<div id="html_53d5a1c39e64153230bf14c67db65479" style="width: 100.0%; height: 100.0%;">利島村</div>`)[0];
+                popup_5b0f19035bd146cd82a88263522ab366.setContent(html_53d5a1c39e64153230bf14c67db65479);
+            
+        
+
+        marker_ceabf9db3f4a6df7643097ecf224a3b1.bindPopup(popup_5b0f19035bd146cd82a88263522ab366)
+        ;
+
+        
+    
+    
+            var marker_72d5d1f65f085f8febc89544c39443c4 = L.marker(
+                [34.37706, 139.25675],
+                {}
+            ).addTo(map_1e754e7b3273e38c114f509cd8d17fc7);
+        
+    
+        var custom_icon_bb99ed334558e8964451c3bdcb12a97f = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Niijima%2C_Tokyo.svg/50px-Flag_of_Niijima%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_72d5d1f65f085f8febc89544c39443c4.setIcon(custom_icon_bb99ed334558e8964451c3bdcb12a97f);
+        
+    
+        var popup_3ad3fe7fa97bd81d4688db913fe96790 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_6b704469b878f7f8bcbc68f18b312297 = $(`<div id="html_6b704469b878f7f8bcbc68f18b312297" style="width: 100.0%; height: 100.0%;">新島村</div>`)[0];
+                popup_3ad3fe7fa97bd81d4688db913fe96790.setContent(html_6b704469b878f7f8bcbc68f18b312297);
+            
+        
+
+        marker_72d5d1f65f085f8febc89544c39443c4.bindPopup(popup_3ad3fe7fa97bd81d4688db913fe96790)
+        ;
+
+        
+    
+    
+            var marker_1db4c37ac04f50ccda64a25c92955606 = L.marker(
+                [34.20553, 139.13447],
+                {}
+            ).addTo(map_1e754e7b3273e38c114f509cd8d17fc7);
+        
+    
+        var custom_icon_0bfa2673e0c89161583c3742fff60465 = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Kozushima%2C_Tokyo.svg/50px-Flag_of_Kozushima%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_1db4c37ac04f50ccda64a25c92955606.setIcon(custom_icon_0bfa2673e0c89161583c3742fff60465);
+        
+    
+        var popup_527bb73d7707b6422721243848af89e7 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_888872d4c14eba830714416320bce0a8 = $(`<div id="html_888872d4c14eba830714416320bce0a8" style="width: 100.0%; height: 100.0%;">神津島村</div>`)[0];
+                popup_527bb73d7707b6422721243848af89e7.setContent(html_888872d4c14eba830714416320bce0a8);
+            
+        
+
+        marker_1db4c37ac04f50ccda64a25c92955606.bindPopup(popup_527bb73d7707b6422721243848af89e7)
+        ;
+
+        
+    
+    
+            var marker_3de2e343fb2c4a5ba93415f6eceb0648 = L.marker(
+                [34.08008, 139.55908],
+                {}
+            ).addTo(map_1e754e7b3273e38c114f509cd8d17fc7);
+        
+    
+        var custom_icon_1232ff9816f91bb71e5c793ff687a268 = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Miyake%2C_Tokyo.svg/50px-Flag_of_Miyake%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_3de2e343fb2c4a5ba93415f6eceb0648.setIcon(custom_icon_1232ff9816f91bb71e5c793ff687a268);
+        
+    
+        var popup_1211423963128fab6e178db58542166e = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_437d8f9d3e0b5cbbae6b7a1ec6930ad0 = $(`<div id="html_437d8f9d3e0b5cbbae6b7a1ec6930ad0" style="width: 100.0%; height: 100.0%;">三宅村</div>`)[0];
+                popup_1211423963128fab6e178db58542166e.setContent(html_437d8f9d3e0b5cbbae6b7a1ec6930ad0);
+            
+        
+
+        marker_3de2e343fb2c4a5ba93415f6eceb0648.bindPopup(popup_1211423963128fab6e178db58542166e)
+        ;
+
+        
+    
+    
+            var marker_3725c83319f4ce5134feb9404b7a4989 = L.marker(
+                [33.89739, 139.59581],
+                {}
+            ).addTo(map_1e754e7b3273e38c114f509cd8d17fc7);
+        
+    
+        var custom_icon_90d0b71bd168d93bb3a5a2baf1012784 = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Mikurajima%2C_Tokyo.svg/50px-Flag_of_Mikurajima%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_3725c83319f4ce5134feb9404b7a4989.setIcon(custom_icon_90d0b71bd168d93bb3a5a2baf1012784);
+        
+    
+        var popup_851da18a665b8dd8d87decebef3aacef = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_b7a3e2c4f986de504ac629ccfb71e50f = $(`<div id="html_b7a3e2c4f986de504ac629ccfb71e50f" style="width: 100.0%; height: 100.0%;">御蔵島村</div>`)[0];
+                popup_851da18a665b8dd8d87decebef3aacef.setContent(html_b7a3e2c4f986de504ac629ccfb71e50f);
+            
+        
+
+        marker_3725c83319f4ce5134feb9404b7a4989.bindPopup(popup_851da18a665b8dd8d87decebef3aacef)
+        ;
+
+        
+    
+    
+            var marker_6a675200de16137311851811f3923b0e = L.marker(
+                [33.1095, 139.79089],
+                {}
+            ).addTo(map_1e754e7b3273e38c114f509cd8d17fc7);
+        
+    
+        var custom_icon_a704a08444d164f9f9f09ab9d06c7011 = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Flag_of_Hachijo%2C_Tokyo.svg/50px-Flag_of_Hachijo%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_6a675200de16137311851811f3923b0e.setIcon(custom_icon_a704a08444d164f9f9f09ab9d06c7011);
+        
+    
+        var popup_dbbe19fd7c1d19ec66ed31c94ddb0a51 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_d4f9239ac0a7b4ef3a3067082853d707 = $(`<div id="html_d4f9239ac0a7b4ef3a3067082853d707" style="width: 100.0%; height: 100.0%;">八丈町</div>`)[0];
+                popup_dbbe19fd7c1d19ec66ed31c94ddb0a51.setContent(html_d4f9239ac0a7b4ef3a3067082853d707);
+            
+        
+
+        marker_6a675200de16137311851811f3923b0e.bindPopup(popup_dbbe19fd7c1d19ec66ed31c94ddb0a51)
+        ;
+
+        
+    
+    
+            var marker_f7a48a49248c5d27fdf1d917c5ba1a25 = L.marker(
+                [32.46669, 139.7635],
+                {}
+            ).addTo(map_1e754e7b3273e38c114f509cd8d17fc7);
+        
+    
+        var custom_icon_ca57c411aab8cf6f479de503b19aadee = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Aogashima%2C_Tokyo.svg/50px-Flag_of_Aogashima%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_f7a48a49248c5d27fdf1d917c5ba1a25.setIcon(custom_icon_ca57c411aab8cf6f479de503b19aadee);
+        
+    
+        var popup_b5e5c83656b545296ca8a5de9962c97d = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_0bb74b14e6e2032321771a7adb194a4a = $(`<div id="html_0bb74b14e6e2032321771a7adb194a4a" style="width: 100.0%; height: 100.0%;">青ヶ島村</div>`)[0];
+                popup_b5e5c83656b545296ca8a5de9962c97d.setContent(html_0bb74b14e6e2032321771a7adb194a4a);
+            
+        
+
+        marker_f7a48a49248c5d27fdf1d917c5ba1a25.bindPopup(popup_b5e5c83656b545296ca8a5de9962c97d)
+        ;
+
+        
+    
+    
+            var marker_53c925dee84b9c4b844fbbe58bdcc891 = L.marker(
+                [27.09419, 142.19192],
+                {}
+            ).addTo(map_1e754e7b3273e38c114f509cd8d17fc7);
+        
+    
+        var custom_icon_2439975350885b28f018b05a27b90376 = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Ogasawara%2C_Tokyo.svg/50px-Flag_of_Ogasawara%2C_Tokyo.svg.png", "popupAnchor": [0, 0]});
+        marker_53c925dee84b9c4b844fbbe58bdcc891.setIcon(custom_icon_2439975350885b28f018b05a27b90376);
+        
+    
+        var popup_d2634b37d6f0530131f3f72ae546ce49 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_f0001d0dbc9efa9533418f72d1de9317 = $(`<div id="html_f0001d0dbc9efa9533418f72d1de9317" style="width: 100.0%; height: 100.0%;">小笠原村</div>`)[0];
+                popup_d2634b37d6f0530131f3f72ae546ce49.setContent(html_f0001d0dbc9efa9533418f72d1de9317);
+            
+        
+
+        marker_53c925dee84b9c4b844fbbe58bdcc891.bindPopup(popup_d2634b37d6f0530131f3f72ae546ce49)
+        ;
+
+        
+    
+</script>
+</html>
