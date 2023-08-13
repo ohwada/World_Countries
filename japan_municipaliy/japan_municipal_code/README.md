@@ -6,7 +6,7 @@ Japan Municipal Code
 日本の地方公共団体につけられた、
 数字3桁または5桁または6桁の符号（コード）である。
 
-![japan municipal code](https://github.com/ohwada/World_Countries/blob/main/japan_municipal_code/japan_municipal_code/screenshots/apan_municipal_code.png)
+![japan municipal code](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/japan_municipal_code/screenshots/apan_municipal_code.png)
 
 ### Reference
 

@@ -5,7 +5,8 @@ Japan Ordinance Designated City List
 
 List of Japan Ordinance Designated Cities
 
-![japan ordinance designated city list](https://github.com/ohwada/World_Countries/blob/main/japan_municipal_code/japan_ordinance_designated_city_list/screenshots/japan_ordinance_designated_city_list.png)
+![japan ordinance designated city list](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/japan_ordinance_designated_city_list/screenshots/japan_ordinance_designated_city_list.png)
+
 
 ### Reference
 

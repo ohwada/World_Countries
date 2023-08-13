@@ -5,6 +5,10 @@ Tokyo Tama area Flag
 
 display Flag of cities in Tokyo Tama area
 
+![tokyo tama area flag](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/folium/tokyo_tama_area_flag/screenshots/tokyo_tama_area_flag.png)
+
+https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/folium/tokyo_tama_area_flag/screenshots/tokyo_tama_area_flag.png
+
 ### Python  
 
 - tokyo.py  

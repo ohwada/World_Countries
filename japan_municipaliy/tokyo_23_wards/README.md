@@ -5,7 +5,8 @@ Tokyo 23 wards
 
 List of Tokyo 23 wards
 
-![tokyo 23 wards](https://github.com/ohwada/World_Countries/blob/main/japan_municipal_code/tokyo_23_wards/screenshots/tokyo_23_wards_list.png)
+![tokyo 23 wards](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/tokyo_23_wards/screenshots/tokyo_23_wards_list.png)
+
 
 ### Reference
 

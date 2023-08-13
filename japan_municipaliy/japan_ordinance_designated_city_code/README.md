@@ -7,7 +7,7 @@ Japan Ordinance Designated City Code
 日本の地方公共団体につけられた、
 数字3桁または5桁または6桁の符号（コード）である。
 
-![japan ordinance designated city code](https://github.com/ohwada/World_Countries/blob/main/japan_municipal_code/japan_ordinance_designated_city_code/screenshots/japan_ordinance_designated_city_code.png)
+![japan ordinance designated city code](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/japan_ordinance_designated_city_code/screenshots/japan_ordinance_designated_city_code.png)
 
 ### Reference
 
