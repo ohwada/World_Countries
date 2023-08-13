@@ -9,7 +9,8 @@ plot Shape of cities in Tokyo Tama area
 
 ### Python  
 
-- tokyo.py
+- tokyo_tama.py
+- tokyo_tama_outline.py
 
 ### Reference
 
