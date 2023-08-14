@@ -3,8 +3,11 @@
 <table style="margin: 30px">
 <thead>
 <tr>
-<th>Code</th>
-<th>Name</th>
+<th>都道府県名</th>
+<th>支庁・振興局名</th>
+<th>郡・政令都市名</th>
+<th>市区町村名</th>
+<th>行政区域コード</th>
 <th>FilePath</th>
 </tr>
 </thead>
