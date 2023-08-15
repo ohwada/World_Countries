@@ -5,7 +5,7 @@ Japan Designated City List Soumu
 
 List of Japan Designated Cities
 
-[japan designated city list]()
+![japan designated city list](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/japan_designated_city_list_soumu/screenshots/japan_designated_city_list_soumu.png)
 
 ### Reference
 

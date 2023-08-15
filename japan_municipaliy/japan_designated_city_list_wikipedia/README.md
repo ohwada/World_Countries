@@ -5,7 +5,7 @@ Japan Designated City List wikipeadia
 
 List of Japan Designated Cities
 
-[japan designated city list]()
+![japan designated city list](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/japan_designated_city_list_wikipedia/screenshots/japan_designated_city_detail_list.png)
 
 ### Reference
 
