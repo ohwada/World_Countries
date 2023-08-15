@@ -5,7 +5,7 @@ Japan Designated City Flag
 
 display Flag of Japan Ordinance Designated City
 
-[japan designated city flag](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/folium/japan_designated_city_flag/screenshots/japan_designated_city_flag.png)
+![japan designated city flag](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/folium/japan_designated_city_flag/screenshots/japan_designated_city_flag.png)
 
 ### Python  
 
