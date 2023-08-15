@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_2553132bf21ef91b6bf2c2ea49b48991 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+             <h3 align="center">政令指定都市の市旗</h3>
+             
+    
+            <div class="folium-map" id="map_2553132bf21ef91b6bf2c2ea49b48991" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_2553132bf21ef91b6bf2c2ea49b48991 = L.map(
+                "map_2553132bf21ef91b6bf2c2ea49b48991",
+                {
+                    center: [35.689722, 139.692222],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 6,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_de0b689a468d283ec0d1dcf6d9e60554 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_2553132bf21ef91b6bf2c2ea49b48991);
+        
+    
+            var marker_8638dfe7f31c700c0a0969248cf1962c = L.marker(
+                [43.06208, 141.35439],
+                {}
+            ).addTo(map_2553132bf21ef91b6bf2c2ea49b48991);
+        
+    
+        var custom_icon_07ba269d96b74383a8216e5f1d36072c = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_Sapporo%2C_Hokkaido.svg/50px-Flag_of_Sapporo%2C_Hokkaido.svg.png", "popupAnchor": [0, 0]});
+        marker_8638dfe7f31c700c0a0969248cf1962c.setIcon(custom_icon_07ba269d96b74383a8216e5f1d36072c);
+        
+    
+        var popup_3adf16133c7e0a1b29bfdc739c120e1c = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_7a6de4f9ca9634586ba95af8e4341cce = $(`<div id="html_7a6de4f9ca9634586ba95af8e4341cce" style="width: 100.0%; height: 100.0%;">札幌市</div>`)[0];
+                popup_3adf16133c7e0a1b29bfdc739c120e1c.setContent(html_7a6de4f9ca9634586ba95af8e4341cce);
+            
+        
+
+        marker_8638dfe7f31c700c0a0969248cf1962c.bindPopup(popup_3adf16133c7e0a1b29bfdc739c120e1c)
+        ;
+
+        
+    
+    
+            var marker_423c5afe245b8d152f6eef147983cd61 = L.marker(
+                [38.26822, 140.86942],
+                {}
+            ).addTo(map_2553132bf21ef91b6bf2c2ea49b48991);
+        
+    
+        var custom_icon_929dbfea5e91070b0be8cc013a938277 = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_Sendai%2C_Miyagi.svg/50px-Flag_of_Sendai%2C_Miyagi.svg.png", "popupAnchor": [0, 0]});
+        marker_423c5afe245b8d152f6eef147983cd61.setIcon(custom_icon_929dbfea5e91070b0be8cc013a938277);
+        
+    
+        var popup_864f3842465f1aa00fb0c314bf9199f4 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_070f5a137118b14e558f60638b79342c = $(`<div id="html_070f5a137118b14e558f60638b79342c" style="width: 100.0%; height: 100.0%;">仙台市</div>`)[0];
+                popup_864f3842465f1aa00fb0c314bf9199f4.setContent(html_070f5a137118b14e558f60638b79342c);
+            
+        
+
+        marker_423c5afe245b8d152f6eef147983cd61.bindPopup(popup_864f3842465f1aa00fb0c314bf9199f4)
+        ;
+
+        
+    
+    
+            var marker_5accf28f352c2226554da64499fc4a5e = L.marker(
+                [35.8614, 139.6456],
+                {}
+            ).addTo(map_2553132bf21ef91b6bf2c2ea49b48991);
+        
+    
+        var custom_icon_c38154d61b9cc2ad906ea603a979b81e = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Flag_of_Saitama%2C_Saitama.svg/50px-Flag_of_Saitama%2C_Saitama.svg.png", "popupAnchor": [0, 0]});
+        marker_5accf28f352c2226554da64499fc4a5e.setIcon(custom_icon_c38154d61b9cc2ad906ea603a979b81e);
+        
+    
+        var popup_78862108241c0275233e0604a2e131e8 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_6c63d76ff18347a20974644f2aea1cf5 = $(`<div id="html_6c63d76ff18347a20974644f2aea1cf5" style="width: 100.0%; height: 100.0%;">さいたま市</div>`)[0];
+                popup_78862108241c0275233e0604a2e131e8.setContent(html_6c63d76ff18347a20974644f2aea1cf5);
+            
+        
+
+        marker_5accf28f352c2226554da64499fc4a5e.bindPopup(popup_78862108241c0275233e0604a2e131e8)
+        ;
+
+        
+    
+    
+            var marker_c0a9f21ca2b686575a859b8a75575c2c = L.marker(
+                [35.60728, 140.10636],
+                {}
+            ).addTo(map_2553132bf21ef91b6bf2c2ea49b48991);
+        
+    
+        var custom_icon_4318b6e029000e08068a02e489dc1123 = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Chiba%2C_Chiba.svg/50px-Flag_of_Chiba%2C_Chiba.svg.png", "popupAnchor": [0, 0]});
+        marker_c0a9f21ca2b686575a859b8a75575c2c.setIcon(custom_icon_4318b6e029000e08068a02e489dc1123);
+        
+    
+        var popup_cf5c1c92ad0bbb6d46f7aa211bdc1fe4 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_b7d7619b33206486ea6c585731629f32 = $(`<div id="html_b7d7619b33206486ea6c585731629f32" style="width: 100.0%; height: 100.0%;">千葉市</div>`)[0];
+                popup_cf5c1c92ad0bbb6d46f7aa211bdc1fe4.setContent(html_b7d7619b33206486ea6c585731629f32);
+            
+        
+
+        marker_c0a9f21ca2b686575a859b8a75575c2c.bindPopup(popup_cf5c1c92ad0bbb6d46f7aa211bdc1fe4)
+        ;
+
+        
+    
+    
+            var marker_8eab5a2c2bc52c4b66ab527d8bb6ca09 = L.marker(
+                [35.45033, 139.63422],
+                {}
+            ).addTo(map_2553132bf21ef91b6bf2c2ea49b48991);
+        
+    
+        var custom_icon_3e4fee0162e51fe54dcd453d776605ce = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Yokohama%2C_Kanagawa.svg/50px-Flag_of_Yokohama%2C_Kanagawa.svg.png", "popupAnchor": [0, 0]});
+        marker_8eab5a2c2bc52c4b66ab527d8bb6ca09.setIcon(custom_icon_3e4fee0162e51fe54dcd453d776605ce);
+        
+    
+        var popup_fc1b7b394cf3c89ae29ef2da0020334a = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_d312b211423cfa0d19272b1b4a5e60c3 = $(`<div id="html_d312b211423cfa0d19272b1b4a5e60c3" style="width: 100.0%; height: 100.0%;">横浜市</div>`)[0];
+                popup_fc1b7b394cf3c89ae29ef2da0020334a.setContent(html_d312b211423cfa0d19272b1b4a5e60c3);
+            
+        
+
+        marker_8eab5a2c2bc52c4b66ab527d8bb6ca09.bindPopup(popup_fc1b7b394cf3c89ae29ef2da0020334a)
+        ;
+
+        
+    
+    
+            var marker_299755d606f9081581ea0408807a8bf9 = L.marker(
+                [35.53089, 139.703],
+                {}
+            ).addTo(map_2553132bf21ef91b6bf2c2ea49b48991);
+        
+    
+        var custom_icon_10e9dc669adb96281b649f2f32655b06 = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 35], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_of_Kawasaki%2C_Kanagawa.svg/50px-Flag_of_Kawasaki%2C_Kanagawa.svg.png", "popupAnchor": [0, 0]});
+        marker_299755d606f9081581ea0408807a8bf9.setIcon(custom_icon_10e9dc669adb96281b649f2f32655b06);
+        
+    
+        var popup_2cd8fe65ef590bd8b7a3a6a927536cf8 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_8f08b1cbebd096d1226148153c7560f8 = $(`<div id="html_8f08b1cbebd096d1226148153c7560f8" style="width: 100.0%; height: 100.0%;">川崎市</div>`)[0];
+                popup_2cd8fe65ef590bd8b7a3a6a927536cf8.setContent(html_8f08b1cbebd096d1226148153c7560f8);
+            
+        
+
+        marker_299755d606f9081581ea0408807a8bf9.bindPopup(popup_2cd8fe65ef590bd8b7a3a6a927536cf8)
+        ;
+
+        
+    
+    
+            var marker_0228189d8869074cf623556406d59fb9 = L.marker(
+                [35.57142, 139.37314],
+                {}
+            ).addTo(map_2553132bf21ef91b6bf2c2ea49b48991);
+        
+    
+        var custom_icon_3edbf06792ab59f8876730c3815c6a60 = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_Sagamihara%2C_Kanagawa.svg/50px-Flag_of_Sagamihara%2C_Kanagawa.svg.png", "popupAnchor": [0, 0]});
+        marker_0228189d8869074cf623556406d59fb9.setIcon(custom_icon_3edbf06792ab59f8876730c3815c6a60);
+        
+    
+        var popup_910b59fcb32d906161861d1f4a59de80 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_cd22b5f1ebe024d0a92676895cb46169 = $(`<div id="html_cd22b5f1ebe024d0a92676895cb46169" style="width: 100.0%; height: 100.0%;">相模原市</div>`)[0];
+                popup_910b59fcb32d906161861d1f4a59de80.setContent(html_cd22b5f1ebe024d0a92676895cb46169);
+            
+        
+
+        marker_0228189d8869074cf623556406d59fb9.bindPopup(popup_910b59fcb32d906161861d1f4a59de80)
+        ;
+
+        
+    
+    
+            var marker_d26dc95bb6579b037fc386a390f89386 = L.marker(
+                [37.91619, 139.03639],
+                {}
+            ).addTo(map_2553132bf21ef91b6bf2c2ea49b48991);
+        
+    
+        var custom_icon_0ee0105558bf5ca0d46e657d9dd8358f = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Niigata%2C_Niigata.svg/50px-Flag_of_Niigata%2C_Niigata.svg.png", "popupAnchor": [0, 0]});
+        marker_d26dc95bb6579b037fc386a390f89386.setIcon(custom_icon_0ee0105558bf5ca0d46e657d9dd8358f);
+        
+    
+        var popup_b89a104ca00428cb3662c81bb8a31f34 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_76ca2c45d8754db0e0021113e7ca99e5 = $(`<div id="html_76ca2c45d8754db0e0021113e7ca99e5" style="width: 100.0%; height: 100.0%;">新潟市</div>`)[0];
+                popup_b89a104ca00428cb3662c81bb8a31f34.setContent(html_76ca2c45d8754db0e0021113e7ca99e5);
+            
+        
+
+        marker_d26dc95bb6579b037fc386a390f89386.bindPopup(popup_b89a104ca00428cb3662c81bb8a31f34)
+        ;
+
+        
+    
+    
+            var marker_93a17ee6454c1126f39ae030a8b3915c = L.marker(
+                [34.9756, 138.3825],
+                {}
+            ).addTo(map_2553132bf21ef91b6bf2c2ea49b48991);
+        
+    
+        var custom_icon_5172fe6f4ac6f7d4fa97e1a9e38f83e6 = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Shizuoka%2C_Shizuoka.svg/50px-Flag_of_Shizuoka%2C_Shizuoka.svg.png", "popupAnchor": [0, 0]});
+        marker_93a17ee6454c1126f39ae030a8b3915c.setIcon(custom_icon_5172fe6f4ac6f7d4fa97e1a9e38f83e6);
+        
+    
+        var popup_788b504f4a44e157963a4765b4b4b644 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_d16ed1195636a41d5613e76627f5c211 = $(`<div id="html_d16ed1195636a41d5613e76627f5c211" style="width: 100.0%; height: 100.0%;">静岡市</div>`)[0];
+                popup_788b504f4a44e157963a4765b4b4b644.setContent(html_d16ed1195636a41d5613e76627f5c211);
+            
+        
+
+        marker_93a17ee6454c1126f39ae030a8b3915c.bindPopup(popup_788b504f4a44e157963a4765b4b4b644)
+        ;
+
+        
+    
+    
+            var marker_fb9470c452d562a024f4969b059c2e2d = L.marker(
+                [34.71089, 137.72619],
+                {}
+            ).addTo(map_2553132bf21ef91b6bf2c2ea49b48991);
+        
+    
+        var custom_icon_7c060b9bd24466dba3c159b14154abad = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flag_of_Hamamatsu%2C_Shizuoka.svg/50px-Flag_of_Hamamatsu%2C_Shizuoka.svg.png", "popupAnchor": [0, 0]});
+        marker_fb9470c452d562a024f4969b059c2e2d.setIcon(custom_icon_7c060b9bd24466dba3c159b14154abad);
+        
+    
+        var popup_d082b67e01c2383de82d8220a51821a2 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_5867fb15bc88f7399fb83c0547083993 = $(`<div id="html_5867fb15bc88f7399fb83c0547083993" style="width: 100.0%; height: 100.0%;">浜松市</div>`)[0];
+                popup_d082b67e01c2383de82d8220a51821a2.setContent(html_5867fb15bc88f7399fb83c0547083993);
+            
+        
+
+        marker_fb9470c452d562a024f4969b059c2e2d.bindPopup(popup_d082b67e01c2383de82d8220a51821a2)
+        ;
+
+        
+    
+    
+            var marker_769bd2098acf30389e83c8dde1d82a3f = L.marker(
+                [35.1814, 136.9064],
+                {}
+            ).addTo(map_2553132bf21ef91b6bf2c2ea49b48991);
+        
+    
+        var custom_icon_195a0c15272d9deddd10ce6868192ecb = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Flag_of_Nagoya%2C_Aichi.svg/50px-Flag_of_Nagoya%2C_Aichi.svg.png", "popupAnchor": [0, 0]});
+        marker_769bd2098acf30389e83c8dde1d82a3f.setIcon(custom_icon_195a0c15272d9deddd10ce6868192ecb);
+        
+    
+        var popup_aa474f60a0505a0be5becfd85f365e2c = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_49021ac0bfc3383344d806654c566b82 = $(`<div id="html_49021ac0bfc3383344d806654c566b82" style="width: 100.0%; height: 100.0%;">名古屋市</div>`)[0];
+                popup_aa474f60a0505a0be5becfd85f365e2c.setContent(html_49021ac0bfc3383344d806654c566b82);
+            
+        
+
+        marker_769bd2098acf30389e83c8dde1d82a3f.bindPopup(popup_aa474f60a0505a0be5becfd85f365e2c)
+        ;
+
+        
+    
+    
+            var marker_8da666d04b79685f0f6e921800d3d460 = L.marker(
+                [35.01161, 135.76811],
+                {}
+            ).addTo(map_2553132bf21ef91b6bf2c2ea49b48991);
+        
+    
+        var custom_icon_cb933f31f4852b6457a05bb0ca4fe905 = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Kyoto_City.svg/50px-Flag_of_Kyoto_City.svg.png", "popupAnchor": [0, 0]});
+        marker_8da666d04b79685f0f6e921800d3d460.setIcon(custom_icon_cb933f31f4852b6457a05bb0ca4fe905);
+        
+    
+        var popup_1bbd391a5108287ef6cc495bfb6a904e = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_3e096810e9179d725b18c370e1c9b5cd = $(`<div id="html_3e096810e9179d725b18c370e1c9b5cd" style="width: 100.0%; height: 100.0%;">京都市</div>`)[0];
+                popup_1bbd391a5108287ef6cc495bfb6a904e.setContent(html_3e096810e9179d725b18c370e1c9b5cd);
+            
+        
+
+        marker_8da666d04b79685f0f6e921800d3d460.bindPopup(popup_1bbd391a5108287ef6cc495bfb6a904e)
+        ;
+
+        
+    
+    
+            var marker_6abc486d7bd2aeb238501ff1aff94243 = L.marker(
+                [34.69375, 135.50211],
+                {}
+            ).addTo(map_2553132bf21ef91b6bf2c2ea49b48991);
+        
+    
+        var custom_icon_257a0350953c30cd5ad77b7d106f6e2e = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Osaka%2C_Osaka.svg/50px-Flag_of_Osaka%2C_Osaka.svg.png", "popupAnchor": [0, 0]});
+        marker_6abc486d7bd2aeb238501ff1aff94243.setIcon(custom_icon_257a0350953c30cd5ad77b7d106f6e2e);
+        
+    
+        var popup_b79d557814fa2770cad39412d05fcb74 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_79286b5932d38b7b502645603b0e6e60 = $(`<div id="html_79286b5932d38b7b502645603b0e6e60" style="width: 100.0%; height: 100.0%;">大阪市</div>`)[0];
+                popup_b79d557814fa2770cad39412d05fcb74.setContent(html_79286b5932d38b7b502645603b0e6e60);
+            
+        
+
+        marker_6abc486d7bd2aeb238501ff1aff94243.bindPopup(popup_b79d557814fa2770cad39412d05fcb74)
+        ;
+
+        
+    
+    
+            var marker_3128971ea087d609048d62c1c7d42473 = L.marker(
+                [34.57333, 135.483],
+                {}
+            ).addTo(map_2553132bf21ef91b6bf2c2ea49b48991);
+        
+    
+        var custom_icon_a765e6e68de2f1cef1035e722377f9dd = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Sakai%2C_Osaka.svg/50px-Flag_of_Sakai%2C_Osaka.svg.png", "popupAnchor": [0, 0]});
+        marker_3128971ea087d609048d62c1c7d42473.setIcon(custom_icon_a765e6e68de2f1cef1035e722377f9dd);
+        
+    
+        var popup_5a5bfa250781a31523661214ad138340 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_9999cc72791f86301b3996384628be98 = $(`<div id="html_9999cc72791f86301b3996384628be98" style="width: 100.0%; height: 100.0%;">堺市</div>`)[0];
+                popup_5a5bfa250781a31523661214ad138340.setContent(html_9999cc72791f86301b3996384628be98);
+            
+        
+
+        marker_3128971ea087d609048d62c1c7d42473.bindPopup(popup_5a5bfa250781a31523661214ad138340)
+        ;
+
+        
+    
+    
+            var marker_5b90d0fecb6d3162be8120a13c9fc608 = L.marker(
+                [34.69017, 135.19544],
+                {}
+            ).addTo(map_2553132bf21ef91b6bf2c2ea49b48991);
+        
+    
+        var custom_icon_c2dbda09615c1afbeefbae1cb5daec8e = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Kobe.svg/50px-Flag_of_Kobe.svg.png", "popupAnchor": [0, 0]});
+        marker_5b90d0fecb6d3162be8120a13c9fc608.setIcon(custom_icon_c2dbda09615c1afbeefbae1cb5daec8e);
+        
+    
+        var popup_faae311c45e29bb170c1ffae8b28e30b = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_1c371e7ef96bcd4e4f13c2da8fbdee7a = $(`<div id="html_1c371e7ef96bcd4e4f13c2da8fbdee7a" style="width: 100.0%; height: 100.0%;">神戸市</div>`)[0];
+                popup_faae311c45e29bb170c1ffae8b28e30b.setContent(html_1c371e7ef96bcd4e4f13c2da8fbdee7a);
+            
+        
+
+        marker_5b90d0fecb6d3162be8120a13c9fc608.bindPopup(popup_faae311c45e29bb170c1ffae8b28e30b)
+        ;
+
+        
+    
+    
+            var marker_ebd436034950f8fe00577a8eca228447 = L.marker(
+                [34.65511, 133.91958],
+                {}
+            ).addTo(map_2553132bf21ef91b6bf2c2ea49b48991);
+        
+    
+        var custom_icon_b37506d6d3b9796563827297942b46d7 = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 35], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Okayama%2C_Okayama.svg/50px-Flag_of_Okayama%2C_Okayama.svg.png", "popupAnchor": [0, 0]});
+        marker_ebd436034950f8fe00577a8eca228447.setIcon(custom_icon_b37506d6d3b9796563827297942b46d7);
+        
+    
+        var popup_891aab095db780ca7eb115d30c015bc0 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_3172299c5e372e6f517a0493ec047bd7 = $(`<div id="html_3172299c5e372e6f517a0493ec047bd7" style="width: 100.0%; height: 100.0%;">岡山市</div>`)[0];
+                popup_891aab095db780ca7eb115d30c015bc0.setContent(html_3172299c5e372e6f517a0493ec047bd7);
+            
+        
+
+        marker_ebd436034950f8fe00577a8eca228447.bindPopup(popup_891aab095db780ca7eb115d30c015bc0)
+        ;
+
+        
+    
+    
+            var marker_1e24a684c15dfe50fb59332dd2c78a64 = L.marker(
+                [34.3914, 132.4519],
+                {}
+            ).addTo(map_2553132bf21ef91b6bf2c2ea49b48991);
+        
+    
+        var custom_icon_dfb4de708afc369ed031c6b4d11578f5 = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Flag_of_Hiroshima%2C_Hiroshima.svg/50px-Flag_of_Hiroshima%2C_Hiroshima.svg.png", "popupAnchor": [0, 0]});
+        marker_1e24a684c15dfe50fb59332dd2c78a64.setIcon(custom_icon_dfb4de708afc369ed031c6b4d11578f5);
+        
+    
+        var popup_99a9929b7265f57087814ad0ff290878 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_3e0926dd50d2d5307afa72de6a9539d6 = $(`<div id="html_3e0926dd50d2d5307afa72de6a9539d6" style="width: 100.0%; height: 100.0%;">広島市</div>`)[0];
+                popup_99a9929b7265f57087814ad0ff290878.setContent(html_3e0926dd50d2d5307afa72de6a9539d6);
+            
+        
+
+        marker_1e24a684c15dfe50fb59332dd2c78a64.bindPopup(popup_99a9929b7265f57087814ad0ff290878)
+        ;
+
+        
+    
+    
+            var marker_18809e39273aebb4985f1b0cc31d07d3 = L.marker(
+                [33.88342, 130.87519],
+                {}
+            ).addTo(map_2553132bf21ef91b6bf2c2ea49b48991);
+        
+    
+        var custom_icon_d5e68a0ba11069b3065fc3b8d68dda9e = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Flag_of_Kitakyushu%2C_Fukuoka.svg/50px-Flag_of_Kitakyushu%2C_Fukuoka.svg.png", "popupAnchor": [0, 0]});
+        marker_18809e39273aebb4985f1b0cc31d07d3.setIcon(custom_icon_d5e68a0ba11069b3065fc3b8d68dda9e);
+        
+    
+        var popup_1b85f2b6436fe10360d50fd3c50b0cac = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_3bb2aec3c8fb74e1021a0b0633d3dda6 = $(`<div id="html_3bb2aec3c8fb74e1021a0b0633d3dda6" style="width: 100.0%; height: 100.0%;">北九州市</div>`)[0];
+                popup_1b85f2b6436fe10360d50fd3c50b0cac.setContent(html_3bb2aec3c8fb74e1021a0b0633d3dda6);
+            
+        
+
+        marker_18809e39273aebb4985f1b0cc31d07d3.bindPopup(popup_1b85f2b6436fe10360d50fd3c50b0cac)
+        ;
+
+        
+    
+    
+            var marker_c25fa90e06c4ed94e5ec13e399e6bd6b = L.marker(
+                [33.59, 130.4017],
+                {}
+            ).addTo(map_2553132bf21ef91b6bf2c2ea49b48991);
+        
+    
+        var custom_icon_69990a106bca82b31a97a7cd775300fd = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Flag_of_Fukuoka_City.svg/50px-Flag_of_Fukuoka_City.svg.png", "popupAnchor": [0, 0]});
+        marker_c25fa90e06c4ed94e5ec13e399e6bd6b.setIcon(custom_icon_69990a106bca82b31a97a7cd775300fd);
+        
+    
+        var popup_a413a3d89b0608e5349e64024a986955 = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_cae21a98390025edabd5f4e835efab0d = $(`<div id="html_cae21a98390025edabd5f4e835efab0d" style="width: 100.0%; height: 100.0%;">福岡市</div>`)[0];
+                popup_a413a3d89b0608e5349e64024a986955.setContent(html_cae21a98390025edabd5f4e835efab0d);
+            
+        
+
+        marker_c25fa90e06c4ed94e5ec13e399e6bd6b.bindPopup(popup_a413a3d89b0608e5349e64024a986955)
+        ;
+
+        
+    
+    
+            var marker_296df4421168d64db47ecbcee073601f = L.marker(
+                [32.803, 130.70786],
+                {}
+            ).addTo(map_2553132bf21ef91b6bf2c2ea49b48991);
+        
+    
+        var custom_icon_16c0d4cd4b8cb8f3be5e52e376125a0f = L.icon({"iconAnchor": [25.0, 0], "iconSize": [50, 33], "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Flag_of_Kumamoto%2C_Kumamoto.svg/50px-Flag_of_Kumamoto%2C_Kumamoto.svg.png", "popupAnchor": [0, 0]});
+        marker_296df4421168d64db47ecbcee073601f.setIcon(custom_icon_16c0d4cd4b8cb8f3be5e52e376125a0f);
+        
+    
+        var popup_5fb21ba99c34d9b0a66ac56ff2d237fa = L.popup({"maxWidth": 100});
+
+        
+            
+                var html_0afcecc0fecb68f4b706f8a36a0ddaed = $(`<div id="html_0afcecc0fecb68f4b706f8a36a0ddaed" style="width: 100.0%; height: 100.0%;">熊本市</div>`)[0];
+                popup_5fb21ba99c34d9b0a66ac56ff2d237fa.setContent(html_0afcecc0fecb68f4b706f8a36a0ddaed);
+            
+        
+
+        marker_296df4421168d64db47ecbcee073601f.bindPopup(popup_5fb21ba99c34d9b0a66ac56ff2d237fa)
+        ;
+
+        
+    
+</script>
+</html>
