@@ -1,0 +1,6 @@
+<tr>
+<td>{name_ja}</td>
+<td align="right">{population}</td>
+<td  align="center">{date}</td>
+<td align="center">{decree}</td>
+</tr>

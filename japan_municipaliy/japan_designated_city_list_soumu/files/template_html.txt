@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+Japan ordinance_designated_city
+</title>
+</head>
+<body>
+<h2>{body_title}</h2>
+<table style="margin: 30px">
+<thead>
+<tr>
+<th>都市</th>
+<th>人口</th>
+<th>移行年月日</th>
+<th>指定政令</th>
+</tr>
+</thead>
+<tbody>
+{rows}
+</tbody>
+</table>
+
+<h2>Reference<h2>
+{reference}
+</body>
+</html>
