@@ -1,0 +1,21 @@
+<tr>
+<td>{region}</td>
+<td>{pref}</td>
+<td>{city}</td>
+<td align ="center">{emblem}</td>
+<td align ="center">{flag}</td>
+<td align ="right">{estimated_population}</td>
+<td align ="right">{did_population}</td>
+<td align ="right">{area}</td>
+<td align ="right">{urban_area}</td>
+<td align ="right">{population_density}</td>
+<td align ="right">{did_population_density}</td>
+<td align ="right">{financial_index}</td>
+<td align ="right">{number_of_companies}</td>
+<td salign="center">{date}</td>
+<td style="text-align:center; width: 100%;">
+<div style="border: 1px gray solid;">
+{wards}
+</div>
+</td>
+</tr>

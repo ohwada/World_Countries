@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+ Japan ordinance designated city list
+</title>
+</head>
+<body>
+<h2>{body_title}</h2>
+
+<table style="margin: 30px;">
+<thead>
+<tr>
+<th>地域</th>
+<th>都道府県</th>
+<th>市名</th>
+<th>市章</th>
+<th>市旗</th>
+<th>推計人口<br/>(人)</th>
+<th>DID人口<br/>(人)</th>
+<th>面積<br/>(km<sup>2</sup>)</th>
+<th>市街地面積<br/>(km<sup>2</sup>)</th>
+<th>人口密度<br />(人/km<sup>2</sup>)</th>
+<th>DID人口密度<br />(人/km<sup>2</sup>)</th>
+<th>財政力指数</th>
+<th>企業数</th>
+<th>施行日</th>
+<th>行政区</th>
+</tr>
+</thead>
+<tbody>
+{rows}
+</tbody>
+</table>
+
+<h2>Reference<h2>
+{reference}
+</body>
+</html>
