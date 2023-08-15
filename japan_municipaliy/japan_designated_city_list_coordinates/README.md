@@ -5,7 +5,7 @@ Japan Designated City List coordinates
 
 List of Japan Designated Cities with oordinates
 
-[japan designated city list]()
+![japan designated city list](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/japan_designated_city_list_coordinates/screenshots/'japan_designated_city_coordinates_list.png)
 
 ### Reference
 
