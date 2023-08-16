@@ -5,7 +5,7 @@ Japan Designated City Shape
 
 plot Shape of Japan Designated Cities
 
-![japan designated city shape]()
+![japan designated city shape](https://github.com/ohwada/World_Countries/blob/main/geojson/folium/japan_designated_city_shape/screenshots/yokohama.png)
 
 ### Refrerence
 

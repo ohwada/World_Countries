@@ -3,7 +3,7 @@ Japan Designated City Topojson List
 
 政令指定都市の Toposon の一覧
 
-![designated city]()
+![designated city](https://github.com/ohwada/World_Countries/blob/main/geojson/japan_designated_city_topojson_list/screenshots/designated_cities_topojson_catalog.png)
 
 ### Refrerence
 
