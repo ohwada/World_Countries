@@ -5,7 +5,7 @@ Ogasawara Islands
 
 List of Ogasawara Islands
 
-![ogasawara islands](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/ogasawara_islands/screenshots/ogasawara_islands_list.png)
+![ogasawara islands](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/tokyo/ogasawara_islands/screenshots/ogasawara_islands_list.png)
 
 
 ### Reference

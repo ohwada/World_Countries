@@ -5,7 +5,7 @@ Tokyo Islands
 
 List of Tokyo islands
 
-![tokyo Islands](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/tokyo_islands/screenshots/tokyo_islands_list.png)
+![tokyo Islands](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/tokyo/tokyo_islands/screenshots/tokyo_islands_list.png)
 
 
 ### Reference

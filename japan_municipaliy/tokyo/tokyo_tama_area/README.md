@@ -5,7 +5,7 @@ Tokyo Tama area
 
 List of cities in Tokyo Tama area
 
-![tokyo tama area](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/tokyo_tama_area/screenshots/tokyo_tama_area_list.png)
+![tokyo tama area](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/tokyo/tokyo_tama_area/screenshots/tokyo_tama_area_list.png)
 
 ### Reference
 
