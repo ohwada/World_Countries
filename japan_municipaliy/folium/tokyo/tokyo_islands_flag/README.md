@@ -5,7 +5,7 @@ Tokyo Islands Flag
 
 display Flags of Tokyo islands
 
-![tokyo islands flag](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/folium/tokyo_islands_flag/screenshots/tokyo_islands_flag.png)
+![tokyo islands flag](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/folium/tokyo/tokyo_islands_flag/screenshots/tokyo_islands_flag.png)
 
 ### Python  
 
