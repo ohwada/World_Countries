@@ -11,4 +11,4 @@ List of Ogasawara Islands
 ### Reference
 
 [wikipedia: 小笠原諸島](https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%AC%A0%E5%8E%9F%E8%AB%B8%E5%B3%B6)
-
+- https://ken-ohwada.hatenadiary.org/entry/2023/08/19/120811
