@@ -5,7 +5,7 @@ Izu Islands
 
 List of Izu Islands
 
-![izu islands]()
+![izu islands](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/tokyo/izu_islands/screenshots/izu_islands_list.png)
 
 ### Reference
 

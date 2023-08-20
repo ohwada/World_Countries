@@ -5,7 +5,7 @@ Izu Islands Shape
 
 display Shape of Izu islands
 
-![izu islands shape]()
+![izu islands shape](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/folium/tokyo/izu_islands_shape/screenshots/izu_islands_shape.png)
 
 ### Python  
 
