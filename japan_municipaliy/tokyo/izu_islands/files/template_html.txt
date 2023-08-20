@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+Izu islands
+</title>
+</head>
+<body>
+<h2>{body_title}</h2>
+<table style="margin: 30px">
+<thead>
+<tr>
+<th>英語名</th>
+<th>島</th>
+<th>自治体</th>
+<th>空港</th>
+<th>人口</th>
+<th>面積<br/>(km²)</th>
+<th>位置座標<br/>(Google_Map)</th>
+</tr>
+</thead>
+<tbody>
+{rows}
+</tbody>
+</table>
+
+<h2>Reference<h2>
+{reference}
+</body>
+</html>

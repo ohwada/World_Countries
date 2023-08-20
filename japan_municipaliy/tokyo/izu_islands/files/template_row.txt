@@ -1,0 +1,9 @@
+<tr>
+<td>{name_en}</td>
+<td>{island}</td>
+<td>{town}</td>
+<td>{airport}</td>
+<td align="right">{population}</td>
+<td align="right">{area}</td>
+<td>{coordinates}</td>
+</tr>
