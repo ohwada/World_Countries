@@ -5,7 +5,7 @@ Kanagawa town flag list
 
 List of flag of towns in Kanagawa
 
-![kanagawa town flag list]()
+![kanagawa town flag list](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/kanagawa/kanagawa_town_flag_list/screenshots/kanagawa_town_flag_list.png)
 
 ### Reference
 

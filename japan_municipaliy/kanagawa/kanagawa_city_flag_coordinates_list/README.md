@@ -6,7 +6,7 @@ Kanagawa city flag coordinates list
 
 List of flag of cities in Kanagawa with coordinates
 
-![kanagawa city flag list]()
+![kanagawa city flag list](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/kanagawa/kanagawa_city_flag_coordinates_list/screendhots/kanagawa_city_flag_coordinates_list.png)
 
 ### Reference
 
