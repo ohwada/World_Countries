@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+Kanagawa city flag list
+</title>
+</head>
+<body>
+<h1>{body_title}</h1>
+<h2>{table_title}</h2>
+<table style="margin: 30px">
+<thead>
+<tr>
+<th>市</th>
+<th>市旗</th>
+<th>制定有無</th>
+<th>制定日</th>
+<th>旗の色</th>
+<th>備考</th>
+</tr>
+</thead>
+<tbody>
+{rows}
+</tbody>
+</table>
+
+<h2>Reference<h2>
+{reference}
+</body>
+</html>

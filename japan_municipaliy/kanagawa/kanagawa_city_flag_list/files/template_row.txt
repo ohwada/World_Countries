@@ -1,0 +1,8 @@
+<tr>
+<td>{city}</td>
+<td align="center">{flag}</td>
+<td>{enactment}</td>
+<td>{date}</td>
+<td>{color}</td>
+<td>{notes}</td>
+</tr>
