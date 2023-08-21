@@ -1,0 +1,8 @@
+<tr>
+<td>{district}</td>
+<td>{town}</td>
+<td align="center">{flag}</td>
+<td colspan="{colspan}">{enactment}</td>
+<td>{color}</td>
+<td>{notes}</td>
+</tr>
