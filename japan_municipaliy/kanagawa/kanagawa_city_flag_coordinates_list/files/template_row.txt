@@ -1,0 +1,7 @@
+<tr>
+<td>{group}</td>
+<td>{name_en}</td>
+<td>{city}</td>
+<td align ="center">{flag}</td>
+<td salign="center">{coordinates}</td>
+</tr>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+ Japan ordinance designated city list
+</title>
+</head>
+<body>
+<h2>{body_title}</h2>
+
+<table style="margin: 30px;">
+<thead>
+<tr>
+<th>グループ</th>
+<th>英語名</th>
+<th>市町村</th>
+<th>旗</th>
+<th>位置座標<br/>(Google_Map)</th>
+</tr>
+</thead>
+<tbody>
+{rows}
+</tbody>
+</table>
+
+<h2>Reference<h2>
+{reference}
+</body>
+</html>
