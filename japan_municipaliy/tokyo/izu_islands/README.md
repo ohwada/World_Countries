@@ -10,4 +10,4 @@ List of Izu Islands
 ### Reference
 
 [wikipedia: 伊豆諸島](https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%B1%86%E8%AB%B8%E5%B3%B6)
-
+- https://ken-ohwada.hatenadiary.org/entry/2023/08/21/132049
