@@ -1,0 +1,5 @@
+<tr>
+<td>{group}</td>
+<td>{name_en}</td>
+<td>{city}</td>
+</tr>

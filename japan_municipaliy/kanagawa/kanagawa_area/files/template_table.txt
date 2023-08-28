@@ -1,0 +1,14 @@
+<a name="{table_name}">
+<h2>{table_title}</h2>
+<table style="margin: 30px">
+<thead>
+<tr>
+<th>グループ</th>
+<th>英語名</th>
+<th>市町村</th>
+</tr>
+</thead>
+<tbody>
+{rows}
+</tbody>
+</table>
