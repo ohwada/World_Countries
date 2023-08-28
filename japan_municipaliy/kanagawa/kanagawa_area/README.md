@@ -5,7 +5,7 @@ Kanagawa area
 
 List of areas and cities in Kanagawa
 
-![kanagawa area]()
+![kanagawa area](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/kanagawa/kanagawa_area/screenshots/kanagawa_area_list.png)
 
 ### Reference
 
