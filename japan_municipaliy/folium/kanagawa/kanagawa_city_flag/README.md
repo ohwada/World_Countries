@@ -7,7 +7,7 @@ Kanagawa city Flag
 
 plot Flag of cities in Kanagawa
 
-![kanagawa city flag]()
+![kanagawa city flag](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/folium/kanagawa/kanagawa_city_flag/screenshots/kanagawa_city_flag.png)
 
 ### Reference
 

@@ -6,7 +6,7 @@ Kanagawa ares Shape
 
 plot Shape of cities in Kanagawa
 
-![kanagawa area]()
+![kanagawa area](https://github.com/ohwada/World_Countries/blob/main/japan_municipaliy/folium/kanagawa/kanagawa_area_shape/screenshots/central.png)
 
 ### Reference
 
