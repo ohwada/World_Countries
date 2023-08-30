@@ -9,8 +9,8 @@ List of areas and cities in Kanagawa
 
 ### Reference
 
-
 - [神奈川県: 神奈川県内の市町村](https://www.pref.kanagawa.jp/docs/ie2/cnt/f530001/p780102.html)
 - [wikipedia: 神奈川県](https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C)
+- https://ken-ohwada.hatenadiary.org/entry/2023/08/30/212021
 
 
