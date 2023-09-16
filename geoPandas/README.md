@@ -12,7 +12,6 @@ samples of [GeoPandas](https://geopandas.org/en/stable/about.html)
 GeoJson のポリゴンを統合する
 
 ### Polygon Explode
-===============
 
 Geojson のポリゴンを分割する
 
