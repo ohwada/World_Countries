@@ -35,6 +35,9 @@ shapely.errors.GEOSException: TopologyException: unable to assign free hole to a
 - 相模原市	
 - 熊本市
 
+札幌市の形
+
+![sapporo](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_disolve/japan_ordinance_designated_city/screenshots/sapporo.png)
 
 [JapanCityGeoJson 2020](https://github.com/niiyz/JapanCityGeoJson)
 
