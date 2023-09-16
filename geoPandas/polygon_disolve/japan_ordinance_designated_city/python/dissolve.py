@@ -12,9 +12,9 @@ import json
 
 FILE_CITY_LIST = 'data/japan_ordinance_designated_city_list.json'
 
-FILE_GEOJSON = 'data/cities.geojson'
+FILE_GEOJSON = 'wards.geojson'
 
-DIR = 'cities'
+DIR = 'geojson_cities'
 
 if not os.path.isdir(DIR):
     os.mkdir(DIR)
@@ -48,8 +48,10 @@ print( renamed_gdf.head() )
 for item in list_cities:
     name = item['name']
     name_ja = item['name_ja']
-    target_gdf = renamed_gdf[renamed_gdf["parent_city"]==  name_ja]
     print(name_ja)
+    target_gdf = renamed_gdf[renamed_gdf["parent_city"]==  name_ja]
+    print(  target_gdf.head() )
+
     try:
         grouped_gdf =  target_gdf.dissolve(by=["prefecture", "parent_city"], as_index=False)
     except shapely.errors.GEOSException as error:

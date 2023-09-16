@@ -4,7 +4,7 @@
 import geopandas as gpd
 import matplotlib.pyplot as plt
 
-DATA_FILE_NAME = "geojson/01101.json"
+DATA_FILE_NAME = 'geojson_cities/sapporo.geojson'
 gdf = gpd.read_file(DATA_FILE_NAME)
 
 print( gdf )

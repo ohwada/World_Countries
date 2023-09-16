@@ -10,7 +10,7 @@ FILE_CITY_LIST = 'data/japan_ordinance_designated_city_list.json'
 
 FILE_CATALOG = 'data/japan_city_geojson_catalog.json'
 
-DIR = 'geojson'
+DIR = 'geojson_down'
 
 if not os.path.isdir(DIR):
     os.mkdir(DIR)
