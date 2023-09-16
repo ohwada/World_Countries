@@ -5,14 +5,19 @@ samples of [GeoPandas](https://geopandas.org/en/stable/about.html)
 
 ### Japan
 
-plot shapes of Japan
+日本の形を描画する
 
-### Toyama
+### Polygon Disolve
 
-「富山県 中新川郡」
-の町村のポリゴンを統合する
+GeoJson のポリゴンを統合する
 
-### Japan Ordinance Designated Cit
+### Polygon Explode
+===============
 
-政令指定都市の行政区のポリゴンを統合する
+Geojson のポリゴンを分割する
+
+### Polygon Largest
+
+Geojson のポリゴンを分割して
+面積が一番大きいものを選択する。
 
