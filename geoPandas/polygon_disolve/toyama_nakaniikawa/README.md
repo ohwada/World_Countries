@@ -7,6 +7,8 @@ Toyama Nakaniikawa
 
 ![toyama nakaniikawa](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_disolve/toyama_nakaniikawa/screenshots/disolve_nakaniikawa.png)
 
-[市区町村・選挙区 地形データ](https://github.com/smartnews-smri/japan-topography)
+### Reference
 
-[geopandas.GeoDataFrame.dissolve](https://geopandas.org/en/stable/docs/reference/api/geopandas.GeoDataFrame.dissolve.html)
+- [市区町村・選挙区 地形データ](https://github.com/smartnews-smri/japan-topography)
+- [geopandas.GeoDataFrame.dissolve](https://geopandas.org/en/stable/docs/reference/api/geopandas.GeoDataFrame.dissolve.html)
+- https://ken-ohwada.hatenadiary.org/entry/2023/09/16/152339
