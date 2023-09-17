@@ -9,5 +9,5 @@ Sapporo
 
 - [JapanCityGeoJson 2020](https://github.com/niiyz/JapanCityGeoJson)
 - [geopandas.GeoDataFrame.dissolve](https://geopandas.org/en/stable/docs/reference/api/geopandas.GeoDataFrame.dissolve.html)
-
+- https://ken-ohwada.hatenadiary.org/entry/2023/09/17/112300ー
 
