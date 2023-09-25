@@ -7,6 +7,10 @@ Hokkaido
 島部のポリゴンを除いた
 北海道本土のポリゴンを作成する
 
+![hokkaido](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_largest/hokkaido/screenshots/hokkaido_largest.png)
+
+### Reference
+
 [geopandas.GeoDataFrame.explode](https://geopandas.org/en/stable/docs/reference/api/geopandas.GeoDataFrame.explode.html)
 
 [47都道府県のポリゴンデータ geojson](https://japonyol.net/editor/article/47-prefectures-geojson.html)
