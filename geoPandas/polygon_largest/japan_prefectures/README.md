@@ -14,7 +14,6 @@ Japan Prefectures
 
 ### Reference 
 
-[geopandas.GeoDataFrame.explode](https://geopandas.org/en/stable/docs/reference/api/geopandas.GeoDataFrame.explode.html)
-
-[47都道府県のポリゴンデータ geojson](https://japonyol.net/editor/article/47-prefectures-geojson.html)
-
+- [geopandas.GeoDataFrame.explode](https://geopandas.org/en/stable/docs/reference/api/geopandas.GeoDataFrame.explode.html)
+- [47都道府県のポリゴンデータ geojson](https://japonyol.net/editor/article/47-prefectures-geojson.html)
+- https://ken-ohwada.hatenadiary.org/entry/2023/10/01/124337

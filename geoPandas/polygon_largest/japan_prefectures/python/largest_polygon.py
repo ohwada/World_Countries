@@ -40,7 +40,7 @@ for item in files:
     gdf = gpd.read_file(filepath1) 
     pref_code = gdf['pref']
     pref_name = gdf['name']
-# 面積が一番大きいポリゴンをを選択する。
+# select the polygon with the largest area
     largest_poly = largest_polygon(gdf)
     df = gpd.GeoDataFrame()
     df['geometry'] = None
