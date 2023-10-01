@@ -3,10 +3,12 @@ Japan Prefectures Shape
 
 都道府県別に県の形を描画する。
 
+県庁所在地に県旗を描画する。
+
 1つの Pythonプログラムで
 47都道府県分の htmlファイル (Leaflet プログラム)を生成する。
 
-![japan prefectures shape](https://github.com/ohwada/World_Countries/blob/main/geojson/folium/japan_prefectures_shape/screenshots/tokyo.png)
+![北海ど](https://github.com/ohwada/World_Countries/blob/main/geojson/folium/japan_prefectures_shape/screenshots/hokkaido.png)
 
 ### Reference
 

@@ -4,10 +4,12 @@ Japan Prefectures withou lslands Shape
 都道府県別に
 島部のポリゴンを除いた内陸部のポリゴンを描画する。
 
-県庁所在地に県旗も描画する。
+県庁所在地に県旗を描画する。
 
 1つの Pythonプログラムで
 47都道府県分の htmlファイル (Leaflet プログラム)を生成する。
+
+![hokkaido](https://github.com/ohwada/World_Countries/blob/main/geojson/folium/japan_prefectures_without_islands_shape/screenshots/hokkaido.png)
 
 ### Reference
 
