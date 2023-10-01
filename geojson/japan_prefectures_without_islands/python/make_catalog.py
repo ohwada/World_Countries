@@ -24,8 +24,6 @@ list_prefectures = dic1['prefectures']
 
 prefectures = []
 
-{"code": "01", "name_en": "hokkaido", "name_pref": "北海道", "url_pref": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E9%81%93", "name_capital_city": "札幌市", "url_capital_city": "https://ja.wikipedia.org/wiki/%E6%9C%AD%E5%B9%8C%E5%B8%82", "url_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_Hokkaido_Prefecture.svg/25px-Flag_of_Hokkaido_Prefecture.svg.png", "icon_width": 25, "icon_height": 17, "url_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_Hokkaido_Prefecture.svg/800px-Flag_of_Hokkaido_Prefecture.svg.png", "flag_width": 800, "flag_height": 533, "lat": 43.064333, "lon": 141.346889}
-
 for item in list_prefectures:
 	code = item['code']
 	name_en = item['name_en']
@@ -55,7 +53,7 @@ dic2 = {}
 
 dic2['title'] = 'List of Japan Prefectures GeoJson'
 
-dic2['title_ja'] = '都道府県の GeoJson の一覧'
+dic2['title_ja'] = '島部のポリゴンを除いて 内陸部のポリゴンにした都道府県の GeoJson の一覧'
 
 dic2['reference'] = '47都道府県のポリゴンデータ'
 
