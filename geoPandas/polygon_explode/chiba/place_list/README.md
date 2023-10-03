@@ -5,7 +5,7 @@ Place List
 
 List of chiba place
 
-![place list]()
+![place list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/chiba/place_list/screenshots/chiba_place_list.png)
 
 ### Reference
 

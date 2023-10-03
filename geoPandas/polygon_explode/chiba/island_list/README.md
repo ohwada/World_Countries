@@ -5,7 +5,7 @@ Island List
 
 List of Chiba island
 
-![island list]()
+![island list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/chiba/island_list/screenshots/chiba_island_list.png)
 
 ### Reference
 
