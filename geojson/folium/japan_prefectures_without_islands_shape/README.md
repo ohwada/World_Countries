@@ -13,5 +13,5 @@ Japan Prefectures withou lslands Shape
 
 ### Reference
 
-[島部のポリゴンを除いて 内陸部のポリゴンにした 都道府県の GeoJson ファイル](https://github.com/ohwada/World_Countries/tree/main/geojson/japan_prefectures_without_islands)
-
+[島部のポリゴンを除いて 内陸部のポリゴンにした 都道府県の GeoJson ファイル](https://github.com/ohwada/World_Countries/tree/main/geojson/- japan_prefectures_without_islands)
+- https://ken-ohwada.hatenadiary.org/entry/2023/10/03/143216
