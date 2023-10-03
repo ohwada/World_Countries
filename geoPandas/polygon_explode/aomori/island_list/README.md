@@ -5,7 +5,7 @@ Island List
 
 List of Aomori island
 
-![island list]()
+![island list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/aomori/island_list/screenshots/aomori_island_list.png)
 
 ### Reference
 

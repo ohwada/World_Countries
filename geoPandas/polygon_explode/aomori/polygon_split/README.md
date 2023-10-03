@@ -6,6 +6,7 @@ Polygon Split
 
 [青森県のgeojson](https://github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/aomori.geojson)
 
+![split_log](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/aomori/polygon_split/screenshots/split_log.png)
 
 #### Reference
 

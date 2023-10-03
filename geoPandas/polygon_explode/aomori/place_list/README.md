@@ -5,7 +5,8 @@ Place List
 
 List of Aomori place
 
-![place list]()
+![place list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/aomori/place_list/screenshots/aomori_place_list.png
+0
 
 ### Reference
 
