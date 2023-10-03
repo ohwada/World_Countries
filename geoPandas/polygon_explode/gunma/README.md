@@ -10,3 +10,6 @@ Gunma
 ### Polygon Split
 
 群馬県のポリゴンを分割する
+
+
+![splited_polygons](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/gunma/polygon_split/screenshots/splited_polygons.png)

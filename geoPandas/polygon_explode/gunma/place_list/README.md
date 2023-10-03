@@ -5,7 +5,7 @@ Place List
 
 List of Gunma place
 
-![place list]()
+![place list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/gunma/place_list/screenshots/gunma_place_list.png)
 
 ### Reference
 
