@@ -6,7 +6,7 @@ Sekizen Islands
 List of Sekizen Islands 
 
 
-![sekizen islands]()
+![sekizen islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/ehime/island_list/sekizen_islands/screenshots/sekizen_islands.png)
 
 ### Reference
 

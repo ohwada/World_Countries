@@ -6,7 +6,7 @@ Uoshima Islands
 List of Uoshima Islands 
 
 
-![uoshima islands]()
+![uoshima islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/ehime/island_list/uoshima_islands/screenshots/uoshima_islands.png)
 
 ### Reference
 

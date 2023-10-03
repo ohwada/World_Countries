@@ -6,7 +6,7 @@ Kamijima Islands
 List of Kamijima Islands 
 
 
-![kamijima islands]()
+![kamijima islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/ehime/island_list/kamijima_islands/screenshots/kamijima_islands.png)
 
 ### Reference
 
