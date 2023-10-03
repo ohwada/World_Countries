@@ -5,7 +5,7 @@ Place List
 
 List of Ibaraki place
 
-![place list]()
+![place list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/ibaraki/place_list/screenshots/ibaraki_place_list.png)
 
 ### Reference
 
