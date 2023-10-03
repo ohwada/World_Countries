@@ -15,3 +15,5 @@ Fukuoka
 ### Polygon Split
 
 福岡県のポリゴンを分割する
+
+![splited_polygons](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/fukuoka/polygon_split/screenshots/splited_polygons.png)
