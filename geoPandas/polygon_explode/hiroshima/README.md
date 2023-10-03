@@ -15,3 +15,4 @@ Hirishima
 
 広島県のポリゴンを分割する
 
+![splited_polygons](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/hiroshima/polygon_split/screenshots/splited_polygons.png)

@@ -6,7 +6,7 @@ Kamagari Islands
 List of Kamagari Islands 
 
 
-![kamagari islands]()
+![kamagari islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/hiroshima/island_list/kamagari_islands/screenshots/kamagari_islands.png)
 
 ### Reference
 
