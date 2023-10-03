@@ -6,7 +6,7 @@ Hinase Islands
 List of Hinase Islands 
 
 
-![hinase islands]()
+![hinase islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/hyogo/island_list/hinase_islands/screenshots/hinase_islands.png)
 
 ### Reference
 

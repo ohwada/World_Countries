@@ -6,6 +6,7 @@ Polygon Split
 
 [兵庫県のgeojson](https://github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/hyogo.geojson)
 
+![split_log](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/hyogo/polygon_split/screenshots/split_log.png)
 
 #### Reference
 

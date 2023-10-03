@@ -6,7 +6,7 @@ Ieshima Islands
 List of Ieshima Islands 
 
 
-![ieshima islands]()
+![ieshima islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/hyogo/island_list/ieshima_islands/screenshots/ieshima_islands.png)
 
 ### Reference
 

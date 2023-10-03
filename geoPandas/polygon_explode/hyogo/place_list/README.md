@@ -5,7 +5,7 @@ Place List
 
 List of Hyogo place
 
-![place list]()
+![place list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/hyogo/place_list/screenshots/hyogo_place_list.png)
 
 ### Reference
 

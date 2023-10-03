@@ -15,3 +15,5 @@ hyogo
 ### Polygon Split
 
 兵庫県のポリゴンを分割する
+
+![splited_polygons](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/hyogo/polygon_split/screenshots/splited_polygons.png)
