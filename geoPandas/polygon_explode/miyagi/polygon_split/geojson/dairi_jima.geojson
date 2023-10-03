@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "宮城県", "place": "内裡島", "municipality": "塩竈市" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 141.051632, 38.334877 ], [ 141.054461, 38.338829 ], [ 141.055306, 38.338338 ], [ 141.054884, 38.33678 ], [ 141.054472, 38.334798 ], [ 141.051632, 38.334877 ] ] ] } }
+]
+}

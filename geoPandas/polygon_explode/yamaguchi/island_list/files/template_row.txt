@@ -1,0 +1,6 @@
+<tr>
+<td>{name_en}</td>
+<td>{island}</td>
+<td>{municipality}</td>
+<td>{coordinates}</td>
+</tr>

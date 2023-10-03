@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "北海道", "place": "石狩新港防波堤", "municipality": "石狩市" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 141.305564, 43.221102 ], [ 141.304663, 43.220379 ], [ 141.300811, 43.221147 ], [ 141.305564, 43.221102 ] ] ] } }
+]
+}

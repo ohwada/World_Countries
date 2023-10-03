@@ -1,0 +1,99 @@
+宮城県の島
+https://ja.wikipedia.org/wiki/Category:%E5%AE%AE%E5%9F%8E%E7%9C%8C%E3%81%AE%E5%B3%B6
+
+
+
+aji_shima
+網地島, https://ja.wikipedia.org/wiki/%E7%B6%B2%E5%9C%B0%E5%B3%B6
+石巻市, https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%BB%E5%B8%82
+38.266056, 141.478889
+
+
+kinkasan
+金華山_宮城, https://ja.wikipedia.org/wiki/%E9%87%91%E8%8F%AF%E5%B1%B1_(%E5%AE%AE%E5%9F%8E%E7%9C%8C)
+石巻市, https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%BB%E5%B8%82
+38.288889, 141.570056
+
+
+tashiro_jima
+田代島, https://ja.wikipedia.org/wiki/%E7%94%B0%E4%BB%A3%E5%B3%B6
+石巻市, https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%BB%E5%B8%82
+38.297917, 141.417028
+
+
+ashi_jima
+足島, https://ja.wikipedia.org/wiki/%E8%B6%B3%E5%B3%B6
+女川町, https://ja.wikipedia.org/wiki/%E5%A5%B3%E5%B7%9D%E7%94%BA
+38.388333, 141.603611
+
+
+izu_shima_miyagi
+出島_宮城, https://ja.wikipedia.org/wiki/%E5%87%BA%E5%B3%B6_(%E5%AE%AE%E5%9F%8E%E7%9C%8C)
+女川町, https://ja.wikipedia.org/wiki/%E5%A5%B3%E5%B7%9D%E7%94%BA
+38.45, 141.525
+
+eno_shima_miyagi
+江島_宮城, https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%B3%B6_(%E5%AE%AE%E5%9F%8E%E7%9C%8C)
+女川町, https://ja.wikipedia.org/wiki/%E5%A5%B3%E5%B7%9D%E7%94%BA
+38.398611, 141.593889
+
+
+ooshima_kesennuma
+大島_気仙沼, https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B3%B6_(%E5%AE%AE%E5%9F%8E%E7%9C%8C%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82)
+気仙沼市, https://ja.wikipedia.org/wiki/%E6%B0%97%E4%BB%99%E6%B2%BC%E5%B8%82
+38.861667, 141.628889
+
+
+katsurashima_miyagi
+桂島_宮城,  https://ja.wikipedia.org/wiki/%E6%A1%82%E5%B3%B6_(%E5%AE%AE%E5%9F%8E%E7%9C%8C)
+塩竈市, https://ja.wikipedia.org/wiki/%E5%A1%A9%E7%AB%88%E5%B8%82
+38.333611, 141.096667
+
+
+sabusawa_jima
+寒風沢島, https://ja.wikipedia.org/wiki/%E5%AF%92%E9%A2%A8%E6%B2%A2%E5%B3%B6
+塩竈市, https://ja.wikipedia.org/wiki/%E5%A1%A9%E7%AB%88%E5%B8%82
+38.333056, 141.124444
+
+
+tsubakishima_minamisanriku
+椿島_南三陸, https://ja.wikipedia.org/wiki/%E6%A4%BF%E5%B3%B6_(%E5%8D%97%E4%B8%89%E9%99%B8%E7%94%BA)
+南三陸町, https://ja.wikipedia.org/wiki/%E5%8D%97%E4%B8%89%E9%99%B8%E7%94%BA
+38.651667, 141.488889
+
+
+nonoshima.miyagi
+野々島_宮城, https://ja.wikipedia.org/wiki/%E9%87%8E%E3%80%85%E5%B3%B6_(%E5%AE%AE%E5%9F%8E%E7%9C%8C)
+塩竈市, https://ja.wikipedia.org/wiki/%E5%A1%A9%E7%AB%88%E5%B8%82
+38.337222, 141.11
+
+
+fukura_jima
+福浦島, https://ja.wikipedia.org/wiki/%E7%A6%8F%E6%B5%A6%E5%B3%B6
+東松島市, https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%9D%BE%E5%B3%B6%E5%B8%82
+38.366667, 141.071111
+
+
+hoo_jima
+朴島, https://ja.wikipedia.org/wiki/%E6%9C%B4%E5%B3%B6
+塩竈市, https://ja.wikipedia.org/wiki/%E5%A1%A9%E7%AB%88%E5%B8%82
+38.351111, 141.123889
+
+miysto_jima
+宮戸島, https://ja.wikipedia.org/wiki/%E5%AE%AE%E6%88%B8%E5%B3%B6
+東松島市, https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%9D%BE%E5%B3%B6%E5%B8%82
+38.335306, 141.153889
+
+
+
+
+takeshima_miyagi
+竹島_宮城, https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%B3%B6_(%E5%AE%AE%E5%9F%8E%E7%9C%8C)
+南三陸町, https://ja.wikipedia.org/wiki/%E5%8D%97%E4%B8%89%E9%99%B8%E7%94%BA
+
+
+
+ebisu_jima
+恵比寿島, https://ja.wikipedia.org/wiki/%E6%81%B5%E6%AF%94%E5%AF%BF%E5%B3%B6
+松島町, https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B3%B6%E7%94%BA
+0, 0

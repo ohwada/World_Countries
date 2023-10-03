@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "熊本県", "place": "熊本港", "municipality": "熊本市" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 130.594444, 32.761309 ], [ 130.594748, 32.758723 ], [ 130.593712, 32.759014 ], [ 130.594444, 32.761309 ] ] ] } }
+]
+}

@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "山口県", "place": "手長島", "municipality": "長門市" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 131.010065, 34.390481 ], [ 131.008972, 34.389659 ], [ 131.008823, 34.390877 ], [ 131.009988, 34.392015 ], [ 131.010777, 34.392258 ], [ 131.010065, 34.390481 ] ] ] } }
+]
+}

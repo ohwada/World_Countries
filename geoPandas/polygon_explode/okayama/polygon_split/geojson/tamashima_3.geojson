@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "岡山県", "place": "玉島ハーバーアイランド_3", "municipality": "倉敷市" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 133.683755, 34.503153 ], [ 133.675755, 34.50327 ], [ 133.677876, 34.504126 ], [ 133.683857, 34.50409 ], [ 133.683755, 34.503153 ] ] ] } }
+]
+}

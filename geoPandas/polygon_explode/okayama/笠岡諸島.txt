@@ -1,0 +1,67 @@
+かさおかしょとう
+笠岡諸島
+
+https://ja.wikipedia.org/wiki/Category:%E7%AC%A0%E5%B2%A1%E8%AB%B8%E5%B3%B6
+
+
+
+
+oobishima
+大飛島
+https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%A3%9B%E5%B3%B6
+笠岡市
+https://ja.wikipedia.org/wiki/%E7%AC%A0%E5%B2%A1%E5%B8%82
+34.341667, 133.5025
+
+
+kobishima
+小飛島
+https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%A3%9B%E5%B3%B6
+笠岡市
+https://ja.wikipedia.org/wiki/%E7%AC%A0%E5%B2%A1%E5%B8%82
+34.346944, 133.521111
+
+
+kitagishima
+北木島
+https://ja.wikipedia.org/wiki/%E5%8C%97%E6%9C%A8%E5%B3%B6
+笠岡市
+https://ja.wikipedia.org/wiki/%E7%AC%A0%E5%B2%A1%E5%B8%82
+34.381944, 133.536389
+
+
+shiraishi_jima
+白石島
+https://ja.wikipedia.org/wiki/%E7%99%BD%E7%9F%B3%E5%B3%B6
+笠岡市
+https://ja.wikipedia.org/wiki/%E7%AC%A0%E5%B2%A1%E5%B8%82
+34.401583, 133.51725
+
+
+
+takashima_kasaoka
+高島_笠岡
+https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B3%B6_(%E5%B2%A1%E5%B1%B1%E7%9C%8C%E7%AC%A0%E5%B2%A1%E5%B8%82)
+笠岡市
+https://ja.wikipedia.org/wiki/%E7%AC%A0%E5%B2%A1%E5%B8%82
+34.428917, 133.508083
+
+
+manabeshima
+真鍋島
+https://ja.wikipedia.org/wiki/%E7%9C%9F%E9%8D%8B%E5%B3%B6
+笠岡市
+https://ja.wikipedia.org/wiki/%E7%AC%A0%E5%B2%A1%E5%B8%82
+34.353889, 133.577778
+
+
+
+mushima_okayama
+六島_岡山
+https://ja.wikipedia.org/wiki/%E5%85%AD%E5%B3%B6_(%E5%B2%A1%E5%B1%B1%E7%9C%8C)
+笠岡市
+https://ja.wikipedia.org/wiki/%E7%AC%A0%E5%B2%A1%E5%B8%82
+34.303667, 133.532111
+
+
+

@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "鹿児島県", "place": "志布志港", "municipality": "志布志市" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 131.109011, 31.463566 ], [ 131.108287, 31.460691 ], [ 131.107894, 31.461452 ], [ 131.109011, 31.463566 ] ] ] } }
+]
+}

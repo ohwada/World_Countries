@@ -1,0 +1,42 @@
+うらとしょとう
+
+浦戸諸島
+
+https://ja.wikipedia.org/wiki/%E6%B5%A6%E6%88%B8%E8%AB%B8%E5%B3%B6
+
+
+
+katsurashima_miyagi
+桂島_宮城
+https://ja.wikipedia.org/wiki/%E6%A1%82%E5%B3%B6_(%E5%AE%AE%E5%9F%8E%E7%9C%8C)
+塩竈市
+https://ja.wikipedia.org/wiki/%E5%A1%A9%E7%AB%88%E5%B8%82
+38.333611, 141.096667
+
+
+
+
+nonoshima_miyagi
+野々島_宮城
+https://ja.wikipedia.org/wiki/%E9%87%8E%E3%80%85%E5%B3%B6_(%E5%AE%AE%E5%9F%8E%E7%9C%8C)
+塩竈市
+https://ja.wikipedia.org/wiki/%E5%A1%A9%E7%AB%88%E5%B8%82
+38.337222, 141.11
+
+
+sabusawa_jima
+寒風沢島
+https://ja.wikipedia.org/wiki/%E5%AF%92%E9%A2%A8%E6%B2%A2%E5%B3%B6
+塩竈市
+https://ja.wikipedia.org/wiki/%E5%A1%A9%E7%AB%88%E5%B8%82
+38.333056, 141.124444
+
+
+hoo_jima
+朴島
+https://ja.wikipedia.org/wiki/%E6%9C%B4%E5%B3%B6
+塩竈市
+https://ja.wikipedia.org/wiki/%E5%A1%A9%E7%AB%88%E5%B8%82
+38.351111, 141.123889
+
+

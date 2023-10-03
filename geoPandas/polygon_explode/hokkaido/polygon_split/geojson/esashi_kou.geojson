@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "北海道", "place": "枝幸港島防波堤", "municipality": "枝幸町" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 142.58922, 44.938942 ], [ 142.589935, 44.939699 ], [ 142.591054, 44.939159 ], [ 142.591442, 44.937332 ], [ 142.590232, 44.938044 ], [ 142.58922, 44.938942 ] ] ] } }
+]
+}

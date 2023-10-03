@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "長崎県", "place": "松島_2", "municipality": "西海市" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 129.606308, 32.940047 ], [ 129.605522, 32.940166 ], [ 129.605884, 32.940761 ], [ 129.606308, 32.940047 ] ] ] } }
+]
+}

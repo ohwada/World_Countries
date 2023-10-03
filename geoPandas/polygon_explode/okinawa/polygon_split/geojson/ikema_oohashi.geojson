@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "沖縄県", "place": "池間大橋", "municipality": "宮古島市" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 125.270914, 24.906294 ], [ 125.270352, 24.907852 ], [ 125.269861, 24.910616 ], [ 125.271148, 24.908153 ], [ 125.271036, 24.907358 ], [ 125.270914, 24.906294 ] ] ] } }
+]
+}

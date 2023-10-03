@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "新潟県" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 138.588466, 37.432039 ], [ 138.586919, 37.42982 ], [ 138.58598, 37.434199 ], [ 138.588466, 37.432039 ] ] ] } }
+]
+}

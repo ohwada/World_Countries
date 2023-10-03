@@ -1,0 +1,215 @@
+八重山諸島
+
+https://ja.wikipedia.org/wiki/Category:%E5%85%AB%E9%87%8D%E5%B1%B1%E8%AB%B8%E5%B3%B6
+
+
+akabanare_jima
+赤離島
+https://ja.wikipedia.org/wiki/%E8%B5%A4%E9%9B%A2%E5%B3%B6
+竹富町
+https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%AF%8C%E7%94%BA
+24.405278, 123.868056
+
+
+aragusuku_jima
+新城島
+https://ja.wikipedia.org/wiki/%E6%96%B0%E5%9F%8E%E5%B3%B6
+竹富町
+https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%AF%8C%E7%94%BA
+24.233889, 123.944444
+
+
+ishigaki_jima
+石垣島
+https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%9E%A3%E5%B3%B6
+石垣市
+https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%9E%A3%E5%B8%82
+24.334444, 124.156111
+
+
+iriomote_jima
+西表島
+https://ja.wikipedia.org/wiki/%E8%A5%BF%E8%A1%A8%E5%B3%B6
+竹富町
+https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%AF%8C%E7%94%BA
+24.2925, 123.861944
+
+
+uchibanare_jima
+内離島
+https://ja.wikipedia.org/wiki/%E5%86%85%E9%9B%A2%E5%B3%B6
+竹富町
+https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%AF%8C%E7%94%BA
+24.350833, 123.735
+
+
+ubanare_jima
+ウ離島
+https://ja.wikipedia.org/wiki/%E3%82%A6%E9%9B%A2%E5%B3%B6
+竹富町
+https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%AF%8C%E7%94%BA
+24.366944, 123.942778
+
+
+kabirawan_kojima
+川平湾小島
+https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B9%B3%E6%B9%BE%E5%B0%8F%E5%B3%B6
+石垣市
+https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%9E%A3%E5%B8%82
+24.457778, 124.149167
+
+
+kayama_jima
+嘉弥真島
+https://ja.wikipedia.org/wiki/%E5%98%89%E5%BC%A5%E7%9C%9F%E5%B3%B6
+竹富町
+https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%AF%8C%E7%94%BA
+24.363333, 123.999444
+
+
+kuroshima_taketomi
+黒島_竹富
+https://ja.wikipedia.org/wiki/%E9%BB%92%E5%B3%B6_(%E6%B2%96%E7%B8%84%E7%9C%8C%E7%AB%B9%E5%AF%8C%E7%94%BA)
+竹富町
+https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%AF%8C%E7%94%BA
+24.239444, 124.014722
+
+kohama_jima
+小浜島
+https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%B5%9C%E5%B3%B6
+竹富町
+https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%AF%8C%E7%94%BA
+24.341111, 123.980833
+
+
+sotobanare_jima
+外離島
+https://ja.wikipedia.org/wiki/%E5%A4%96%E9%9B%A2%E5%B3%B6
+竹富町
+https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%AF%8C%E7%94%BA
+24.369722, 123.718333
+
+
+sonaichizaki
+祖納地崎
+https://ja.wikipedia.org/wiki/%E7%A5%96%E7%B4%8D%E5%9C%B0%E5%B4%8E
+与那国町
+https://ja.wikipedia.org/wiki/%E4%B8%8E%E9%82%A3%E5%9B%BD%E7%94%BA
+24.472361, 123.002083
+
+
+daichibanari_jima
+大地離島
+https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9C%B0%E9%9B%A2%E5%B3%B6
+石垣市
+https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%9E%A3%E5%B8%82
+24.617222, 124.3175
+
+
+taketomi_jima
+竹富島
+https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%AF%8C%E5%B3%B6
+竹富町
+https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%AF%8C%E7%94%BA
+24.329722, 124.086667
+
+
+tuishi
+トゥイシ
+https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A5%E3%82%A4%E3%82%B7
+与那国町
+https://ja.wikipedia.org/wiki/%E4%B8%8E%E9%82%A3%E5%9B%BD%E7%94%BA
+24.451389, 122.9325
+
+
+nakanokamishima
+仲の神島
+https://ja.wikipedia.org/wiki/%E4%BB%B2%E3%81%AE%E7%A5%9E%E5%B3%B6
+竹富町
+https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%AF%8C%E7%94%BA
+24.195, 123.563889
+
+
+hateruma_jima
+波照間島
+https://ja.wikipedia.org/wiki/%E6%B3%A2%E7%85%A7%E9%96%93%E5%B3%B6
+竹富町
+https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%AF%8C%E7%94%BA
+24.059167, 123.7825
+
+
+
+hatopanari_jima
+鳩離島
+https://ja.wikipedia.org/wiki/%E9%B3%A9%E9%9B%A2%E5%B3%B6
+竹富町
+https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%AF%8C%E7%94%BA
+24.419056, 123.821111
+
+
+hatoma_jima
+鳩間島
+https://ja.wikipedia.org/wiki/%E9%B3%A9%E9%96%93%E5%B3%B6
+竹富町
+https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%AF%8C%E7%94%BA
+24.472778, 123.82
+
+
+hamajima_okinawa
+浜島_沖縄
+https://ja.wikipedia.org/wiki/%E6%B5%9C%E5%B3%B6_(%E6%B2%96%E7%B8%84%E7%9C%8C)
+竹富町
+https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%AF%8C%E7%94%BA
+24.356306, 124.039333
+
+
+barasu_tou
+バラス島
+https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%A9%E3%82%B9%E5%B3%B6
+竹富町
+https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%AF%8C%E7%94%BA
+24.435278, 123.817222
+
+
+pini_jima
+平西島
+https://ja.wikipedia.org/wiki/%E5%B9%B3%E8%A5%BF%E5%B3%B6
+竹富町
+https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%AF%8C%E7%94%BA
+24.322778, 123.915
+
+
+hirabanari_jima
+平離島
+https://ja.wikipedia.org/wiki/%E5%B9%B3%E9%9B%A2%E5%B3%B6
+石垣市
+https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%9E%A3%E5%B8%82
+24.484444, 124.116111
+
+
+majipanari
+マジパナリ
+https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B8%E3%83%91%E3%83%8A%E3%83%AA
+石垣市
+https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%9E%A3%E5%B8%82
+24.463889, 124.146667
+
+
+yubu_jima
+由布島
+https://ja.wikipedia.org/wiki/%E7%94%B1%E5%B8%83%E5%B3%B6
+竹富町
+https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%AF%8C%E7%94%BA
+24.342778, 123.933611
+
+
+yonsguri_jima
+与那国島
+https://ja.wikipedia.org/wiki/%E4%B8%8E%E9%82%A3%E5%9B%BD%E5%B3%B6
+与那国町
+https://ja.wikipedia.org/wiki/%E4%B8%8E%E9%82%A3%E5%9B%BD%E7%94%BA
+24.468333, 123.004722
+
+
+
+

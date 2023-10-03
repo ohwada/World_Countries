@@ -1,0 +1,191 @@
+伊豆諸島
+
+https://ja.wikipedia.org/wiki/Category:%E4%BC%8A%E8%B1%86%E8%AB%B8%E5%B3%B6
+
+
+aogashima
+青ヶ島
+https://ja.wikipedia.org/wiki/%E9%9D%92%E3%83%B6%E5%B3%B6
+青ヶ島村
+https://ja.wikipedia.org/wiki/%E9%9D%92%E3%83%B6%E5%B3%B6%E6%9D%91
+32.457778, 139.759167
+
+
+izu_ooshima
+伊豆大島
+https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%B1%86%E5%A4%A7%E5%B3%B6
+大島町
+https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B3%B6%E7%94%BA
+34.733333, 139.4
+
+
+inanba_jima
+藺灘波島
+https://ja.wikipedia.org/wiki/%E8%97%BA%E7%81%98%E6%B3%A2%E5%B3%B6
+御蔵島村
+https://ja.wikipedia.org/wiki/%E5%BE%A1%E8%94%B5%E5%B3%B6%E6%9D%91
+33.650833, 139.298889
+
+
+udone_jima
+鵜渡根島
+https://ja.wikipedia.org/wiki/%E9%B5%9C%E6%B8%A1%E6%A0%B9%E5%B3%B6
+新島村
+https://ja.wikipedia.org/wiki/%E6%96%B0%E5%B3%B6%E6%9D%91
+34.4725, 139.293889
+
+
+oonohara_jima
+大野原島
+https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%87%8E%E5%8E%9F%E5%B3%B6
+三宅村
+https://ja.wikipedia.org/wiki/%E4%B8%89%E5%AE%85%E6%9D%91
+34.048056, 139.383889
+
+
+onbase_jima
+恩馳島
+https://ja.wikipedia.org/wiki/%E6%81%A9%E9%A6%B3%E5%B3%B6
+神津島村
+https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91
+34.186667, 139.076389
+
+
+kouzushima
+神津島
+https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%B4%A5%E5%B3%B6
+神津島村
+https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91
+34.216944, 139.154167'
+
+
+shikine_jima
+式根島
+https://ja.wikipedia.org/wiki/%E5%BC%8F%E6%A0%B9%E5%B3%B6
+新島村
+https://ja.wikipedia.org/wiki/%E6%96%B0%E5%B3%B6%E6%9D%91
+34.326111, 139.21
+
+
+jinai_jima
+地内島
+https://ja.wikipedia.org/wiki/%E5%9C%B0%E5%86%85%E5%B3%B6
+新島村
+https://ja.wikipedia.org/wiki/%E6%96%B0%E5%B3%B6%E6%9D%91
+34.372222, 139.227778
+
+
+sumisu_jima
+須美寿島
+https://ja.wikipedia.org/wiki/%E9%A0%88%E7%BE%8E%E5%AF%BF%E5%B3%B6
+東京都
+https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD
+31.438889, 140.050833
+
+
+zenisu
+銭洲
+https://ja.wikipedia.org/wiki/%E9%8A%AD%E6%B4%B2
+神津島村
+https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91
+33.943611, 138.8175
+
+
+soufu_iwa
+孀婦岩
+https://ja.wikipedia.org/wiki/%E5%AD%80%E5%A9%A6%E5%B2%A9
+東京都
+https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD
+29.794167, 140.341944
+
+
+tadanae_jima
+祇苗島
+https://ja.wikipedia.org/wiki/%E7%A5%87%E8%8B%97%E5%B3%B6
+神津島村
+https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91
+34.206944, 139.191111
+
+
+toshima
+利島
+https://ja.wikipedia.org/wiki/%E5%88%A9%E5%B3%B6
+利島村
+https://ja.wikipedia.org/wiki/%E5%88%A9%E5%B3%B6%E6%9D%91
+34.520278, 139.279167
+
+
+torishima_hachijyo
+鳥島_八丈
+https://ja.wikipedia.org/wiki/%E9%B3%A5%E5%B3%B6_(%E5%85%AB%E4%B8%88%E6%94%AF%E5%BA%81)
+東京都
+https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD
+30.483889, 140.303056
+
+nii_jima
+新島
+https://ja.wikipedia.org/wiki/%E6%96%B0%E5%B3%B6
+新島村
+https://ja.wikipedia.org/wiki/%E6%96%B0%E5%B3%B6%E6%9D%91
+34.366667, 139.266667
+
+
+hchijyo
+八丈島
+https://ja.wikipedia.org/wiki/%E5%85%AB%E4%B8%88%E5%B3%B6
+八丈町
+https://ja.wikipedia.org/wiki/%E5%85%AB%E4%B8%88%E7%94%BA
+33.109444, 139.791389
+
+
+hachijyo_kojima
+八丈小島
+https://ja.wikipedia.org/wiki/%E5%85%AB%E4%B8%88%E5%B0%8F%E5%B3%B6
+八丈町
+https://ja.wikipedia.org/wiki/%E5%85%AB%E4%B8%88%E7%94%BA
+33.125278, 139.688333
+
+
+hayashima_tokyo
+早島_東京
+https://ja.wikipedia.org/wiki/%E6%97%A9%E5%B3%B6_(%E6%9D%B1%E4%BA%AC%E9%83%BD)
+新島村
+https://ja.wikipedia.org/wiki/%E6%96%B0%E5%B3%B6%E6%9D%91
+34.325833, 139.277222
+
+
+fudeshima
+筆島
+https://ja.wikipedia.org/wiki/%E7%AD%86%E5%B3%B6
+大島町
+https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B3%B6%E7%94%BA
+34.706389, 139.445278
+
+
+bayonnaise_rocks
+ベヨネース列岩
+https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%A8%E3%83%8D%E3%83%BC%E3%82%B9%E5%88%97%E5%B2%A9
+東京都
+https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD
+31.887222, 139.9175
+
+
+mikura_jima
+御蔵島
+https://ja.wikipedia.org/wiki/%E5%BE%A1%E8%94%B5%E5%B3%B6
+御蔵島村
+https://ja.wikipedia.org/wiki/%E5%BE%A1%E8%94%B5%E5%B3%B6%E6%9D%91
+33.874167, 139.601944
+
+
+miyake_jima
+三宅島
+https://ja.wikipedia.org/wiki/%E4%B8%89%E5%AE%85%E5%B3%B6
+三宅村
+https://ja.wikipedia.org/wiki/%E4%B8%89%E5%AE%85%E6%9D%91
+34.081944, 139.526389
+
+
+
+
+

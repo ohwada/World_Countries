@@ -1,0 +1,13 @@
+Kamijima Islands 
+===============
+
+上島諸島の島の一覧
+
+List of Kamijima Islands 
+
+
+![kamijima islands]()
+
+### Reference
+
+[wikipedia: 上島諸島](https://ja.wikipedia.org/wiki/Category:%E4%B8%8A%E5%B3%B6%E8%AB%B8%E5%B3%B6)

@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "山形県" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 139.541659, 38.559225 ], [ 139.541485, 38.560129 ], [ 139.542224, 38.560451 ], [ 139.541659, 38.559225 ] ] ] } }
+]
+}

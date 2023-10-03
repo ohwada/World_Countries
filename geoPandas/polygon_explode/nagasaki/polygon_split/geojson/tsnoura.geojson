@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "長崎県", "place": "田ノ浦", "municipality": "五島市" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 128.842127, 32.777932 ], [ 128.840496, 32.777872 ], [ 128.840991, 32.778489 ], [ 128.84224, 32.778767 ], [ 128.842127, 32.777932 ] ] ] } }
+]
+}

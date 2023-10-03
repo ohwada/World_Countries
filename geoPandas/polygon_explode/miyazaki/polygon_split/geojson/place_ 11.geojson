@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "宮崎県" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 131.730245, 32.468211 ], [ 131.72955, 32.467804 ], [ 131.729332, 32.468545 ], [ 131.730245, 32.468211 ] ] ] } }
+]
+}

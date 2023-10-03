@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "北海道", "place": "様似港外東防波堤", "municipality": "様似町" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 142.912403, 42.127592 ], [ 142.912505, 42.126307 ], [ 142.911768, 42.126249 ], [ 142.911247, 42.126726 ], [ 142.912403, 42.127592 ] ] ] } }
+]
+}

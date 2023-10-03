@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "青森県", "place": "尾駮漁港", "municipality": "六ヶ所村" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 141.388146, 40.969156 ], [ 141.389128, 40.969161 ], [ 141.389642, 40.968232 ], [ 141.388146, 40.969156 ] ] ] } }
+]
+}

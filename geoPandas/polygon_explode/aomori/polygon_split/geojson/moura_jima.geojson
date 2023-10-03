@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "青森県", "place": "茂浦島", "municipality": "平内町" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 140.855963, 40.93192 ], [ 140.853703, 40.931349 ], [ 140.852262, 40.933245 ], [ 140.855273, 40.935145 ], [ 140.857963, 40.933406 ], [ 140.855963, 40.93192 ] ] ] } }
+]
+}

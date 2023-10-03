@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "長崎県", "place": "前ノ島", "municipality": "諫早市" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 130.040706, 32.763128 ], [ 130.040684, 32.759173 ], [ 130.039287, 32.759309 ], [ 130.0377, 32.763066 ], [ 130.039889, 32.763616 ], [ 130.040706, 32.763128 ] ] ] } }
+]
+}

@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "長崎県", "place": "多郎島", "municipality": "五島市" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 128.783057, 32.616062 ], [ 128.778861, 32.61436 ], [ 128.777337, 32.616202 ], [ 128.780014, 32.617264 ], [ 128.781544, 32.616791 ], [ 128.783057, 32.616062 ] ] ] } }
+]
+}

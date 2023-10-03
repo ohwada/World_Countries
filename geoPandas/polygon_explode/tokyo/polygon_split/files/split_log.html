@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+city code
+</title>
+</head>
+<body>
+<h2>分割されたポリゴンの一覧</h2>
+<table style="margin: 30px">
+<thead>
+<tr>
+<th>No.</th>
+<th>場所</th>
+<th>逆ジオコード</th>
+<th>ファイル名</th>
+<th>位置座標<br/>(Google_Map)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>東京都</td>
+<td></td>
+<td>tokyo.geojson</td>
+<td><a href="https://www.google.com/maps/@35.71440025827905,139.43666182798938,12z" target="_blank">(35.7, 139.4)</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td>青海コンテナ埠頭</td>
+<td></td>
+<td>haume_kontena_futou.geojson</td>
+<td><a href="https://www.google.com/maps/@35.6190893813846,139.7799280151661,12z" target="_blank">(35.6, 139.8)</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td>新木場_第1貯木場</td>
+<td></td>
+<td>shinkiba_dai1.geojson</td>
+<td><a href="https://www.google.com/maps/@35.63832611137248,139.82505538305963,12z" target="_blank">(35.6, 139.8)</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td>新木場_第2貯木場</td>
+<td></td>
+<td>shinkiba_dai2.geojson</td>
+<td><a href="https://www.google.com/maps/@35.62380720991106,139.83370003525198,12z" target="_blank">(35.6, 139.8)</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td>青海フェリー埠頭</td>
+<td></td>
+<td>harumi_ferry_futou.geojson</td>
+<td><a href="https://www.google.com/maps/@35.621048890585314,139.7918946265755,12z" target="_blank">(35.6, 139.8)</a></td>
+</tr>
+<tr>
+<td>6</td>
+<td>京浜島</td>
+<td></td>
+<td>keihinnjima.geojson</td>
+<td><a href="https://www.google.com/maps/@35.57105245363288,139.76456053692078,12z" target="_blank">(35.6, 139.8)</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td>昭和島</td>
+<td></td>
+<td>shouwajima.geojson</td>
+<td><a href="https://www.google.com/maps/@35.5715086293322,139.75077393128552,12z" target="_blank">(35.6, 139.8)</a></td>
+</tr>
+<tr>
+<td>8</td>
+<td>葛西海浜公園</td>
+<td></td>
+<td>kasai_kaihinn_kouen.geojson</td>
+<td><a href="https://www.google.com/maps/@35.638590187768195,139.85449662678158,12z" target="_blank">(35.6, 139.9)</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td>伊豆大島</td>
+<td></td>
+<td>izu_ooshima.geojson</td>
+<td><a href="https://www.google.com/maps/@34.73745614600434,139.39888698108686,12z" target="_blank">(34.7, 139.4)</a></td>
+</tr>
+<tr>
+<td>10</td>
+<td>利島</td>
+<td></td>
+<td>toshima.geojson</td>
+<td><a href="https://www.google.com/maps/@34.52259623569448,139.2792662581346,12z" target="_blank">(34.5, 139.3)</a></td>
+</tr>
+<tr>
+<td>11</td>
+<td>早島_東京</td>
+<td></td>
+<td>hayashima_tokyo.geojson</td>
+<td><a href="https://www.google.com/maps/@34.325805474196095,139.27756211954244,12z" target="_blank">(34.3, 139.3)</a></td>
+</tr>
+<tr>
+<td>12</td>
+<td>式根島</td>
+<td></td>
+<td>shikine_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@34.325262986488305,139.21079940729933,12z" target="_blank">(34.3, 139.2)</a></td>
+</tr>
+<tr>
+<td>13</td>
+<td>地内島</td>
+<td></td>
+<td>jinai_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@34.3716126052861,139.22709396322193,12z" target="_blank">(34.4, 139.2)</a></td>
+</tr>
+<tr>
+<td>14</td>
+<td>新島</td>
+<td></td>
+<td>nii_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@34.376788852192036,139.26668576495328,12z" target="_blank">(34.4, 139.3)</a></td>
+</tr>
+<tr>
+<td>15</td>
+<td>鵜渡根島</td>
+<td></td>
+<td>udone_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@34.47293635862291,139.2935530318514,12z" target="_blank">(34.5, 139.3)</a></td>
+</tr>
+<tr>
+<td>16</td>
+<td>祇苗島</td>
+<td></td>
+<td>tadanae_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@34.207888575203995,139.19138931093892,12z" target="_blank">(34.2, 139.2)</a></td>
+</tr>
+<tr>
+<td>17</td>
+<td>神津島</td>
+<td></td>
+<td>kouzushima.geojson</td>
+<td><a href="https://www.google.com/maps/@34.21445707725748,139.14780429886233,12z" target="_blank">(34.2, 139.1)</a></td>
+</tr>
+<tr>
+<td>18</td>
+<td>三宅島</td>
+<td></td>
+<td>miyake_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@34.08498291983142,139.52121812566378,12z" target="_blank">(34.1, 139.5)</a></td>
+</tr>
+<tr>
+<td>19</td>
+<td>御蔵島</td>
+<td></td>
+<td>mikura_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@33.874857515480386,139.60326026016006,12z" target="_blank">(33.9, 139.6)</a></td>
+</tr>
+<tr>
+<td>20</td>
+<td>八丈小島</td>
+<td></td>
+<td>hachijyo_kojima.geojson</td>
+<td><a href="https://www.google.com/maps/@33.126159777051754,139.68779307849255,12z" target="_blank">(33.1, 139.7)</a></td>
+</tr>
+<tr>
+<td>21</td>
+<td>八丈島</td>
+<td></td>
+<td>hchijyo.geojson</td>
+<td><a href="https://www.google.com/maps/@33.106367185920355,139.7979417385334,12z" target="_blank">(33.1, 139.8)</a></td>
+</tr>
+<tr>
+<td>22</td>
+<td>青ヶ島</td>
+<td></td>
+<td>aogashima.geojson</td>
+<td><a href="https://www.google.com/maps/@32.457331332640294,139.76646610230705,12z" target="_blank">(32.5, 139.8)</a></td>
+</tr>
+<tr>
+<td>23</td>
+<td>南硫黄島</td>
+<td></td>
+<td>minami_iwojima.geojson</td>
+<td><a href="https://www.google.com/maps/@24.23489574181317,141.462516522335,12z" target="_blank">(24.2, 141.5)</a></td>
+</tr>
+<tr>
+<td>24</td>
+<td>南鳥島</td>
+<td></td>
+<td>minami_torishima.geojson</td>
+<td><a href="https://www.google.com/maps/@24.287467806509877,153.98063313951914,12z" target="_blank">(24.3, 154.0)</a></td>
+</tr>
+<tr>
+<td>25</td>
+<td>監獄岩</td>
+<td></td>
+<td>kangoku_iwa.geojson</td>
+<td><a href="https://www.google.com/maps/@24.80289131250507,141.28629852175143,12z" target="_blank">(24.8, 141.3)</a></td>
+</tr>
+<tr>
+<td>26</td>
+<td>硫黄島_東京</td>
+<td></td>
+<td>iwo_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@24.78226925762919,141.31631988468456,12z" target="_blank">(24.8, 141.3)</a></td>
+</tr>
+<tr>
+<td>27</td>
+<td>北硫黄島</td>
+<td></td>
+<td>kita_iwojima.geojson</td>
+<td><a href="https://www.google.com/maps/@25.433369670522083,141.2824588361643,12z" target="_blank">(25.4, 141.3)</a></td>
+</tr>
+<tr>
+<td>28</td>
+<td>妹島</td>
+<td></td>
+<td>imouto_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.559200626136942,142.2098655604525,12z" target="_blank">(26.6, 142.2)</a></td>
+</tr>
+<tr>
+<td>29</td>
+<td>姉島</td>
+<td></td>
+<td>ane_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.554078822180667,142.156398198166,12z" target="_blank">(26.6, 142.2)</a></td>
+</tr>
+<tr>
+<td>30</td>
+<td>姪島</td>
+<td></td>
+<td>mei_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.569637103667276,142.2310985014984,12z" target="_blank">(26.6, 142.2)</a></td>
+</tr>
+<tr>
+<td>31</td>
+<td>平島_東京</td>
+<td></td>
+<td>hirajima_tokyo.geojson</td>
+<td><a href="https://www.google.com/maps/@26.585409028251732,142.15501947342406,12z" target="_blank">(26.6, 142.2)</a></td>
+</tr>
+<tr>
+<td>32</td>
+<td>向島_母島</td>
+<td></td>
+<td>mukoujima_hahajima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.60303087309908,142.12939449236836,12z" target="_blank">(26.6, 142.1)</a></td>
+</tr>
+<tr>
+<td>33</td>
+<td>母島</td>
+<td></td>
+<td>haha_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.66666735444873,142.15597474593977,12z" target="_blank">(26.7, 142.2)</a></td>
+</tr>
+<tr>
+<td>34</td>
+<td>南島_東京</td>
+<td></td>
+<td>minamijima_tokyo.geojson</td>
+<td><a href="https://www.google.com/maps/@27.038134018709535,142.17504962241642,12z" target="_blank">(27.0, 142.2)</a></td>
+</tr>
+<tr>
+<td>35</td>
+<td>東島_東京</td>
+<td></td>
+<td>higashijima_tokyo.geojson</td>
+<td><a href="https://www.google.com/maps/@27.09330620912706,142.24507443681287,12z" target="_blank">(27.1, 142.2)</a></td>
+</tr>
+<tr>
+<td>36</td>
+<td>父島</td>
+<td></td>
+<td>chichi_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@27.069296876195775,142.20965880345415,12z" target="_blank">(27.1, 142.2)</a></td>
+</tr>
+<tr>
+<td>37</td>
+<td>西島_東京</td>
+<td></td>
+<td>nishijima_tokyo.geojson</td>
+<td><a href="https://www.google.com/maps/@27.116807415383978,142.16655336844912,12z" target="_blank">(27.1, 142.2)</a></td>
+</tr>
+<tr>
+<td>38</td>
+<td>眼鏡島</td>
+<td></td>
+<td>megane_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@27.128100015511965,142.1792888790455,12z" target="_blank">(27.1, 142.2)</a></td>
+</tr>
+<tr>
+<td>39</td>
+<td>兄島</td>
+<td></td>
+<td>ani_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@27.122013425441615,142.20964609756004,12z" target="_blank">(27.1, 142.2)</a></td>
+</tr>
+<tr>
+<td>40</td>
+<td>弟島</td>
+<td></td>
+<td>otouto_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@27.166054865445137,142.1910618251436,12z" target="_blank">(27.2, 142.2)</a></td>
+</tr>
+<tr>
+<td>41</td>
+<td>孫島</td>
+<td></td>
+<td>mago_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@27.19505578278396,142.19597797450055,12z" target="_blank">(27.2, 142.2)</a></td>
+</tr>
+<tr>
+<td>42</td>
+<td>西之島</td>
+<td></td>
+<td>nishinoshima.geojson</td>
+<td><a href="https://www.google.com/maps/@27.246698460299662,140.8758133932538,12z" target="_blank">(27.2, 140.9)</a></td>
+</tr>
+<tr>
+<td>43</td>
+<td>嫁島</td>
+<td></td>
+<td>yome_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@27.496130059106278,142.210472523585,12z" target="_blank">(27.5, 142.2)</a></td>
+</tr>
+<tr>
+<td>44</td>
+<td>媒島</td>
+<td></td>
+<td>nakoudo_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@27.62726549069154,142.17861403657295,12z" target="_blank">(27.6, 142.2)</a></td>
+</tr>
+<tr>
+<td>45</td>
+<td>針之岩</td>
+<td></td>
+<td>harino_iwa.geojson</td>
+<td><a href="https://www.google.com/maps/@27.65930648313024,142.15848018942776,12z" target="_blank">(27.7, 142.2)</a></td>
+</tr>
+<tr>
+<td>46</td>
+<td>鳥島_聟島</td>
+<td></td>
+<td>torishima_mukojima.geojson</td>
+<td><a href="https://www.google.com/maps/@27.679463994388055,142.12569978500844,12z" target="_blank">(27.7, 142.1)</a></td>
+</tr>
+<tr>
+<td>47</td>
+<td>聟島</td>
+<td></td>
+<td>muko_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@27.68094503483781,142.1386816208082,12z" target="_blank">(27.7, 142.1)</a></td>
+</tr>
+<tr>
+<td>48</td>
+<td>北之島</td>
+<td></td>
+<td>kitanoshima.geojson</td>
+<td><a href="https://www.google.com/maps/@27.718358383874783,142.09997267685247,12z" target="_blank">(27.7, 142.1)</a></td>
+</tr>
+<tr>
+<td>49</td>
+<td>鳥島_八丈</td>
+<td></td>
+<td>torishima_hachijyo.geojson</td>
+<td><a href="https://www.google.com/maps/@30.484517733254762,140.30128428729236,12z" target="_blank">(30.5, 140.3)</a></td>
+</tr>
+<tr>
+<td>50</td>
+<td>令和島</td>
+<td></td>
+<td>rewajima.geojson</td>
+<td><a href="https://www.google.com/maps/@35.59583737517686,139.8114163460254,12z" target="_blank">(35.6, 139.8)</a></td>
+</tr>
+<tr>
+<td>51</td>
+<td>中央防波堤埋立地</td>
+<td></td>
+<td>chuuou_bouhatei.geojson</td>
+<td><a href="https://www.google.com/maps/@35.604493207062795,139.80395527456744,12z" target="_blank">(35.6, 139.8)</a></td>
+</tr>
+
+</tbody>
+</table>
+
+<h2>Reference<h2>
+
+</body>
+</html>

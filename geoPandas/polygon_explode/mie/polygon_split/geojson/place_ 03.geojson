@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "三重県" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 136.734976, 34.537692 ], [ 136.736141, 34.536785 ], [ 136.732007, 34.538753 ], [ 136.734976, 34.537692 ] ] ] } }
+]
+}

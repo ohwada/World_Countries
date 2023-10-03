@@ -1,0 +1,39 @@
+岩手県の島
+https://ja.wikipedia.org/wiki/Category:%E5%B2%A9%E6%89%8B%E7%9C%8C%E3%81%AE%E5%B3%B6
+
+
+
+oranda_jima
+オランダ島, https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E5%B3%B6
+山田町, https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%94%B0%E7%94%BA
+39.462222, 141.975
+
+
+gakkari_tou
+がっかり島, https://ja.wikipedia.org/wiki/%E3%81%8C%E3%81%A3%E3%81%8B%E3%82%8A%E5%B3%B6
+宮古市, https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%8F%A4%E5%B8%82
+39.752894, 142.003611
+
+
+sangan_jima
+三貫島, https://ja.wikipedia.org/wiki/%E4%B8%89%E8%B2%AB%E5%B3%B6
+釜石市, https://ja.wikipedia.org/wiki/%E9%87%9C%E7%9F%B3%E5%B8%82
+39.306389, 141.981944
+
+
+tsubaki_shima_rikuzentakata
+椿島_陸前高田, https://ja.wikipedia.org/wiki/%E6%A4%BF%E5%B3%B6_(%E9%99%B8%E5%89%8D%E9%AB%98%E7%94%B0%E5%B8%82)
+陸前高田市, https://ja.wikipedia.org/wiki/%E9%99%B8%E5%89%8D%E9%AB%98%E7%94%B0%E5%B8%82
+38.932778, 141.720833
+
+
+hide_shima
+日出島, https://ja.wikipedia.org/wiki/%E6%97%A5%E5%87%BA%E5%B3%B6
+宮古市, https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%8F%A4%E5%B8%82
+39.67, 141.9875	
+ 
+
+hourai_jima_iwate
+蓬萊島_岩手, https://ja.wikipedia.org/wiki/%E8%93%AC%E8%90%8A%E5%B3%B6_(%E5%B2%A9%E6%89%8B%E7%9C%8C)
+大槌町, https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%A7%8C%E7%94%BA
+39.347889, 141.931389

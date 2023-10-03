@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "島根県", "place": "松島_1", "municipality": "隠岐の島町" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 133.276826, 36.349283 ], [ 133.276042, 36.349087 ], [ 133.274621, 36.350525 ], [ 133.276429, 36.351009 ], [ 133.277435, 36.349776 ], [ 133.276826, 36.349283 ] ] ] } }
+]
+}

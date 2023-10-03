@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "北海道", "place": "友知島", "municipality": "根室市" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 145.670003, 43.297348 ], [ 145.668454, 43.297284 ], [ 145.671415, 43.299801 ], [ 145.672746, 43.299363 ], [ 145.673683, 43.298601 ], [ 145.670003, 43.297348 ] ] ] } }
+]
+}

@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "長崎県", "place": "神ノ浦港", "municipality": "長崎市" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 129.679642, 32.878576 ], [ 129.678372, 32.878801 ], [ 129.677744, 32.879546 ], [ 129.679642, 32.878576 ] ] ] } }
+]
+}

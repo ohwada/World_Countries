@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "千葉県" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 140.733825, 35.690404 ], [ 140.736485, 35.691534 ], [ 140.734776, 35.690429 ], [ 140.733825, 35.690404 ] ] ] } }
+]
+}

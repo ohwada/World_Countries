@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "石川県" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 136.91179, 37.409325 ], [ 136.901958, 37.407895 ], [ 136.907588, 37.409417 ], [ 136.91179, 37.409325 ] ] ] } }
+]
+}

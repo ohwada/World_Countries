@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "兵庫県", "place": "由良港_兵庫", "municipality": "洲本市" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 134.958658, 34.277567 ], [ 134.957068, 34.276527 ], [ 134.956413, 34.277001 ], [ 134.956895, 34.27778 ], [ 134.958384, 34.280582 ], [ 134.958658, 34.277567 ] ] ] } }
+]
+}

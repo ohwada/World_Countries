@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "長崎県", "place": "長南風島1", "municipality": "佐世保市" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 129.659065, 33.143344 ], [ 129.662081, 33.143872 ], [ 129.659763, 33.14062 ], [ 129.659065, 33.143344 ] ] ] } }
+]
+}

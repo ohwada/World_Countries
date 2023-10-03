@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "長崎県", "place": "九頭島", "municipality": "佐世保市" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 129.577988, 33.290316 ], [ 129.573728, 33.287484 ], [ 129.572699, 33.288608 ], [ 129.574994, 33.290898 ], [ 129.577198, 33.291041 ], [ 129.577988, 33.290316 ] ] ] } }
+]
+}

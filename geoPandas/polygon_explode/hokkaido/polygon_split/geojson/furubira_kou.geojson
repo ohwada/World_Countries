@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "北海道", "place": "古平港東防波堤", "municipality": "古平町" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 140.641664, 43.278415 ], [ 140.641851, 43.277277 ], [ 140.641333, 43.275587 ], [ 140.641664, 43.278415 ] ] ] } }
+]
+}

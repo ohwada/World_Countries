@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "北海道", "place": "緑の島", "municipality": "函館市" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 140.716529, 41.771684 ], [ 140.714751, 41.76915 ], [ 140.713031, 41.769742 ], [ 140.711991, 41.770804 ], [ 140.714706, 41.772723 ], [ 140.716529, 41.771684 ] ] ] } }
+]
+}

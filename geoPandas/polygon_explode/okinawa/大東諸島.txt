@@ -1,0 +1,29 @@
+大東諸島
+
+https://ja.wikipedia.org/wiki/Category:%E5%A4%A7%E6%9D%B1%E8%AB%B8%E5%B3%B6
+
+
+okidaitou_jima
+沖大東島
+https://ja.wikipedia.org/wiki/%E6%B2%96%E5%A4%A7%E6%9D%B1%E5%B3%B6
+北大東村
+https://ja.wikipedia.org/wiki/%E5%8C%97%E5%A4%A7%E6%9D%B1%E6%9D%91
+24.465833, 131.189722
+
+
+kitadaitou_jima
+北大東島
+https://ja.wikipedia.org/wiki/%E5%8C%97%E5%A4%A7%E6%9D%B1%E5%B3%B6
+北大東村
+https://ja.wikipedia.org/wiki/%E5%8C%97%E5%A4%A7%E6%9D%B1%E6%9D%91
+25.944722, 131.306389
+
+
+minamidaitou_jima
+南大東島
+https://ja.wikipedia.org/wiki/%E5%8D%97%E5%A4%A7%E6%9D%B1%E5%B3%B6
+南大東村
+https://ja.wikipedia.org/wiki/%E5%8D%97%E5%A4%A7%E6%9D%B1%E6%9D%91
+25.845556, 131.244722
+
+

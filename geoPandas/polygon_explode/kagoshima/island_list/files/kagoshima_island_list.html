@@ -1,0 +1,658 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+island list
+</title>
+</head>
+<body>
+<h2>鹿児島県の島の一覧</h2>
+<table style="margin: 30px">
+<thead>
+<tr>
+<th>英語名</th>
+<th>島</th>
+<th>自治体</th>
+<th>位置座標<br/>(Google_Map)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>koikarajima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%94%90%E5%B3%B6" target="_blank">小伊唐島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B3%B6%E7%94%BA" target="_blank">長島町</a></td>
+<td><a href="https://www.google.com/maps/@32.226116,130.218041,12z" target="_blank">(32.2, 130.2)</a></td>
+</tr>
+<tr>
+<td>okinoshima_kagoshima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E6%B2%96%E3%83%8E%E5%B3%B6_(%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C)" target="_blank">沖ノ島_鹿児島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E3%81%84%E3%81%A1%E3%81%8D%E4%B8%B2%E6%9C%A8%E9%87%8E%E5%B8" target="_blank">いちき串木野市</a></td>
+<td><a href="https://www.google.com/maps/@31.739444,130.179167,12z" target="_blank">(31.7, 130.2)</a></td>
+</tr>
+<tr>
+<td>katsurashima_kagoshima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E6%A1%82%E5%B3%B6_(%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C)" target="_blank">桂島_鹿児島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%87%BA%E6%B0%B4%E5%B8%82" target="_blank">出水市</a></td>
+<td><a href="https://www.google.com/maps/@32.149222,130.265,12z" target="_blank">(32.1, 130.3)</a></td>
+</tr>
+<tr>
+<td>kaminoshima_kagoshima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E7%A5%9E%E3%83%8E%E5%B3%B6_(%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C)" target="_blank">神ノ島_鹿児島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%8D%97%E3%81%95%E3%81%A4%E3%81%BE%E5%B8%82" target="_blank">南さつま市</a></td>
+<td><a href="https://www.google.com/maps/@31.432703,130.185864,12z" target="_blank">(31.4, 130.2)</a></td>
+</tr>
+<tr>
+<td>kuta_jima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B9%85%E5%A4%9A%E5%B3%B6" target="_blank">久多島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E6%97%A5%E7%BD%AE%E5%B8%82" target="_blank">日置市</a></td>
+<td><a href="https://www.google.com/maps/@31.55,130.228611,12z" target="_blank">(31.6, 130.2)</a></td>
+</tr>
+<tr>
+<td>shichio_jima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%83%E5%B0%BE%E5%B3%B6" target="_blank">七尾島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%87%BA%E6%B0%B4%E5%B8%82" target="_blank">出水市</a></td>
+<td><a href="https://www.google.com/maps/@32.176056,130.238556,12z" target="_blank">(32.2, 130.2)</a></td>
+</tr>
+<tr>
+<td>shinjima_kagoshima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E6%96%B0%E5%B3%B6_(%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C)" target="_blank">新島_鹿児島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82" target="_blank">鹿児島市</a></td>
+<td><a href="https://www.google.com/maps/@31.617661,130.723361,12z" target="_blank">(31.6, 130.7)</a></td>
+</tr>
+<tr>
+<td>suzumekita_kojima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BA%E3%83%A1%E5%8C%97%E5%B0%8F%E5%B3%B6" target="_blank">スズメ北小島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%8D%97%E3%81%95%E3%81%A4%E3%81%BE%E5%B8%82" target="_blank">南さつま市</a></td>
+<td><a href="https://www.google.com/maps/@31.1775,129.415028,12z" target="_blank">(31.2, 129.4)</a></td>
+</tr>
+<tr>
+<td>takashima_1</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%B7%B9%E5%B3%B6_(%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C)" target="_blank">鷹島_1</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C" target="_blank">鹿児島県</a></td>
+<td><a href="https://www.google.com/maps/@31.447733,129.733281,12z" target="_blank">(31.4, 129.7)</a></td>
+</tr>
+<tr>
+<td>takashima_2</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%B7%B9%E5%B3%B6_(%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C)" target="_blank">鷹島_2</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C" target="_blank">鹿児島県</a></td>
+<td><a href="https://www.google.com/maps/@31.448018,129.735032,12z" target="_blank">(31.4, 129.7)</a></td>
+</tr>
+<tr>
+<td>takashima_3</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%B7%B9%E5%B3%B6_(%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C)" target="_blank">鷹島_3</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C" target="_blank">鹿児島県</a></td>
+<td><a href="https://www.google.com/maps/@31.4491329,129.7351051,12z" target="_blank">(31.4, 129.7)</a></td>
+</tr>
+<tr>
+<td>takashima_4</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%B7%B9%E5%B3%B6_(%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C)" target="_blank">鷹島_4</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C" target="_blank">鹿児島県</a></td>
+<td><a href="https://www.google.com/maps/@31.448967,129.732903,12z" target="_blank">(31.4, 129.7)</a></td>
+</tr>
+<tr>
+<td>takashima_5</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%B7%B9%E5%B3%B6_(%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C)" target="_blank">鷹島_5</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C" target="_blank">鹿児島県</a></td>
+<td><a href="https://www.google.com/maps/@31.440448,129.735266,12z" target="_blank">(31.4, 129.7)</a></td>
+</tr>
+<tr>
+<td>takashima_6</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%B7%B9%E5%B3%B6_(%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C)" target="_blank">鷹島_6</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C" target="_blank">鹿児島県</a></td>
+<td><a href="https://www.google.com/maps/@31.44438,129.732827,12z" target="_blank">(31.4, 129.7)</a></td>
+</tr>
+<tr>
+<td>chiringashima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E7%9F%A5%E6%9E%97%E3%83%B6%E5%B3%B6" target="_blank">知林ヶ島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E6%8C%87%E5%AE%BF%E5%B8%82" target="_blank">指宿市</a></td>
+<td><a href="https://www.google.com/maps/@31.276944,130.677222,12z" target="_blank">(31.3, 130.7)</a></td>
+</tr>
+<tr>
+<td>tsukurase_1</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E6%B4%A5%E5%80%89%E7%80%AC" target="_blank">津倉瀬_1</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C" target="_blank">鹿児島県</a></td>
+<td><a href="https://www.google.com/maps/@31.306529,129.739924,12z" target="_blank">(31.3, 129.7)</a></td>
+</tr>
+<tr>
+<td>tsukurase_2</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E6%B4%A5%E5%80%89%E7%80%AC" target="_blank">津倉瀬_2</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C" target="_blank">鹿児島県</a></td>
+<td><a href="https://www.google.com/maps/@31.306651,129.739456,12z" target="_blank">(31.3, 129.7)</a></td>
+</tr>
+<tr>
+<td>tsukurase_3</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E6%B4%A5%E5%80%89%E7%80%AC" target="_blank">津倉瀬_3</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C" target="_blank">鹿児島県</a></td>
+<td><a href="https://www.google.com/maps/@31.308384,129.740023,12z" target="_blank">(31.3, 129.7)</a></td>
+</tr>
+<tr>
+<td>tsukurase_4</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E6%B4%A5%E5%80%89%E7%80%AC" target="_blank">津倉瀬_4</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C" target="_blank">鹿児島県</a></td>
+<td><a href="https://www.google.com/maps/@31.3091307,129.739775,12z" target="_blank">(31.3, 129.7)</a></td>
+</tr>
+<tr>
+<td>biroujima_kagoshima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E6%9E%87%E6%A6%94%E5%B3%B6_(%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C)" target="_blank">枇榔島_鹿児島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%BF%97%E5%B8%83%E5%BF%97%E5%B8%82" target="_blank">志布志市</a></td>
+<td><a href="https://www.google.com/maps/@31.429389,131.116917,12z" target="_blank">(31.4, 131.1)</a></td>
+</tr>
+<tr>
+<td>heta_kojima</td>
+<td>辺田小島</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%9C%A7%E5%B3%B6%E5%B8%82" target="_blank">霧島市</a></td>
+<td><a href="https://www.google.com/maps/@31.709405,130.720638,12z" target="_blank">(31.7, 130.7)</a></td>
+</tr>
+<tr>
+<td>okiakime_jima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%9D%8A%E6%B4%A5%E7%94%BA%E7%A7%8B%E7%9B%AE" target="_blank">沖秋目島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%8D%97%E3%81%95%E3%81%A4%E3%81%BE%E5%B8%82" target="_blank">南さつま市</a></td>
+<td><a href="https://www.google.com/maps/@31.356544,130.163985,12z" target="_blank">(31.4, 130.2)</a></td>
+</tr>
+<tr>
+<td>terushima</td>
+<td>照島</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E3%81%84%E3%81%A1%E3%81%8D%E4%B8%B2%E6%9C%A8%E9%87%8E%E5%B8%82" target="_blank">いちき串木野市</a></td>
+<td><a href="https://www.google.com/maps/@31.704798,130.269208,12z" target="_blank">(31.7, 130.3)</a></td>
+</tr>
+<tr>
+<td>kuwshima</td>
+<td>桑島</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%98%BF%E4%B9%85%E6%A0%B9%E5%B8%82" target="_blank">阿久根市</a></td>
+<td><a href="https://www.google.com/maps/@32.034951,130.162214,12z" target="_blank">(32.0, 130.2)</a></td>
+</tr>
+<tr>
+<td>ooshima_1</td>
+<td>大島_1</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%98%BF%E4%B9%85%E6%A0%B9%E5%B8%82" target="_blank">阿久根市</a></td>
+<td><a href="https://www.google.com/maps/@32.02492,130.166771,12z" target="_blank">(32.0, 130.2)</a></td>
+</tr>
+<tr>
+<td>kamihimeshima</td>
+<td>上姫島</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E8%96%A9%E6%91%A9%E5%B7%9D%E5%86%85%E5%B8%82" target="_blank">薩摩川内市</a></td>
+<td><a href="https://www.google.com/maps/@31.845446,129.877213,12z" target="_blank">(31.8, 129.9)</a></td>
+</tr>
+<tr>
+<td>nakakoshiki_jima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%8A%E7%94%91%E5%B3%B6" target="_blank">中甑島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E8%96%A9%E6%91%A9%E5%B7%9D%E5%86%85%E5%B8%82" target="_blank">薩摩川内市</a></td>
+<td><a href="https://www.google.com/maps/@31.798752,129.827712,12z" target="_blank">(31.8, 129.8)</a></td>
+</tr>
+<tr>
+<td>chikajima</td>
+<td>近島</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E8%96%A9%E6%91%A9%E5%B7%9D%E5%86%85%E5%B8%82" target="_blank">薩摩川内市</a></td>
+<td><a href="https://www.google.com/maps/@31.851381,129.950197,12z" target="_blank">(31.9, 130.0)</a></td>
+</tr>
+<tr>
+<td>futago_jima</td>
+<td>双子島</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E8%96%A9%E6%91%A9%E5%B7%9D%E5%86%85%E5%B8%82" target="_blank">薩摩川内市</a></td>
+<td><a href="https://www.google.com/maps/@31.862113,129.976369,12z" target="_blank">(31.9, 130.0)</a></td>
+</tr>
+<tr>
+<td>nojima_1</td>
+<td>野島_1</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E8%96%A9%E6%91%A9%E5%B7%9D%E5%86%85%E5%B8%82" target="_blank">薩摩川内市</a></td>
+<td><a href="https://www.google.com/maps/@31.865949,129.960324,12z" target="_blank">(31.9, 130.0)</a></td>
+</tr>
+<tr>
+<td>nojima_2</td>
+<td>野島_2</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B3%B6%E7%94%BA" target="_blank">長島町</a></td>
+<td><a href="https://www.google.com/maps/@32.242227,130.183959,12z" target="_blank">(32.2, 130.2)</a></td>
+</tr>
+<tr>
+<td>kuroshima_1</td>
+<td>黒島_1</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B3%B6%E7%94%BA" target="_blank">長島町</a></td>
+<td><a href="https://www.google.com/maps/@32.263354,130.180473,12z" target="_blank">(32.3, 130.2)</a></td>
+</tr>
+<tr>
+<td>kuroshima_2</td>
+<td>黒島_2</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%89%E5%B3%B6%E6%9D%91" target="_blank">三島村</a></td>
+<td><a href="https://www.google.com/maps/@30.830593,129.934084,12z" target="_blank">(30.8, 129.9)</a></td>
+</tr>
+<tr>
+<td>maejima</td>
+<td>前島</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B3%B6%E7%94%BA" target="_blank">長島町</a></td>
+<td><a href="https://www.google.com/maps/@32.249998,130.226562,12z" target="_blank">(32.2, 130.2)</a></td>
+</tr>
+<tr>
+<td>takeshima_1</td>
+<td>竹島_1</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B3%B6%E7%94%BA" target="_blank">長島町</a></td>
+<td><a href="https://www.google.com/maps/@32.226503,130.180399,12z" target="_blank">(32.2, 130.2)</a></td>
+</tr>
+<tr>
+<td>takrshima_2</td>
+<td>竹島_2</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%89%E5%B3%B6%E6%9D%91" target="_blank">三島村</a></td>
+<td><a href="https://www.google.com/maps/@30.810019,130.424984,12z" target="_blank">(30.8, 130.4)</a></td>
+</tr>
+<tr>
+<td>ioujima_kagoshima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E7%A1%AB%E9%BB%84%E5%B3%B6_(%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C)" target="_blank">硫黄島_鹿児島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%89%E5%B3%B6%E6%9D%91" target="_blank">三島村</a></td>
+<td><a href="https://www.google.com/maps/@30.79052,130.294296,12z" target="_blank">(30.8, 130.3)</a></td>
+</tr>
+<tr>
+<td>kaminoshima</td>
+<td>上ノ島</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%8D%97%E3%81%95%E3%81%A4%E3%81%BE%E5%B8%82" target="_blank">南さつま市</a></td>
+<td><a href="https://www.google.com/maps/@30.860777,129.46538,12z" target="_blank">(30.9, 129.5)</a></td>
+</tr>
+<tr>
+<td>shimonoshima</td>
+<td>下ノ島</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%8D%97%E3%81%95%E3%81%A4%E3%81%BE%E5%B8%82" target="_blank">南さつま市</a></td>
+<td><a href="https://www.google.com/maps/@30.845279,129.43115,12z" target="_blank">(30.8, 129.4)</a></td>
+</tr>
+<tr>
+<td>kaminone_jima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E6%A8%AA%E5%BD%93%E5%B3%B6" target="_blank">上ノ根島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%8D%81%E5%B3%B6%E6%9D%91" target="_blank">十島村</a></td>
+<td><a href="https://www.google.com/maps/@28.831945,129.00065,12z" target="_blank">(28.8, 129.0)</a></td>
+</tr>
+<tr>
+<td>kojima_1</td>
+<td>小島_1</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%8D%81%E5%B3%B6%E6%9D%91" target="_blank">十島村</a></td>
+<td><a href="https://www.google.com/maps/@29.228055,129.34559,12z" target="_blank">(29.2, 129.3)</a></td>
+</tr>
+<tr>
+<td>hamiya_jima</td>
+<td>ハミヤ島</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E7%94%BA" target="_blank">瀬戸内町</a></td>
+<td><a href="https://www.google.com/maps/@28.045656,129.187907,12z" target="_blank">(28.0, 129.2)</a></td>
+</tr>
+<tr>
+<td>jyanare_jima</td>
+<td>ジャナレ島</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E7%94%BA" target="_blank">瀬戸内町</a></td>
+<td><a href="https://www.google.com/maps/@28.002032,129.255264,12z" target="_blank">(28.0, 129.3)</a></td>
+</tr>
+<tr>
+<td>akuseki_jima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E6%82%AA%E7%9F%B3%E5%B3%B6" target="_blank">悪石島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%8D%81%E5%B3%B6%E6%9D%91" target="_blank">十島村</a></td>
+<td><a href="https://www.google.com/maps/@29.451667,129.601111,12z" target="_blank">(29.5, 129.6)</a></td>
+</tr>
+<tr>
+<td>gajya_jima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E8%87%A5%E8%9B%87%E5%B3%B6" target="_blank">臥蛇島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%8D%81%E5%B3%B6%E6%9D%91" target="_blank">十島村</a></td>
+<td><a href="https://www.google.com/maps/@29.903056,129.541667,12z" target="_blank">(29.9, 129.5)</a></td>
+</tr>
+<tr>
+<td>kogajya_jima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%87%A5%E8%9B%87%E5%B3%B6" target="_blank">小臥蛇島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%8D%81%E5%B3%B6%E6%9D%91" target="_blank">十島村</a></td>
+<td><a href="https://www.google.com/maps/@29.879167,129.619444,12z" target="_blank">(29.9, 129.6)</a></td>
+</tr>
+<tr>
+<td>kuchinoshima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%8F%A3%E4%B9%8B%E5%B3%B6" target="_blank">口之島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%8D%81%E5%B3%B6%E6%9D%91" target="_blank">十島村</a></td>
+<td><a href="https://www.google.com/maps/@29.966667,129.916667,12z" target="_blank">(30.0, 129.9)</a></td>
+</tr>
+<tr>
+<td>kobatachigami</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E6%9C%A8%E5%A0%B4%E7%AB%8B%E7%A5%9E" target="_blank">木場立神</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%8D%81%E5%B3%B6%E6%9D%91" target="_blank">十島村</a></td>
+<td><a href="https://www.google.com/maps/@29.966667,29.912222,12z" target="_blank">(30.0, 29.9)</a></td>
+</tr>
+<tr>
+<td>suwanose_jima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E8%AB%8F%E8%A8%AA%E4%B9%8B%E7%80%AC%E5%B3%B6" target="_blank">諏訪之瀬島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%8D%81%E5%B3%B6%E6%9D%91" target="_blank">十島村</a></td>
+<td><a href="https://www.google.com/maps/@29.611444,129.703139,12z" target="_blank">(29.6, 129.7)</a></td>
+</tr>
+<tr>
+<td>tairajima_kagoshima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%B3%B6_(%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C)" target="_blank">平島_鹿児島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%8D%81%E5%B3%B6%E6%9D%91" target="_blank">十島村</a></td>
+<td><a href="https://www.google.com/maps/@29.687806,129.528361,12z" target="_blank">(29.7, 129.5)</a></td>
+</tr>
+<tr>
+<td>takarajima_kagoshima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%AE%9D%E5%B3%B6_(%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C)" target="_blank">宝島_鹿児島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%8D%81%E5%B3%B6%E6%9D%91" target="_blank">十島村</a></td>
+<td><a href="https://www.google.com/maps/@29.14699,129.207427,12z" target="_blank">(29.1, 129.2)</a></td>
+</tr>
+<tr>
+<td>kotakarajima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%AE%9D%E5%B3%B6" target="_blank">小宝島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%8D%81%E5%B3%B6%E6%9D%91" target="_blank">十島村</a></td>
+<td><a href="https://www.google.com/maps/@29.222917,129.329028,12z" target="_blank">(29.2, 129.3)</a></td>
+</tr>
+<tr>
+<td>kananoshima_kagoshima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%AD%E4%B9%8B%E5%B3%B6_(%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C)" target="_blank">中之島_鹿児島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%8D%81%E5%B3%B6%E6%9D%91" target="_blank">十島村</a></td>
+<td><a href="https://www.google.com/maps/@29.838528,129.853222,12z" target="_blank">(29.8, 129.9)</a></td>
+</tr>
+<tr>
+<td>yokoate_jima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E6%A8%AA%E5%BD%93%E5%B3%B6" target="_blank">横当島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%8D%81%E5%B3%B6%E6%9D%91" target="_blank">十島村</a></td>
+<td><a href="https://www.google.com/maps/@28.800556,128.994444,12z" target="_blank">(28.8, 129.0)</a></td>
+</tr>
+<tr>
+<td>iwajima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E7%B6%AD%E5%92%8C%E5%B3%B6" target="_blank">維和島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%A4%A9%E8%8D%89%E5%B8%82" target="_blank">上天草市</a></td>
+<td><a href="https://www.google.com/maps/@32.575556,130.466139,12z" target="_blank">(32.6, 130.5)</a></td>
+</tr>
+<tr>
+<td>ubujima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E7%94%A3%E5%B3%B6" target="_blank">産島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%A4%A9%E8%8D%89%E5%B8%82" target="_blank">天草市</a></td>
+<td><a href="https://www.google.com/maps/@32.269722,130.139722,12z" target="_blank">(32.3, 130.1)</a></td>
+</tr>
+<tr>
+<td>ooyanojima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%9F%A2%E9%87%8E%E5%B3%B6" target="_blank">大矢野島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%A4%A9%E8%8D%89%E5%B8%82" target="_blank">上天草市</a></td>
+<td><a href="https://www.google.com/maps/@32.578639,130.430028,12z" target="_blank">(32.6, 130.4)</a></td>
+</tr>
+<tr>
+<td>kamishima_amakusa</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%B3%B6_(%E5%A4%A9%E8%8D%89%E8%AB%B8%E5%B3%B6)" target="_blank">上島_天草</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%A4%A9%E8%8D%89%E5%B8%82" target="_blank">天草市</a></td>
+<td><a href="https://www.google.com/maps/@32.433333,130.333333,12z" target="_blank">(32.4, 130.3)</a></td>
+</tr>
+<tr>
+<td>shimoshima_amakusa</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%8B%E5%B3%B6_(%E5%A4%A9%E8%8D%89%E8%AB%B8%E5%B3%B6)" target="_blank">下島_天草</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%A4%A9%E8%8D%89%E5%B8%82" target="_blank">天草市</a></td>
+<td><a href="https://www.google.com/maps/@32.436306,130.083722,12z" target="_blank">(32.4, 130.1)</a></td>
+</tr>
+<tr>
+<td>gesujima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%8B%E9%A0%88%E5%B3%B6" target="_blank">下須島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%A4%A9%E8%8D%89%E5%B8%82" target="_blank">天草市</a></td>
+<td><a href="https://www.google.com/maps/@32.178611,130.026667,12z" target="_blank">(32.2, 130.0)</a></td>
+</tr>
+<tr>
+<td>goshourajima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%BE%A1%E6%89%80%E6%B5%A6%E5%B3%B6" target="_blank">御所浦島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%A4%A9%E8%8D%89%E5%B8%82" target="_blank">天草市</a></td>
+<td><a href="https://www.google.com/maps/@32.333333,130.35,12z" target="_blank">(32.3, 130.3)</a></td>
+</tr>
+<tr>
+<td>seshima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E7%80%AC%E5%B3%B6" target="_blank">瀬島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%A4%A9%E8%8D%89%E5%B8%82" target="_blank">上天草市</a></td>
+<td><a href="https://www.google.com/maps/@32.535,130.438333,12z" target="_blank">(32.5, 130.4)</a></td>
+</tr>
+<tr>
+<td>takamokujima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9D%A2%E5%B3%B6" target="_blank">高杢島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%A4%A9%E8%8D%89%E5%B8%82" target="_blank">上天草市</a></td>
+<td><a href="https://www.google.com/maps/@32.544722,130.391111,12z" target="_blank">(32.5, 130.4)</a></td>
+</tr>
+<tr>
+<td>tsujishima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%80%9A%E8%A9%9E%E5%B3%B6" target="_blank">通詞島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%A4%A9%E8%8D%89%E5%B8%82" target="_blank">天草市</a></td>
+<td><a href="https://www.google.com/maps/@32.551111,130.114722,12z" target="_blank">(32.6, 130.1)</a></td>
+</tr>
+<tr>
+<td>tobasejima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E6%88%B8%E9%A6%B3%E5%B3%B6" target="_blank">戸馳島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%AE%87%E5%9F%8E%E5%B8%82" target="_blank">宇城市</a></td>
+<td><a href="https://www.google.com/maps/@32.600833,130.496389,12z" target="_blank">(32.6, 130.5)</a></td>
+</tr>
+<tr>
+<td>nagaurajima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E6%B0%B8%E6%B5%A6%E5%B3%B6" target="_blank">永浦島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%A4%A9%E8%8D%89%E5%B8%82" target="_blank">上天草市</a></td>
+<td><a href="https://www.google.com/maps/@32.542917,130.41691,12z" target="_blank">(32.5, 130.4)</a></td>
+</tr>
+<tr>
+<td>nakajima_kumamoto</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B3%B6_(%E7%86%8A%E6%9C%AC%E7%9C%8C)" target="_blank">中島_熊本</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%A4%A9%E8%8D%89%E5%B8%82" target="_blank">上天草市</a></td>
+<td><a href="https://www.google.com/maps/@32.530556,130.433056,12z" target="_blank">(32.5, 130.4)</a></td>
+</tr>
+<tr>
+<td>nogamajima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%87%8E%E9%87%9C%E5%B3%B6" target="_blank">野釜島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%A4%A9%E8%8D%89%E5%B8%82" target="_blank">上天草市</a></td>
+<td><a href="https://www.google.com/maps/@32.583333,130.385833,12z" target="_blank">(32.6, 130.4)</a></td>
+</tr>
+<tr>
+<td>hiaijima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E6%A8%8B%E5%90%88%E5%B3%B6" target="_blank">樋合島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%A4%A9%E8%8D%89%E5%B8%82" target="_blank">上天草市</a></td>
+<td><a href="https://www.google.com/maps/@32.540278,130.401389,12z" target="_blank">(32.5, 130.4)</a></td>
+</tr>
+<tr>
+<td>maejima_kumamoto</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%89%8D%E5%B3%B6_(%E7%86%8A%E6%9C%AC%E7%9C%8C)" target="_blank">前島_熊本</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%A4%A9%E8%8D%89%E5%B8%82" target="_blank">天草市</a></td>
+<td><a href="https://www.google.com/maps/@32.523889,130.4275,12z" target="_blank">(32.5, 130.4)</a></td>
+</tr>
+<tr>
+<td>miyajima_kumamoto</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B3%B6_(%E7%86%8A%E6%9C%AC%E7%9C%8C)" target="_blank">宮島_熊本</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%A4%A9%E8%8D%89%E5%B8%82" target="_blank">天草市</a></td>
+<td><a href="https://www.google.com/maps/@32.322972,130.167222,12z" target="_blank">(32.3, 130.2)</a></td>
+</tr>
+<tr>
+<td>ysgyujima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%87%8E%E7%89%9B%E5%B3%B6" target="_blank">野牛島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%A4%A9%E8%8D%89%E5%B8%82" target="_blank">上天草市</a></td>
+<td><a href="https://www.google.com/maps/@32.57,130.455,12z" target="_blank">(32.6, 130.5)</a></td>
+</tr>
+<tr>
+<td>yushima_amakusa</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E6%B9%AF%E5%B3%B6_(%E5%A4%A9%E8%8D%89%E8%AB%B8%E5%B3%B6)" target="_blank">湯島_天草</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%A4%A9%E8%8D%89%E5%B8%82" target="_blank">上天草市</a></td>
+<td><a href="https://www.google.com/maps/@32.600278,130.335583,12z" target="_blank">(32.6, 130.3)</a></td>
+</tr>
+<tr>
+<td>yokourajima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%A6%E5%B3%B6" target="_blank">横浦島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%A4%A9%E8%8D%89%E5%B8%82" target="_blank">天草市</a></td>
+<td><a href="https://www.google.com/maps/@32.366139,130.347306,12z" target="_blank">(32.4, 130.3)</a></td>
+</tr>
+<tr>
+<td>yokohama_kumamoto</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E6%A8%AA%E5%B3%B6_(%E7%86%8A%E6%9C%AC%E7%9C%8C)" target="_blank">横島_熊本</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%A4%A9%E8%8D%89%E5%B8%82" target="_blank">天草市</a></td>
+<td><a href="https://www.google.com/maps/@32.373333,130.233333,12z" target="_blank">(32.4, 130.2)</a></td>
+</tr>
+<tr>
+<td>nagashima_kagoshima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B3%B6_(%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C)" target="_blank">長島_鹿児島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B3%B6%E7%94%BA" target="_blank">長島町</a></td>
+<td><a href="https://www.google.com/maps/@32.15,130.15,12z" target="_blank">(32.1, 130.2)</a></td>
+</tr>
+<tr>
+<td>ikarajima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%94%90%E5%B3%B6" target="_blank">伊唐島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B3%B6%E7%94%BA" target="_blank">長島町</a></td>
+<td><a href="https://www.google.com/maps/@32.218781,130.200339,12z" target="_blank">(32.2, 130.2)</a></td>
+</tr>
+<tr>
+<td>shishijima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E7%8D%85%E5%AD%90%E5%B3%B6" target="_blank">獅子島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B3%B6%E7%94%BA" target="_blank">長島町</a></td>
+<td><a href="https://www.google.com/maps/@32.278917,130.240417,12z" target="_blank">(32.3, 130.2)</a></td>
+</tr>
+<tr>
+<td>shourajima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E8%AB%B8%E6%B5%A6%E5%B3%B6" target="_blank">諸浦島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B3%B6%E7%94%BA" target="_blank">長島町</a></td>
+<td><a href="https://www.google.com/maps/@32.241278,130.171528,12z" target="_blank">(32.2, 130.2)</a></td>
+</tr>
+<tr>
+<td>ucchima_kagoshima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%AE%87%E6%B2%BB%E5%B3%B6_(%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C)" target="_blank">宇治島_鹿児島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%8D%97%E3%81%95%E3%81%A4%E3%81%BE%E5%B8%82" target="_blank">南さつま市</a></td>
+<td><a href="https://www.google.com/maps/@31.203056,129.474167,12z" target="_blank">(31.2, 129.5)</a></td>
+</tr>
+<tr>
+<td>ujimukae_jima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%AE%87%E6%B2%BB%E5%90%91%E5%B3%B6" target="_blank">宇治向島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%8D%97%E3%81%95%E3%81%A4%E3%81%BE%E5%B8%82" target="_blank">南さつま市</a></td>
+<td><a href="https://www.google.com/maps/@31.186944,129.444722,12z" target="_blank">(31.2, 129.4)</a></td>
+</tr>
+<tr>
+<td>yakushima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%B1%8B%E4%B9%85%E5%B3%B6" target="_blank">屋久島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%B1%8B%E4%B9%85%E5%B3%B6%E7%94%BA" target="_blank">屋久島町</a></td>
+<td><a href="https://www.google.com/maps/@30.39025,130.6515,12z" target="_blank">(30.4, 130.7)</a></td>
+</tr>
+<tr>
+<td>kuchinoerabujima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%8F%A3%E6%B0%B8%E8%89%AF%E9%83%A8%E5%B3%B6" target="_blank">口永良部島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%B1%8B%E4%B9%85%E5%B3%B6%E7%94%BA" target="_blank">屋久島町</a></td>
+<td><a href="https://www.google.com/maps/@30.466667,130.183333,12z" target="_blank">(30.5, 130.2)</a></td>
+</tr>
+<tr>
+<td>tanegashima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E7%A8%AE%E5%AD%90%E5%B3%B6" target="_blank">種子島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E8%A5%BF%E4%B9%8B%E8%A1%A8%E5%B8%82" target="_blank">西之表市</a></td>
+<td><a href="https://www.google.com/maps/@30.583333,130.983333,12z" target="_blank">(30.6, 131.0)</a></td>
+</tr>
+<tr>
+<td>mageshima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%A6%AC%E6%AF%9B%E5%B3%B6" target="_blank">馬毛島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E8%A5%BF%E4%B9%8B%E8%A1%A8%E5%B8%82" target="_blank">西之表市</a></td>
+<td><a href="https://www.google.com/maps/@30.741639,130.854694,12z" target="_blank">(30.7, 130.9)</a></td>
+</tr>
+<tr>
+<td>takeshima_kagoshim</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%B3%B6_(%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C)" target="_blank">竹島_鹿児島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%89%E5%B3%B6%E6%9D%91" target="_blank">三島村</a></td>
+<td><a href="https://www.google.com/maps/@30.813889,130.41725,12z" target="_blank">(30.8, 130.4)</a></td>
+</tr>
+<tr>
+<td>denshima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E5%B3%B6" target="_blank">デン島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%89%E5%B3%B6%E6%9D%91" target="_blank">三島村</a></td>
+<td><a href="https://www.google.com/maps/@30.750556,130.101944,12z" target="_blank">(30.8, 130.1)</a></td>
+</tr>
+<tr>
+<td>showa_ioujima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E6%98%AD%E5%92%8C%E7%A1%AB%E9%BB%84%E5%B3%B6" target="_blank">昭和硫黄島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%89%E5%B3%B6%E6%9D%91" target="_blank">三島村</a></td>
+<td><a href="https://www.google.com/maps/@30.804167,130.340278,12z" target="_blank">(30.8, 130.3)</a></td>
+</tr>
+<tr>
+<td>amami_ooshima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%A5%84%E7%BE%8E%E5%A4%A7%E5%B3%B6" target="_blank">奄美大島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E7%94%BA" target="_blank">瀬戸内町</a></td>
+<td><a href="https://www.google.com/maps/@28.326389,129.374444,12z" target="_blank">(28.3, 129.4)</a></td>
+</tr>
+<tr>
+<td>okinoerabujima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E6%B2%96%E6%B0%B8%E8%89%AF%E9%83%A8%E5%B3%B6" target="_blank">沖永良部島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%92%8C%E6%B3%8A%E7%94%BA" target="_blank">和泊町</a></td>
+<td><a href="https://www.google.com/maps/@27.368889,128.566667,12z" target="_blank">(27.4, 128.6)</a></td>
+</tr>
+<tr>
+<td>tokunoshima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%BE%B3%E4%B9%8B%E5%B3%B6" target="_blank">徳之島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%BE%B3%E4%B9%8B%E5%B3%B6%E7%94%BA" target="_blank">徳之島町</a></td>
+<td><a href="https://www.google.com/maps/@27.82,128.932222,12z" target="_blank">(27.8, 128.9)</a></td>
+</tr>
+<tr>
+<td>uke_jima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E8%AB%8B%E5%B3%B6" target="_blank">請島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E7%94%BA" target="_blank">瀬戸内町</a></td>
+<td><a href="https://www.google.com/maps/@28.027222,129.239444,12z" target="_blank">(28.0, 129.2)</a></td>
+</tr>
+<tr>
+<td>edateku_jima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E6%9E%9D%E6%89%8B%E4%B9%85%E5%B3%B6" target="_blank">枝手久島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%AE%87%E6%A4%9C%E6%9D%91" target="_blank">宇検村</a></td>
+<td><a href="https://www.google.com/maps/@28.293333,129.199167,12z" target="_blank">(28.3, 129.2)</a></td>
+</tr>
+<tr>
+<td>eniyabanare_jima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E6%B1%9F%E4%BB%81%E5%B1%8B%E9%9B%A2%E5%B3%B6" target="_blank">江仁屋離島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E7%94%BA" target="_blank">瀬戸内町</a></td>
+<td><a href="https://www.google.com/maps/@28.194444,129.168333,12z" target="_blank">(28.2, 129.2)</a></td>
+</tr>
+<tr>
+<td>kakeroma_jima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%A8%88%E5%91%82%E9%BA%BB%E5%B3%B6" target="_blank">加計呂麻島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E7%94%BA" target="_blank">瀬戸内町</a></td>
+<td><a href="https://www.google.com/maps/@28.124722,129.244722,12z" target="_blank">(28.1, 129.2)</a></td>
+</tr>
+<tr>
+<td>kikai_jima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%96%9C%E7%95%8C%E5%B3%B6" target="_blank">喜界島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%96%9C%E7%95%8C%E7%94%BA" target="_blank">喜界町</a></td>
+<td><a href="https://www.google.com/maps/@28.316944,129.939444,12z" target="_blank">(28.3, 129.9)</a></td>
+</tr>
+<tr>
+<td>kiyama_jima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E6%9C%A8%E5%B1%B1%E5%B3%B6" target="_blank">木山島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E7%94%BA" target="_blank">瀬戸内町</a></td>
+<td><a href="https://www.google.com/maps/@28.022222,129.274722,12z" target="_blank">(28.0, 129.3)</a></td>
+</tr>
+<tr>
+<td>sandoniwa</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%89%E3%83%B3%E5%B2%A9" target="_blank">サンドン岩</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E7%94%BA" target="_blank">瀬戸内町</a></td>
+<td><a href="https://www.google.com/maps/@28.758611,129.778333,12z" target="_blank">(28.8, 129.8)</a></td>
+</tr>
+<tr>
+<td>sukomobanare</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E9%A0%88%E5%AD%90%E8%8C%82%E9%9B%A2" target="_blank">須子茂離</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E7%94%BA" target="_blank">瀬戸内町</a></td>
+<td><a href="https://www.google.com/maps/@28.118333,129.168611,12z" target="_blank">(28.1, 129.2)</a></td>
+</tr>
+<tr>
+<td>yuubanare</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E5%A4%95%E9%9B%A2" target="_blank">夕離</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E7%94%BA" target="_blank">瀬戸内町</a></td>
+<td><a href="https://www.google.com/maps/@28.129167,129.148889,12z" target="_blank">(28.1, 129.1)</a></td>
+</tr>
+<tr>
+<td>yoro_jima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%8E%E8%B7%AF%E5%B3%B6" target="_blank">与路島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E7%94%BA" target="_blank">瀬戸内町</a></td>
+<td><a href="https://www.google.com/maps/@28.044167,129.163889,12z" target="_blank">(28.0, 129.2)</a></td>
+</tr>
+<tr>
+<td>yoron_jima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%8E%E8%AB%96%E5%B3%B6" target="_blank">与論島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%8E%E8%AB%96%E7%94%BA" target="_blank">与論町</a></td>
+<td><a href="https://www.google.com/maps/@27.044444,128.417222,12z" target="_blank">(27.0, 128.4)</a></td>
+</tr>
+<tr>
+<td>kamikoshikishima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%8A%E7%94%91%E5%B3%B6" target="_blank">上甑島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E8%96%A9%E6%91%A9%E5%B7%9D%E5%86%85%E5%B8%82" target="_blank">薩摩川内市</a></td>
+<td><a href="https://www.google.com/maps/@31.840806,129.877611,12z" target="_blank">(31.8, 129.9)</a></td>
+</tr>
+<tr>
+<td>shimokoshikishima</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E4%B8%8B%E7%94%91%E5%B3%B6" target="_blank">下甑島</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E8%96%A9%E6%91%A9%E5%B7%9D%E5%86%85%E5%B8%82" target="_blank">薩摩川内市</a></td>
+<td><a href="https://www.google.com/maps/@31.72275,129.73925,12z" target="_blank">(31.7, 129.7)</a></td>
+</tr>
+<tr>
+<td>naporeoniwa</td>
+<td><a href="https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%9D%E3%83%AC%E3%82%AA%E3%83%B3%E5%B2%A9" target="_blank">ナポレオン岩</a></td>
+<td><a href="https://ja.wikipedia.org/wiki/%E8%96%A9%E6%91%A9%E5%B7%9D%E5%86%85%E5%B8%82" target="_blank">薩摩川内市</a></td>
+<td><a href="https://www.google.com/maps/@31.703056,129.687222,12z" target="_blank">(31.7, 129.7)</a></td>
+</tr>
+
+</tbody>
+</table>
+
+<h2>Reference<h2>
+<a href="https://ja.wikipedia.org/wiki/Category:%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E3%81%AE%E5%B3%B6" target="_blank">wikipedia: 鹿児島県の島</a>
+</body>
+</html>

@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>
+city code
+</title>
+</head>
+<body>
+<h2>分割されたポリゴンの一覧</h2>
+<table style="margin: 30px">
+<thead>
+<tr>
+<th>No.</th>
+<th>場所</th>
+<th>逆ジオコード</th>
+<th>ファイル名</th>
+<th>位置座標<br/>(Google_Map)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>沖縄本島</td>
+<td></td>
+<td>okinawa_honntou.geojson</td>
+<td><a href="https://www.google.com/maps/@26.495431303902073,127.9599945376332,12z" target="_blank">(26.5, 128.0)</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td>南ぬ浜町</td>
+<td></td>
+<td>painuhama_chou.geojson</td>
+<td><a href="https://www.google.com/maps/@24.33205162683536,124.15181854019643,12z" target="_blank">(24.3, 124.2)</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td>名蔵_砂洲</td>
+<td></td>
+<td>nakura.geojson</td>
+<td><a href="https://www.google.com/maps/@24.396233932893058,124.14126462989647,12z" target="_blank">(24.4, 124.1)</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td>石垣島</td>
+<td></td>
+<td>ishigaki_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@24.432764200744725,124.20532735568811,12z" target="_blank">(24.4, 124.2)</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td>南小島</td>
+<td></td>
+<td>minamikojima.geojson</td>
+<td><a href="https://www.google.com/maps/@25.723020991787237,123.55037283713352,12z" target="_blank">(25.7, 123.6)</a></td>
+</tr>
+<tr>
+<td>6</td>
+<td>北小島</td>
+<td></td>
+<td>kitakojima.geojson</td>
+<td><a href="https://www.google.com/maps/@25.729445999649137,123.5420136110973,12z" target="_blank">(25.7, 123.5)</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td>魚釣島</td>
+<td></td>
+<td>uotauri_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@25.743635468247987,123.4741275690236,12z" target="_blank">(25.7, 123.5)</a></td>
+</tr>
+<tr>
+<td>8</td>
+<td>久場島_石垣</td>
+<td></td>
+<td>kubajima_ishigaki.geojson</td>
+<td><a href="https://www.google.com/maps/@25.92366991139247,123.68224318032442,12z" target="_blank">(25.9, 123.7)</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td>奥武島_名護</td>
+<td></td>
+<td>oujima_nago.geojson</td>
+<td><a href="https://www.google.com/maps/@26.63866125072003,128.0327433359089,12z" target="_blank">(26.6, 128.0)</a></td>
+</tr>
+<tr>
+<td>10</td>
+<td>屋我地島</td>
+<td></td>
+<td>yagajishima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.66382262734409,128.01281720532512,12z" target="_blank">(26.7, 128.0)</a></td>
+</tr>
+<tr>
+<td>11</td>
+<td>津堅島</td>
+<td></td>
+<td>tsuken_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.252158575606213,127.94137223801255,12z" target="_blank">(26.3, 127.9)</a></td>
+</tr>
+<tr>
+<td>12</td>
+<td>南浮原島</td>
+<td></td>
+<td>minamiukibaru_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.28966979120374,127.98037071354644,12z" target="_blank">(26.3, 128.0)</a></td>
+</tr>
+<tr>
+<td>13</td>
+<td>浮原島</td>
+<td></td>
+<td>ukibaru_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.30100256432017,127.99222063908135,12z" target="_blank">(26.3, 128.0)</a></td>
+</tr>
+<tr>
+<td>14</td>
+<td>藪地島</td>
+<td></td>
+<td>yabuchi_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.31914504854144,127.92360033978481,12z" target="_blank">(26.3, 127.9)</a></td>
+</tr>
+<tr>
+<td>15</td>
+<td>浜比嘉島</td>
+<td></td>
+<td>hamahiga_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.319703509149548,127.95810718004904,12z" target="_blank">(26.3, 128.0)</a></td>
+</tr>
+<tr>
+<td>16</td>
+<td>海中道路</td>
+<td></td>
+<td>sea_road.geojson</td>
+<td><a href="https://www.google.com/maps/@26.331615422642045,127.92513358122517,12z" target="_blank">(26.3, 127.9)</a></td>
+</tr>
+<tr>
+<td>17</td>
+<td>平安座島</td>
+<td></td>
+<td>henza_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.35940906126651,127.9713578151963,12z" target="_blank">(26.4, 128.0)</a></td>
+</tr>
+<tr>
+<td>18</td>
+<td>伊計島</td>
+<td></td>
+<td>ikei_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.391862276968613,127.9968486480706,12z" target="_blank">(26.4, 128.0)</a></td>
+</tr>
+<tr>
+<td>19</td>
+<td>来間島</td>
+<td></td>
+<td>kuruma_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@24.72168157219038,125.2476535284518,12z" target="_blank">(24.7, 125.2)</a></td>
+</tr>
+<tr>
+<td>20</td>
+<td>下地島</td>
+<td></td>
+<td>shimojishima.geojson</td>
+<td><a href="https://www.google.com/maps/@24.819110618258232,125.15394696824416,12z" target="_blank">(24.8, 125.2)</a></td>
+</tr>
+<tr>
+<td>21</td>
+<td>伊良部島</td>
+<td></td>
+<td>irabu_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@24.833255628638156,125.18856567692174,12z" target="_blank">(24.8, 125.2)</a></td>
+</tr>
+<tr>
+<td>22</td>
+<td>宮古島</td>
+<td></td>
+<td>miyako_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@24.77284644189606,125.33310277928442,12z" target="_blank">(24.8, 125.3)</a></td>
+</tr>
+<tr>
+<td>23</td>
+<td>池間大橋</td>
+<td></td>
+<td>ikema_oohashi.geojson</td>
+<td><a href="https://www.google.com/maps/@24.90833960369285,125.27058266868666,12z" target="_blank">(24.9, 125.3)</a></td>
+</tr>
+<tr>
+<td>24</td>
+<td>大神島</td>
+<td></td>
+<td>oogami_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@24.916288460499004,125.3076792994811,12z" target="_blank">(24.9, 125.3)</a></td>
+</tr>
+<tr>
+<td>25</td>
+<td>池間島</td>
+<td></td>
+<td>ikema_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@24.930538535968367,125.24327260514862,12z" target="_blank">(24.9, 125.2)</a></td>
+</tr>
+<tr>
+<td>26</td>
+<td>奥武島_南城</td>
+<td></td>
+<td>oujima_nanjyo.geojson</td>
+<td><a href="https://www.google.com/maps/@26.12964425920811,127.77285054794052,12z" target="_blank">(26.1, 127.8)</a></td>
+</tr>
+<tr>
+<td>27</td>
+<td>久高島</td>
+<td></td>
+<td>kudaka_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.161928385022073,127.89430400179396,12z" target="_blank">(26.2, 127.9)</a></td>
+</tr>
+<tr>
+<td>28</td>
+<td>安田ヶ島</td>
+<td></td>
+<td>adaka_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.74671534122696,128.33332130950583,12z" target="_blank">(26.7, 128.3)</a></td>
+</tr>
+<tr>
+<td>29</td>
+<td>宮城島 _大宜味</td>
+<td></td>
+<td>miyagijima_oogimi.geojson</td>
+<td><a href="https://www.google.com/maps/@26.667258541585394,128.10226562874317,12z" target="_blank">(26.7, 128.1)</a></td>
+</tr>
+<tr>
+<td>30</td>
+<td>古宇利島</td>
+<td></td>
+<td>kouri_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.70481554377226,128.01825142825567,12z" target="_blank">(26.7, 128.0)</a></td>
+</tr>
+<tr>
+<td>31</td>
+<td>水納島_本部</td>
+<td></td>
+<td>minnajima_motobu.geojson</td>
+<td><a href="https://www.google.com/maps/@26.64728189815813,127.81566193801878,12z" target="_blank">(26.6, 127.8)</a></td>
+</tr>
+<tr>
+<td>32</td>
+<td>瀬底島</td>
+<td></td>
+<td>sesoko_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.644067337595796,127.86395584341555,12z" target="_blank">(26.6, 127.9)</a></td>
+</tr>
+<tr>
+<td>33</td>
+<td>ナップ島</td>
+<td></td>
+<td>nappu_tou.geojson</td>
+<td><a href="https://www.google.com/maps/@26.493391100735714,127.83752974115646,12z" target="_blank">(26.5, 127.8)</a></td>
+</tr>
+<tr>
+<td>34</td>
+<td>伊江島</td>
+<td></td>
+<td>iejima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.7218500211895,127.78946703646939,12z" target="_blank">(26.7, 127.8)</a></td>
+</tr>
+<tr>
+<td>35</td>
+<td>ウン島</td>
+<td></td>
+<td>unshima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.142544457565627,127.34316866321102,12z" target="_blank">(26.1, 127.3)</a></td>
+</tr>
+<tr>
+<td>36</td>
+<td>離島</td>
+<td></td>
+<td>hanare_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.16189698386991,127.33842997797883,12z" target="_blank">(26.2, 127.3)</a></td>
+</tr>
+<tr>
+<td>37</td>
+<td>城島</td>
+<td></td>
+<td>gusuku_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.19842767248725,127.37797211286338,12z" target="_blank">(26.2, 127.4)</a></td>
+</tr>
+<tr>
+<td>38</td>
+<td>前島_沖縄</td>
+<td></td>
+<td>maejima_okinawa.geojson</td>
+<td><a href="https://www.google.com/maps/@26.2124226226447,127.4477062640195,12z" target="_blank">(26.2, 127.4)</a></td>
+</tr>
+<tr>
+<td>39</td>
+<td>渡嘉敷島</td>
+<td></td>
+<td>tokashiki_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.190216064458532,127.35666266395742,12z" target="_blank">(26.2, 127.4)</a></td>
+</tr>
+<tr>
+<td>40</td>
+<td>中島</td>
+<td></td>
+<td>nakajima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.231084374406887,127.45091823992162,12z" target="_blank">(26.2, 127.5)</a></td>
+</tr>
+<tr>
+<td>41</td>
+<td>儀志布島</td>
+<td></td>
+<td>gishippu_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.230123884876473,127.36914016499169,12z" target="_blank">(26.2, 127.4)</a></td>
+</tr>
+<tr>
+<td>42</td>
+<td>ハテ島</td>
+<td></td>
+<td>hatejima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.24000575816447,127.45716056779584,12z" target="_blank">(26.2, 127.5)</a></td>
+</tr>
+<tr>
+<td>43</td>
+<td>黒島</td>
+<td></td>
+<td>kuroshima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.252217870727282,127.40445172710336,12z" target="_blank">(26.3, 127.4)</a></td>
+</tr>
+<tr>
+<td>44</td>
+<td>神山島_1</td>
+<td></td>
+<td>kamiyamajima_1.geojson</td>
+<td><a href="https://www.google.com/maps/@26.260753151670762,127.57689785732468,12z" target="_blank">(26.3, 127.6)</a></td>
+</tr>
+<tr>
+<td>45</td>
+<td>神山島_2</td>
+<td></td>
+<td>kamiyamajima_2.geojson</td>
+<td><a href="https://www.google.com/maps/@26.26227449905149,127.58220659762657,12z" target="_blank">(26.3, 127.6)</a></td>
+</tr>
+<tr>
+<td>46</td>
+<td>ナガンヌ島</td>
+<td></td>
+<td>nagannu_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.2654579561292,127.54716938172146,12z" target="_blank">(26.3, 127.5)</a></td>
+</tr>
+<tr>
+<td>47</td>
+<td>外地島</td>
+<td></td>
+<td>fuka_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.168017623546895,127.29258383604757,12z" target="_blank">(26.2, 127.3)</a></td>
+</tr>
+<tr>
+<td>48</td>
+<td>久場島_座間味</td>
+<td></td>
+<td>kubajima_zamami.geojson</td>
+<td><a href="https://www.google.com/maps/@26.171070392603756,127.2375478587591,12z" target="_blank">(26.2, 127.2)</a></td>
+</tr>
+<tr>
+<td>49</td>
+<td>慶留間島</td>
+<td></td>
+<td>geruma_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.181528299984,127.28890561521486,12z" target="_blank">(26.2, 127.3)</a></td>
+</tr>
+<tr>
+<td>50</td>
+<td>阿嘉島</td>
+<td></td>
+<td>aka_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.199050676764404,127.27919973195515,12z" target="_blank">(26.2, 127.3)</a></td>
+</tr>
+<tr>
+<td>51</td>
+<td>安室島</td>
+<td></td>
+<td>amuro_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.204966446000192,127.31235128712596,12z" target="_blank">(26.2, 127.3)</a></td>
+</tr>
+<tr>
+<td>52</td>
+<td>安慶名敷島</td>
+<td></td>
+<td>agenashiku_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.21531259451235,127.29500750136637,12z" target="_blank">(26.2, 127.3)</a></td>
+</tr>
+<tr>
+<td>53</td>
+<td>嘉比島</td>
+<td></td>
+<td>gahi_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.218341965232838,127.28601408329297,12z" target="_blank">(26.2, 127.3)</a></td>
+</tr>
+<tr>
+<td>54</td>
+<td>屋嘉比島</td>
+<td></td>
+<td>yakabi_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.215835396241776,127.2445174842161,12z" target="_blank">(26.2, 127.2)</a></td>
+</tr>
+<tr>
+<td>55</td>
+<td>座間味島</td>
+<td></td>
+<td>xamami_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.23440269744235,127.30747113355493,12z" target="_blank">(26.2, 127.3)</a></td>
+</tr>
+<tr>
+<td>56</td>
+<td>粟国島</td>
+<td></td>
+<td>aguni_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.587726511395246,127.2292193065646,12z" target="_blank">(26.6, 127.2)</a></td>
+</tr>
+<tr>
+<td>57</td>
+<td>渡名喜島</td>
+<td></td>
+<td>tonaki_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.364765129345365,127.14681515294265,12z" target="_blank">(26.4, 127.1)</a></td>
+</tr>
+<tr>
+<td>58</td>
+<td>入砂島</td>
+<td></td>
+<td>irisuna_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.385164080661262,127.10238522339594,12z" target="_blank">(26.4, 127.1)</a></td>
+</tr>
+<tr>
+<td>59</td>
+<td>南大東島</td>
+<td></td>
+<td>minamidaitou_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@25.843184162223668,131.24274406646774,12z" target="_blank">(25.8, 131.2)</a></td>
+</tr>
+<tr>
+<td>60</td>
+<td>沖大東島</td>
+<td></td>
+<td>okidaitou_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@24.467299699777804,131.188076359229,12z" target="_blank">(24.5, 131.2)</a></td>
+</tr>
+<tr>
+<td>61</td>
+<td>北大東島</td>
+<td></td>
+<td>kitadaitou_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@25.94452269807818,131.30707137746785,12z" target="_blank">(25.9, 131.3)</a></td>
+</tr>
+<tr>
+<td>62</td>
+<td>野甫島</td>
+<td></td>
+<td>noho_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.995017106562432,127.92022217786669,12z" target="_blank">(27.0, 127.9)</a></td>
+</tr>
+<tr>
+<td>63</td>
+<td>伊平屋島</td>
+<td></td>
+<td>iheya_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@27.04980101286961,127.97326296279975,12z" target="_blank">(27.0, 128.0)</a></td>
+</tr>
+<tr>
+<td>64</td>
+<td>屋那覇島</td>
+<td></td>
+<td>yanaha_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.897030971223423,127.92545778638058,12z" target="_blank">(26.9, 127.9)</a></td>
+</tr>
+<tr>
+<td>65</td>
+<td>伊是名島</td>
+<td></td>
+<td>izena_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.93361864689022,127.9368819386038,12z" target="_blank">(26.9, 127.9)</a></td>
+</tr>
+<tr>
+<td>66</td>
+<td>具志川島</td>
+<td></td>
+<td>gushikawa_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.975540662522874,127.94955721718142,12z" target="_blank">(27.0, 127.9)</a></td>
+</tr>
+<tr>
+<td>67</td>
+<td>メーヌ浜</td>
+<td></td>
+<td>menuhama.geojson</td>
+<td><a href="https://www.google.com/maps/@26.34000004798169,126.86288832627176,12z" target="_blank">(26.3, 126.9)</a></td>
+</tr>
+<tr>
+<td>68</td>
+<td>奥武島_久米</td>
+<td></td>
+<td>oujima_kume.geojson</td>
+<td><a href="https://www.google.com/maps/@26.3385487038802,126.82763682233828,12z" target="_blank">(26.3, 126.8)</a></td>
+</tr>
+<tr>
+<td>69</td>
+<td>オーハ島</td>
+<td></td>
+<td>oha_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.34015156796117,126.8394819909173,12z" target="_blank">(26.3, 126.8)</a></td>
+</tr>
+<tr>
+<td>70</td>
+<td>ナカノ浜</td>
+<td></td>
+<td>nakanohama.geojson</td>
+<td><a href="https://www.google.com/maps/@26.345323448586345,126.8758653893696,12z" target="_blank">(26.3, 126.9)</a></td>
+</tr>
+<tr>
+<td>71</td>
+<td>ハテノ浜</td>
+<td></td>
+<td>hatenohama.geojson</td>
+<td><a href="https://www.google.com/maps/@26.348903333505106,126.89037655329386,12z" target="_blank">(26.3, 126.9)</a></td>
+</tr>
+<tr>
+<td>72</td>
+<td>久米島</td>
+<td></td>
+<td>kume_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@26.3499796935491,126.77321448863623,12z" target="_blank">(26.3, 126.8)</a></td>
+</tr>
+<tr>
+<td>73</td>
+<td>硫黄鳥島</td>
+<td></td>
+<td>ioutorishima.geojson</td>
+<td><a href="https://www.google.com/maps/@27.872706013297844,128.22702866992105,12z" target="_blank">(27.9, 128.2)</a></td>
+</tr>
+<tr>
+<td>74</td>
+<td>多良間島</td>
+<td></td>
+<td>tarama_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@24.657044347405392,124.6990848855577,12z" target="_blank">(24.7, 124.7)</a></td>
+</tr>
+<tr>
+<td>75</td>
+<td>水納島_多良間</td>
+<td></td>
+<td>minnajima_tarama.geojson</td>
+<td><a href="https://www.google.com/maps/@24.753921897499737,124.69503524688844,12z" target="_blank">(24.8, 124.7)</a></td>
+</tr>
+<tr>
+<td>76</td>
+<td>波照間島</td>
+<td></td>
+<td>hateruma_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@24.05843130892532,123.78235811834158,12z" target="_blank">(24.1, 123.8)</a></td>
+</tr>
+<tr>
+<td>77</td>
+<td>仲の神島</td>
+<td></td>
+<td>nakanokamishima.geojson</td>
+<td><a href="https://www.google.com/maps/@24.194961664049664,123.56387680824399,12z" target="_blank">(24.2, 123.6)</a></td>
+</tr>
+<tr>
+<td>78</td>
+<td>新城_下地島</td>
+<td></td>
+<td>aragusuku_shimojijima.geojson</td>
+<td><a href="https://www.google.com/maps/@24.215478358055186,123.92954654066223,12z" target="_blank">(24.2, 123.9)</a></td>
+</tr>
+<tr>
+<td>79</td>
+<td>新城_上地島</td>
+<td></td>
+<td>aragusuku_kamijijima.geojson</td>
+<td><a href="https://www.google.com/maps/@24.234084214660648,123.94512949606997,12z" target="_blank">(24.2, 123.9)</a></td>
+</tr>
+<tr>
+<td>80</td>
+<td>黒島_竹富</td>
+<td></td>
+<td>kuroshima_taketomi.geojson</td>
+<td><a href="https://www.google.com/maps/@24.237650082016692,124.01029645368325,12z" target="_blank">(24.2, 124.0)</a></td>
+</tr>
+<tr>
+<td>81</td>
+<td>竹富島</td>
+<td></td>
+<td>taketomi_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@24.32505546460531,124.08797864332139,12z" target="_blank">(24.3, 124.1)</a></td>
+</tr>
+<tr>
+<td>82</td>
+<td>由布島</td>
+<td></td>
+<td>yubu_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@24.343821083570642,123.93366240189954,12z" target="_blank">(24.3, 123.9)</a></td>
+</tr>
+<tr>
+<td>83</td>
+<td>小浜島</td>
+<td></td>
+<td>kohama_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@24.339289022521186,123.98080037825636,12z" target="_blank">(24.3, 124.0)</a></td>
+</tr>
+<tr>
+<td>84</td>
+<td>内離島</td>
+<td></td>
+<td>uchibanare_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@24.355779433749678,123.73436990064066,12z" target="_blank">(24.4, 123.7)</a></td>
+</tr>
+<tr>
+<td>85</td>
+<td>嘉弥真島</td>
+<td></td>
+<td>kayama_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@24.363374039292353,123.99986181877492,12z" target="_blank">(24.4, 124.0)</a></td>
+</tr>
+<tr>
+<td>86</td>
+<td>外離島</td>
+<td></td>
+<td>sotobanare_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@24.373728626893858,123.71810929765815,12z" target="_blank">(24.4, 123.7)</a></td>
+</tr>
+<tr>
+<td>87</td>
+<td>西表島</td>
+<td></td>
+<td>iriomote_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@24.335899643494276,123.81451928802171,12z" target="_blank">(24.3, 123.8)</a></td>
+</tr>
+<tr>
+<td>88</td>
+<td>鳩間島</td>
+<td></td>
+<td>hatoma_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@24.47253137903838,123.82011095200427,12z" target="_blank">(24.5, 123.8)</a></td>
+</tr>
+<tr>
+<td>89</td>
+<td>与那国島</td>
+<td></td>
+<td>yonsguri_jima.geojson</td>
+<td><a href="https://www.google.com/maps/@24.455309622620224,122.98893745716025,12z" target="_blank">(24.5, 123.0)</a></td>
+</tr>
+<tr>
+<td>90</td>
+<td>祖納港</td>
+<td></td>
+<td>sonai_kou.geojson</td>
+<td><a href="https://www.google.com/maps/@24.473046520708973,123.0002520006243,12z" target="_blank">(24.5, 123.0)</a></td>
+</tr>
+
+</tbody>
+</table>
+
+<h2>Reference<h2>
+
+</body>
+</html>

@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "鹿児島県", "place": "照島", "municipality": "いちき串木野市" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 130.269864, 31.704295 ], [ 130.267362, 31.704112 ], [ 130.266247, 31.704689 ], [ 130.272304, 31.705743 ], [ 130.270586, 31.704567 ], [ 130.269864, 31.704295 ] ] ] } }
+]
+}

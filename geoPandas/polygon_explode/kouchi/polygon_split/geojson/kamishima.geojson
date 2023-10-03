@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "高知県", "place": "神島", "municipality": "須崎市" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 133.324494, 33.349945 ], [ 133.322553, 33.347592 ], [ 133.321273, 33.347968 ], [ 133.320012, 33.351606 ], [ 133.320017, 33.352631 ], [ 133.324494, 33.349945 ] ] ] } }
+]
+}

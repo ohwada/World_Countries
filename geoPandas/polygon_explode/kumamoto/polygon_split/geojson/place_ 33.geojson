@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "熊本県" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 130.215101, 32.415946 ], [ 130.214163, 32.415175 ], [ 130.213741, 32.416363 ], [ 130.214727, 32.416493 ], [ 130.215101, 32.415946 ] ] ] } }
+]
+}

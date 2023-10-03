@@ -1,0 +1,7 @@
+<tr>
+<td>{num}</td>
+<td>{place}</td>
+<td>{display}</td>
+<td>{filename}</td>
+<td>{coordinates}</td>
+</tr>
