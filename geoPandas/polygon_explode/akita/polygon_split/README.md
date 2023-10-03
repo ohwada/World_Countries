@@ -6,6 +6,7 @@ Polygon Split
 
 [秋田県のgeojson](https://github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/akita.geojson)
 
+![split_log](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/akita/polygon_split/screenshots/split_log.png)
 
 #### Reference
 

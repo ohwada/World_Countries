@@ -5,7 +5,7 @@ Island List
 
 List of Akita island
 
-![island list]()
+![island list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/akita/island_list/screenshots/akita_island_list.png)
 
 ### Reference
 

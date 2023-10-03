@@ -5,7 +5,7 @@ Place List
 
 List of Akita place
 
-![place list]()
+![place list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/akita/place_list/screenshots/akita_place_list.png)
 
 ### Reference
 
