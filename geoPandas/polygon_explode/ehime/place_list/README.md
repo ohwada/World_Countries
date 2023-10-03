@@ -5,7 +5,7 @@ Place List
 
 List of Ehime place
 
-![place list]()
+![place list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/ehime/place_list/screenshots/rhime_place_list.png)
 
 ### Reference
 

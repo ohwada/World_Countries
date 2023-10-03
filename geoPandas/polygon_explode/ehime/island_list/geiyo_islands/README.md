@@ -6,7 +6,7 @@ Geiyo Islands
 List of Geiyo Islands 
 
 
-![geiyo islands]()
+![geiyo islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/ehime/island_list/geiyo_islands/screenshots/geiyo_islands.png)
 
 ### Reference
 

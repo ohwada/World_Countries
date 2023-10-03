@@ -5,7 +5,7 @@ Island List
 
 List of Ehime island
 
-![island list]()
+![island list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/ehime/island_list/screenshots/ehime_island_list.png)
 
 ### Geiyo Islands 
 
