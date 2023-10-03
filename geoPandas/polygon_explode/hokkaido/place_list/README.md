@@ -5,7 +5,7 @@ Place List
 
 List of Hokkaido place
 
-![place list]()
+![place list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/hokkaido/place_list/screenshots/hokkaido_place_list.png)
 
 ### Reference
 

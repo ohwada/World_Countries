@@ -6,7 +6,7 @@ Chishima Islands
 List of Chishima Islands 
 
 
-![chishima islands]()
+![chishima islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/hokkaido/islsnd_list/chishima_islands/screenshots/chishima_islands.png)
 
 ### Reference
 

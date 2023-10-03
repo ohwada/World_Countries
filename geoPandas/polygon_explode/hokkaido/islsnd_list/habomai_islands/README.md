@@ -6,7 +6,7 @@ Habomai Islands
 List of Habomai Islands 
 
 
-![habomai islands]()
+![habomai islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/hokkaido/islsnd_list/habomai_islands/screenshots/habomai_islands.png)
 
 ### Reference
 
