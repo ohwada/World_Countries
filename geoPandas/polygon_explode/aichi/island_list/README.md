@@ -5,7 +5,7 @@ Island List
 
 List of Aichi island
 
-![island list]()
+![island list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/aichi/island_list/screenshots/aichi_island_list.png)
 
 ### Reference
 

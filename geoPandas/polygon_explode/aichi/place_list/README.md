@@ -5,7 +5,7 @@ Place List
 
 List of Aichi place
 
-![place list]()
+![place list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/aichi/place_list/screenshots/aichi_place_list.png)
 
 ### Reference
 
