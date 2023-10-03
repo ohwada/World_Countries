@@ -5,7 +5,7 @@ Place List
 
 List of Fukushima place
 
-![place list](https://github.com/ohwada/World_Countries/tree/main/geoPandas/polygon_explode/fukushima/place_list/screenshots)
+![place list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/fukushima/place_list/screenshots/fukushima_place_list.png)
 
 ### Reference
 
