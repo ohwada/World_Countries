@@ -6,6 +6,7 @@ Polygon Split
 
 [香川県のgeojson](https://github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/kagawa.geojson)
 
+![split_log](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/kagawa/polygon_split/screenshots/split_log.png)
 
 #### Reference
 

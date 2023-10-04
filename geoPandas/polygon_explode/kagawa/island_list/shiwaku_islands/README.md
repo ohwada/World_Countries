@@ -6,7 +6,7 @@ Shiwaku Islands
 List of Shiwaku Islands 
 
 
-![shiwaku islands]()
+![shiwaku islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/kagawa/island_list/shiwaku_islands/screenshots/shiwaku_islands.png)
 
 ### Reference
 

@@ -6,7 +6,7 @@ Naoshima Islands
 List of Naoshima Islands 
 
 
-![naoshima islands]()
+![naoshima islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/kagawa/island_list/naoshima_islands/screenshots/naoshima_islands.png)
 
 ### Reference
 
