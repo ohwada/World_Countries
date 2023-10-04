@@ -6,6 +6,7 @@ Polygon Split
 
 [高知県のgeojson](https://github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/kouchi.geojson)
 
+![split_log](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/kouchi/polygon_split/screenshots/split_log.png)
 
 #### Reference
 
