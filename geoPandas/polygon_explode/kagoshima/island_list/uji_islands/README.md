@@ -6,7 +6,7 @@ Uji Islands
 List of Uji Islands 
 
 
-![uji islands]()
+![uji islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/kagoshima/island_list/uji_islands/screenshots/uji_islands.png)
 
 ### Reference
 

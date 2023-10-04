@@ -6,7 +6,7 @@ Ookuma Islands
 List of Ookuma Islands 
 
 
-![ookuma islands]()
+![ookuma islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/kagoshima/island_list/ookuma_islands/screenshots/ookuma_islands.png)
 
 ### Reference
 

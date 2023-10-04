@@ -14,3 +14,6 @@ Kagoshima
 ### Polygon Split
 
 鹿児島県のポリゴンを分割する
+
+
+![splited_polygons](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/kagoshima/polygon_split/screenshots/splited_polygons.png)

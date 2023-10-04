@@ -6,7 +6,7 @@ Amami Islands
 List of Amami Islands 
 
 
-![amami islands]
+![amami islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/kagoshima/island_list/amami_islands/screenshots/amami_islands.png)
 
 ### Reference
 

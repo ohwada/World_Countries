@@ -6,7 +6,7 @@ Tokara Islands
 List of Tokara Islands 
 
 
-![tokara islands]()
+![tokara islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/kagoshima/island_list/tokara_islands/screenshots/tokara_islands.png)
 
 ### Reference
 

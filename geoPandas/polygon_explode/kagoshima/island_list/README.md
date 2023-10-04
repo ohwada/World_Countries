@@ -5,7 +5,7 @@ Island List
 
 List of Kagoshima island
 
-![island list]()
+![island list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/kagoshima/island_list/screenshots/kagoshima_island_list.png)
 
 ## Amakusa Islands 
 
