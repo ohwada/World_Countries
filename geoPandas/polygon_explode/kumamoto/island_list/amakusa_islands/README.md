@@ -6,7 +6,7 @@ Amakusa Islands
 List of Amakusa Islands 
 
 
-![amakusa islands]()
+![amakusa islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/kumamoto/island_list/amakusa_islands/screenshots/amakusa_islands.png)
 
 ### Reference
 

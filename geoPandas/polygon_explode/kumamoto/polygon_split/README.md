@@ -6,6 +6,7 @@ Polygon Split
 
 [熊本県のgeojson](https://github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/kumamoto.geojson)
 
+![split_log](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/kumamoto/polygon_split/screenshots/split_log.png)
 
 #### Reference
 

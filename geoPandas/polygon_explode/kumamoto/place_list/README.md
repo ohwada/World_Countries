@@ -5,7 +5,7 @@ Place List
 
 List of Kumamoto place
 
-![place list]()
+![place list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/kumamoto/place_list/screenshots/kumamoto_place_list.png)
 
 ### Reference
 
