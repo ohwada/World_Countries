@@ -5,7 +5,7 @@ Place List
 
 List of Kagawa place
 
-![place list]()
+![place list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/kagawa/place_list/screenshots/kagawa_place_list.png)
 
 ### Reference
 
