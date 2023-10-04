@@ -5,7 +5,7 @@ Place List
 
 List of Kanagawa place
 
-![place list]()
+![place list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/kanagawa/place_list/screenshots/kanagawa_place_list.png)
 
 ### Reference
 

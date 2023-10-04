@@ -5,7 +5,7 @@ Island List
 
 List of Ksnagawa island
 
-![island list]()
+![island list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/kanagawa/island_list/screenshots/kanagawa_island_list.png)
 
 ### Reference
 
