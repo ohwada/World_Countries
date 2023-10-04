@@ -16,4 +16,5 @@ Kanagawa
 神奈川県のポリゴンを分割する
 
 
-![splited_polygons](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/kanagawa/polygon_split/screenshots/splited_polygons.png
+![splited_polygons](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/kanagawa/polygon_split/screenshots/splited_polygons.png)
+
