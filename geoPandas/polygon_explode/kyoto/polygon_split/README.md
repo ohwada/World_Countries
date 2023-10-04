@@ -6,6 +6,7 @@ Polygon Split
 
 [京都府のgeojson](https://github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/kyoto.geojson)
 
+![split_log](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/kyoto/polygon_split/screenshots/split_log.png)
 
 #### Reference
 

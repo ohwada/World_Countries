@@ -5,7 +5,7 @@ Place List
 
 List of Kyoto place
 
-![place list]()
+![place list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/kyoto/place_list/screenshots/kyoto_place_list.png)
 
 ### Reference
 

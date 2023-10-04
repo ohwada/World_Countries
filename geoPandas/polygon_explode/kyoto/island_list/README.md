@@ -5,7 +5,7 @@ Island List
 
 List of Kyoto island
 
-![island list]()
+![island list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/kyoto/island_list/screenshots/kyoto_island_list.png)
 
 ### Reference
 
