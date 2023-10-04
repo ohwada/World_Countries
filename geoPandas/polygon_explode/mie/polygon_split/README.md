@@ -6,6 +6,7 @@ Polygon Split
 
 [三重県のgeojson](https://github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/mie.geojson)
 
+![split_log](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/mie/polygon_split/screenshots/split_log.png)
 
 #### Reference
 
