@@ -14,3 +14,5 @@ Ishikawa
 ### Polygon Split
 
 石川県のポリゴンを分割する
+
+![splited-polygons](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/ishikawa/polygon_split/screenshots/splited_polygons.png)

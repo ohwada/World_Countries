@@ -5,7 +5,7 @@ Island List
 
 List of Ishikawa island
 
-![island list]()
+![island list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/ishikawa/island_list/screenshots/ishikawa_island_list.png)
 
 ### Reference
 
