@@ -5,7 +5,7 @@ Place List
 
 List of Iwate place
 
-![place list]()
+![place list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/iwate/place_list/screenshots/iwate_place_list.png)
 
 ### Reference
 

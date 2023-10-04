@@ -5,7 +5,7 @@ Island List
 
 List of Iwate island
 
-![island list]()
+![island list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/iwate/island_list/screenshots/iwate_island_list.png)
 
 ### Reference
 
