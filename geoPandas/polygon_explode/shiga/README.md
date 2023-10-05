@@ -11,3 +11,5 @@ Shiga
 
 滋賀県のポリゴンを分割する
 
+![splited_polygons](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/shiga/polygon_split/screenshots/splited_polygons.png)
+
