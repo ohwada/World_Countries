@@ -6,7 +6,7 @@ Genkai Islands
 List of Genkai Islands 
 
 
-![genkai islands]()
+![genkai islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/saga/island_list/genkai_islands/screenshots/genksi_islands.png)
 
 ### Reference
 
