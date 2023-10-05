@@ -5,7 +5,7 @@ Island List
 
 List of Okinawa island
 
-![island list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/okayama/polygon_split/screenshots/splited_polygons.png)
+![island list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/okinawa/island_list/screenshots/okinawa_island_list.png)
 
 ### Aguni Islands 
 
