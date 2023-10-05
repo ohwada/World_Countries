@@ -6,7 +6,7 @@ Kasaoka Islands
 List of Kasaoka Islands 
 
 
-![kasaoka islands]()
+![kasaoka islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/okayama/island_list/kasaoka_islands/screenshots/kasaoka_islands.png)
 
 ### Reference
 

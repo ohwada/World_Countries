@@ -5,7 +5,7 @@ Island List
 
 List of Okayama island
 
-![island list]()
+![island list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/okayama/island_list/screenshots/okayama_island_list.png)
 
 ### Hinase Islands 
 
