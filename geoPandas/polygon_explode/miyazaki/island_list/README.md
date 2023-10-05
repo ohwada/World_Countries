@@ -5,7 +5,7 @@ Place List
 
 List of Ooita island
 
-![island list]()
+![island list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/miyazaki/island_list/screenshots/miyazaki_island_list.png)
 
 ### Reference
 

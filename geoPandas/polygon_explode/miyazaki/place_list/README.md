@@ -5,7 +5,7 @@ Place List
 
 List of Miyazaki place
 
-![place list]()
+![place list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/miyazaki/place_list/screenshots/miyazaki_place_list.png)
 
 ### Reference
 
