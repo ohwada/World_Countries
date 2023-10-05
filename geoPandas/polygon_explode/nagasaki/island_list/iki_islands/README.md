@@ -6,7 +6,7 @@ Iki Islands
 List of Iki Islands 
 
 
-![iki islands]()
+![iki islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/nagasaki/island_list/iki_islands/screenshots/iki_islands.png)
 
 ### Reference
 

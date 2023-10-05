@@ -6,7 +6,7 @@ Danjyo Islands
 List of Danjyo Islands 
 
 
-![danjyo islands]()
+![danjyo islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/nagasaki/island_list/danjyo_islands/screenshots/danjyo_islands.png)
 
 ### Reference
 

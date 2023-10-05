@@ -6,7 +6,7 @@ Odika Islands
 List of Odika Islands 
 
 
-![odika islands]()
+![odika islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/nagasaki/island_list/odika_islands/screenshots/odika_islands.png)
 
 ### Reference
 

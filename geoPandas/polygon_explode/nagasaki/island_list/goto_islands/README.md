@@ -5,7 +5,7 @@ Goto Islands
 
 List of Goto Islands 
 
-![goto islands]()
+![goto islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/nagasaki/island_list/goto_islands/screenshots/goto_islands.png)
 
 ### Reference
 

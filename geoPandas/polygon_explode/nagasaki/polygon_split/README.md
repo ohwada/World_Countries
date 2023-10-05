@@ -6,6 +6,7 @@ Polygon Split
 
 [長崎県のgeojson](https://github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/nagasaki.geojson)
 
+![split_log](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/nagasaki/polygon_split/screenshots/split_log.png)
 
 #### Reference
 

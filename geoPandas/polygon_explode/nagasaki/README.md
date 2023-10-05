@@ -14,3 +14,5 @@ Nagasaki
 ### Polygon Split
 
 長崎県のポリゴンを分割する
+
+![splited_polygons](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/nagasaki/polygon_split/screenshots/splited_polygons.png)

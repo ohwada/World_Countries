@@ -5,7 +5,7 @@ Island List
 
 List of Nagasaki island
 
-![island list]()
+![island list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/nagasaki/island_list/screenshots/nagasaki_island_list.png)
 
 ### Reference
 

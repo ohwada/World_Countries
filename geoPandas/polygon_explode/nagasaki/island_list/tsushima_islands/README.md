@@ -6,7 +6,7 @@ Tsushima Islands
 List of Tsushima Islands 
 
 
-![tsushima islands]()
+![tsushima islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/nagasaki/island_list/tsushima_islands/screenshots/tsushima_islands.png)
 
 ### Reference
 
