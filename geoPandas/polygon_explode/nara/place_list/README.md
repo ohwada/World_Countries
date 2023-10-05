@@ -5,7 +5,7 @@ Place List
 
 List of Nara place
 
-![place list]()
+![place list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/nara/place_list/screenshots/nara_place_list.png)
 
 ### Reference
 

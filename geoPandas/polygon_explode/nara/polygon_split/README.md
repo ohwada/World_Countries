@@ -5,6 +5,7 @@ Polygon Split
 
 [奈良県のgeojson](https://github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/nara.geojson)
 
+![split_log](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/nara/polygon_split/screenshots/split_log.png)
 
 #### Reference
 
