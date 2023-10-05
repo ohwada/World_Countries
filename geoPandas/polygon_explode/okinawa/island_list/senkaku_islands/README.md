@@ -6,7 +6,7 @@ Senkaku Islands
 List of Senkaku Islands 
 
 
-![senkaku islands]()
+![senkaku islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/okinawa/island_list/senkaku_islands/screenshots/senkaku_islands.png)
 
 ### Reference
 

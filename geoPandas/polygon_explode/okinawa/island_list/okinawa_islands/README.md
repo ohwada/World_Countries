@@ -6,7 +6,7 @@ Okinawa Islands
 List of Okinawa Islands 
 
 
-![okinawa islands]()
+![okinawa islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/okinawa/island_list/okinawa_islands/screenshots/okinawa_islands.png)
 
 ### Reference
 

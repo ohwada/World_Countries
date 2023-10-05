@@ -6,7 +6,7 @@ Aguni Islands
 List of Aguni Islands 
 
 
-![aguni islands]()
+![aguni islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/okinawa/island_list/aguni_islands/screenshots/aguni_islands.png)
 
 ### Reference
 

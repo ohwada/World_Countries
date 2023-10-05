@@ -6,7 +6,7 @@ Miyako Islands
 List of Miyako Islands 
 
 
-![miyako islands]()
+![miyako islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/okinawa/island_list/miyako_islands/screenshots/miyako_islands.png)
 
 ### Reference
 

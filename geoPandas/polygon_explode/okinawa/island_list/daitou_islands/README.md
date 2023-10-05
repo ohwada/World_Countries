@@ -6,7 +6,7 @@ Daitou Islands
 List of Daitou Islands 
 
 
-![daitou islands]()
+![daitou islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/okinawa/island_list/daitou_islands/screenshots/daitou_islands.png)
 
 ### Reference
 

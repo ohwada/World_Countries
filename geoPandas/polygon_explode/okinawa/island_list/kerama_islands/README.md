@@ -6,7 +6,7 @@ Kerama Islands
 List of Kerama Islands 
 
 
-![kerama islands]()
+![kerama islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/okinawa/island_list/kerama_islands/screenshots/kerama_islands.png)
 
 ### Reference
 
