@@ -6,7 +6,7 @@ Bungo Islands
 List of Bungo Islands 
 
 
-![bungo islands]()
+![bungo islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/ooita/island_list/bungo_islands/screenshots/bungo_islands.png)
 
 ### Reference
 
