@@ -4,8 +4,8 @@ Island List
 大阪府の島の一覧
 
 List of Osaka island
-大阪府
-![island list]()
+
+![island list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/osaka/island_list/screenshots/osaka_ialand_list.png)
 
 ### Reference
 

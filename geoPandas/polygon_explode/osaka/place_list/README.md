@@ -5,7 +5,7 @@ Place List
 
 List of Osaka place
 
-![place list]()
+![place list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/osaka/place_list/screenshots/osaka_place_list.png)
 
 ### Reference
 
