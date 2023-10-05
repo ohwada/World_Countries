@@ -11,3 +11,4 @@ Tochigi
 
 栃木県のポリゴンを分割する
 
+![splited_polygons](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/tochigi/polygon_split/screenshots/splited_polygons.png)
