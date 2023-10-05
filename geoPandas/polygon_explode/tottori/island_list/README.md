@@ -5,7 +5,7 @@ Island List
 
 List of Tottori island
 
-![island list](https://github.com/ohwada/World_Countries/tree/main/geoPandas/polygon_explode/tottori/island_list/screenshots)
+![island list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/tottori/island_list/screenshots/tottori_island_list.png)
 
 ### Reference
 
