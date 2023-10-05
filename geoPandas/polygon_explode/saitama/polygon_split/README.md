@@ -6,6 +6,7 @@ Polygon Split
 
 [埼玉県のgeojson](https://github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/saitama.geojson)
 
+![spit_log](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/saitama/polygon_split/screenshots/split_log.png)
 
 #### Reference
 
