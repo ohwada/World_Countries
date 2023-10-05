@@ -6,7 +6,7 @@ Iheyaizena Islands
 List of Iheyaizena Islands 
 
 
-![iheyaizena islands]()
+![iheyaizena islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/okinawa/island_list/iheyaizena_islands/screenshots/iheiyaizena_islands.png)
 
 ### Reference
 
