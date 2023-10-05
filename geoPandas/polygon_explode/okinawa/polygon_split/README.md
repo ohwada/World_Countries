@@ -5,6 +5,7 @@ Polygon Split
 
 [沖縄県ののgeojson](https://github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/okinawa.geojson)
 
+![split_log](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/okinawa/polygon_split/screenshots/split_log.png)
 
 #### Reference
 
