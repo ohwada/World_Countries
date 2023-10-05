@@ -6,6 +6,7 @@ Polygon Split
 
 [新潟県のgeojson](https://github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/niigata.geojson)
 
+![split_log](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/niigata/polygon_split/screenshots/split_log.png)
 
 #### Reference
 
