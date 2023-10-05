@@ -15,3 +15,5 @@ Tokushima
 ### Polygon Split
 
 徳島県のポリゴンを分割する
+
+![splited_polygons](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/tokushima/polygon_split/screenshots/splited_polygons.png)

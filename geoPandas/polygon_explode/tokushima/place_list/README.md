@@ -5,7 +5,7 @@ Place List
 
 List of Tokushima place
 
-![place list]()
+![place list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/tokushima/place_list/screenshots/tokushima_place_list.png)
 
 ### Reference
 

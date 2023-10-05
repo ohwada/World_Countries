@@ -5,7 +5,7 @@ Island List
 
 List of Tokushima island
 
-![island list]()
+![island list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/tokushima/island_list/screenshots/tokushima_island_list.png)
 
 ### Reference
 
