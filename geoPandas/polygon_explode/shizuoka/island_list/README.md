@@ -5,7 +5,7 @@ Island List
 
 List of Shizuoka island
 
-![island list]()
+![island list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/shizuoka/island_list/screenshots/shizuoka_island_list.png)
 
 ### Reference
 
