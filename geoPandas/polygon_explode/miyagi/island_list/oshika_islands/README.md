@@ -6,7 +6,7 @@ Oshika Islands
 List of Oshika Islands 
 
 
-![oshika islands]()
+![oshika islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/miyagi/island_list/oshika_islands/screenshots/oshika_islands.png)
 
 ### Reference
 

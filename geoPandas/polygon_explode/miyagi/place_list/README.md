@@ -5,7 +5,7 @@ Place List
 
 List of Miyagi place
 
-![place list]()
+![place list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/miyagi/place_list/screenshots/miyagi_place_list.png)
 
 ### Reference
 

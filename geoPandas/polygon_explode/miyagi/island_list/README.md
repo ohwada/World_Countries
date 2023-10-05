@@ -5,7 +5,7 @@ Island List
 
 List of Miyagi island
 
-![island list]()
+![island list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/miyagi/island_list/screenshots/miyagi_island_list.png)
 
 ### Oshika Islands 
 

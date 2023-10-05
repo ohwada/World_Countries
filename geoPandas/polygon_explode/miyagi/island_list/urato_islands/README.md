@@ -6,7 +6,7 @@ Urano Islands
 List of Urano Islands 
 
 
-![urano islands]()
+![urano islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/miyagi/island_list/urato_islands/screenshots/urato_islands.png)
 
 ### Reference
 
