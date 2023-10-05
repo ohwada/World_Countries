@@ -5,7 +5,7 @@ Island List
 
 List of Shimane island
 
-![island list]()
+![island list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/shimane/island_list/screenshots/shimene_island_list.png)
 
 ### Reference
 

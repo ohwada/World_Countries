@@ -6,7 +6,7 @@ Oki Islands
 List of Oki Islands 
 
 
-![oki islands]()
+![oki islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/shimane/island_list/oki_islands/screenshots/oki_islands.png)
 
 ### Reference
 
