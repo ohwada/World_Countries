@@ -5,7 +5,7 @@ Place List
 
 List of Nagano place
 
-![place list]()
+![place list](https://github.com/ohwada/World_Countries/tree/main/geoPandas/polygon_explode/nagano/place_list/screenshots)
 
 ### Reference
 
