@@ -6,6 +6,7 @@ Polygon Split
 
 [鳥取県のgeojson](https://github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/tottori.geojson)
 
+![split_log](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/tottori/polygon_split/screenshots/split_log.png)
 
 #### Reference
 

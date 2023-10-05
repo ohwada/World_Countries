@@ -14,3 +14,6 @@ Tottori
 ### Polygon Split
 
 鳥取県のポリゴンを分割する
+
+![splited_polygons](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/tottori/polygon_split/screenshots/splited_polygons.png)
+
