@@ -6,7 +6,7 @@ Mukojima Islands
 List of Mukojima Islands 
 
 
-![mukojima islands]()
+![mukojima islands](https://github.com/ohwada/World_Countries/tree/main/geoPandas/polygon_explode/tokyo/island_list/mukojima_islands/screenshots)
 
 ### Reference
 

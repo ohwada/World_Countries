@@ -5,7 +5,7 @@ Island List
 
 List of Tokyo island
 
-![island list]()
+![island list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/tokyo/island_list/screenshots/tokyo_islands.png)
 
 ### Reference
 

@@ -6,7 +6,7 @@ Kazan Islands
 List of Kazan Islands 
 
 
-![kazan islands]()
+![kazan islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/tokyo/island_list/kazan_islands/screenshots/kazan_islands.png)
 
 ### Reference
 

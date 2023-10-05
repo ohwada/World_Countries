@@ -5,7 +5,7 @@ Place List
 
 List of Tokyo place
 
-![place list]()
+![place list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/tokyo/place_list/screenshots/tokyo_place_list.png)
 
 ### Reference
 

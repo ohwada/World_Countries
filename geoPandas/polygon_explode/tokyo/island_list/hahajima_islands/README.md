@@ -6,7 +6,7 @@ Hahajima Islands
 List of Hahajima Islands 
 
 
-![hahajima islands]()
+![hahajima islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/tokyo/island_list/hahajima_islands/screenshots/hahajima_islands.png)
 
 ### Reference
 

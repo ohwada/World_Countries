@@ -6,7 +6,7 @@ Chichijima Islands
 List of Chichijima Islands 
 
 
-![chichijima islands]()
+![chichijima islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/tokyo/island_list/chichijima_islands/screenshots/chichijima_islands.png)
 
 ### Reference
 

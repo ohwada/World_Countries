@@ -6,7 +6,7 @@ Ogasawara Islands
 List of Ogasawara Islands 
 
 
-![ogasawara islands]()
+![ogasawara islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/tokyo/island_list/ogasawara_islands/screenshots/ogasawara_islands.png)
 
 ### Reference
 
