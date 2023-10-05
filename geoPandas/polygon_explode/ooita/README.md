@@ -15,4 +15,5 @@ Ooita
 
 大分県のポリゴンを分割する
 
-![splited_polygons](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/ooita/polygon_split/screenshots/splited_polygons.)
+![splited_polygons](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/ooita/polygon_split/screenshots/splited_polygons.png)
+
