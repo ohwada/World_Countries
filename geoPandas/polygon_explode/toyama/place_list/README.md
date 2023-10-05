@@ -5,7 +5,7 @@ Place List
 
 List of Toyama place
 
-![place list]()
+![place list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/toyama/place_list/screenshots/toyama_place_list.png)
 
 ### Reference
 
