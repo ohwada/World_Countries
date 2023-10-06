@@ -5,7 +5,7 @@ Place List
 
 List of Wakayama place
 
-![place list]https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/wakayama/place_list/screenshots/wakayama_place_list.png
+![place list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/wakayama/place_list/screenshots/wakayama_place_list.png)
 
 ### Reference
 
