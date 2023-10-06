@@ -14,3 +14,6 @@ wakayama
 ### Polygon Split
 
 和歌山県のポリゴンを分割する
+
+![splited_polygons](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/wakayama/polygon_split/screenshots/splited_polygons.png)
+

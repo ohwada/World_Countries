@@ -5,7 +5,7 @@ Island List
 
 List of Wakayama island
 
-![island list]()
+![island list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/wakayama/island_list/screenshots/wakayama_island_list.png)
 
 ### Reference
 
