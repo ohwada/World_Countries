@@ -5,7 +5,7 @@ Place List
 
 List of Yamanashi place
 
-![place list]()
+![place list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/yamanashi/place_list/screenshots/yamanashi_place_list.png)
 
 ### Reference
 
