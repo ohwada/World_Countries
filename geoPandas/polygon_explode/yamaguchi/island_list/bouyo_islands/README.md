@@ -6,7 +6,7 @@ Bouyo Islands
 List of Bouyo Islands 
 
 
-![bouyo islands]()
+![bouyo islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/yamaguchi/island_list/bouyo_islands/screenshots/bouyo_islands.png)
 
 ### Reference
 

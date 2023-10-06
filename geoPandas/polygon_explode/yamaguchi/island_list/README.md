@@ -5,7 +5,7 @@ Island List
 
 List of Yamaguchi island
 
-![island list]()
+![island list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/yamaguchi/island_list/screenshots/yamaguchi_island_list.png)
 
 ### Bouyo Islands 
 

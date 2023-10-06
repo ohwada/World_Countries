@@ -6,7 +6,7 @@ Kutsuna Islands
 List of Kutsuna Islands 
 
 
-![kutsuna islands]()
+![kutsuna islands](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/yamaguchi/island_list/kutsuna_islands/screenshots/kutsuna_islands.png)
 
 ### Reference
 

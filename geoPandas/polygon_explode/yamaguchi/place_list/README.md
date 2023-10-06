@@ -5,7 +5,7 @@ Place List
 
 List of Yamaguchi place
 
-![place list]()
+![place list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/yamaguchi/place_list/screenshots/yamaguchi_place_lisy.png)
 
 ### Reference
 
