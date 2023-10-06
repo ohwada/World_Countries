@@ -5,7 +5,7 @@ Island List
 
 List of Yamagata island
 
-![island list]()
+![island list](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/yamagata/island_list/screenshots/yamagata_island_list.png)
 
 ### Reference
 

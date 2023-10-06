@@ -15,3 +15,5 @@ Yamagata
 ### Polygon Split
 
 山形県のポリゴンを分割する
+
+![splited_polygons](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/yamagata/polygon_split/screenshots/splited_polygons.png)

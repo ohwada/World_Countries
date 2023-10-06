@@ -6,6 +6,7 @@ Polygon Split
 
 [山形県のgeojson](https://github.com/ohwada/World_Countries/blob/main/geojson/japan_prefectures/geojson/yamagata.geojson)
 
+![split_log](https://github.com/ohwada/World_Countries/blob/main/geoPandas/polygon_explode/yamagata/polygon_split/screenshots/split_log.png)
 
 #### Reference
 
