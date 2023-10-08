@@ -26,7 +26,7 @@ shisaka_jima, 四阪島,  https://ja.wikipedia.org/wiki/%E5%9B%9B%E9%98%AA%E5%B3
 
 shijyushima, 四十島,  https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%8D%81%E5%B3%B6,  松山市,  https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B1%B1%E5%B8%82, 33.878778, 132.696778 
 
-takashima_1, 高島_宇和島,  https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B3%B6_(%E6%84%9B%E5%AA%9B%E7%9C%8C%E5%AE%87%E5%92%8C%E5%B3%B6%E5%B8%82),  宇和島市,  https://ja.wikipedia.org/wiki/%E5%AE%87%E5%92%8C%E5%B3%B6%E5%B8%82, 33.216667, 132.484444 
+takashima_uwajima, 高島_宇和島,  https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B3%B6_(%E6%84%9B%E5%AA%9B%E7%9C%8C%E5%AE%87%E5%92%8C%E5%B3%B6%E5%B8%82),  宇和島市,  https://ja.wikipedia.org/wiki/%E5%AE%87%E5%92%8C%E5%B3%B6%E5%B8%82, 33.216667, 132.484444
 
 takashima_2, 高島_2,  -,  宇和島市,  https://ja.wikipedia.org/wiki/%E5%AE%87%E5%92%8C%E5%B3%B6%E5%B8%82, 33.11254, 132.42272 
 
@@ -50,7 +50,7 @@ noshima, 能島,  https://ja.wikipedia.org/wiki/%E8%83%BD%E5%B3%B6,  今治市, 
 
 kohiki_jima, 小比岐島,  -,  今治市,  https://ja.wikipedia.org/wiki/%E4%BB%8A%E6%B2%BB%E5%B8%82, 34.060996, 133.1101882 
 
-hiburishima_1, 日振島_1,  https://ja.wikipedia.org/wiki/%E6%97%A5%E6%8C%AF%E5%B3%B6,  宇和島市,  https://ja.wikipedia.org/wiki/%E5%AE%87%E5%92%8C%E5%B3%B6%E5%B8%82, 33.171389, 132.2925 
+hiburishima, 日振島,  https://ja.wikipedia.org/wiki/%E6%97%A5%E6%8C%AF%E5%B3%B6,  宇和島市,  https://ja.wikipedia.org/wiki/%E5%AE%87%E5%92%8C%E5%B3%B6%E5%B8%82, 33.171389, 132.2925 
 
 hiburishima_2, 日振島_2,  -,  宇和島市,  https://ja.wikipedia.org/wiki/%E5%AE%87%E5%92%8C%E5%B3%B6%E5%B8%82, 33.1556259, 132.301409 
 

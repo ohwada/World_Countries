@@ -11,13 +11,13 @@ ogi_jima, 男木島,  https://ja.wikipedia.org/wiki/%E7%94%B7%E6%9C%A8%E5%B3%B6,
 
 odeshima, 小豊島,  https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%B1%8A%E5%B3%B6,  土庄町,  https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%BA%84%E7%94%BA, 34.476667, 134.1175 
 
-kinu_jima, 絹島,  https://ja.wikipedia.org/wiki/%E7%B5%B9%E5%B3%B6%E3%83%BB%E4%B8%B8%E4%BA%80%E5%B3%B6,  東かがわ市,  https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%81%8B%E3%81%8C%E3%82%8F%E5%B8%82, 34.279917, 134.307694 
+kinu_jima, 絹島,  -,  東かがわ市,  https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%81%8B%E3%81%8C%E3%82%8F%E5%B8%82, 34.279917, 134.307694 
 
 shoudoshima, 小豆島,  https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%B1%86%E5%B3%B6,  小豆島町,  https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%B1%86%E5%B3%B6%E7%94%BA, 34.513611, 134.285556 
 
 teshima_2, 豊島_香川,  https://ja.wikipedia.org/wiki/%E8%B1%8A%E5%B3%B6_(%E9%A6%99%E5%B7%9D%E7%9C%8C),  土庄町,  https://ja.wikipedia.org/wiki/%E5%9C%9F%E5%BA%84%E7%94%BA, 34.483333, 134.066667 
 
-hiroshimakagawa, 広島_香川,  https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6_(%E9%A6%99%E5%B7%9D%E7%9C%8C)#%E8%88%B9,  丸亀市,  https://ja.wikipedia.org/wiki/%E4%B8%B8%E4%BA%80%E5%B8%82, 34.373611, 133.709167 
+hiroshimakagawa, 広島_香川,  https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6_(%E9%A6%99%E5%B7%9D%E7%9C%8C),  丸亀市,  https://ja.wikipedia.org/wiki/%E4%B8%B8%E4%BA%80%E5%B8%82, 34.373611, 133.709167 
 
 bentenjima_shoudoshima, 弁天島_小豆島,  https://ja.wikipedia.org/wiki/%E5%BC%81%E5%A4%A9%E5%B3%B6_(%E5%B0%8F%E8%B1%86%E5%B3%B6%E7%94%BA),  小豆島町,  https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%B1%86%E5%B3%B6%E7%94%BA, 34.470278, 134.312306 
 
@@ -70,7 +70,7 @@ tsubone_jima, 局島,  -,  直島町,  https://ja.wikipedia.org/wiki/%E7%9B%B4%E
 
 kyounojyourou-jima, 京ノ上臈島,  -,  直島町,  https://ja.wikipedia.org/wiki/%E7%9B%B4%E5%B3%B6%E7%94%BA, 34.491341, 133.980599 
 
-ushigakubi_jima, 牛ヶ首島,  https://ja.wikipedia.org/wiki/%E7%9B%B4%E5%B3%B6%E8%AB%B8%E5%B3%B6,  直島町,  https://ja.wikipedia.org/wiki/%E7%9B%B4%E5%B3%B6%E7%94%BA, 34.50738, 133.97263 
+ushigakubi_jima, 牛ヶ首島,  -,  直島町,  https://ja.wikipedia.org/wiki/%E7%9B%B4%E5%B3%B6%E7%94%BA, 34.50738, 133.97263 
 
 nagashima, 長島,  -,  丸亀市,  https://ja.wikipedia.org/wiki/%E4%B8%B8%E4%BA%80%E5%B8%82, 34.413723, 133.778908 
 

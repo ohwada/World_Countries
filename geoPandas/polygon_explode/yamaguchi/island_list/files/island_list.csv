@@ -54,7 +54,7 @@ hane_jima, 羽島,  -,  萩市,  https://ja.wikipedia.org/wiki/%E8%90%A9%E5%B8%8
 
 kitsune_jima, 狐島,  -,  萩市,  https://ja.wikipedia.org/wiki/%E8%90%A9%E5%B8%82, 34.439105, 131.415503 
 
-saba_jima, 鯖島,  https://www.city.hagi.lg.jp/hagihaku/hikidashi/shima/html/007.htm,  萩市,  https://ja.wikipedia.org/wiki/%E8%90%A9%E5%B8%82, 34.429375, 131.319502 
+saba_jima, 鯖島,  -,  萩市,  https://ja.wikipedia.org/wiki/%E8%90%A9%E5%B8%82, 34.429375, 131.319502 
 
 koujima, 幸島,  -,  長門市,  https://ja.wikipedia.org/wiki/%E9%95%B7%E9%96%80%E5%B8%82, 34.392604, 131.254682 
 
@@ -97,11 +97,11 @@ kaketsu_jima, 掛津島,  -,  柳井市,  https://ja.wikipedia.org/wiki/%E6%9F%B
 
 mishima, 見島,  https://ja.wikipedia.org/wiki/%E8%A6%8B%E5%B3%B6,  萩市,  https://ja.wikipedia.org/wiki/%E8%90%A9%E5%B8%82, 34.774279, 131.1428708 
 
-oominasejimasejima_1, 大水無瀬島_1,  https://ja.wikipedia.org/wiki/%E9%98%B2%E4%BA%88%E8%AB%B8%E5%B3%B6#%E5%91%A8%E9%98%B2%E5%A4%A7%E5%B3%B6%E8%AB%B8%E5%B3%B6,  周防大島町,  https://ja.wikipedia.org/wiki/%E5%91%A8%E9%98%B2%E5%A4%A7%E5%B3%B6%E7%94%BA, 33.807324, 132.396345 
+oominasejimasejima_1, 大水無瀬島_1,  -,  周防大島町,  https://ja.wikipedia.org/wiki/%E5%91%A8%E9%98%B2%E5%A4%A7%E5%B3%B6%E7%94%BA, 33.807324, 132.396345 
 
 oominasejima_2, 大水無瀬島_2,  -,  光市,  https://ja.wikipedia.org/wiki/%E5%85%89%E5%B8%82, 33.938868, 131.929226 
 
-kominase_jima, 小水無瀬島,  https://ja.wikipedia.org/wiki/%E9%98%B2%E4%BA%88%E8%AB%B8%E5%B3%B6#%E5%91%A8%E9%98%B2%E5%A4%A7%E5%B3%B6%E8%AB%B8%E5%B3%B6,  周防大島町,  https://ja.wikipedia.org/wiki/%E5%91%A8%E9%98%B2%E5%A4%A7%E5%B3%B6%E7%94%BA, 33.780233, 132.390472 
+kominase_jima, 小水無瀬島,  -,  周防大島町,  https://ja.wikipedia.org/wiki/%E5%91%A8%E9%98%B2%E5%A4%A7%E5%B3%B6%E7%94%BA, 33.780233, 132.390472 
 
 yokoshima, 横島,  -,  上関町,  https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%96%A2%E7%94%BA, 33.818078, 132.119999 
 

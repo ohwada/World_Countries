@@ -5,7 +5,7 @@ inu_jima, 犬島,  https://ja.wikipedia.org/wiki/%E7%8A%AC%E5%B3%B6,  岡山市,
 
 oozuchi_jima, 大槌島,  https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%A7%8C%E5%B3%B6,  玉野市,  https://ja.wikipedia.org/wiki/%E7%8E%89%E9%87%8E%E5%B8%82, 34.418907, 133.92266 
 
-kamashima_1, 釜島_1,  https://ja.wikipedia.org/wiki/%E9%87%9C%E5%B3%B6,  倉敷市,  https://ja.wikipedia.org/wiki/%E5%80%89%E6%95%B7%E5%B8%82, 34.4215135, 133.8315528 
+kamashima, 釜島,  https://ja.wikipedia.org/wiki/%E9%87%9C%E5%B3%B6,  倉敷市,  https://ja.wikipedia.org/wiki/%E5%80%89%E6%95%B7%E5%B8%82, 34.4215135, 133.8315528 
 
 kamimizushima, 上水島,  https://ja.wikipedia.org/wiki/%E6%B0%B4%E5%B3%B6%E8%AB%B8%E5%B3%B6#%E6%B0%B4%E5%B3%B6%E7%BE%A4%E5%B3%B6,  倉敷市,  https://ja.wikipedia.org/wiki/%E5%80%89%E6%95%B7%E5%B8%82, 34.4632613, 133.712248 
 
@@ -15,14 +15,12 @@ kijima_okayama, 黄島_岡山,  https://ja.wikipedia.org/wiki/%E9%BB%84%E5%B3%B6
 
 kuroshima_okayama, 黒島 _岡山,  https://ja.wikipedia.org/wiki/%E9%BB%92%E5%B3%B6_(%E5%B2%A1%E5%B1%B1%E7%9C%8C),  瀬戸内市,  https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E5%B8%82, 34.598611, 134.160278 
 
-shiraishi_jima_1, 白石島_1,  https://ja.wikipedia.org/wiki/%E7%99%BD%E7%9F%B3%E5%B3%B6,  笠岡市,  https://ja.wikipedia.org/wiki/%E7%AC%A0%E5%B2%A1%E5%B8%82, 34.3735885, 133.5855455 
-
-shiraishi_jima_2, 白石島_2,  https://ja.wikipedia.org/wiki/%E7%99%BD%E7%9F%B3%E5%B3%B6,  笠岡市,  https://ja.wikipedia.org/wiki/%E7%AC%A0%E5%B2%A1%E5%B8%82, 34.402331, 133.5159471 
+shiraishi_jima_2, 白石島_2,  -,  笠岡市,  https://ja.wikipedia.org/wiki/%E7%AC%A0%E5%B2%A1%E5%B8%82, 34.3735885, 133.5855455 
 
 takashima_okayama, 高島_岡山,  https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B3%B6_(%E5%B2%A1%E5%B1%B1%E5%B8%82%E5%8D%97%E5%8C%BA),  岡山市,  https://ja.wikipedia.org/wiki/%E5%B2%A1%E5%B1%B1%E5%B8%82', 34.603028, 133.989556 
 
 
-nagashima_2, 長島_2,  https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B3%B6_(%E5%B2%A1%E5%B1%B1%E7%9C%8C),  瀬戸内市,  https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E5%B8%82, 34.681685, 134.258895 
+nagashima_2, 長島_2,  -,  瀬戸内市,  https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E5%B8%82, 34.681685, 134.258895 
 maejima_okayama, 前島_岡山,  https://ja.wikipedia.org/wiki/%E5%89%8D%E5%B3%B6_(%E5%B2%A1%E5%B1%B1%E7%9C%8C),  瀬戸内市,  https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E5%B8%82, 34.608611, 134.183333 
 
 maejima_2, 前島_2,  -,  備前市,  https://ja.wikipedia.org/wiki/%E5%82%99%E5%89%8D%E5%B8%82, 34.7224429, 134.213712 
