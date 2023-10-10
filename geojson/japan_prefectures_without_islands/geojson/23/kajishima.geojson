@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pref": "愛知県", "place": "梶島", "municipality": "西尾市" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 137.102519, 34.765886 ], [ 137.097525, 34.76474 ], [ 137.098898, 34.768763 ], [ 137.101563, 34.769213 ], [ 137.103399, 34.767038 ], [ 137.102519, 34.765886 ] ] ] } }
+]
+}
