@@ -60,6 +60,18 @@ def find_place(name):
 #
 
 
+def read_geojson(filepath):
+    place = ''
+    with open(filepath, 'r') as f:
+        dic = json.load(f)
+        features = dic['features']
+        feature0 = features[0]
+        properties = feature0['properties']
+        place = properties['place']
+    return place
+#
+
+
 with open(FILE_ISLAND_LIST_JSON, 'r') as f2:
     dic2 = json.load(f2)
 #
@@ -87,6 +99,10 @@ for item in list_islands:
 
         file_src =  os.path.join(DIR_SRC, filename)
         file_dst =  os.path.join(DIR_DST, filename)
+        place = read_geojson(file_src)
+        if place != name_island:
+            print('unmatch', place)
+            exit()
         shutil.copyfile( file_src ,  file_dst )
 #
 
