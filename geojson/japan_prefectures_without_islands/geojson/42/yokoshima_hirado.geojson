@@ -1,6 +1,0 @@
-{
-"type": "FeatureCollection",
-"features": [
-{ "type": "Feature", "properties": { "pref": "長崎県", "place": "横島_平戸", "municipality": "平戸市" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 129.59624, 33.384501 ], [ 129.600531, 33.381935 ], [ 129.59482, 33.384176 ], [ 129.59624, 33.384501 ] ] ] } }
-]
-}

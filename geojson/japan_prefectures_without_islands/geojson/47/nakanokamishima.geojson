@@ -1,6 +1,0 @@
-{
-"type": "FeatureCollection",
-"features": [
-{ "type": "Feature", "properties": { "pref": "沖縄県", "place": "仲の神島", "municipality": "竹富町" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 123.566649, 24.195198 ], [ 123.562205, 24.193367 ], [ 123.560893, 24.194265 ], [ 123.564387, 24.196391 ], [ 123.566394, 24.196046 ], [ 123.566649, 24.195198 ] ] ] } }
-]
-}

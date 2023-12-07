@@ -1,6 +1,0 @@
-{
-"type": "FeatureCollection",
-"features": [
-{ "type": "Feature", "properties": { "pref": "長崎県", "place": "端島_長崎", "municipality": "長崎市" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 129.738021, 32.626038 ], [ 129.736602, 32.625987 ], [ 129.737992, 32.628642 ], [ 129.738771, 32.629647 ], [ 129.740555, 32.629139 ], [ 129.738021, 32.626038 ] ] ] } }
-]
-}

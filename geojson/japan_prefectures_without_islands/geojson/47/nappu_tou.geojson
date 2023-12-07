@@ -1,6 +1,0 @@
-{
-"type": "FeatureCollection",
-"features": [
-{ "type": "Feature", "properties": { "pref": "沖縄県", "place": "ナップ島", "municipality": "恩納村" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 127.839044, 26.49317 ], [ 127.837956, 26.492243 ], [ 127.834652, 26.492613 ], [ 127.838854, 26.495045 ], [ 127.839319, 26.494522 ], [ 127.839044, 26.49317 ] ] ] } }
-]
-}

@@ -1,6 +1,0 @@
-{
-"type": "FeatureCollection",
-"features": [
-{ "type": "Feature", "properties": { "pref": "沖縄県", "place": "安田ヶ島", "municipality": "国頭村" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 128.335197, 26.745435 ], [ 128.33457, 26.744869 ], [ 128.330307, 26.74765 ], [ 128.331404, 26.747955 ], [ 128.334944, 26.747525 ], [ 128.335197, 26.745435 ] ] ] } }
-]
-}
